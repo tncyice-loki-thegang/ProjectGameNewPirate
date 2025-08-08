@@ -1,0 +1,20 @@
+<root>
+  <honor_shop id="15" itemTempId="1291043" getNum="1" consumeHonour="4500" needPrestige="0" neeLevel="160" limitTime="100" canBatch="1"/>
+  <honor_shop id="2" itemTempId="1200247" getNum="1" consumeHonour="35000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="3" itemTempId="1200246" getNum="1" consumeHonour="25000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="4" itemTempId="1200245" getNum="1" consumeHonour="20000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="5" itemTempId="71005" getNum="1" consumeHonour="350" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="6" itemTempId="71013" getNum="1" consumeHonour="750" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="7" itemTempId="129322" getNum="1" consumeHonour="2000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/> 
+  <honor_shop id="8" itemTempId="129323" getNum="1" consumeHonour="2500" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="9" itemTempId="129324" getNum="1" consumeHonour="3000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="18" itemTempId="1200254" getNum="1" consumeHonour="850" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="16" itemTempId="1291040" getNum="1" consumeHonour="3000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="12" itemTempId="79003" getNum="1" consumeHonour="1000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="17" itemTempId="1200255" getNum="1" consumeHonour="700" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="13" itemTempId="1400179" getNum="1" consumeHonour="1500" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="1" itemTempId="1400267" getNum="1" consumeHonour="30000" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="14" itemTempId="50041" getNum="1" consumeHonour="600" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="11" itemTempId="1200267" getNum="1" consumeHonour="3300" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+  <honor_shop id="10" itemTempId="1200248" getNum="1" consumeHonour="5500" needPrestige="0" neeLevel="1" limitTime="0" canBatch="1"/>
+</root>

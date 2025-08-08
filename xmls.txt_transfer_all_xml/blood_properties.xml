@@ -1,0 +1,14 @@
+<root>
+  <blood_properties id="1001" type="25|27|29" num="100" needStars="3" weight="1000" viewTpye="0"/>
+  <blood_properties id="2001" type="26|28|30" num="100" needStars="3" weight="1000" viewTpye="1"/>
+  <blood_properties id="3001" type="2" num="100" needStars="3" weight="1000" viewTpye="2"/>
+  <blood_properties id="4001" type="59" num="5" needStars="3" weight="1000" viewTpye="3"/>
+  <blood_properties id="1002" type="25|27|29" num="200" needStars="30" weight="2000" viewTpye="0"/>
+  <blood_properties id="2002" type="26|28|30" num="200" needStars="30" weight="2000" viewTpye="1"/>
+  <blood_properties id="3002" type="2" num="200" needStars="30" weight="2000" viewTpye="2"/>
+  <blood_properties id="4002" type="59" num="10" needStars="30" weight="2000" viewTpye="3"/>
+  <blood_properties id="1003" type="25|27|29" num="500" needStars="100" weight="5000" viewTpye="0"/>
+  <blood_properties id="2003" type="26|28|30" num="500" needStars="100" weight="5000" viewTpye="1"/>
+  <blood_properties id="3003" type="2" num="500" needStars="100" weight="5000" viewTpye="2"/>
+  <blood_properties id="4003" type="59" num="15" needStars="100" weight="5000" viewTpye="3"/>
+</root>

@@ -1,0 +1,3 @@
+<pets>
+  <pet tid="1" name="Oa Oa" description="Ngoài khóc oa oa ra thì không biết nói gì cả" action_tempID="" icon="1.jpg" halfBody="" body="" base_sellValue="1000" reset_needID="110001" reset_needLv="50" quality="2" base_comprehend="1" grow_comprehend="1" maxSkillLv="4" natural_skills="1" initSkills="1,2" initSkillLv="1,2" canLearnSkills="1,2,3,4" maxSkillSlot="4" initSkillSlot="2"/>
+</pets>

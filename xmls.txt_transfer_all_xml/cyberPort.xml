@@ -1,0 +1,3 @@
+<root>
+  <port portId="18" portName="Báu Vật Thần Bí" iconId="103" level="110" townId="5" type="2" resGroup="1,2,3,4,5,6,7,8,9,10" attr="" num="" childPort="" outOdds="10000" incomeMinLevel="50" incomeMaxLevel="50"/>
+</root>

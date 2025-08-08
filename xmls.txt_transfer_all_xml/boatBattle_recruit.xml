@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <boatBattle_recruit htid="30241" needScore="25000" camp="0" dialog="Thủy Đội trưởng thành là phải có nghị lực ngoan cường và tinh thần hi sinh vì chính nghĩa."/>
+  <boatBattle_recruit htid="30242" needScore="52000" camp="0" dialog="Đừng ảo tưởng dùng xương mua chuộc ta!"/>
+  <boatBattle_recruit htid="30243" needScore="84000" camp="0" dialog="Thủy Đội chạy lên tàu chiến chưa? Toàn bộ đại pháo ngắm chuẩn, tuyệt đối không được bỏ qua 1 tên hải tặc!"/>
+  <boatBattle_recruit htid="30244" needScore="115000" camp="0" dialog="Hina tiếc nuối. Các ngươi sắp bị nhốt trong Impel Down! "/>
+  <boatBattle_recruit htid="30245" needScore="155000" camp="0" dialog="Impel Down có phạm nhân vượt ngục là do lỗi của Tổng tư lệnh!"/>
+  <boatBattle_recruit htid="30246" needScore="190000" camp="0" dialog="Ta là người đàn ông kín miệng nhất, các ngươi không thể biết được việc Trụ sở Thủy Đội ở Marineford từ ta đâu!"/>
+  <boatBattle_recruit htid="30247" needScore="255000" camp="0" dialog="Bọn hải tặc dám khiêu chiến trước mặt Đại tướng Thủy Đội sao? Đợi ta ngủ một giấc rồi lại xử lý các ngươi."/>
+</root>

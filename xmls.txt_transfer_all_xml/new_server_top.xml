@@ -1,0 +1,27 @@
+<root>
+  <new_server_top name="1" rewards="1400227|1,1400226|1,120017|500,1400225|15" type="nst1"/>
+  <new_server_top name="2" rewards="1400227|1,120017|400,1400225|12" type="nst1"/>
+  <new_server_top name="3" rewards="1400226|1,120017|300,1400225|9" type="nst1"/>
+  <new_server_top name="4-5" rewards="120017|200,1400225|6" type="nst1"/>
+  <new_server_top name="6-10" rewards="120017|100,1400225|3" type="nst1"/>
+  <new_server_top name="1" rewards="1400227|1,1400226|1,120017|500,1400225|25,5000013|1" type="nst2"/>
+  <new_server_top name="2" rewards="1400227|1,120017|400,1400225|20,5000012|1" type="nst2"/>
+  <new_server_top name="3" rewards="1400226|1,120017|300,1400225|15,5000011|1" type="nst2"/>
+  <new_server_top name="4-5" rewards="120017|200,1400225|10,5000010|1" type="nst2"/>
+  <new_server_top name="6-10" rewards="120017|100,1400225|5,5000014|1" type="nst2"/>
+  <new_server_top name="1" rewards="120017|500,1400225|15" type="nst3"/>
+  <new_server_top name="2" rewards="120017|400,1400225|12" type="nst3"/>
+  <new_server_top name="3" rewards="120017|300,1400225|9" type="nst3"/>
+  <new_server_top name="4-5" rewards="120017|200,1400225|6" type="nst3"/>
+  <new_server_top name="6-10" rewards="120017|100,1400225|3" type="nst3"/>
+  <new_server_top name="1" rewards="120017|500,1400225|15" type="nst4"/>
+  <new_server_top name="2" rewards="120017|400,1400225|12" type="nst4"/>
+  <new_server_top name="3" rewards="120017|300,1400225|9" type="nst4"/>
+  <new_server_top name="4-5" rewards="120017|200,1400225|6" type="nst4"/>
+  <new_server_top name="6-10" rewards="120017|100,1400225|3" type="nst4"/>
+  <new_server_top name="1" rewards="1400227|1,1400226|1,120017|500,1400225|15" type="nst5"/>
+  <new_server_top name="2" rewards="1400227|1,120017|400,1400225|12" type="nst5"/>
+  <new_server_top name="3" rewards="1400226|1,120017|300,1400225|9" type="nst5"/>
+  <new_server_top name="4-5" rewards="120017|200,1400225|6" type="nst5"/>
+  <new_server_top name="6-10" rewards="120017|100,1400225|3" type="nst5"/>
+</root>

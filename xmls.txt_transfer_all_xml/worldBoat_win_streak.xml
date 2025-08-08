@@ -1,0 +1,8 @@
+<root>
+  <win_streak id="1" killNum="10" winStreak="{0} liên tiếp đánh lui 10 người! Vừa chiến đấu vừa trân trọng!" winStreakEnd="{0} kết thúc {1}, đều đã nói đến đây rồi, bạn biết đấy!" color="#F77105,#07F90D"/>
+  <win_streak id="2" killNum="15" winStreak="{0} liên tiếp đánh lui 15 người! Bạn không có ý định khác mọi người, tiếc rằng chiến lực của bạn quá xuất chúng! " winStreakEnd="{0} đã kết thúc {2} thắng liên tiếp của {1}, người xuất chúng là ta, ta là {0} ta đại diện cho ta!" color="#F77105,#07F90D"/>
+  <win_streak id="3" killNum="20" winStreak="{0} liên tiếp đánh lui 20 người! Không có ai có thể chặn được hắn sao? Ơ……phải đánh đổ hắn mới đúng chứ." winStreakEnd="{0} đã kết thúc {2} thắng liên tiếp của {1}, người có thể đánh đổ hắn đã xuất hiện!" color="#F77105,#07F90D"/>
+  <win_streak id="4" killNum="25" winStreak="{0} liên tiếp đánh lui 25 người! Tin ta, ngươi đánh đổ không phải là người mà là cô đơn!" winStreakEnd="{0} kết thúc {1}, cảm thán kẻ mạnh đều cô đơn~" color="#F77105,#07F90D"/>
+  <win_streak id="5" killNum="30" winStreak="{0} liên tiếp đánh lui 30 người, ngươi gây họa rồi, không tin? Đi xem đám bị ngưoi đánh đổ!" winStreakEnd="{0} vô cùng xuất sắc, tặng {1} 1 đòn chí mạng! Mọi người vô cùng kinh ngạc!" color="#F77105,#07F90D"/>
+  <win_streak id="6" killNum="50" winStreak="Tiêu diệt 50 người! {0} thực sự trở thành 1 huyền thoại! Người mạnh không cần nói nhiều." winStreakEnd="Bạn không nhìn nhầm!! {0} đã kết thúc {2} thắng liên tiếp của {1}!!!!!" color="#F77105,#07F90D"/>
+</root>

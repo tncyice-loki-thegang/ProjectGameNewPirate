@@ -1,0 +1,46 @@
+<worldResBattleTimeConfig>
+	<firstSignupStartTime>
+		<year>2012</year>
+		<month>4</month>
+		<day>1</day>
+		<hour>20</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</firstSignupStartTime>
+	<circle>172800</circle><!--2天 周期-->
+	<signupCD>172800</signupCD><!-- 报名CD 2天 -->
+	<canSignupTime>86400</canSignupTime><!-- 可报名的时间范围 1天 -->
+	<signupOverRestTime>82800</signupOverRestTime><!-- 报名结束到开始进入战场的时间 23小时-->
+	
+	<fight1StartTime>169200</fight1StartTime><!-- 第一场战斗开始进入的时刻 举例 169200（47小时）后可以进入 -->
+	<fight2StartTime>170400</fight2StartTime><!-- 第二场战斗开始进入的时间 举例 171000（47.5小时）后可以进入 -->
+	<battleTime>600</battleTime><!-- 战斗的时间 20分钟 -->
+
+	<fightOverRestTime>600</fightOverRestTime><!-- 战斗结束后休息的时间 -->
+	<challengeTimeSpan>240</challengeTimeSpan><!-- 单挑的时间间隔4分钟一次 -->
+	<challengeTimes>4</challengeTimes><!-- 单挑的次数 -->
+</worldResBattleTimeConfig>
+<!-- <worldResBattleTimeConfig>
+	<firstSignupStartTime>
+		<year>2011</year>
+		<month>1</month>
+		<day>2</day>
+		<hour>20</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</firstSignupStartTime>
+	<circle>4800</circle>
+	<signupCD>4800</signupCD>
+	<signupOverRestTime>600</signupOverRestTime>
+	<battleTime>600</battleTime>
+	<fight1StartTime>1200</fight1StartTime>
+	<fight2StartTime>2400</fight2StartTime>
+	<canSignupTime>600</canSignupTime>
+	
+	<fightOverRestTime>600</fightOverRestTime>
+	<challengeTimeSpan>240</challengeTimeSpan>
+	<challengeTimes>4</challengeTimes>
+	
+
+</worldResBattleTimeConfig>杩欐槸娴嬭瘯閰嶇疆
+-->

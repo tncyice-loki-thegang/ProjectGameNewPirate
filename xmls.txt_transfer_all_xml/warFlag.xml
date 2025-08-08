@@ -1,0 +1,20 @@
+<root>
+  <warFlags>
+    <warFlag>
+      <id>1</id>
+      <des>Tăng hai lần thắng liên tiếp</des>
+    </warFlag>
+    <warFlag>
+      <id>2</id>
+      <des>Tăng tấn công 10%</des>
+    </warFlag>
+    <warFlag>
+      <id>3</id>
+      <des>Tăng phòng thủ 10%</des>
+    </warFlag>
+    <warFlag>
+      <id>4</id>
+      <des>Tăng tấn công 5%,tăng phòng thủ 5%</des>
+    </warFlag>
+  </warFlags>
+</root>

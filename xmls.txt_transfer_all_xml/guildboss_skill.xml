@@ -1,0 +1,13 @@
+<root>
+  <guildboss_skill id="20001" tname="物理攻击数值" name="Vật công" desc="Mỗi cấp tăng VC 35" iconid="1" openlevel="85" addatrid="6" addition="35" costid="10101" isRate="0"/>
+  <guildboss_skill id="20002" tname="物理防御数值" name="Vật phòng" desc="Mỗi cấp tăng VP 35" iconid="2" openlevel="90" addatrid="9" addition="35" costid="10102" isRate="0"/>
+  <guildboss_skill id="20003" tname="必杀攻击数值" name="Tuyệt chiêu" desc="Mỗi cấp tăng TC 35" iconid="3" openlevel="95" addatrid="7" addition="35" costid="10103" isRate="0"/>
+  <guildboss_skill id="20004" tname="必杀防御数值" name="TC phòng" desc="Mỗi cấp tăng TCP 35" iconid="4" openlevel="100" addatrid="10" addition="35" costid="10104" isRate="0"/>
+  <guildboss_skill id="20005" tname="魔法攻击数值" name="Ma công" desc="Mỗi cấp tăng MC 35" iconid="5" openlevel="105" addatrid="8" addition="35" costid="10105" isRate="0"/>
+  <guildboss_skill id="20006" tname="魔法防御数值" name="Ma phòng" desc="Mỗi cấp tăng MP 35" iconid="6" openlevel="110" addatrid="11" addition="35" costid="10106" isRate="0"/>
+  <guildboss_skill id="20007" tname="生命数值" name="S.mệnh cơ sở" desc="Mỗi cấp tăng S.mệnh 200" iconid="7" openlevel="80" addatrid="1" addition="200" costid="10107" isRate="0"/>
+  <guildboss_skill id="20008" tname="防御百分比" name="Phần trăm VP" desc="Mỗi cấp tăng 0.2% VP" iconid="8" openlevel="115" addatrid="26" addition="20" costid="10108" isRate="1"/>
+  <guildboss_skill id="20009" tname="怒气攻击免伤百分比" name="Phần trăm MP" desc="Mỗi cấp tăng 0.2% MP" iconid="9" openlevel="120" addatrid="30" addition="20" costid="10109" isRate="1"/>
+  <guildboss_skill id="20010" tname="普通攻击免伤百分比" name="Phần trăm TCP" desc="Mỗi cấp tăng 0.2% TCP" iconid="10" openlevel="120" addatrid="28" addition="20" costid="10110" isRate="1"/>
+  <guildboss_skill id="20011" tname="普通攻击免伤百分比" name="Phần trăm SM" desc="Mỗi cấp tăng 1% SM" iconid="11" openlevel="130" addatrid="2" addition="100" costid="10111" isRate="1"/>
+</root>

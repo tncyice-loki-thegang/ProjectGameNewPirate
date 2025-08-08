@@ -1,0 +1,90 @@
+<root>
+	<guide id="1" url="1.jpg" type="伙伴面板" width="522" height="352" />
+	<guide id="2" url="2.jpg" type="强化面板" width="522" height="352" />
+	<guide id="4" url="4.jpg" type="阵形面板" width="522" height="352" />
+	<guide id="7" url="7.jpg" type="港口面板" width="522" height="352" />
+	<guide id="6" url="6.jpg" type="主船" width="522" height="352" />
+	<guide id="8" url="8.jpg" type="好友功能" width="522" height="352" />
+	<guide id="19" url="19.jpg" type="竞技场功能" width="522" height="352" />
+	<guide id="14" url="14.jpg" type="历练" width="522" height="352" />
+	<guide id="15" url="15.jpg" type="连续攻击" width="522" height="352" />
+	<guide id="12" url="12.jpg" type="研究院" width="522" height="352" />
+	<guide id="9" url="9.jpg" type="训练室" width="522" height="352" />
+	<guide id="20" url="20.jpg" type="组队" width="522" height="352" />
+	<guide id="22" url="22.jpg" type="公会" width="522" height="352" />
+	<guide id="10" url="10.jpg" type="医疗室" width="522" height="352" />
+	<guide id="13" url="13.jpg" type="会谈" width="522" height="352" />
+	<guide id="21" url="21.jpg" type="活动" width="522" height="352" />
+	<guide id="24" url="24.jpg" type="宝石探索" width="522" height="352" />
+	<guide id="25" url="25.jpg" type="宝石融合" width="522" height="352" />
+	<guide id="26" url="26.jpg" type="装备制作" width="522" height="352" />
+	<guide id="27" url="27.jpg" type="寻宝系统" width="522" height="352" />
+	<guide id="28" url="28.jpg" type="每日任务" width="522" height="352" />
+	<guide id="29" url="29.jpg" type="攻打玩家" width="522" height="352" />
+	<guide id="31" url="31.jpg" type="订单开启" width="522" height="352" />
+
+	<guide id="23" url="23.jpg" type="资源开启" width="522" height="352" />
+	<guide id="38" url="38.jpg" type="阵形升级" width="522" height="352" />
+	<guide id="39" url="39.jpg" type="第一次通关" width="522" height="352" />
+	<guide id="11" url="11.jpg" type="战斗损血" width="522" height="352" />
+	<guide id="16" url="16.jpg" type="宠物" width="522" height="352" />
+
+	<guide id="36" url="36.jpg" type="厨房开启" width="522" height="352" />
+
+	<guide id="41" url="41.jpg" type="allblue开启" width="522" height="352" />
+	<guide id="40" url="40.jpg" type="星盘开启" width="522" height="352" />
+	<guide id="43" url="43.jpg" type="allblue开启养鱼" width="522" height="352" />
+	
+	<guide id="48" url="48.jpg" type="熔炼地狱" width="522" height="352" />
+	<guide id="49" url="49.jpg" type="宝石迷阵" width="522" height="352" />
+
+	<guide id="101" url="101.jpg" type="第一次进入副本" width="522" height="352" />
+	
+	
+	<guide id="45" url="baowu.jpg" type="宝物" width="522" height="352" />
+	<guide id="44" url="tuijincheng.jpg" type="深海监狱" width="522" height="352" />
+	<guide id="46" url="baowuqianghua.jpg" type="宝物强化" width="522" height="352" />
+	<guide id="47" url="shenyuanfuben.jpg" type="深渊副本" width="522" height="352" />
+	<guide id="50" url="dingshangxuezhan2.jpg" type="血战" width="522" height="352" />
+	
+	<guide id="51" url="zhenxingshengjie.jpg" type="阵形升阶" width="522" height="352" />
+	<guide id="52" url="jinjidehaijun.jpg" type="进击的海军" width="522" height="352" />
+	<guide id="53" url="shenmihaiyu2.jpg" type="神秘岛" width="522" height="352" />
+	<guide id="54" url="baqi.jpg" type="霸气系统" width="522" height="352" />
+	<guide id="55" url="shenmifuchong55.jpg" type="副宠系统" width="522" height="352" />
+	<guide id="56" url="haihun.jpg" type="海魂系统" width="522" height="352" />
+	<guide id="60" url="baqitupo.jpg" type="霸气突破" width="522" height="352" />
+	<guide id="61" url="yuansuxitong.jpg" type="元素系统" width="522" height="352" />
+	<guide id="62" url="jiujitiaozhan.jpg" type="究极挑战" width="522" height="352" />
+	<guide id="63" url="jinglingxitong.jpg" type="精灵系统" width="522" height="352" />
+
+	
+
+	<newhero id="1" heroID="10022" goto="12" text="" heroName="肯特"
+		step="1" />
+	<newhero id="2" heroID="10023" goto="107" text="" heroName="莱娜" />
+	<newhero id="3" heroID="10021" goto="107" text="" heroName="约基" />
+
+	<girl id="1" text="先选中想要强化的装备，再点击 强化 按钮进行强化！" type="1" next="0"
+		step="7" />
+	<girl id="2" text="港口是大家停靠主船的地方，在港口界面可以修改你的留言" type="2" next="3" />
+	<girl id="3" text="并且通过点击其他玩家的主船查看他们的留言" type="1" next="0" step="17" />
+
+	<girl id="4" text="在资源界面能够占领资源，占领时间结束后将会获得贝里。" type="1" next="0"
+		step="28" />
+
+	<girl id="5" text="请选择阵营，选择阵营后将可以加入公会同其他玩家一起冒险~" type="1" next="0" />
+
+	<girl id="6" text="恭喜您，藏金室可以开启了，在主船界面可以进行藏金室的查看。" type="2" next="7" />
+	<girl id="7" text="藏金室能够提高出航时获得金币的概率。" type="1" next="0" />
+	<girl id="8" text="舱室升级会有冷却时间" type="1" next="0" step="32" />
+
+	<girl id="10" text="宠物升级之后获得技能点数，消耗技能点数可以领悟宠物技能" type="1" next="0"
+		step="24" />
+	<girl id="11" text="在珍兽岛中可以训练宠物，选中宠物，点击训练就可以训练宠物啦！" type="1" next="0"
+		step="24" />
+	<girl id="12" text="宠物可以进行装备，装备后的宠物会显示在城镇中" type="1" next="0"
+		step="24" />
+
+	<petegg id="1" eggID="110001" text="汪汪..." eggName="咻咻" />
+</root>

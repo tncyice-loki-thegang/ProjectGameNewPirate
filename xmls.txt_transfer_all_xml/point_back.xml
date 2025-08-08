@@ -1,0 +1,5 @@
+<root>
+  <point_back id="1" activity="Colosseum" high_cost="1|500" high_reduction="100" middle_cost="1|50" middle_reduction="75" low_cost="2|200000" low_reduction="50" help="1.Người chơi ko tham gia HĐ lần trước có thể tiêu vàng hoặc Beri truy hồi PT nhất định.\n2.Người chơi đã truy hồi PT ko thể truy hồi tiếp.\n3.Tham gia HĐ hoặc truy hồi PT sẽ làm mới lịch sử nhận tích điểm.\n4.Ko thể truy hồi PT của HĐ tương trong thời gian mở đến khi phát thưởng."/>
+  <point_back id="2" activity="Tranh bá trên biển" high_cost="1|500" high_reduction="100" middle_cost="1|50" middle_reduction="75" low_cost="2|200000" low_reduction="50" help="2"/>
+  <point_back id="3" activity="C.trường H.tặc" high_cost="1|500" high_reduction="100" middle_cost="1|50" middle_reduction="75" low_cost="2|200000" low_reduction="50" help="3"/>
+</root>

@@ -1,0 +1,16 @@
+<root>
+  <top_limit id="1" name="Lần nấu ăn" topLimit="30"/>
+  <top_limit id="2" name="Lần PB Tinh anh" topLimit="25"/>
+  <top_limit id="3" name="Lần hội đàm" topLimit="20"/>
+  <top_limit id="4" name="Lần tầm bảo" topLimit="15"/>
+  <top_limit id="5" name="Lần chế tạo" topLimit="50"/>
+  <top_limit id="6" name="Lần Beri mua T.Bàn" topLimit="5"/>
+  <top_limit id="7" name="Lần thu thập ALLBule hàng ngày" topLimit="15"/>
+  <top_limit id="8" name="Lần tụ hồn Beri" topLimit="40"/>
+  <top_limit id="9" name="Lần tổ đội thường" topLimit="30"/>
+  <top_limit id="10" name="Lần nuôi trồng ALLBule" topLimit="14"/>
+  <top_limit id="11" name="Số lần đặt" topLimit="60"/>
+  <top_limit id="12" name="Số lần ném xúc xắc trong Hải vực Thần bí" topLimit="5"/>
+  <top_limit id="13" name="Số lần Beri thử luyện Haki" topLimit="120"/>
+  <top_limit id="14" name="Lần miễn phí quay số may mắn" topLimit="2"/>
+</root>

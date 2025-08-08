@@ -1,0 +1,3 @@
+<root>
+  <crystal digTime="5|5|5|5|5|5|5|5|5|5|5|5|5" crystalKind="9" successPower="40000" goldLosePower="20000" experienceLosePower="10000" maxRank="5" goldRank="10|10000,20|9000,40|6000,60|4000" experienceRank="2500|9000,5000|7000,10000|4500,20000|2500" accumulateDays="3" fastGold="300" vipLevel="8"/>
+</root>

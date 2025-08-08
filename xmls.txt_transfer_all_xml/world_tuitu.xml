@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<root>
+  <tuitu id="1" showTime="20220101080000" time="20990101080000" renovate="100|100,9999|0" renovate_god="1,2,3,4,5,6,7,8,9,10" lost="20|20,20|20" lost_gold="2,4,6,8,10,12,14,16,18,20" fastId="1301" bigId="1,2,3,4" serverId="" needLv="99" renovate_cd="5" gold_cd="10" add="20|20|20" addBuy=""/>
+</root>

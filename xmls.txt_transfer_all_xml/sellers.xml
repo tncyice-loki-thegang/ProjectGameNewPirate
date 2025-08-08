@@ -1,0 +1,11 @@
+<root>
+  <sellers id="1" name="燃烧战船" freshTime="7200" goods=""/>
+  <sellers id="2" name="风车村" freshTime="7200" goods="1006,1005,1007,1008,1009,1010,1011,2019,2020,2021,2022,2023,2024,2025,2026,2027,1012"/>
+  <sellers id="3" name="西罗布村" freshTime="7200" goods="1013,134,155,176,197,218,239,2028,2029,2030,2031"/>
+  <sellers id="4" name="罗格镇" freshTime="7200" goods="2000,2001,2002,2003,2004,2005,2006,2007,2008,2009"/>
+  <sellers id="5" name="磁鼓岛" freshTime="7200" goods="2047,2048,2049,2050"/>
+  <sellers id="6" name="雨地" freshTime="7200" goods="113"/>
+  <sellers id="7" name="空岛" freshTime="7200" goods="113"/>
+  <sellers id="8" name="司法岛" freshTime="7200" goods="114,135,156"/>
+  <sellers id="9" name="备选商店1" freshTime="7200" goods="2042,2051,2052,2053,2054,2055,2056,2057"/>
+</root>

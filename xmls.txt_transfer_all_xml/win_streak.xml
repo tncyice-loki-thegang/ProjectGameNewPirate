@@ -1,0 +1,8 @@
+<root>
+  <win_streak id="1" killNum="10" winStreak="{0} đánh bại 10 người! Bạn đang bị ông già bị ngã đuổi sao!" winStreakEnd="{0} kết thúc {2} thắng l.tiếp của {1}, chuyện này không trách bạn!" color="#F77105,#07F90D"/>
+  <win_streak id="2" killNum="15" winStreak="{0} đánh bại 15 người! Bạn bị đánh bại không phải do ngây thơ mà là do khờ khạo!" winStreakEnd="{0} kết thúc {2} thắng l.tiếp của {1}, {1}, thâm tím hết rồi, ngươi còn trả vờ cái gì chứ!" color="#F77105,#07F90D"/>
+  <win_streak id="3" killNum="20" winStreak="{0} đánh bại 20 người! Không có ai làm hắn cảm động sao?" winStreakEnd="{0} kết thúc {2} thắng l.tiếp của {1}, IQ của {2} không đủ đâu?" color="#F77105,#07F90D"/>
+  <win_streak id="4" killNum="25" winStreak="{0} đánh bại 25 người! Ta tự hào!" winStreakEnd="{0} thật xuất sắc, đã tặng {1} 1 đòn chí mạng! Ngươi còn tự kiêu được nữa không?" color="#F77105,#07F90D"/>
+  <win_streak id="5" killNum="30" winStreak="{0} đánh 30 người, ngươi gây chuyện rồi!" winStreakEnd="{0} kết thúc {2} thắng l.tiếp của {1}, bạn gây chuyện rồi!" color="#F77105,#07F90D"/>
+  <win_streak id="6" killNum="50" winStreak="Giết 50 người! {0} đã trở thành 1 huyền thoại!" winStreakEnd="Bạn không nhầm đâu!! {0} kết thúc {2} thắng l.tiếp của {1}!!!!!" color="#F77105,#07F90D"/>
+</root>

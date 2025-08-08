@@ -1,0 +1,8 @@
+<root>
+  <collection_rewards Id="1" Need_item="129213|1,129214|1,129215|1,129216|1" Reward_item="50065"/>
+  <collection_rewards Id="2" Need_item="129209|1,129210|1,129211|1,129212|1" Reward_item="50066"/>
+  <collection_rewards Id="3" Need_item="129201|1,129202|1,129203|1,129204|1" Reward_item="50067"/>
+  <collection_rewards Id="4" Need_item="129201|1,129202|1,129205|1,129206|1" Reward_item="50068"/>
+  <collection_rewards Id="5" Need_item="129201|1,129202|1,129207|1,129208|1" Reward_item="50069"/>
+  <collection_rewards Id="6" Need_item="129205|1,129206|1,129207|1,129208|1" Reward_item="50070"/>
+</root>

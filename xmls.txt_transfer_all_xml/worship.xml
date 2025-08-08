@@ -1,0 +1,8 @@
+<root>
+  <worship id="1" costBellyBase="2000000" costGold="0" addBellyBase="0" addExperience="4000" addPrestige="0" addExecution="0" addGoods="60024|10,73032|1" defaultComment="Cảm ơn các bạn đã ủng hộ" worshipType="1" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Thịt Mizu Mizu"/>
+  <worship id="2" costBellyBase="0" costGold="1000" addBellyBase="10000" addExperience="5000" addPrestige="0" addExecution="0" addGoods="60024|20,73032|4" defaultComment="" worshipType="1" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Bạch tuộc nướng"/>
+  <worship id="3" costBellyBase="0" costGold="5000" addBellyBase="20000" addExperience="10000" addPrestige="0" addExecution="0" addGoods="60024|50,73032|20" defaultComment="" worshipType="1" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Món ngon Thiên Đường"/>
+  <worship id="4" costBellyBase="500000" costGold="0" addBellyBase="0" addExperience="100" addPrestige="200" addExecution="0" addGoods="120017|5" defaultComment="Cảm ơn các bạn đã ủng hộ" worshipType="2" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Thịt Mizu Mizu"/>
+  <worship id="5" costBellyBase="0" costGold="100" addBellyBase="1000" addExperience="500" addPrestige="500" addExecution="0" addGoods="120017|20" defaultComment="" worshipType="2" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Bạch tuộc nướng"/>
+  <worship id="6" costBellyBase="0" costGold="500" addBellyBase="2000" addExperience="1000" addPrestige="1000" addExecution="0" addGoods="120017|100,1100305|2" defaultComment="" worshipType="2" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Món ngon Thiên Đường"/>
+</root>

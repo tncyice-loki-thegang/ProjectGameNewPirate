@@ -1,0 +1,125 @@
+<root>
+  <npc id="8" npcTemplate="Tàu chiến bị cháy_NV_Thuyền trưởng" npcName="Thuyền trưởng Jack" headid="64" typeid="18" talkid="34" mapid="1" tx="17" ty="14" abilityid=""/>
+  <npc id="9" npcTemplate="Tàu chiến bị cháy_Quán rượu_Phụ tá" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="35" mapid="1" tx="25" ty="14" abilityid=""/>
+  <npc id="10" npcTemplate="Tàu chiến bị cháy_Ace" npcName="Ace" headid="35" typeid="49" talkid="2272" mapid="1" tx="40" ty="14" abilityid=""/>
+  <npc id="11" npcTemplate="Tàu chiến bị cháy_Râu trắng" npcName="Râu trắng" headid="65" typeid="50" talkid="2273" mapid="1" tx="33" ty="14" abilityid=""/>
+  <npc id="12" npcTemplate="Tàu chiến bị cháy_Quán rượu_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="580" mapid="1" tx="46" ty="14" abilityid="1"/>
+  <npc id="13" npcTemplate="Tàu chiến bị cháy_Ace" npcName="Ace" headid="35" typeid="49" talkid="2272" mapid="1" tx="40" ty="14" abilityid=""/>
+  <npc id="14" npcTemplate="Tàu chiến bị cháy_Râu trắng" npcName="Râu trắng" headid="65" typeid="50" talkid="2273" mapid="1" tx="33" ty="14" abilityid=""/>
+  <npc id="9001" npcTemplate="Club Công Hội_Công Hội_Hội trưởng" npcName="" headid="9001" typeid="" talkid="68" mapid="20" tx="23" ty="13" abilityid="4"/>
+  <npc id="9002" npcTemplate="Club Công Hội_Shop_Thuyền trưởng" npcName="Thuyền trưởng" headid="66" typeid="20" talkid="435" mapid="20" tx="6" ty="14" abilityid=""/>
+  <npc id="9003" npcTemplate="Club Công Hội_NV_Thủy thủ bị thương" npcName="Thủy thủ bị thương" headid="74" typeid="19" talkid="436" mapid="20" tx="33" ty="13" abilityid=""/>
+  <npc id="9004" npcTemplate="Club Công Hội_Quán rượu_Phụ tá" npcName="Angielina Lika" headid="51" typeid="12" talkid="1559" mapid="20" tx="14" ty="13" abilityid=""/>
+  <npc id="9101" npcTemplate="Thị trấn Carnival_Sengoku" npcName="Sengoku" headid="148" typeid="56" talkid="2695" mapid="19" tx="50" ty="14" abilityid=""/>
+  <npc id="9102" npcTemplate="Thị trấn Carnival_Bánh gato" npcName="Bánh gato" headid="175" typeid="55" talkid="3285" mapid="19" tx="64" ty="14" abilityid=""/>
+  <npc id="9103" npcTemplate="Thị trấn Carnival_Râu trắng" npcName="Râu trắng" headid="65" typeid="50" talkid="3286" mapid="19" tx="43" ty="14" abilityid=""/>
+  <npc id="9104" npcTemplate="Thị trấn Carnival_Bánh gato 2" npcName="Bánh gato" headid="175" typeid="55" talkid="3285" mapid="19" tx="35" ty="14" abilityid=""/>
+  <npc id="9105" npcTemplate="Thị trấn Carnival_Aokiji" npcName="Aokiji" headid="18" typeid="54" talkid="3288" mapid="19" tx="57" ty="14" abilityid=""/>
+  <npc id="9106" npcTemplate="Thị trấn Carnival_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="3287" mapid="19" tx="28" ty="14" abilityid=""/>
+  <npc id="9107" npcTemplate="Thị trấn Carnival_Phụ tá" npcName="Angielina Lika" headid="51" typeid="12" talkid="3289" mapid="19" tx="22" ty="14" abilityid=""/>
+  <npc id="102" npcTemplate="Làng Cối Xay Gió_NV_Phụ tá" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="1559" mapid="2" tx="18" ty="14" abilityid=""/>
+  <npc id="103" npcTemplate="Làng Cối Xay Gió_Shop_Maya" npcName="Maya" headid="39" typeid="11" talkid="77" mapid="2" tx="28" ty="13" abilityid="2"/>
+  <npc id="104" npcTemplate="Làng Cối Xay Gió_Khác_Makino" npcName="Makino" headid="58" typeid="16" talkid="1056" mapid="2" tx="10" ty="13" abilityid=""/>
+  <npc id="105" npcTemplate="Làng Cối Xay Gió_NV_Rika" npcName="Rika" headid="37" typeid="21" talkid="79" mapid="2" tx="51" ty="13" abilityid=""/>
+  <npc id="107" npcTemplate="Làng Cối Xay Gió_Quán rượu_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="2" tx="39" ty="13" abilityid="1"/>
+  <npc id="106" npcTemplate="Làng Syrup_NV_Boodle" npcName="Boodle" headid="36" typeid="22" talkid="80" mapid="3" tx="36" ty="14" abilityid=""/>
+  <npc id="204" npcTemplate="Làng Syrup_Quán rượu_Phụ tá" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="1559" mapid="3" tx="42" ty="14" abilityid=""/>
+  <npc id="205" npcTemplate="Làng Syrup_Công Hội_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="3" tx="16" ty="14" abilityid="4"/>
+  <npc id="208" npcTemplate="Làng Syrup_NV_Merry" npcName="Merry" headid="46" typeid="15" talkid="84" mapid="3" tx="10" ty="14" abilityid="5"/>
+  <npc id="209" npcTemplate="Làng Syrup_NV_Zeff" npcName="Zeff" headid="50" typeid="23" talkid="85" mapid="3" tx="20" ty="14" abilityid="2"/>
+  <npc id="210" npcTemplate="Làng Syrup_NV_Birdie" npcName="Birdie" headid="67" typeid="24" talkid="86" mapid="3" tx="48" ty="15" abilityid=""/>
+  <npc id="211" npcTemplate="Làng Syrup_NV_Nojiko" npcName="Nojiko" headid="45" typeid="25" talkid="87" mapid="3" tx="54" ty="15" abilityid=""/>
+  <npc id="212" npcTemplate="Làng Syrup_NV_Genzo" npcName="Genzo" headid="41" typeid="26" talkid="88" mapid="3" tx="60" ty="14" abilityid=""/>
+  <npc id="213" npcTemplate="Làng Syrup_Quán rượu_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="3" tx="33" ty="14" abilityid="1"/>
+  <npc id="301" npcTemplate="Thị trấn Logue_Tìm kiếm_Matsu" npcName="Matsu" headid="60" typeid="10" talkid="76" mapid="4" tx="36" ty="14" abilityid="5"/>
+  <npc id="302" npcTemplate="Thị trấn Logue_Shop_Maya" npcName="Maya" headid="39" typeid="11" talkid="417" mapid="4" tx="29" ty="14" abilityid="2"/>
+  <npc id="303" npcTemplate="Thị trấn Logue_Kho_Makino" npcName="Makino" headid="58" typeid="16" talkid="78" mapid="4" tx="10" ty="15" abilityid="6"/>
+  <npc id="304" npcTemplate="Thị trấn Logue_Quán rượu_Phụ tá" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="75" mapid="4" tx="44" ty="14" abilityid="8"/>
+  <npc id="305" npcTemplate="Thị trấn Logue_Công Hội_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="4" tx="18" ty="14" abilityid="4"/>
+  <npc id="310" npcTemplate="Thị trấn Logue_NV_Crocus" npcName="Crocus" headid="42" typeid="27" talkid="89" mapid="4" tx="51" ty="15" abilityid="3"/>
+  <npc id="311" npcTemplate="Thị trấn Logue_Quán rượu_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="4" tx="59" ty="15" abilityid="1"/>
+  <npc id="402" npcTemplate="Đảo Drum_Shop_Maya" npcName="Maya" headid="39" typeid="11" talkid="418" mapid="5" tx="26" ty="14" abilityid="2"/>
+  <npc id="404" npcTemplate="Đảo Drum_Quán rượu_Phụ tá" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="75" mapid="5" tx="45" ty="14" abilityid="8"/>
+  <npc id="405" npcTemplate="Đảo Drum_Công Hội_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="5" tx="18" ty="14" abilityid="4"/>
+  <npc id="408" npcTemplate="Đảo Drum_NV_Dalton" npcName="Dalton" headid="16" typeid="28" talkid="90" mapid="5" tx="53" ty="14" abilityid="3"/>
+  <npc id="409" npcTemplate="Đảo Drum_NV_Dr.Kureha" npcName="Dr.Kureha" headid="38" typeid="29" talkid="91" mapid="5" tx="10" ty="14" abilityid="5"/>
+  <npc id="410" npcTemplate="Đảo Drum_Tìm kiếm_Matsu" npcName="Matsu" headid="60" typeid="10" talkid="421" mapid="5" tx="34" ty="15" abilityid="6"/>
+  <npc id="411" npcTemplate="Đảo Drum_Quán rượu_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="5" tx="60" ty="14" abilityid="1"/>
+  <npc id="503" npcTemplate="Rainbase_NV_Lasso" npcName="Lasso" headid="43" typeid="30" talkid="92" mapid="6" tx="50" ty="15" abilityid="5"/>
+  <npc id="501" npcTemplate="Rainbase_Tìm kiếm_Matsu" npcName="Matsu" headid="60" typeid="10" talkid="422" mapid="6" tx="10" ty="16" abilityid="6"/>
+  <npc id="502" npcTemplate="Rainbase_Shop_Maya" npcName="Maya" headid="39" typeid="11" talkid="419" mapid="6" tx="26" ty="16" abilityid="2"/>
+  <npc id="504" npcTemplate="Rainbase_Quán rượu_Phụ tá" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="75" mapid="6" tx="44" ty="15" abilityid="8"/>
+  <npc id="505" npcTemplate="Rainbase_Công Hội_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="6" tx="18" ty="16" abilityid="4"/>
+  <npc id="508" npcTemplate="Rainbase_NV_Nefeltari Cobra" npcName="Nefeltari Cobra" headid="63" typeid="31" talkid="93" mapid="6" tx="34" ty="16" abilityid=""/>
+  <npc id="509" npcTemplate="Rainbase_NV_Falcon Bell" npcName="Falcon Bell" headid="26" typeid="32" talkid="94" mapid="6" tx="56" ty="15" abilityid="3"/>
+  <npc id="510" npcTemplate="Rainbase_NV_Montblanc Cricket" npcName="Montblanc Cricket" headid="62" typeid="33" talkid="95" mapid="6" tx="64" ty="15" abilityid=""/>
+  <npc id="511" npcTemplate="Rainbase_Quán rượu_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="6" tx="70" ty="15" abilityid="1"/>
+  <npc id="602" npcTemplate="Skypiea_Shop_Maya" npcName="Maya" headid="39" typeid="11" talkid="420" mapid="7" tx="34" ty="14" abilityid="2"/>
+  <npc id="604" npcTemplate="Skypiea_Quán rượu_Phụ tá" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="75" mapid="7" tx="42" ty="14" abilityid="8"/>
+  <npc id="605" npcTemplate="Skypiea_Công Hội_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="7" tx="18" ty="14" abilityid="4"/>
+  <npc id="608" npcTemplate="Skypiea_NV_Conis " npcName="Conis " headid="32" typeid="34" talkid="96" mapid="7" tx="50" ty="14" abilityid="6"/>
+  <npc id="609" npcTemplate="Skypiea_NV_Gan Fall" npcName="Gan Fall" headid="33" typeid="35" talkid="97" mapid="7" tx="10" ty="15" abilityid="3"/>
+  <npc id="610" npcTemplate="Skypiea_NV_Laki" npcName="Laki" headid="34" typeid="36" talkid="98" mapid="7" tx="64" ty="15" abilityid="5"/>
+  <npc id="611" npcTemplate="Skypiea_Quán rượu_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="7" tx="26" ty="14" abilityid="1"/>
+  <npc id="701" npcTemplate="Water 7_Tonjit" npcName="Tonjit" headid="76" typeid="40" talkid="904" mapid="8" tx="40" ty="14" abilityid="5"/>
+  <npc id="702" npcTemplate="Water 7_Makao" npcName="Makao" headid="75" typeid="42" talkid="905" mapid="8" tx="14" ty="14" abilityid=""/>
+  <npc id="703" npcTemplate="Water 7_Kokoro" npcName="Kokoro" headid="77" typeid="41" talkid="906" mapid="8" tx="22" ty="14" abilityid="2"/>
+  <npc id="704" npcTemplate="Water 7_Paulie" npcName="Paulie" headid="78" typeid="38" talkid="907" mapid="8" tx="29" ty="14" abilityid="3"/>
+  <npc id="705" npcTemplate="Water 7_Iceburg" npcName="Iceburg" headid="79" typeid="39" talkid="908" mapid="8" tx="6" ty="14" abilityid="6"/>
+  <npc id="706" npcTemplate="Water 7_Angielina Lika" npcName="Phụ tá Angelika" headid="51" typeid="12" talkid="1204" mapid="8" tx="46" ty="14" abilityid="8"/>
+  <npc id="707" npcTemplate="Water 7_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="8" tx="54" ty="14" abilityid="1"/>
+  <npc id="708" npcTemplate="Water 7_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="8" tx="62" ty="14" abilityid="4"/>
+  <npc id="801" npcTemplate="Thriller Bark_Lola" npcName="Lola" headid="104" typeid="44" talkid="1432" mapid="9" tx="22" ty="15" abilityid="2"/>
+  <npc id="803" npcTemplate="Thriller Bark_Matsu" npcName="Matsu" headid="60" typeid="10" talkid="76" mapid="9" tx="40" ty="15" abilityid="5"/>
+  <npc id="804" npcTemplate="Thriller Bark_Brook" npcName="Brook" headid="99" typeid="43" talkid="1433" mapid="9" tx="29" ty="15" abilityid="3"/>
+  <npc id="805" npcTemplate="Thriller Bark_Makino" npcName="Makino" headid="58" typeid="16" talkid="78" mapid="9" tx="12" ty="15" abilityid="6"/>
+  <npc id="806" npcTemplate="Thriller Bark_Angielina Lika" npcName="Angielina Lika" headid="51" typeid="12" talkid="1204" mapid="9" tx="46" ty="15" abilityid="8"/>
+  <npc id="807" npcTemplate="Thriller Bark_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="9" tx="54" ty="15" abilityid="1"/>
+  <npc id="808" npcTemplate="Thriller Bark_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="9" tx="62" ty="16" abilityid="4"/>
+  <npc id="901" npcTemplate="Đảo Kuja_Nyon" npcName="Nyon" headid="128" typeid="47" talkid="1916" mapid="10" tx="22" ty="14" abilityid="6"/>
+  <npc id="902" npcTemplate="Đảo Kuja_Kikyo" npcName="Kikyo" headid="129" typeid="48" talkid="1917" mapid="10" tx="38" ty="14" abilityid="3"/>
+  <npc id="903" npcTemplate="Đảo Kuja_Marguerite" npcName="Marguerite" headid="127" typeid="46" talkid="1918" mapid="10" tx="30" ty="14" abilityid="5"/>
+  <npc id="904" npcTemplate="Đảo Kuja_Makino" npcName="Makino" headid="58" typeid="16" talkid="1919" mapid="10" tx="14" ty="14" abilityid="2"/>
+  <npc id="905" npcTemplate="Đảo Kuja_Angielina Lika" npcName="Angielina Lika" headid="51" typeid="12" talkid="1204" mapid="10" tx="46" ty="14" abilityid="8"/>
+  <npc id="906" npcTemplate="Đảo Kuja_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="10" tx="54" ty="14" abilityid="1"/>
+  <npc id="907" npcTemplate="Đảo Kuja_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="10" tx="63" ty="14" abilityid="4"/>
+  <npc id="1101" npcTemplate="Moby Dick_Râu trắng" npcName="Râu trắng" headid="65" typeid="50" talkid="2804" mapid="11" tx="22" ty="13" abilityid="2"/>
+  <npc id="1102" npcTemplate="Moby Dick_Nữ hoàng Iva" npcName="Nữ hoàng Iva" headid="137" typeid="51" talkid="2801" mapid="11" tx="42" ty="13" abilityid="6"/>
+  <npc id="1103" npcTemplate="Moby Dick_Jinbe" npcName="Jinbe" headid="138" typeid="52" talkid="2802" mapid="11" tx="30" ty="13" abilityid="3"/>
+  <npc id="1104" npcTemplate="Moby Dick_Marco" npcName="Marco" headid="149" typeid="53" talkid="2803" mapid="11" tx="14" ty="13" abilityid="5"/>
+  <npc id="1105" npcTemplate="Moby Dick_Angielina Lika" npcName="Angielina Lika" headid="51" typeid="12" talkid="1204" mapid="11" tx="47" ty="13" abilityid="8"/>
+  <npc id="1106" npcTemplate="Moby Dick_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="11" tx="54" ty="14" abilityid="1"/>
+  <npc id="1107" npcTemplate="Moby Dick_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="11" tx="67" ty="13" abilityid="4"/>
+  <npc id="1201" npcTemplate="Đảo Người Cá_Shyarly" npcName="Shyarly" headid="194" typeid="58" talkid="3569" mapid="12" tx="14" ty="14" abilityid="5"/>
+  <npc id="1202" npcTemplate="Đảo Người Cá_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="12" tx="21" ty="14" abilityid="1"/>
+  <npc id="1203" npcTemplate="Đảo Người Cá_Ryuboshi" npcName="Ryuboshi" headid="181" typeid="57" talkid="3570" mapid="12" tx="32" ty="14" abilityid="6"/>
+  <npc id="1204" npcTemplate="Đảo Người Cá_Jinbe" npcName="Jinbe" headid="138" typeid="52" talkid="2802" mapid="12" tx="47" ty="14" abilityid="3"/>
+  <npc id="1205" npcTemplate="Đảo Người Cá_Angielina Lika" npcName="Angielina Lika" headid="51" typeid="12" talkid="1204" mapid="12" tx="54" ty="14" abilityid="8"/>
+  <npc id="1206" npcTemplate="Đảo Người Cá_Neptune" npcName="Neptune" headid="195" typeid="59" talkid="3571" mapid="12" tx="60" ty="14" abilityid="2"/>
+  <npc id="1207" npcTemplate="Đảo Người Cá_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="12" tx="68" ty="14" abilityid="4"/>
+  <npc id="1301" npcTemplate="Punk Hazard_Brownbeard" npcName="Brownbeard" headid="222" typeid="63" talkid="4290" mapid="13" tx="15" ty="14" abilityid="3"/>
+  <npc id="1302" npcTemplate="Punk Hazard_Angielina Lika" npcName="Angielina Lika" headid="51" typeid="12" talkid="1204" mapid="13" tx="24" ty="14" abilityid="8"/>
+  <npc id="1303" npcTemplate="Punk Hazard_Mirella" npcName="Mirella" headid="73" typeid="37" talkid="577" mapid="13" tx="32" ty="14" abilityid="1"/>
+  <npc id="1304" npcTemplate="Punk Hazard_Kinemon" npcName="Kinemon" headid="227" typeid="61" talkid="4291" mapid="13" tx="39" ty="14" abilityid="2"/>
+  <npc id="1305" npcTemplate="Punk Hazard_Law" npcName="Law" headid="192" typeid="60" talkid="4292" mapid="13" tx="47" ty="14" abilityid="5"/>
+  <npc id="1306" npcTemplate="Punk Hazard_Momosuke" npcName="Momosuke" headid="228" typeid="62" talkid="4293" mapid="13" tx="54" ty="14" abilityid="6"/>
+  <npc id="1307" npcTemplate="Punk Hazard_Johny" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="13" tx="68" ty="14" abilityid="4"/>
+  <npc id="214" npcTemplate="Làng Syrup_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="3" tx="28" ty="16" abilityid=""/>
+  <npc id="1401" npcTemplate="德雷斯罗萨岛_蕾贝卡" npcName="Rebecca" headid="252" typeid="66" talkid="4762" mapid="14" tx="16" ty="13" abilityid="2"/>
+  <npc id="1402" npcTemplate="德雷斯罗萨岛_维奥莱特" npcName="Viola" headid="251" typeid="65" talkid="4764" mapid="14" tx="30" ty="12" abilityid="5"/>
+  <npc id="1403" npcTemplate="德雷斯罗萨岛_巴托洛米奥" npcName="Bartolomeo" headid="253" typeid="67" talkid="4765" mapid="14" tx="36" ty="13" abilityid="6"/>
+  <npc id="1404" npcTemplate="德雷斯罗萨岛_安吉利卡" npcName="Angielina Lika" headid="51" typeid="12" talkid="1204" mapid="14" tx="45" ty="14" abilityid="8"/>
+  <npc id="1405" npcTemplate="德雷斯罗萨岛_贝拉米" npcName="Bellamy" headid="254" typeid="68" talkid="4763" mapid="14" tx="51" ty="14" abilityid="3"/>
+  <npc id="1406" npcTemplate="德雷斯罗萨岛_米瑞拉" npcName="Mirella" headid="255" typeid="69" talkid="577" mapid="14" tx="58" ty="13" abilityid="1"/>
+  <npc id="1407" npcTemplate="德雷斯罗萨岛_奘尼" npcName="Johny" headid="48" typeid="13" talkid="81" mapid="14" tx="68" ty="13" abilityid="4"/>
+  <npc id="312" npcTemplate="Thị trấn Logue_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="4" tx="23" ty="16" abilityid=""/>
+  <npc id="412" npcTemplate="Đảo Drum_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="5" tx="39" ty="15" abilityid=""/>
+  <npc id="512" npcTemplate="Rainbase_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="6" tx="38" ty="15" abilityid=""/>
+  <npc id="612" npcTemplate="Skypiea_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="7" tx="57" ty="14" abilityid=""/>
+  <npc id="709" npcTemplate="Water 7_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="8" tx="34" ty="16" abilityid=""/>
+  <npc id="809" npcTemplate="Thriller Bark_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="9" tx="34" ty="17" abilityid=""/>
+  <npc id="908" npcTemplate="Đảo Kuja_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="10" tx="69" ty="14" abilityid=""/>
+  <npc id="1108" npcTemplate="Moby Dick_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="11" tx="75" ty="13" abilityid=""/>
+  <npc id="1208" npcTemplate="Đảo Người Cá_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="12" tx="40" ty="14" abilityid=""/>
+  <npc id="1308" npcTemplate="Punk Hazard_Cây Noel" npcName="Cây Noel" headid="115" typeid="45" talkid="2806" mapid="13" tx="61" ty="14" abilityid=""/>
+</root>

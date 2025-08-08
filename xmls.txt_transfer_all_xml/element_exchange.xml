@@ -1,0 +1,14 @@
+<root>
+  <element_exchange id="1" aimItem="91000" needScore="2250"/>
+  <element_exchange id="2" aimItem="91001" needScore="2250"/>
+  <element_exchange id="3" aimItem="91002" needScore="2250"/>
+  <element_exchange id="4" aimItem="91003" needScore="2250"/>
+  <element_exchange id="5" aimItem="91004" needScore="450"/>
+  <element_exchange id="6" aimItem="91005" needScore="450"/>
+  <element_exchange id="7" aimItem="91006" needScore="450"/>
+  <element_exchange id="8" aimItem="91007" needScore="450"/>
+  <element_exchange id="9" aimItem="91008" needScore="1350"/>
+  <element_exchange id="10" aimItem="91009" needScore="1350"/>
+  <element_exchange id="11" aimItem="91010" needScore="1350"/>
+  <element_exchange id="12" aimItem="91011" needScore="200"/>
+</root>

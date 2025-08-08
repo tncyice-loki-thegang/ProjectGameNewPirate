@@ -1,0 +1,23 @@
+<root>
+  <inspireCostGold>5</inspireCostGold>
+  <inspireCostExperience>5</inspireCostExperience>
+  <inspireCDTime>600000</inspireCDTime>
+  <warFlags>
+    <warFlag>
+      <id>1</id>
+      <des>Tăng 2 lần thắng liên tiếp</des>
+    </warFlag>
+    <warFlag>
+      <id>2</id>
+      <des>Tăng tấn công 10%</des>
+    </warFlag>
+    <warFlag>
+      <id>3</id>
+      <des>Tăng phòng ngự 10%</des>
+    </warFlag>
+    <warFlag>
+      <id>4</id>
+      <des>Tăng tấn công 5%, tăng phòng ngự 5%</des>
+    </warFlag>
+  </warFlags>
+</root>

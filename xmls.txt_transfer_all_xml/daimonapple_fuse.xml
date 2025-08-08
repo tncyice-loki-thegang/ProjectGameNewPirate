@@ -1,0 +1,75 @@
+<root>
+  <daimonapple_fuse id="1" name="Griffin•Tuyết Quái" apple1="82704|1" apple2="82705|1" fuseApple="83085" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="2" name="Hố đen•Cá mập xanh" apple1="82714|1" apple2="82702|1" fuseApple="83086" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="3" name="Griffin•Ôn dịch" apple1="82704|1" apple2="82712|1" fuseApple="83087" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="4" name="Tên lửa•Hố đen" apple1="82701|1" apple2="82714|1" fuseApple="83088" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="5" name="Hố đen•Phượng Hoàng" apple1="82714|1" apple2="82717|1" fuseApple="83089" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="6" name="Tuyết Quái•Cá mập xanh" apple1="82705|1" apple2="82702|1" fuseApple="83090" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="7" name="Lá chắn•Ôn dịch" apple1="82713|1" apple2="82712|1" fuseApple="83091" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="8" name="Tuyết Quái•Tên lửa" apple1="82705|1" apple2="82701|1" fuseApple="83092" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="9" name="Tuyết Quái•Lốc Xoáy" apple1="82705|1" apple2="82715|1" fuseApple="83093" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="10" name="Cá mập xanh lớn•Ôn dịch" apple1="82702|1" apple2="82712|1" fuseApple="83094" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="11" name="Cá mập xanh lớn•Tên lửa" apple1="82702|1" apple2="82701|1" fuseApple="83095" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="12" name="Cá mập xanh lớn•Lốc Xoáy" apple1="82702|1" apple2="82715|1" fuseApple="83096" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="13" name="Ôn dịch•Tên lửa" apple1="82712|1" apple2="82701|1" fuseApple="83097" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="14" name="Ôn dịch•Phượng Hoàng" apple1="82712|1" apple2="82717|1" fuseApple="83098" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="15" name="Tên lửa•Phượng Hoàng" apple1="82701|1" apple2="82717|1" fuseApple="83099" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="16" name="Chân Không•Dừng lại" apple1="82612|1" apple2="82602|1" fuseApple="83101" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="17" name="Neko Neko•Tri thức" apple1="82609|1" apple2="81125|1" fuseApple="83102" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="18" name="Chân Không•Tri thức" apple1="82612|1" apple2="81125|1" fuseApple="83103" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="19" name="Tinh Hoa•Tuyết quái" apple1="82716|1" apple2="82705|1" fuseApple="83200" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="20" name="Titan•Tuyết quái" apple1="82718|1" apple2="82705|1" fuseApple="83201" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="21" name="Nhộng Tằm•Tuyết quái" apple1="82724|1" apple2="82705|1" fuseApple="83202" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="22" name="Griffin•Cá mập xanh" apple1="82704|1" apple2="82702|1" fuseApple="83203" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="23" name="Thiên Mã•Con Nhện" apple1="82709|1" apple2="82706|1" fuseApple="83100" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="24" name="Vỡ Vụn•Thôi miên" apple1="82710|1" apple2="82707|1" fuseApple="83204" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="25" name="Dừng Lại•Tri thức" apple1="82602|1" apple2="81125|1" fuseApple="83105" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="26" name="Côn Trùng•Dừng Lại" apple1="82601|1" apple2="82602|1" fuseApple="83106" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="27" name="泰坦·黑洞配方" apple1="82718|1" apple2="82714|1" fuseApple="83205" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="28" name="雪怪·凤凰配方" apple1="82705|1" apple2="82717|1" fuseApple="83206" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="29" name="瘟疫·黑洞配方" apple1="82712|1" apple2="82714|1" fuseApple="83207" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="30" name="黑洞·三叶虫配方" apple1="82714|1" apple2="82708|1" fuseApple="83208" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="31" name="花精·黑洞配方" apple1="82716|1" apple2="82714|1" fuseApple="83209" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="32" name="獾獾·知识配方" apple1="82607|1" apple2="81125|1" fuseApple="83107" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="33" name="巨蓝鲛·泰坦配方" apple1="82702|1" apple2="82718|1" fuseApple="83210" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="34" name="瘟疫·花精配方" apple1="82712|1" apple2="82716|1" fuseApple="83211" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="35" name="狮鹫·凤凰配方" apple1="82704|1" apple2="82717|1" fuseApple="83212" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="36" name="黑洞·蚕茧配方" apple1="82714|1" apple2="82724|1" fuseApple="83213" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="37" name="昆虫·飞马配方" apple1="82601|1" apple2="82616|1" fuseApple="83108" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="38" name="停止·琥珀配方" apple1="82602|1" apple2="82617|1" fuseApple="83109" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="39" name="知识·温泉配方" apple1="81125|1" apple2="82618|1" fuseApple="83110" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="40" name="真空·彩虹配方" apple1="82612|1" apple2="82619|1" fuseApple="83111" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="41" name="猴猴·知识配方" apple1="82605|1" apple2="81125|1" fuseApple="83112" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="42" name="猴猴·停止配方" apple1="82605|1" apple2="82602|1" fuseApple="83113" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="43" name="猫猫·停止配方" apple1="82609|1" apple2="82602|1" fuseApple="83114" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="44" name="知识·彩虹配方" apple1="81125|1" apple2="82619|1" fuseApple="83115" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="45" name="花精·巨蓝鲛配方" apple1="82716|1" apple2="82702|1" fuseApple="83214" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="46" name="漩涡·黑洞配方" apple1="82715|1" apple2="82714|1" fuseApple="83215" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="47" name="自由·模拟配方" apple1="83031|1" apple2="83027|1" fuseApple="83216" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="48" name="黑洞·模拟配方" apple1="82714|1" apple2="83027|1" fuseApple="83217" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="49" name="瘟疫·模拟配方" apple1="82712|1" apple2="83027|1" fuseApple="83218" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="50" name="雄鹰·巨蓝鲛配方" apple1="83028|1" apple2="82702|1" fuseApple="83219" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="51" name="自由·火箭配方" apple1="83031|1" apple2="82701|1" fuseApple="83220" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="52" name="自由·狮鹫配方" apple1="83031|1" apple2="82704|1" fuseApple="83221" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="53" name="自由·黑洞配方" apple1="83031|1" apple2="82714|1" fuseApple="83222" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="54" name="雄鹰·火箭配方" apple1="83028|1" apple2="82701|1" fuseApple="83223" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="55" name="模拟·漩涡配方" apple1="83027|1" apple2="82715|1" fuseApple="83224" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="56" name="盾牌·雄鹰配方" apple1="82713|1" apple2="83028|1" fuseApple="83225" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="57" name="盾牌·泰坦配方" apple1="82713|1" apple2="82718|1" fuseApple="83226" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="58" name="净化·知识配方" apple1="82604|1" apple2="81125|1" fuseApple="83116" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="59" name="净化·长刃配方" apple1="82604|1" apple2="82608|1" fuseApple="83117" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="60" name="长刃·飞马配方" apple1="82608|1" apple2="82616|1" fuseApple="83118" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="61" name="琥珀·昆虫配方" apple1="82617|1" apple2="82601|1" fuseApple="83119" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="62" name="三叶虫·雄鹰配方" apple1="82708|1" apple2="83028|1" fuseApple="83227" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="63" name="黑洞·雪怪配方" apple1="82714|1" apple2="82705|1" fuseApple="83228" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="64" name="巨蓝鲛·自由配方" apple1="82702|1" apple2="83031|1" fuseApple="83229" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="65" name="飞马·知识配方" apple1="82616|1" apple2="81125|1" fuseApple="83120" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="66" name="彩虹·猫猫配方" apple1="82619|1" apple2="82609|1" fuseApple="83121" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="67" name="獾獾·昆虫配方" apple1="82607|1" apple2="82601|1" fuseApple="83122" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="68" name="雄鹰·雪怪配方" apple1="83028|1" apple2="82705|1" fuseApple="83230" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="69" name="模拟·狮鹫配方" apple1="83027|1" apple2="82704|1" fuseApple="83231" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="70" name="复仇·巨蓝鲛配方" apple1="83029|1" apple2="82702|1" fuseApple="83232" quality="7" itemCost="129305|12" belly="100000" soul="600" type="1"/>
+  <daimonapple_fuse id="71" name="飞马·停止配方" apple1="82616|1" apple2="82602|1" fuseApple="83123" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="72" name="温泉·真空配方" apple1="82618|1" apple2="82612|1" fuseApple="83124" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+  <daimonapple_fuse id="73" name="猴猴·彩虹配方" apple1="82605|1" apple2="82619|1" fuseApple="83125" quality="6" itemCost="129305|4" belly="100000" soul="200" type="2"/>
+</root>

@@ -1,0 +1,79 @@
+<root>
+  <tishishezhi id="1" name="Cd chiến đấu"/>
+  <tishishezhi id="2" name="Cd tăng tốc"/>
+  <tishishezhi id="3" name="Cd nghiên cứu"/>
+  <tishishezhi id="4" name="Cd cường hóa"/>
+  <tishishezhi id="5" name="Cd tỉ thí"/>
+  <tishishezhi id="6" name="Cd tầm bảo trở về"/>
+  <tishishezhi id="7" name="Cd cướp đoạt"/>
+  <tishishezhi id="8" name="Cd Lôi đài"/>
+  <tishishezhi id="9" name="Cd Pet"/>
+  <tishishezhi id="10" name="Cd đơn đặt hàng"/>
+  <tishishezhi id="11" name="Cd hồi sinh Boss thế giới"/>
+  <tishishezhi id="12" name="H.thành NV hàng ngày ngay"/>
+  <tishishezhi id="13" name="Làm mới NV hàng ngày"/>
+  <tishishezhi id="14" name="Hồi sinh Boss TG ngay"/>
+  <tishishezhi id="16" name="Làm mới 1 lần hội đàm"/>
+  <tishishezhi id="17" name="Làm mới toàn bộ hội đàm"/>
+  <tishishezhi id="18" name="Mở bản đồ tầm bảo"/>
+  <tishishezhi id="19" name="Vàng làm mới tầm bảo"/>
+  <tishishezhi id="20" name="Tìm kiếm vàng"/>
+  <tishishezhi id="21" name="Mở rộng vị trí Đ.đội"/>
+  <tishishezhi id="22" name="Tấn công l.tục h.thành ngay"/>
+  <tishishezhi id="23" name="Mua vị trí huấn luyện đ.đội"/>
+  <tishishezhi id="24" name="Mua vị trí mang Pet"/>
+  <tishishezhi id="25" name="Cd kiến trúc"/>
+  <tishishezhi id="26" name="H.thành 1 lần tấn công l.tục"/>
+  <tishishezhi id="27" name="Mua tinh linh thạch"/>
+  <tishishezhi id="28" name="Đổi 1 lô cá con"/>
+  <tishishezhi id="29" name="Mở d.sách nuôi cá"/>
+  <tishishezhi id="30" name="Mở mặt nạ bảo vệ bong bóng"/>
+  <tishishezhi id="31" name="Phí bắt cá con"/>
+  <tishishezhi id="32" name="Mua vị trí kho Pet"/>
+  <tishishezhi id="33" name="Cd tham chiến"/>
+  <tishishezhi id="34" name="Tiêu hao chế tạo nhanh"/>
+  <tishishezhi id="35" name="Lĩnh thưởng Impel Down"/>
+  <tishishezhi id="36" name="Nhắc nhở bón phân"/>
+  <tishishezhi id="37" name="CD làm mới XH"/>
+  <tishishezhi id="38" name="Nhắc nhở tiếp tục khai thác"/>
+  <tishishezhi id="39" name="Nhắc nhở tiêu phí Ma trận B.thạch"/>
+  <tishishezhi id="40" name="Giảm giá hạn chế"/>
+  <tishishezhi id="41" name="Quà vui vẻ online"/>
+  <tishishezhi id="42" name="Mua quỹ H.tặc"/>
+  <tishishezhi id="43" name="Tinh luyện Đ.ngục Dung luyện"/>
+  <tishishezhi id="44" name="Thêm thẻ HĐ Thu thập Thẻ bài"/>
+  <tishishezhi id="45" name="Lần mua Tấn công Thủy Đội"/>
+  <tishishezhi id="49" name="Vòng quay Kinh nghiệm"/>
+  <tishishezhi id="50" name="Ném xúc xắc"/>
+  <tishishezhi id="51" name="Chọn điểm số Vùng biển Thần bí"/>
+  <tishishezhi id="52" name="Chọn hướng Vùng biển Thần bí"/>
+  <tishishezhi id="53" name="Vòng quay Danh vọng"/>
+  <tishishezhi id="54" name="Thử luyện Haki 1 lần"/>
+  <tishishezhi id="55" name="Thử luyện Haki 10 lần"/>
+  <tishishezhi id="56" name="Thử luyện Haki 100 lần"/>
+  <tishishezhi id="57" name="Mở nuôi gấp đôi"/>
+  <tishishezhi id="58" name="Nhắc nhở phí Thương thành ưu đãi"/>
+  <tishishezhi id="59" name="Nhắc nhở phí Quay số may mắn"/>
+  <tishishezhi id="60" name="Hủy CD hồi sinh Colosseum"/>
+  <tishishezhi id="61" name="Cổ vũ Colosseum"/>
+  <tishishezhi id="62" name="Tinh luyện trang sức Pet cưỡi"/>
+  <tishishezhi id="63" name="Nhắc nhở HĐ Quay thưởng vui vẻ"/>
+  <tishishezhi id="64" name="Nhắc nhở làm mới Quay thưởng vui vẻ"/>
+  <tishishezhi id="65" name="Nhắc nhở phí thẻ cào vui vẻ"/>
+  <tishishezhi id="66" name="Nhắc nhở phí hợp thành trái Ác ma"/>
+  <tishishezhi id="67" name="Bỏ CD chiến đấu Bảo vệ công hội chiến"/>
+  <tishishezhi id="68" name="Nhắc nhở phí C.tích c.hội"/>
+  <tishishezhi id="69" name="Nhắc nhở phí bắt cá allblue"/>
+  <tishishezhi id="70" name="Nhắc nhở phí Làm mới Shop Thần Bí"/>
+  <tishishezhi id="71" name="Vượt ải mua số lần làm mới"/>
+  <tishishezhi id="72" name="Nhắc nhở hủy lượng lớn nguyên tố"/>
+  <tishishezhi id="73" name="Nhắc nhở làm mới nguyên tố"/>
+  <tishishezhi id="74" name="Nhắc nhở làm mới đổi Strong World"/>
+  <tishishezhi id="75" name="Nhắc nhở tiêu phí Đại chiến Nhiệm vụ"/>
+  <tishishezhi id="76" name="Nhắc nhớ tiêu phí trả lại Haki"/>
+  <tishishezhi id="77" name="Kho báu Thần bí Strong World"/>
+  <tishishezhi id="78" name="Buff làm mới Strong World"/>
+  <tishishezhi id="79" name="Nhắc nhớ tiêu phí HĐ thẻ tuần"/>
+  <tishishezhi id="81" name="Nhắc nhở tiêu phí sàn đấu giá"/>
+  <tishishezhi id="82" name="Nhắc nhở tiêu phí bồi dưỡng Tinh linh"/>
+</root>

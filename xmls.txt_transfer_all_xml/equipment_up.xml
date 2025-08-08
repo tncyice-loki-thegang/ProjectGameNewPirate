@@ -1,0 +1,187 @@
+<root>
+  <equipment_up id="11501" srcItem="11501" aimItem="11601" needItems="120102|84,120402|84,120502|48,121202|256" costBelly="3900000" costExperience="0" costSoul="50" type="75|1"/>
+  <equipment_up id="12501" srcItem="12501" aimItem="12601" needItems="120202|48,120402|84,120502|84,121402|128" costBelly="3900000" costExperience="0" costSoul="50" type="75|1"/>
+  <equipment_up id="13501" srcItem="13501" aimItem="13601" needItems="120302|48,120402|84,120502|84,121302|192" costBelly="3900000" costExperience="0" costSoul="50" type="75|1"/>
+  <equipment_up id="14501" srcItem="14501" aimItem="14601" needItems="120202|35,120302|35,120502|15,121102|100" costBelly="1200000" costExperience="0" costSoul="50" type="75|1"/>
+  <equipment_up id="15501" srcItem="15501" aimItem="15601" needItems="120102|15,120202|35,120302|35,121102|100" costBelly="1200000" costExperience="0" costSoul="50" type="75|1"/>
+  <equipment_up id="16501" srcItem="16501" aimItem="16601" needItems="120102|35,120302|35,120402|15,121102|100" costBelly="1200000" costExperience="0" costSoul="50" type="75|1"/>
+  <equipment_up id="17501" srcItem="17501" aimItem="17601" needItems="120102|54,120202|54,120302|54,120402|54,120502|54" costBelly="4400000" costExperience="0" costSoul="50" type="75|1"/>
+  <equipment_up id="11502" srcItem="11502" aimItem="11601" needItems="120102|63,120402|63,120502|36,121202|192" costBelly="2900000" costExperience="0" costSoul="50" type="80|1"/>
+  <equipment_up id="12502" srcItem="12502" aimItem="12601" needItems="120202|36,120402|63,120502|63,121402|96" costBelly="2900000" costExperience="0" costSoul="50" type="80|1"/>
+  <equipment_up id="13502" srcItem="13502" aimItem="13601" needItems="120302|36,120402|63,120502|63,121302|144" costBelly="2900000" costExperience="0" costSoul="50" type="80|1"/>
+  <equipment_up id="14502" srcItem="14502" aimItem="14601" needItems="120202|28,120302|28,120502|12,121102|80" costBelly="900000" costExperience="0" costSoul="50" type="80|1"/>
+  <equipment_up id="15502" srcItem="15502" aimItem="15601" needItems="120102|12,120202|28,120302|28,121102|80" costBelly="900000" costExperience="0" costSoul="50" type="80|1"/>
+  <equipment_up id="16502" srcItem="16502" aimItem="16601" needItems="120102|28,120302|28,120402|12,121102|80" costBelly="900000" costExperience="0" costSoul="50" type="80|1"/>
+  <equipment_up id="17502" srcItem="17502" aimItem="17601" needItems="120102|34,120202|34,120302|34,120402|34,120502|34" costBelly="2800000" costExperience="0" costSoul="50" type="80|1"/>
+  <equipment_up id="11503" srcItem="11503" aimItem="11601" needItems="120102|42,120402|42,120502|24,121202|128" costBelly="1900000" costExperience="0" costSoul="50" type="85|1"/>
+  <equipment_up id="12503" srcItem="12503" aimItem="12601" needItems="120202|24,120402|42,120502|42,121402|64" costBelly="1900000" costExperience="0" costSoul="50" type="85|1"/>
+  <equipment_up id="13503" srcItem="13503" aimItem="13601" needItems="120302|24,120402|42,120502|42,121302|96" costBelly="1900000" costExperience="0" costSoul="50" type="85|1"/>
+  <equipment_up id="14503" srcItem="14503" aimItem="14601" needItems="120202|21,120302|21,120502|9,121102|60" costBelly="700000" costExperience="0" costSoul="50" type="85|1"/>
+  <equipment_up id="15503" srcItem="15503" aimItem="15601" needItems="120102|9,120202|21,120302|21,121102|60" costBelly="700000" costExperience="0" costSoul="50" type="85|1"/>
+  <equipment_up id="16503" srcItem="16503" aimItem="16601" needItems="120102|21,120302|21,120402|9,121102|60" costBelly="700000" costExperience="0" costSoul="50" type="85|1"/>
+  <equipment_up id="17503" srcItem="17503" aimItem="17601" needItems="120102|19,120202|19,120302|19,120402|19,120502|19" costBelly="1600000" costExperience="0" costSoul="50" type="85|1"/>
+  <equipment_up id="11601" srcItem="11601" aimItem="11602" needItems="400027|35" costBelly="2900000" costExperience="0" costSoul="100" type="90|2"/>
+  <equipment_up id="12601" srcItem="12601" aimItem="12602" needItems="400028|35" costBelly="2900000" costExperience="0" costSoul="100" type="90|2"/>
+  <equipment_up id="13601" srcItem="13601" aimItem="13602" needItems="400029|35" costBelly="2900000" costExperience="0" costSoul="100" type="90|2"/>
+  <equipment_up id="14601" srcItem="14601" aimItem="14602" needItems="400030|35" costBelly="1100000" costExperience="0" costSoul="100" type="90|2"/>
+  <equipment_up id="15601" srcItem="15601" aimItem="15602" needItems="400031|35" costBelly="1100000" costExperience="0" costSoul="100" type="90|2"/>
+  <equipment_up id="16601" srcItem="16601" aimItem="16602" needItems="400032|35" costBelly="1100000" costExperience="0" costSoul="100" type="90|2"/>
+  <equipment_up id="17601" srcItem="17601" aimItem="17602" needItems="400033|35" costBelly="2400000" costExperience="0" costSoul="100" type="90|2"/>
+  <equipment_up id="11602" srcItem="11602" aimItem="11603" needItems="120102|73,120402|73,120502|42,121202|224,400027|35" costBelly="3900000" costExperience="0" costSoul="450" type="95|2"/>
+  <equipment_up id="12602" srcItem="12602" aimItem="12603" needItems="120202|42,120402|73,120502|73,121402|112,400028|35" costBelly="3900000" costExperience="0" costSoul="450" type="95|2"/>
+  <equipment_up id="13602" srcItem="13602" aimItem="13603" needItems="120302|42,120402|73,120502|73,121302|168,400029|35" costBelly="3900000" costExperience="0" costSoul="450" type="95|2"/>
+  <equipment_up id="14602" srcItem="14602" aimItem="14603" needItems="120202|36,120302|36,120502|15,121102|105,400030|35" costBelly="1400000" costExperience="0" costSoul="175" type="95|2"/>
+  <equipment_up id="15602" srcItem="15602" aimItem="15603" needItems="120102|36,120202|15,120302|36,121102|105,400031|35" costBelly="1400000" costExperience="0" costSoul="175" type="95|2"/>
+  <equipment_up id="16602" srcItem="16602" aimItem="16603" needItems="120102|36,120202|36,120302|15,121102|105,400032|35" costBelly="1400000" costExperience="0" costSoul="175" type="95|2"/>
+  <equipment_up id="17602" srcItem="17602" aimItem="17603" needItems="120202|34,120302|34,120402|34,120502|34,400033|35" costBelly="3200000" costExperience="0" costSoul="375" type="95|2"/>
+  <equipment_up id="11603" srcItem="11603" aimItem="11604" needItems="120102|91,120402|91,120502|52,121202|280,400027|35" costBelly="5200000" costExperience="0" costSoul="625" type="100|2"/>
+  <equipment_up id="12603" srcItem="12603" aimItem="12604" needItems="120202|52,120402|91,120502|91,121402|140,400028|35" costBelly="5200000" costExperience="0" costSoul="625" type="100|2"/>
+  <equipment_up id="13603" srcItem="13603" aimItem="13604" needItems="120302|52,120402|91,120502|91,121302|210,400029|35" costBelly="5200000" costExperience="0" costSoul="625" type="100|2"/>
+  <equipment_up id="14603" srcItem="14603" aimItem="14604" needItems="120202|45,120302|45,120502|19,121102|131,400030|35" costBelly="1900000" costExperience="0" costSoul="225" type="100|2"/>
+  <equipment_up id="15603" srcItem="15603" aimItem="15604" needItems="120102|45,120202|19,120302|45,121102|131,400031|35" costBelly="1900000" costExperience="0" costSoul="225" type="100|2"/>
+  <equipment_up id="16603" srcItem="16603" aimItem="16604" needItems="120102|45,120202|45,120302|19,121102|131,400032|35" costBelly="1900000" costExperience="0" costSoul="225" type="100|2"/>
+  <equipment_up id="17603" srcItem="17603" aimItem="17604" needItems="120202|42,120302|42,120402|42,120502|42,400033|35" costBelly="4300000" costExperience="0" costSoul="500" type="100|2"/>
+  <equipment_up id="11604" srcItem="11604" aimItem="11605" needItems="120102|114,120402|114,120502|65,121202|350,400027|35" costBelly="7000000" costExperience="0" costSoul="825" type="105|2"/>
+  <equipment_up id="12604" srcItem="12604" aimItem="12605" needItems="120202|65,120402|114,120502|114,121402|175,400028|35" costBelly="7000000" costExperience="0" costSoul="825" type="105|2"/>
+  <equipment_up id="13604" srcItem="13604" aimItem="13605" needItems="120302|65,120402|114,120502|114,121302|262,400029|35" costBelly="7000000" costExperience="0" costSoul="825" type="105|2"/>
+  <equipment_up id="14604" srcItem="14604" aimItem="14605" needItems="120202|57,120302|57,120502|24,121102|164,400030|35" costBelly="2600000" costExperience="0" costSoul="300" type="105|2"/>
+  <equipment_up id="15604" srcItem="15604" aimItem="15605" needItems="120102|57,120202|24,120302|57,121102|164,400031|35" costBelly="2600000" costExperience="0" costSoul="300" type="105|2"/>
+  <equipment_up id="16604" srcItem="16604" aimItem="16605" needItems="120102|57,120202|57,120302|24,121102|164,400032|35" costBelly="2600000" costExperience="0" costSoul="300" type="105|2"/>
+  <equipment_up id="17604" srcItem="17604" aimItem="17605" needItems="120202|53,120302|53,120402|53,120502|53,400033|35" costBelly="5700000" costExperience="0" costSoul="675" type="105|2"/>
+  <equipment_up id="11605" srcItem="11605" aimItem="11606" needItems="120102|143,120402|143,120502|82,121202|437,400027|35" costBelly="8800000" costExperience="0" costSoul="1050" type="110|2"/>
+  <equipment_up id="12605" srcItem="12605" aimItem="12606" needItems="120202|82,120402|143,120502|143,121402|218,400028|35" costBelly="8800000" costExperience="0" costSoul="1050" type="110|2"/>
+  <equipment_up id="13605" srcItem="13605" aimItem="13606" needItems="120302|82,120402|143,120502|143,121302|328,400029|35" costBelly="8800000" costExperience="0" costSoul="1050" type="110|2"/>
+  <equipment_up id="14605" srcItem="14605" aimItem="14606" needItems="120202|71,120302|71,120502|30,121102|205,400030|35" costBelly="3300000" costExperience="0" costSoul="375" type="110|2"/>
+  <equipment_up id="15605" srcItem="15605" aimItem="15606" needItems="120102|71,120202|30,120302|71,121102|205,400031|35" costBelly="3300000" costExperience="0" costSoul="375" type="110|2"/>
+  <equipment_up id="16605" srcItem="16605" aimItem="16606" needItems="120102|71,120202|71,120302|30,121102|205,400032|35" costBelly="3300000" costExperience="0" costSoul="375" type="110|2"/>
+  <equipment_up id="17605" srcItem="17605" aimItem="17606" needItems="120202|66,120302|66,120402|66,120502|66,400033|35" costBelly="7100000" costExperience="0" costSoul="850" type="110|2"/>
+  <equipment_up id="11606" srcItem="11606" aimItem="11607" needItems="120102|179,120402|179,120502|102,121202|546,400027|35" costBelly="11000000" costExperience="0" costSoul="1300" type="115|2"/>
+  <equipment_up id="12606" srcItem="12606" aimItem="12607" needItems="120202|102,120402|179,120502|179,121402|273,400028|35" costBelly="11000000" costExperience="0" costSoul="1300" type="115|2"/>
+  <equipment_up id="13606" srcItem="13606" aimItem="13607" needItems="120302|102,120402|179,120502|179,121302|410,400029|35" costBelly="11000000" costExperience="0" costSoul="1300" type="115|2"/>
+  <equipment_up id="14606" srcItem="14606" aimItem="14607" needItems="120202|89,120302|89,120502|38,121102|256,400030|35" costBelly="4100000" costExperience="0" costSoul="475" type="115|2"/>
+  <equipment_up id="15606" srcItem="15606" aimItem="15607" needItems="120102|89,120202|38,120302|89,121102|256,400031|35" costBelly="4100000" costExperience="0" costSoul="475" type="115|2"/>
+  <equipment_up id="16606" srcItem="16606" aimItem="16607" needItems="120102|89,120202|89,120302|38,121102|256,400032|35" costBelly="4100000" costExperience="0" costSoul="475" type="115|2"/>
+  <equipment_up id="17606" srcItem="17606" aimItem="17607" needItems="120202|83,120302|83,120402|83,120502|83,400033|35" costBelly="8900000" costExperience="0" costSoul="1050" type="115|2"/>
+  <equipment_up id="11607" srcItem="11607" aimItem="11608" needItems="120102|219,120402|219,120502|124,121202|664,400033|38" costBelly="15000000" costExperience="0" costSoul="1600" type="120|3"/>
+  <equipment_up id="12607" srcItem="12607" aimItem="12608" needItems="120202|124,120402|219,120502|219,121402|336,400033|38" costBelly="15000000" costExperience="0" costSoul="1600" type="120|3"/>
+  <equipment_up id="13607" srcItem="13607" aimItem="13608" needItems="120302|124,120402|219,120502|219,121302|502,400033|38" costBelly="15000000" costExperience="0" costSoul="1600" type="120|3"/>
+  <equipment_up id="14607" srcItem="14607" aimItem="14608" needItems="120202|109,120302|109,120502|48,121102|316,400033|19" costBelly="6000000" costExperience="0" costSoul="675" type="120|3"/>
+  <equipment_up id="15607" srcItem="15607" aimItem="15608" needItems="120102|109,120202|48,120302|109,121102|316,400033|19" costBelly="6000000" costExperience="0" costSoul="675" type="120|3"/>
+  <equipment_up id="16607" srcItem="16607" aimItem="16608" needItems="120102|109,120202|109,120302|48,121102|316,400033|19" costBelly="6000000" costExperience="0" costSoul="675" type="120|3"/>
+  <equipment_up id="17607" srcItem="17607" aimItem="17608" needItems="120102|102,120202|102,120302|102,120402|102,120502|104,400033|35" costBelly="10000000" costExperience="0" costSoul="1250" type="120|3"/>
+  <equipment_up id="11608" srcItem="11608" aimItem="11609" needItems="120102|263,120402|263,120502|144,121202|791,400033|46" costBelly="20000000" costExperience="0" costSoul="1700" type="125|3"/>
+  <equipment_up id="12608" srcItem="12608" aimItem="12609" needItems="120202|148,120402|263,120502|263,121402|407,400033|46" costBelly="20000000" costExperience="0" costSoul="1700" type="125|3"/>
+  <equipment_up id="13608" srcItem="13608" aimItem="13609" needItems="120302|148,120402|263,120502|263,121302|604,400033|46" costBelly="20000000" costExperience="0" costSoul="1700" type="125|3"/>
+  <equipment_up id="14608" srcItem="14608" aimItem="14609" needItems="120202|131,120302|131,120502|60,121102|385,400033|23" costBelly="7000000" costExperience="0" costSoul="775" type="125|3"/>
+  <equipment_up id="15608" srcItem="15608" aimItem="15609" needItems="120102|131,120202|60,120302|131,121102|385,400033|23" costBelly="7000000" costExperience="0" costSoul="775" type="125|3"/>
+  <equipment_up id="16608" srcItem="16608" aimItem="16609" needItems="120102|131,120202|131,120302|60,121102|385,400033|23" costBelly="7000000" costExperience="0" costSoul="775" type="125|3"/>
+  <equipment_up id="17608" srcItem="17608" aimItem="17609" needItems="120102|123,120202|123,120302|123,120402|123,120502|129,400033|42" costBelly="12000000" costExperience="0" costSoul="1350" type="125|3"/>
+  <equipment_up id="11609" srcItem="11609" aimItem="117010" needItems="120102|315,120402|315,120502|168,121202|936,400033|62" costBelly="25000000" costExperience="0" costSoul="1800" type="130|3"/>
+  <equipment_up id="12609" srcItem="12609" aimItem="127010" needItems="120202|176,120402|315,120502|315,121402|494,400033|62" costBelly="25000000" costExperience="0" costSoul="1800" type="130|3"/>
+  <equipment_up id="13609" srcItem="13609" aimItem="137010" needItems="120302|176,120402|315,120502|315,121302|726,400033|62" costBelly="25000000" costExperience="0" costSoul="1800" type="130|3"/>
+  <equipment_up id="14609" srcItem="14609" aimItem="147010" needItems="120202|157,120302|157,120502|76,121102|472,400033|39" costBelly="8000000" costExperience="0" costSoul="875" type="130|3"/>
+  <equipment_up id="15609" srcItem="15609" aimItem="157010" needItems="120102|157,120202|76,120302|157,121102|472,400033|39" costBelly="8000000" costExperience="0" costSoul="875" type="130|3"/>
+  <equipment_up id="16609" srcItem="16609" aimItem="167010" needItems="120102|157,120202|157,120302|76,121102|472,400033|39" costBelly="8000000" costExperience="0" costSoul="875" type="130|3"/>
+  <equipment_up id="17609" srcItem="17609" aimItem="177010" needItems="120102|148,120202|148,120302|148,120402|148,120502|162,400033|56" costBelly="14000000" costExperience="0" costSoul="1450" type="130|3"/>
+<!-- 套装进化 -->
+  <equipment_up id="117010" srcItem="117010" aimItem="117011" needItems="2900003|1,2900004|1" costBelly="25000000" costExperience="0" costSoul="5000" type="140|3"/>
+  <equipment_up id="127010" srcItem="127010" aimItem="127011" needItems="2900003|1,2900004|1" costBelly="25000000" costExperience="0" costSoul="5000" type="140|3"/>
+  <equipment_up id="137010" srcItem="137010" aimItem="137011" needItems="2900003|1,2900004|1" costBelly="25000000" costExperience="0" costSoul="5000" type="140|3"/>
+  <equipment_up id="147010" srcItem="147010" aimItem="147011" needItems="2900003|1,2900004|1" costBelly="25000000" costExperience="0" costSoul="5000" type="140|3"/>
+  <equipment_up id="157010" srcItem="157010" aimItem="157011" needItems="2900003|1,2900004|1" costBelly="25000000" costExperience="0" costSoul="5000" type="140|3"/>
+  <equipment_up id="167010" srcItem="167010" aimItem="167011" needItems="2900003|1,2900004|1" costBelly="25000000" costExperience="0" costSoul="5000" type="140|3"/>
+  <equipment_up id="177010" srcItem="177010" aimItem="187011" needItems="2900003|1,2900004|1" costBelly="25000000" costExperience="0" costSoul="5000" type="140|3"/>
+
+  <equipment_up id="117011" srcItem="117011" aimItem="117012" needItems="2900003|2,2900004|2" costBelly="30000000" costExperience="0" costSoul="10000" type="145|3"/>
+  <equipment_up id="127011" srcItem="127011" aimItem="127012" needItems="2900003|2,2900004|2" costBelly="30000000" costExperience="0" costSoul="10000" type="145|3"/>
+  <equipment_up id="137011" srcItem="137011" aimItem="137012" needItems="2900003|2,2900004|2" costBelly="30000000" costExperience="0" costSoul="10000" type="145|3"/>
+  <equipment_up id="147011" srcItem="147011" aimItem="147012" needItems="2900003|2,2900004|2" costBelly="30000000" costExperience="0" costSoul="10000" type="145|3"/>
+  <equipment_up id="157011" srcItem="157011" aimItem="157012" needItems="2900003|2,2900004|2" costBelly="30000000" costExperience="0" costSoul="10000" type="145|3"/>
+  <equipment_up id="167011" srcItem="167011" aimItem="167012" needItems="2900003|2,2900004|2" costBelly="30000000" costExperience="0" costSoul="10000" type="145|3"/>
+  <equipment_up id="187011" srcItem="187011" aimItem="187012" needItems="2900003|2,2900004|2" costBelly="30000000" costExperience="0" costSoul="10000" type="145|3"/>
+  
+  <equipment_up id="117012" srcItem="117012" aimItem="117013" needItems="2900003|4,2900004|4" costBelly="35000000" costExperience="0" costSoul="20000" type="150|3"/>
+  <equipment_up id="127012" srcItem="127012" aimItem="127013" needItems="2900003|4,2900004|4" costBelly="35000000" costExperience="0" costSoul="20000" type="150|3"/>
+  <equipment_up id="137012" srcItem="137012" aimItem="137013" needItems="2900003|4,2900004|4" costBelly="35000000" costExperience="0" costSoul="20000" type="150|3"/>
+  <equipment_up id="147012" srcItem="147012" aimItem="147013" needItems="2900003|4,2900004|4" costBelly="35000000" costExperience="0" costSoul="20000" type="150|3"/>
+  <equipment_up id="157012" srcItem="157012" aimItem="157013" needItems="2900003|4,2900004|4" costBelly="35000000" costExperience="0" costSoul="20000" type="150|3"/>
+  <equipment_up id="167012" srcItem="167012" aimItem="167013" needItems="2900003|4,2900004|4" costBelly="35000000" costExperience="0" costSoul="20000" type="150|3"/>
+  <equipment_up id="187012" srcItem="187012" aimItem="187013" needItems="2900003|4,2900004|4" costBelly="35000000" costExperience="0" costSoul="20000" type="150|3"/>
+  
+  <equipment_up id="117013" srcItem="117013" aimItem="117014" needItems="2900003|8,2900004|8" costBelly="40000000" costExperience="0" costSoul="30000" type="155|3"/>
+  <equipment_up id="127013" srcItem="127013" aimItem="127014" needItems="2900003|8,2900004|8" costBelly="40000000" costExperience="0" costSoul="30000" type="155|3"/>
+  <equipment_up id="137013" srcItem="137013" aimItem="137014" needItems="2900003|8,2900004|8" costBelly="40000000" costExperience="0" costSoul="30000" type="155|3"/>
+  <equipment_up id="147013" srcItem="147013" aimItem="147014" needItems="2900003|8,2900004|8" costBelly="40000000" costExperience="0" costSoul="30000" type="155|3"/>
+  <equipment_up id="157013" srcItem="157013" aimItem="157014" needItems="2900003|8,2900004|8" costBelly="40000000" costExperience="0" costSoul="30000" type="155|3"/>
+  <equipment_up id="167013" srcItem="167013" aimItem="167014" needItems="2900003|8,2900004|8" costBelly="40000000" costExperience="0" costSoul="30000" type="155|3"/>
+  <equipment_up id="187013" srcItem="187013" aimItem="187014" needItems="2900003|8,2900004|8" costBelly="40000000" costExperience="0" costSoul="30000" type="155|3"/>
+  
+  <equipment_up id="117014" srcItem="117014" aimItem="117015" needItems="2900003|16,2900004|16" costBelly="45000000" costExperience="0" costSoul="40000" type="160|3"/>
+  <equipment_up id="127014" srcItem="127014" aimItem="127015" needItems="2900003|16,2900004|16" costBelly="45000000" costExperience="0" costSoul="40000" type="160|3"/>
+  <equipment_up id="137014" srcItem="137014" aimItem="137015" needItems="2900003|16,2900004|16" costBelly="45000000" costExperience="0" costSoul="40000" type="160|3"/>
+  <equipment_up id="147014" srcItem="147014" aimItem="147015" needItems="2900003|16,2900004|16" costBelly="45000000" costExperience="0" costSoul="40000" type="160|3"/>
+  <equipment_up id="157014" srcItem="157014" aimItem="157015" needItems="2900003|16,2900004|16" costBelly="45000000" costExperience="0" costSoul="40000" type="160|3"/>
+  <equipment_up id="167014" srcItem="167014" aimItem="167015" needItems="2900003|16,2900004|16" costBelly="45000000" costExperience="0" costSoul="40000" type="160|3"/>
+  <equipment_up id="187014" srcItem="187014" aimItem="187015" needItems="2900003|16,2900004|16" costBelly="45000000" costExperience="0" costSoul="40000" type="160|3"/>
+  
+  <equipment_up id="117015" srcItem="117015" aimItem="117016" needItems="2900003|32,2900004|32" costBelly="50000000" costExperience="0" costSoul="50000" type="165|3"/>
+  <equipment_up id="127015" srcItem="127015" aimItem="127016" needItems="2900003|32,2900004|32" costBelly="50000000" costExperience="0" costSoul="50000" type="165|3"/>
+  <equipment_up id="137015" srcItem="137015" aimItem="137016" needItems="2900003|32,2900004|32" costBelly="50000000" costExperience="0" costSoul="50000" type="165|3"/>
+  <equipment_up id="147015" srcItem="147015" aimItem="147016" needItems="2900003|32,2900004|32" costBelly="50000000" costExperience="0" costSoul="50000" type="165|3"/>
+  <equipment_up id="157015" srcItem="157015" aimItem="157016" needItems="2900003|32,2900004|32" costBelly="50000000" costExperience="0" costSoul="50000" type="165|3"/>
+  <equipment_up id="167015" srcItem="167015" aimItem="167016" needItems="2900003|32,2900004|32" costBelly="50000000" costExperience="0" costSoul="50000" type="165|3"/>
+  <equipment_up id="187015" srcItem="187015" aimItem="187016" needItems="2900003|32,2900004|32" costBelly="50000000" costExperience="0" costSoul="50000" type="165|3"/>
+  
+  <equipment_up id="117016" srcItem="117016" aimItem="117017" needItems="2900003|64,2900004|64" costBelly="55000000" costExperience="0" costSoul="60000" type="170|3"/>
+  <equipment_up id="127016" srcItem="127016" aimItem="127017" needItems="2900003|64,2900004|64" costBelly="55000000" costExperience="0" costSoul="60000" type="170|3"/>
+  <equipment_up id="137016" srcItem="137016" aimItem="137017" needItems="2900003|64,2900004|64" costBelly="55000000" costExperience="0" costSoul="60000" type="170|3"/>
+  <equipment_up id="147016" srcItem="147016" aimItem="147017" needItems="2900003|64,2900004|64" costBelly="55000000" costExperience="0" costSoul="60000" type="170|3"/>
+  <equipment_up id="157016" srcItem="157016" aimItem="157017" needItems="2900003|64,2900004|64" costBelly="55000000" costExperience="0" costSoul="60000" type="170|3"/>
+  <equipment_up id="167016" srcItem="167016" aimItem="167017" needItems="2900003|64,2900004|64" costBelly="55000000" costExperience="0" costSoul="60000" type="170|3"/>
+  <equipment_up id="187016" srcItem="187016" aimItem="187017" needItems="2900003|64,2900004|64" costBelly="55000000" costExperience="0" costSoul="60000" type="170|3"/>
+  
+  <equipment_up id="117017" srcItem="117017" aimItem="117018" needItems="2900003|128,2900004|128" costBelly="60000000" costExperience="0" costSoul="70000" type="175|3"/>
+  <equipment_up id="127017" srcItem="127017" aimItem="127018" needItems="2900003|128,2900004|128" costBelly="60000000" costExperience="0" costSoul="70000" type="175|3"/>
+  <equipment_up id="137017" srcItem="137017" aimItem="137018" needItems="2900003|128,2900004|128" costBelly="60000000" costExperience="0" costSoul="70000" type="175|3"/>
+  <equipment_up id="147017" srcItem="147017" aimItem="147018" needItems="2900003|128,2900004|128" costBelly="60000000" costExperience="0" costSoul="70000" type="175|3"/>
+  <equipment_up id="157017" srcItem="157017" aimItem="157018" needItems="2900003|128,2900004|128" costBelly="60000000" costExperience="0" costSoul="70000" type="175|3"/>
+  <equipment_up id="167017" srcItem="167017" aimItem="167018" needItems="2900003|128,2900004|128" costBelly="60000000" costExperience="0" costSoul="70000" type="175|3"/>
+  <equipment_up id="187017" srcItem="187017" aimItem="187018" needItems="2900003|128,2900004|128" costBelly="60000000" costExperience="0" costSoul="70000" type="175|3"/>
+  
+  <equipment_up id="117018" srcItem="117018" aimItem="117019" needItems="2900003|256,2900004|256" costBelly="65000000" costExperience="0" costSoul="80000" type="180|3"/>
+  <equipment_up id="127018" srcItem="127018" aimItem="127019" needItems="2900003|256,2900004|256" costBelly="65000000" costExperience="0" costSoul="80000" type="180|3"/>
+  <equipment_up id="137018" srcItem="137018" aimItem="137019" needItems="2900003|256,2900004|256" costBelly="65000000" costExperience="0" costSoul="80000" type="180|3"/>
+  <equipment_up id="147018" srcItem="147018" aimItem="147019" needItems="2900003|256,2900004|256" costBelly="65000000" costExperience="0" costSoul="80000" type="180|3"/>
+  <equipment_up id="157018" srcItem="157018" aimItem="157019" needItems="2900003|256,2900004|256" costBelly="65000000" costExperience="0" costSoul="80000" type="180|3"/>
+  <equipment_up id="167018" srcItem="167018" aimItem="167019" needItems="2900003|256,2900004|256" costBelly="65000000" costExperience="0" costSoul="80000" type="180|3"/>
+  <equipment_up id="187018" srcItem="187018" aimItem="187019" needItems="2900003|256,2900004|256" costBelly="65000000" costExperience="0" costSoul="80000" type="180|3"/>
+  
+  <equipment_up id="117019" srcItem="117019" aimItem="117020" needItems="2900003|512,2900004|512" costBelly="70000000" costExperience="0" costSoul="90000" type="185|3"/>
+  <equipment_up id="127019" srcItem="127019" aimItem="127020" needItems="2900003|512,2900004|512" costBelly="70000000" costExperience="0" costSoul="90000" type="185|3"/>
+  <equipment_up id="137019" srcItem="137019" aimItem="137020" needItems="2900003|512,2900004|512" costBelly="70000000" costExperience="0" costSoul="90000" type="185|3"/>
+  <equipment_up id="147019" srcItem="147019" aimItem="147020" needItems="2900003|512,2900004|512" costBelly="70000000" costExperience="0" costSoul="90000" type="185|3"/>
+  <equipment_up id="157019" srcItem="157019" aimItem="157020" needItems="2900003|512,2900004|512" costBelly="70000000" costExperience="0" costSoul="90000" type="185|3"/>
+  <equipment_up id="167019" srcItem="167019" aimItem="167020" needItems="2900003|512,2900004|512" costBelly="70000000" costExperience="0" costSoul="90000" type="185|3"/>
+  <equipment_up id="187019" srcItem="187019" aimItem="187020" needItems="2900003|512,2900004|512" costBelly="70000000" costExperience="0" costSoul="90000" type="185|3"/>
+  
+  <equipment_up id="117020" srcItem="117020" aimItem="117021" needItems="2900003|1024,2900004|1024" costBelly="75000000" costExperience="0" costSoul="100000" type="190|3"/>
+  <equipment_up id="127020" srcItem="127020" aimItem="127021" needItems="2900003|1024,2900004|1024" costBelly="75000000" costExperience="0" costSoul="100000" type="190|3"/>
+  <equipment_up id="137020" srcItem="137020" aimItem="137021" needItems="2900003|1024,2900004|1024" costBelly="75000000" costExperience="0" costSoul="100000" type="190|3"/>
+  <equipment_up id="147020" srcItem="147020" aimItem="147021" needItems="2900003|1024,2900004|1024" costBelly="75000000" costExperience="0" costSoul="100000" type="190|3"/>
+  <equipment_up id="157020" srcItem="157020" aimItem="157021" needItems="2900003|1024,2900004|1024" costBelly="75000000" costExperience="0" costSoul="100000" type="190|3"/>
+  <equipment_up id="167020" srcItem="167020" aimItem="167021" needItems="2900003|1024,2900004|1024" costBelly="75000000" costExperience="0" costSoul="100000" type="190|3"/>
+  <equipment_up id="187020" srcItem="187020" aimItem="187021" needItems="2900003|1024,2900004|1024" costBelly="75000000" costExperience="0" costSoul="100000" type="190|3"/>
+  
+  <equipment_up id="117021" srcItem="117021" aimItem="117022" needItems="2900003|2048,2900004|2048" costBelly="80000000" costExperience="0" costSoul="200000" type="195|3"/>
+  <equipment_up id="127021" srcItem="127021" aimItem="127022" needItems="2900003|2048,2900004|2048" costBelly="80000000" costExperience="0" costSoul="200000" type="195|3"/>
+  <equipment_up id="137021" srcItem="137021" aimItem="137022" needItems="2900003|2048,2900004|2048" costBelly="80000000" costExperience="0" costSoul="200000" type="195|3"/>
+  <equipment_up id="147021" srcItem="147021" aimItem="147022" needItems="2900003|2048,2900004|2048" costBelly="80000000" costExperience="0" costSoul="200000" type="195|3"/>
+  <equipment_up id="157021" srcItem="157021" aimItem="157022" needItems="2900003|2048,2900004|2048" costBelly="80000000" costExperience="0" costSoul="200000" type="195|3"/>
+  <equipment_up id="167021" srcItem="167021" aimItem="167022" needItems="2900003|2048,2900004|2048" costBelly="80000000" costExperience="0" costSoul="200000" type="195|3"/>
+  <equipment_up id="187021" srcItem="187021" aimItem="187022" needItems="2900003|2048,2900004|2048" costBelly="80000000" costExperience="0" costSoul="200000" type="195|3"/>
+
+
+
+
+
+</root>

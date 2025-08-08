@@ -1,0 +1,38 @@
+<root>
+  <infinity_battle_condition id="1" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="2000000"/>
+  <infinity_battle_condition id="2" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="3000000"/>
+  <infinity_battle_condition id="3" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="4000000"/>
+  <infinity_battle_condition id="4" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="5000000"/>
+  <infinity_battle_condition id="5" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="6000000"/>
+  <infinity_battle_condition id="6" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="7000000"/>
+  <infinity_battle_condition id="7" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="8000000"/>
+  <infinity_battle_condition id="8" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="9000000"/>
+  <infinity_battle_condition id="9" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="10000000"/>
+  <infinity_battle_condition id="10" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="11000000"/>
+  <infinity_battle_condition id="11" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="12000000"/>
+  <infinity_battle_condition id="12" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="13000000"/>
+  <!--<infinity_battle_condition id="13" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="17000000"/>
+  <infinity_battle_condition id="14" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="19000000"/>
+  <infinity_battle_condition id="15" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="21000000"/>
+  <infinity_battle_condition id="16" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="23000000"/>
+  <infinity_battle_condition id="17" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="25000000"/>
+  <infinity_battle_condition id="18" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="27000000"/>
+  <infinity_battle_condition id="19" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="29000000"/>
+  <infinity_battle_condition id="20" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="31000000"/>
+  <infinity_battle_condition id="21" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="33000000"/>
+  <infinity_battle_condition id="22" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="35000000"/>
+  <infinity_battle_condition id="23" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="37000000"/>
+  <infinity_battle_condition id="24" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC" fightForce="40000000"/>
+  <infinity_battle_condition id="25" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="26" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="27" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="28" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="29" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="30" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="31" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="32" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="33" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="34" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="35" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>
+  <infinity_battle_condition id="36" totalRound="" holdRound="" killMonsterId="" describe="Hạ gục NPC"/>-->
+</root>

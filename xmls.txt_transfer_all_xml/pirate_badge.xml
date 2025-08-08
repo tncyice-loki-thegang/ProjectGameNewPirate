@@ -1,0 +1,13 @@
+<root>
+	<pirate_badge id="1" quality="6" name="Badge Chopper" description="&quot;Badge Chopper.&quot;" property="1|5000" icon="bitmaps/pirate_flag/huyhieuchopper.png" />
+	<pirate_badge id="2" quality="6" name="Badge Brook" description="&quot;Badge Brook.&quot;" property="1|10000" icon="bitmaps/pirate_flag/huyhieubrook.png" />
+	<pirate_badge id="3" quality="6" name="Badge Franky" description="&quot;Badge Franky.&quot;" property="1|15000" icon="bitmaps/pirate_flag/huyhieufranky.png" />
+	<pirate_badge id="4" quality="6" name="Badge Nico Robin" description="&quot;Badge Nico Robin.&quot;" property="1|20000" icon="bitmaps/pirate_flag/huyhieunicorobin.png" />
+	<pirate_badge id="5" quality="6" name="Badge Nami" description="&quot;Badge Nami.&quot;" property="1|25000" icon="bitmaps/pirate_flag/huyhieunami.png" />
+	<pirate_badge id="6" quality="6" name="Badge Usopp" description="&quot;Badge Usopp.&quot;" property="1|30000" icon="bitmaps/pirate_flag/huyhieusopp.png" />
+	<pirate_badge id="7" quality="6" name="Badge Jinbe" description="&quot;Badge Jinbe.&quot;" property="1|35000" icon="bitmaps/pirate_flag/huyhieujinbe.png" />
+	<pirate_badge id="8" quality="6" name="Badge Sanji" description="&quot;Badge Sanji.&quot;" property="1|40000" icon="bitmaps/pirate_flag/huyhieusanji.png" />
+	<pirate_badge id="9" quality="6" name="Badge Zoro" description="&quot;Badge Zoro.&quot;" property="1|45000" icon="bitmaps/pirate_flag/huyhieuzoro.png" />
+	<pirate_badge id="10" quality="6" name="Badge Luffy" description="&quot;Badge Luffy.&quot;" property="1|50000" icon="bitmaps/pirate_flag/huyhieuluffy.png" />	
+	<pirate_badge id="11" quality="6" name="Badge Straw Hat Pirates" description="&quot;Badge Straw Hat Pirates.&quot;" property="1|100000,2|1000" icon="bitmaps/pirate_flag/huyhieubangmurom.png" />	
+</root>

@@ -1,0 +1,72 @@
+<root>
+  <questions id="1" question="Công chúa Đảo Người Cá tên là?" answerA="Shirahoshi" answerB="Bách Tinh" answerC="Snow" correctAnswer="1"/>
+  <questions id="2" question="Đảo Người Cá tổng cộng có mấy hoàng tử?" answerA="1 người" answerB="3 người" answerC="4 người" correctAnswer="2"/>
+  <questions id="3" question="Tên của Hoàng tử cả Đảo Người Cá là gì?" answerA="Manboshi" answerB="Ryuboshi" answerC="Fukaboshi" correctAnswer="3"/>
+  <questions id="4" question="Màu tóc của Công chúa người cá là gì?" answerA="Màu trắng" answerB="Màu hồng" answerC="Màu vàng" correctAnswer="2"/>
+  <questions id="5" question="Công chúa người cá có mấy anh trai?" answerA="1 người" answerB="3 người" answerC="4 người" correctAnswer="2"/>
+  <questions id="6" question="Tên của quốc vương Đảo Người Cá là gì?" answerA="Neptune" answerB="Fukaboshi" answerC="Shirahoshi" correctAnswer="1"/>
+  <questions id="7" question="Đảo Người Cá ở độ sâu bao nhiêu m dưới đáy biển?" answerA="10000" answerB="1000" answerC="100" correctAnswer="1"/>
+  <questions id="8" question="Thân hình của Công chúa người cá trong vương tộc là?" answerA="Nhỏ nhất" answerB="Lớn nhất" answerC="Loại vừa" correctAnswer="2"/>
+  <questions id="9" question="Thông qua Đảo Người Cá sẽ đến vùng biển nào?" answerA="Tân Thế Giới" answerB="Biển mới" answerC="Đại Hải Trình" correctAnswer="1"/>
+  <questions id="10" question="Tân Thế Giới là thế giới thuộc về ai?" answerA="Thất Vũ Hải" answerB="Tứ Hoàng" answerC="Râu Trắng" correctAnswer="2"/>
+  <questions id="11" question="Trong Tứ Hoàng có mấy người phụ nữ?" answerA="3 người" answerB="2 người" answerC="1 người" correctAnswer="3"/>
+  <questions id="12" question="Nữ hải tặc được gọi là “Big Mom” được người đời gọi là gì?" answerA="Tứ Hoàng" answerB="Thất Vũ Hải" answerC="Người phụ nữ của Vua Hải Tặc" correctAnswer="1"/>
+  <questions id="13" question="Sau khi Râu Trắng chết, ai kế vị ngôi Tứ Hoàng?" answerA="Râu Đỏ" answerB="Brownbeard" answerC="Râu Đen" correctAnswer="3"/>
+  <questions id="14" question="Tầng 6 Impel Down là địa ngục gì?" answerA="Địa ngục Vĩnh Cửu" answerB="Địa ngục Không Lửa" answerC="Địa ngục Rực cháy" correctAnswer="1"/>
+  <questions id="15" question="Luffy từng cho động vật nào kéo Thousand Sunny?" answerA="Cá heo" answerB="Cự quái biển sâu" answerC="Bạch Long" correctAnswer="2"/>
+  <questions id="16" question="Đầu tàu của Thousand Sunny là?" answerA="Hoa hướng dương" answerB="Hổ" answerC="Sư tử" correctAnswer="3"/>
+  <questions id="17" question="Thủ lĩnh phản quân Đảo Người Cá là?" answerA="Hordy Jones" answerB="Jinbe" answerC="Tiger" correctAnswer="1"/>
+  <questions id="18" question="Jinbe bị tước danh hiệu gì?" answerA="Tứ Hoàng" answerB="Hải Hiệp" answerC="Thất Vũ Hải" correctAnswer="3"/>
+  <questions id="19" question="Jinbe từng là thành viên của Băng hải tặc nào?" answerA="Băng hải tặc Mặt Trời" answerB="Băng hải tặc Nười Cá" answerC="Băng New Fishman" correctAnswer="1"/>
+  <questions id="20" question="Băng hải tặc Mặt Trời ngoài người cá  và cá người, còn có thành viên thuộc chủng tộc nào?" answerA="Thiên Long Nhân" answerB="Người skypia" answerC="Con người" correctAnswer="3"/>
+  <questions id="21" question="Kiểu tóc của Nami 2 năm sau là?" answerA="Dài thẳng màu cam" answerB="Xoăn dài màu cam" answerC="Tóc ngắn màu cam" correctAnswer="2"/>
+  <questions id="22" question="Luffy theo ai học cách dùng Haki?" answerA="Boa Hancock" answerB="Shank tóc đỏ" answerC="Rayleigh" correctAnswer="3"/>
+  <questions id="23" question="Hòn đảo Sanji sống 2 năm, không có thứ gì?" answerA="Không có phụ nữ" answerB="Không có đàn ông" answerC="Không có thức ăn" correctAnswer="1"/>
+  <questions id="24" question="Người làm bạn với Zoro 2 năm là?" answerA="Tashigi" answerB="Nami" answerC="Perona" correctAnswer="3"/>
+  <questions id="25" question="Dạy Zoro kiếm thuật trong 2 năm là?" answerA="Perona" answerB="Mihawk" answerC="Võ sĩ" correctAnswer="2"/>
+  <questions id="26" question="Zoro có bao nhiêu thanh kiếm?" answerA="3 thanh" answerB="4 thanh" answerC="5 thanh" correctAnswer="1"/>
+  <questions id="27" question="Người sở hữ trái ác ma không thể tắm gì?" answerA="Tắm bọt xà phòng" answerB="Tắm nước biển" answerC="Tắm vòi hoa sen" correctAnswer="2"/>
+  <questions id="28" question="Võ sỹ là danh hiệu trong quốc gia nào?" answerA="Nước Wano" answerB="Đảo Bong Bóng" answerC="Thôn Cối Xay Gió" correctAnswer="1"/>
+  <questions id="29" question="Biệt danh của của Lily là gì?" answerA="Kẻ háu ăn Lily" answerB="Minion Lily" answerC="Người khổng lồ Lily" correctAnswer="1"/>
+  <questions id="30" question="Haki có mấy loại?" answerA="3 loại" answerB=" 1 loại" answerC="4 loại" correctAnswer="1"/>
+  <questions id="31" question="Boa Hancock và Luffy cùng có loại Haki gì?" answerA="Haki Bá Vương" answerB="Haki Bá chủ" answerC="Haki Bá Giả" correctAnswer="1"/>
+  <questions id="32" question="Doflamingo trong Thất Vũ Hải, trái ác quỷ của hắn là?" answerA="Trái con rối" answerB="Trái Ito Ito" answerC="Trái bóng" correctAnswer="2"/>
+  <questions id="33" question="Nguyên soái mới của 2 năm sau là?" answerA="Aokiji" answerB="Khỉ vàng Kizaru" answerC="Akainu " correctAnswer="3"/>
+  <questions id="34" question="Dưới đây ai là Đại tướng Thủy Đội mới?" answerA="Issho" answerB="Dragon" answerC="Sabo" correctAnswer="1"/>
+  <questions id="35" question="Ai là người rời khỏi Thủy Đội?" answerA="Smoker" answerB="Tashigi" answerC="Aokiji" correctAnswer="3"/>
+  <questions id="36" question="Brook sau 2 năm là bao nhiêu tuổi?" answerA="88 tuổi" answerB="90 tuổi" answerC="100 tuổi" correctAnswer="2"/>
+  <questions id="37" question="Trong Băng Mũ Rơm, ai là nhạc công?" answerA="Brook" answerB="Franky" answerC="Usopp " correctAnswer="1"/>
+  <questions id="38" question="Ai tham gia làm Thousand Sunny?" answerA="Frankie" answerB="Luffy" answerC="Robin" correctAnswer="1"/>
+  <questions id="39" question="Râu đen sở hữu năng lực của mấy trái ác quỷ?" answerA="1 loại" answerB="2 loại" answerC="3 loại" correctAnswer="2"/>
+  <questions id="40" question="Sabo là gì của Luffy?" answerA="Anh cả" answerB="Anh hai" answerC="Anh ba" correctAnswer="2"/>
+  <questions id="41" question="Vivi là?" answerA="Giáo sư" answerB="Bác sỹ" answerC="Công chúa" correctAnswer="3"/>
+  <questions id="42" question="Garp là ông nội của Luffy, vậy ai là con của Garp?" answerA="Dragon" answerB="Roger" answerC="Rayleigh" correctAnswer="1"/>
+  <questions id="43" question="Trái nhân tạo do ai nghiên cứu ra?" answerA="Roger" answerB="Monet" answerC="Caesar" correctAnswer="3"/>
+  <questions id="44" question="Toàn thân Brook đều là?" answerA="Xương" answerB="lông tóc" answerC="Bánh mì" correctAnswer="1"/>
+  <questions id="45" question="Băng Mũ Rơm sau khi đến Tân Thế Giới, bọn họ ở vùng biển nào?" answerA="Vùng biển vui vẻ" answerB="Vùng biển Đau buồn" answerC="Vùng biển thích khóc" correctAnswer="2"/>
+  <questions id="46" question="Sau khi gặp Lily, Băng Mũ Rơm quyết định phải đi cứu ai?" answerA="Cha của Lily" answerB="Người yêu của Lily" answerC="Bạn của Lily" correctAnswer="1"/>
+  <questions id="47" question="Koby gia nhập?" answerA="Thủy Đội" answerB="Liên minh hải tặc" answerC="Lớp khoa học" correctAnswer="1"/>
+  <questions id="48" question="Lily nhập vào thân thể của Luffy rồi biến lớn, Luffy biến thành?" answerA="Thiên Long Nhân" answerB="Robot" answerC="Người khổng lồ" correctAnswer="3"/>
+  <questions id="49" question="Ai cùng Luffy hợp thành Liên minh hải tặc?" answerA="Rayleigh" answerB="Boa Hancock" answerC="Law" correctAnswer="3"/>
+  <questions id="50" question="Luffy trên Đảo Băng Lửa gặp được?" answerA="Rồng" answerB="Rayleigh" answerC="Tóc đỏ" correctAnswer="1"/>
+  <questions id="51" question="Những ai đã từng đánh nhau trên Đảo Băng Lửa?" answerA="Aokiji&amp;Kizaru" answerB="Kizaru &amp; Akainu" answerC="Aokiji &amp; Akainu " correctAnswer="3"/>
+  <questions id="52" question="Rayleigh từng có biệt hiệu là?" answerA="Tay trái của Vua Hải Tặc" answerB="Tay trái của Vua Hải Tặc" answerC="Kiếm của Vua Hải Tặc" correctAnswer="1"/>
+  <questions id="53" question="Rayleigh từng là gì của Vua Hải Tặc Roger?" answerA="Thuyền phó" answerB="Đầu bếp" answerC="Đội đặc công chiến đấu" correctAnswer="1"/>
+  <questions id="54" question="Mục tiêu giống nhau của Luffy và Law là?" answerA="Đại tướng Thủy Đội" answerB="Tứ Hoàng" answerC="Quân cách mạng" correctAnswer="2"/>
+  <questions id="55" question="Garp thích cho Luffy?" answerA="Cú đấm phẫn nộ" answerB="Fist of Love" answerC="Đá một cú đau" correctAnswer="2"/>
+  <questions id="56" question="Thuyền trưởng của Băng hải tặc Trái Tim là?" answerA="Perona" answerB="Law" answerC="Tóc đỏ" correctAnswer="2"/>
+  <questions id="57" question="Bepo thuộc Băng hải tặc nào?" answerA="Băng hải tặc động vật" answerB="Băng hải tặc Trái Tim" answerC="Băng hải tặc Kungfu" correctAnswer="2"/>
+  <questions id="58" question="Law có đao gì?" answerA="Quỷ cười" answerB="Quỷ khóc" answerC="Quỷ khổ" correctAnswer="2"/>
+  <questions id="59" question="Sau trận chiến Marineford, Thủy Đội treo thưởng Luffy là?" answerA="300 triệu beri" answerB="400tr beri" answerC="1 tỷ beri" correctAnswer="2"/>
+  <questions id="60" question="Luffy sau khi đánh bại rồng trên Đảo Băng Lửa, làm gì rồng?" answerA="Ăn mất rồi" answerB="Làm vật nuôi" answerC="Làm thú cưỡi" correctAnswer="1"/>
+  <questions id="61" question="Luffy gặp gì trên Đảo Băng Lửa?" answerA="Nhân mã" answerB="Thiên mã" answerC="Phi mã" correctAnswer="1"/>
+  <questions id="62" question="Cờ hải tặc của Luffy là?" answerA="Mũ rơm &amp; Đầu lâu" answerB="Mũ rơm &amp; Thịt có xương" answerC="Mũ rơm &amp; cối xay gió" correctAnswer="1"/>
+  <questions id="63" question="Mẹ nuôi của Nami là?" answerA="Nữ hải tặc" answerB="Hoa tiêu" answerC="Nữ Thủy Đội" correctAnswer="3"/>
+  <questions id="64" question="Tàu của Băng hải tặc Trái Tim là?" answerA="Thuyền gỗ" answerB="Chiến hạm" answerC="Tàu ngầm" correctAnswer="3"/>
+  <questions id="65" question="Thousand Sunny do gỗ của cây gì đóng thành?" answerA="Adam" answerB="Eva" answerC="Cây bong bóng" correctAnswer="1"/>
+  <questions id="66" question="Vũ khí của Nami do ai chế tạo?" answerA="Usopp " answerB="Franky" answerC="Nami" correctAnswer="1"/>
+  <questions id="67" question="Tên người máy lớn do Franky chế tạo là gì?" answerA="Siêu nhân Franky" answerB="Franky tướng quân" answerC="Người sắt Franky" correctAnswer="2"/>
+  <questions id="68" question="Băng Mũ Rơm đổ bộ lên Đảo Băng Lửa sớm nhất ở?" answerA="Khu vực bốc cháy" answerB="Hồ trung tâm" answerC="Vùng đất Lạnh lẽo" correctAnswer="1"/>
+  <questions id="69" question="“Mứt” do Carsar làm ra sẽ khiến trẻ con?" answerA="Biến thành khổng lồ" answerB="Biến thành siêu năng lực" answerC="Biến nhỏ" correctAnswer="1"/>
+  <questions id="70" question="Đảo Băng Lửa vốn thuộc thế lực nào?" answerA="Thủy Đội" answerB="Tứ Hoàng" answerC="Quân hải tặc mới" correctAnswer="1"/>
+</root>

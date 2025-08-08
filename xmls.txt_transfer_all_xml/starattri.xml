@@ -1,0 +1,31 @@
+<root>
+  <starattri order="1" ID="1" name="S.mệnh" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="2" ID="3" name="S.mạnh" rate="0" factor="100" br="0" decimal="1"/>
+  <starattri order="3" ID="4" name="N.nhẹn" rate="0" factor="100" br="0" decimal="1"/>
+  <starattri order="4" ID="5" name="Trí lực" rate="0" factor="100" br="0" decimal="1"/>
+  <starattri order="5" ID="6" name="V.công" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="6" ID="7" name="TC" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="7" ID="8" name="M.pháp" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="8" ID="9" name="V.phòng" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="9" ID="10" name="Phòng TC" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="10" ID="11" name="M.phòng" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="11" ID="2" name="S.mệnh" rate="1" factor="100" br="0" decimal="2"/>
+  <starattri order="12" ID="25" name="V.công" rate="1" factor="10000" br="0" decimal="2"/>
+  <starattri order="13" ID="26" name="V.phòng" rate="1" factor="10000" br="0" decimal="2"/>
+  <starattri order="14" ID="27" name="TC" rate="1" factor="10000" br="0" decimal="2"/>
+  <starattri order="15" ID="28" name="Phòng TC" rate="1" factor="10000" br="0" decimal="2"/>
+  <starattri order="16" ID="29" name="M.pháp" rate="1" factor="10000" br="0" decimal="2"/>
+  <starattri order="17" ID="30" name="M.phòng" rate="1" factor="10000" br="0" decimal="2"/>
+  <starattri order="18" ID="13" name="C.xác" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="19" ID="14" name="Bạo kích" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="20" ID="15" name="Ngăn chặn" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="21" ID="16" name="Tránh né" rate="0" factor="1" br="0" decimal="0"/>
+  <starattri order="31" ID="35" name="V.công thiên phú" rate="0" factor="10000" br="1" decimal="2"/>
+  <starattri order="32" ID="36" name="V.phòng thiên phú" rate="0" factor="10000" br="1" decimal="2"/>
+  <starattri order="33" ID="37" name="TC thiên phú" rate="0" factor="10000" br="1" decimal="2"/>
+  <starattri order="34" ID="38" name="Phòng TC thiên phú" rate="0" factor="10000" br="1" decimal="2"/>
+  <starattri order="35" ID="39" name="M.pháp thiên phú" rate="0" factor="10000" br="1" decimal="2"/>
+  <starattri order="36" ID="40" name="M.phòng thiên phú" rate="0" factor="10000" br="1" decimal="2"/>
+  <starattri order="37" ID="41" name="S.thương cuối" rate="0" factor="1" br="1" decimal="0"/>
+  <starattri order="38" ID="42" name="Miễn s.thương cuối" rate="0" factor="1" br="1" decimal="0"/>
+</root>

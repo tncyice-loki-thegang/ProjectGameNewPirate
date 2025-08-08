@@ -1,0 +1,9 @@
+<root>
+<blood_exchange id="1" needStars="3000" itemTempId="1100002" getNum="1" needPrestige="" neeLevel="" limitTime="0" canBatch="0"/>
+<blood_exchange id="2" needStars="100" itemTempId="70164" getNum="1" needPrestige="" neeLevel="" limitTime="1" canBatch="0"/>
+<blood_exchange id="3" needStars="200" itemTempId="70165" getNum="1" needPrestige="" neeLevel="" limitTime="1" canBatch="0"/>
+<blood_exchange id="4" needStars="1" itemTempId="120018" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+<blood_exchange id="5" needStars="1" itemTempId="120019" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+<blood_exchange id="6" needStars="10" itemTempId="70013" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+<!-- <blood_exchange id="7" needStars="500" itemTempId="73026" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/> -->
+</root>

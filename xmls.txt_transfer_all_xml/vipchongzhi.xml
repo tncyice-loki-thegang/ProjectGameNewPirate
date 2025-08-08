@@ -1,0 +1,59 @@
+<vipDesc>
+  <privilege desc="{00ff00●Mở H.thống truyền thừa t.bị}" vip1="true" vip2="true" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Mở tìm bảo thạch nhanh}" vip1="true" vip2="true" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Mở góp vàng cấp cao Công hội" vip1="true" vip2="true" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Miễn phí qua phụ bản tinh anh" vip1="false" vip2="true" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Đấu trường bỏ qua chiến đấu}" vip1="false" vip2="true" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Nghiên cứu mở 4h" vip1="false" vip2="true" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Nhắc nhở t.điểm thao tác Mê trận B.thạch" vip1="false" vip2="true" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Luyện nhanh Địa ngục dung luyện" vip1="false" vip2="false" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Boss TG mở tự động tấn công}" vip1="false" vip2="false" vip3="true" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="NV h.ngày có thể hoàn thành nhanh" vip1="false" vip2="false" vip3="false" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Phụ bản bỏ qua hình động}" vip1="false" vip2="false" vip3="false" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Chế đồ nhanh}" vip1="false" vip2="false" vip3="false" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Mở t.năng vào nhanh}" vip1="false" vip2="false" vip3="false" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●T.năng c.trường tấn công tự động}" vip1="false" vip2="false" vip3="false" vip4="true" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Nhận nhanh thưởng Huyết chiến tới cùng" vip1="false" vip2="false" vip3="false" vip4="false" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Vĩnh viễn cường hóa 100%}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Vàng mở bảo thạch cảnh số 4}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Hiển thị phần thưởng ra khơi" vip1="false" vip2="false" vip3="false" vip4="false" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Mở thăm dò cấp tốc bảo thạch}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Bắt đầu t.năng tụ hồn nhanh}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="true" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Miễn phí treo máy Boss thế giới}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Boss thế giới lập tức hồi sinh}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Vàng mở bản đồ kho báu đỏ" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Chức năng tự động tham gia chiến trường}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="true" vip7="true" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Vàng tăng tốc đồng đội" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="false" vip7="false" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Vàng tăng tốc Pet" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="false" vip7="false" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="Đ.ngục Dung luyện tinh luyện nhanh" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="false" vip7="false" vip8="true" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●Mở hội đàm miễn phí}" vip1="false" vip2="false" vip3="false" vip4="false" vip5="false" vip6="false" vip7="false" vip8="false" vip9="true" vip10="true" vip11="true" vip12="true"/>
+  <privilege desc="{00ff00●VIP lương mỗi ngày (Beri*Lv)}" vip1="1200" vip2="1400" vip3="1700" vip4="2000" vip5="2500" vip6="3000" vip7="3500" vip8="4000" vip9="4500" vip10="5000" vip11="6000" vip12="7000"/>
+  <privilege desc="Lực HĐ mua lớn nhất" vip1="15" vip2="20" vip3="25" vip4="30" vip5="35" vip6="40" vip7="45" vip8="50" vip9="55" vip10="60" vip11="80" vip12="100"/>
+  <privilege desc="Thứ tự kiến trúc lớn nhất" vip1="3" vip2="3" vip3="4" vip4="4" vip5="5" vip6="5" vip7="6" vip8="6" vip9="7" vip10="8" vip11="8" vip12="8"/>
+  <privilege desc="Ô huấn luyện lớn nhất" vip1="4" vip2="5" vip3="5" vip4="5" vip5="6" vip6="6" vip7="7" vip8="8" vip9="9" vip10="10" vip11="10" vip12="10"/>
+  <privilege desc="Mở t.g huấn luyện lớn nhất" vip1="24h" vip2="24h" vip3="24h" vip4="48h" vip5="48h" vip6="72h" vip7="72h" vip8="72h" vip9="72h" vip10="72h" vip11="72h" vip12="72h"/>
+  <privilege desc="Mở kiểu huấn luyện lớn nhất" vip1="200%" vip2="200%" vip3="250%" vip4="250%" vip5="250%" vip6="500%" vip7="500%" vip8="500%" vip9="500%" vip10="500%" vip11="500%" vip12="500%"/>
+  <privilege desc="Số Pet mang theo lớn nhất" vip1="5" vip2="5" vip3="6" vip4="6" vip5="7" vip6="7" vip7="8" vip8="8" vip9="9" vip10="10" vip11="12" vip12="15"/>
+  <privilege desc="Mở max k.năng khóa của Pet" vip1="1" vip2="1" vip3="1" vip4="1" vip5="2" vip6="2" vip7="3" vip8="3" vip9="4" vip10="5" vip11="5" vip12="5"/>
+  <privilege desc="Mở max số lần tăng tốc T.luyện" vip1="10" vip2="15" vip3="15" vip4="20" vip5="20" vip6="25" vip7="30" vip8="35" vip9="40" vip10="45" vip11="55" vip12="70"/>
+  <privilege desc="Tu luyện có thể mở hình thức" vip1="8h" vip2="8h" vip3="12h" vip4="12h" vip5="24h" vip6="24h" vip7="24h" vip8="24h" vip9="24h" vip10="24h" vip11="24h" vip12="24h"/>
+  <privilege desc="Số lần mua đấu trường" vip1="10" vip2="15" vip3="20" vip4="25" vip5="30" vip6="35" vip7="40" vip8="45" vip9="50" vip10="55" vip11="65" vip12="80"/>
+  <privilege desc="Số lần mở thợ/ngày" vip1="1" vip2="1" vip3="1" vip4="2" vip5="2" vip6="3" vip7="3" vip8="4" vip9="4" vip10="5" vip11="6" vip12="7"/>
+  <privilege desc="Lần dùng vàng ra khơi" vip1="40" vip2="60" vip3="80" vip4="100" vip5="120" vip6="140" vip7="160" vip8="180" vip9="200" vip10="220" vip11="300" vip12="400"/>
+  <privilege desc="Lần dùng vàng chế biến" vip1="40" vip2="60" vip3="80" vip4="100" vip5="120" vip6="140" vip7="160" vip8="180" vip9="200" vip10="220" vip11="300" vip12="400"/>
+  <privilege desc="Số lần làm mới tầm bảo" vip1="10" vip2="15" vip3="20" vip4="25" vip5="30" vip6="40" vip7="65" vip8="90" vip9="120" vip10="150" vip11="180" vip12="200"/>
+  <privilege desc="Cấp tẩy luyện tiềm năng" vip1="Thường" vip2="Thường" vip3="Thường" vip4="Đại sư" vip5="Đại sư" vip6="Đại sư" vip7="Đại sư" vip8="Tông sư" vip9="Tông sư" vip10="Tông sư" vip11="Tông sư" vip12="Tông sư"/>
+  <privilege desc="Số lần làm mới hội đàm" vip1="30" vip2="60" vip3="80" vip4="120" vip5="240" vip6="440" vip7="700" vip8="1000" vip9="vô hạn" vip10="vô hạn" vip11="vô hạn" vip12="vô hạn"/>
+  <privilege desc="{00ff00●Lần tặng miễn phí độ T.Mật}" vip1="1" vip2="1" vip3="4" vip4="4" vip5="4" vip6="4" vip7="4" vip8="4" vip9="4" vip10="4" vip11="4" vip12="4"/>
+  <privilege desc="{00ff00●Lần chuyển miễn phí t.năng/tuần}" vip1="0" vip2="0" vip3="0" vip4="1" vip5="1" vip6="1" vip7="1" vip8="1" vip9="1" vip10="1" vip11="2" vip12="2"/>
+  <privilege desc="{00ff00●Số lần tụ hồn miễn phí}" vip1="0" vip2="0" vip3="1" vip4="1" vip5="2" vip6="2" vip7="3" vip8="3" vip9="3" vip10="3" vip11="3" vip12="3"/>
+  <privilege desc="{00ff00●Lần nuôi cá/ngày}" vip1="3" vip2="3" vip3="3" vip4="3" vip5="4" vip6="4" vip7="4" vip8="4" vip9="4" vip10="4" vip11="4" vip12="4"/>
+  <privilege desc="{00ff00●Lần miễn phí bắt cá/ngày}" vip1="1" vip2="1" vip3="1" vip4="1" vip5="1" vip6="2" vip7="2" vip8="2" vip9="2" vip10="2" vip11="2" vip12="2"/>
+  <privilege desc="{00ff00●Số lần vàng nhận thưởng Impel Down}" vip1="1" vip2="1" vip3="2" vip4="2" vip5="2" vip6="3" vip7="3" vip8="3" vip9="4" vip10="4" vip11="5" vip12="5"/>
+  <privilege desc="{00ff00●Số lần nhận miễn phí Impel Down}" vip1="2" vip2="2" vip3="2" vip4="2" vip5="3" vip6="3" vip7="3" vip8="3" vip9="4" vip10="4" vip11="4" vip12="4"/>
+  <privilege desc="{00ff00●Số lần mua vàng thách đấu PB Vực Sâu}" vip1="0" vip2="0" vip3="1" vip4="1" vip5="1" vip6="2" vip7="2" vip8="2" vip9="3" vip10="3" vip11="3" vip12="3"/>
+  <privilege desc="{00ff00●Lần lật bài lại của PB Vực Sâu}" vip1="1" vip2="1" vip3="1" vip4="1" vip5="1" vip6="1" vip7="1" vip8="2" vip9="2" vip10="2" vip11="2" vip12="2"/>
+  <privilege desc="{00ff00●Dial không khóa mỗi ngày}" vip1="2000" vip2="2000" vip3="2000" vip4="2500" vip5="2500" vip6="2500" vip7="2500" vip8="3000" vip9="3000" vip10="3000" vip11="3000" vip12="3500"/>
+  <privilege desc="Điểm đóng góp C.hội/ngày" vip1="3" vip2="5" vip3="7" vip4="9" vip5="11" vip6="13" vip7="15" vip8="17" vip9="19" vip10="21" vip11="23" vip12="25"/>
+  <privilege desc="Lần vàng Vùng biển Thần bí" vip1="20" vip2="20" vip3="23" vip4="23" vip5="25" vip6="25" vip7="28" vip8="28" vip9="32" vip10="32" vip11="35" vip12="35"/>
+</vipDesc>

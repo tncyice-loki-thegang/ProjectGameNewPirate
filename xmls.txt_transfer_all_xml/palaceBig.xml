@@ -1,0 +1,39 @@
+<root>
+  <palaceBig id="1" seapalaceId="101,102,103,104,105,106,107,108,109,110" Coord="" icon="1" palaceName="Cung Thanh Hải" next="2" level="102" item=""/>
+  <palaceBig id="2" seapalaceId="201,202,203,204,205,206,207,208,209,210" Coord="" icon="2" palaceName="Cung Bạch Hải" next="3" level="104" item="120034|1"/>
+  <palaceBig id="3" seapalaceId="301,302,303,304,305,306,307,308,309,310" Coord="" icon="3" palaceName="Cung Thâm Hải" next="4" level="106" item="120034|1"/>
+  <palaceBig id="4" seapalaceId="401,402,403,404,405,406,407,408,409,410" Coord="" icon="4" palaceName="Cung Tinh Hải" next="5" level="108" item="120034|1"/>
+  <palaceBig id="5" seapalaceId="501,502,503,504,505,506,507,508,509,510" Coord="" icon="5" palaceName="Cung Tùng Tinh" next="6" level="110" item="120034|1"/>
+  <palaceBig id="6" seapalaceId="601,602,603,604,605,606,607,608,609,610" Coord="" icon="6" palaceName="Cung Vân Tinh" next="7" level="112" item="120034|1"/>
+  <palaceBig id="7" seapalaceId="701,702,703,704,705,706,707,708,709,710" Coord="" icon="7" palaceName="Cung Hải Hoàng" next="8" level="114" item="120034|1"/>
+  <palaceBig id="8" seapalaceId="801,802,803,804,805,806,807,808,809,810" Coord="" icon="8" palaceName="Cung Long Vương" next="9" level="116" item="120034|1"/>
+  <palaceBig id="9" seapalaceId="901,902,903,904,905,906,907,908,909,910" Coord="" icon="9" palaceName="Cung Hải Thần" next="10" level="118" item="120034|1"/>
+  <palaceBig id="10" seapalaceId="1001,1002,1003,1004,1005,1006,1007,1008,1009,1010" Coord="" icon="10" palaceName="Cung Bát Chỉ" next="11" level="120" item="120034|1"/>
+  <palaceBig id="11" seapalaceId="1101,1102,1103,1104,1105,1106,1107,1108,1109,1110" Coord="" icon="11" palaceName="Cung Yubashiri" next="12" level="122" item="120034|1"/>
+  <palaceBig id="12" seapalaceId="1201,1202,1203,1204,1205,1206,1207,1208,1209,1210" Coord="" icon="12" palaceName="Cung Kitetsu" next="13" level="124" item="120034|1"/>
+  <palaceBig id="13" seapalaceId="1301,1302,1303,1304,1305,1306,1307,1308,1309,1310" Coord="" icon="13" palaceName="Cung Shigure" next="14" level="126" item="120034|1"/>
+  <palaceBig id="14" seapalaceId="1401,1402,1403,1404,1405,1406,1407,1408,1409,1410" Coord="" icon="14" palaceName="Cung Kashu" next="15" level="128" item="120034|1"/>
+  <palaceBig id="15" seapalaceId="1501,1502,1503,1504,1505,1506,1507,1508,1509,1510" Coord="" icon="15" palaceName="Cung Hòa Đạo" next="16" level="130" item="120034|1"/>
+  <palaceBig id="16" seapalaceId="1601,1602,1603,1604,1605,1606,1607,1608,1609,1610" Coord="" icon="16" palaceName="Cung Shusui" next="17" level="132" item="120034|1"/>
+  <palaceBig id="17" seapalaceId="1701,1702,1703,1704,1705,1706,1707,1708,1709,1710" Coord="" icon="17" palaceName="Cung Oto" next="18" level="134" item="120034|1"/>
+  <palaceBig id="18" seapalaceId="1801,1802,1803,1804,1805,1806,1807,1808,1809,1810" Coord="" icon="18" palaceName="Cung Kogarashi" next="19" level="136" item="120034|1"/>
+  <palaceBig id="19" seapalaceId="1901,1902,1903,1904,1905,1906,1907,1908,1909,1910" Coord="" icon="19" palaceName="Cung Thất Tinh" next="20" level="138" item="120034|1"/>
+  <palaceBig id="20" seapalaceId="2001,2002,2003,2004,2005,2006,2007,2008,2009,2010" Coord="" icon="20" palaceName="Cung Yoru" next="21" level="140" item="120034|1"/>
+  <palaceBig id="21" seapalaceId="2101,2102,2103,2104,2105,2106,2107,2108,2109,2110" Coord="" icon="21" palaceName="Cung Hatsusora" next="22" level="142" item="120034|1"/>
+  <palaceBig id="22" seapalaceId="2201,2202,2203,2204,2205,2206,2207,2208,2209,2210" Coord="" icon="22" palaceName="Cung Umemi" next="23" level="144" item="120034|1"/>
+  <palaceBig id="23" seapalaceId="2301,2302,2303,2304,2305,2306,2307,2308,2309,2310" Coord="" icon="23" palaceName="Cung Yozakura" next="24" level="146" item="120034|1"/>
+  <palaceBig id="24" seapalaceId="2401,2402,2403,2404,2405,2406,2407,2408,2409,2410" Coord="" icon="24" palaceName="Cung Seiwa" next="25" level="148" item="120034|1"/>
+  <palaceBig id="25" seapalaceId="2501,2502,2503,2504,2505,2506,2507,2508,2509,2510" Coord="" icon="25" palaceName="Cung Yokuran" next="26" level="150" item="120034|1"/>
+  <palaceBig id="26" seapalaceId="2601,2602,2603,2604,2605,2606,2607,2608,2609,2610" Coord="" icon="26" palaceName="Cung Semenoha" next="27" level="152" item="120034|1"/>
+  <palaceBig id="27" seapalaceId="2701,2702,2703,2704,2705,2706,2707,2708,2709,2710" Coord="" icon="27" palaceName="Cung Ryougetsu" next="28" level="154" item="120034|1"/>
+  <palaceBig id="28" seapalaceId="2801,2802,2803,2804,2805,2806,2807,2808,2809,2810" Coord="" icon="28" palaceName="Cung Tsukimi" next="29" level="156" item="120034|1"/>
+  <palaceBig id="29" seapalaceId="2901,2902,2903,2904,2905,2906,2907,2908,2909,2910" Coord="" icon="29" palaceName="Cung Chikusui" next="30" level="158" item="120034|1"/>
+  <palaceBig id="30" seapalaceId="3001,3002,3003,3004,3005,3006,3007,3008,3009,3010" Coord="" icon="30" palaceName="Cung Oborozuki" next="31" level="160" item="120034|1"/>
+  <palaceBig id="31" seapalaceId="3101,3102,3103,3104,3105,3106,3107,3108,3109,3110" Coord="" icon="31" palaceName="Cung Kiyoshi" next="32" level="162" item="120034|1"/>
+  <palaceBig id="32" seapalaceId="3201,3202,3203,3204,3205,3206,3207,3208,3209,3210" Coord="" icon="32" palaceName="Cung Tsuyu" next="33" level="164" item="120034|1"/>
+  <palaceBig id="33" seapalaceId="3301,3302,3303,3304,3305,3306,3307,3308,3309,3310" Coord="" icon="33" palaceName="Cung Tanabata" next="34" level="166" item="120034|1"/>
+  <palaceBig id="34" seapalaceId="3401,3402,3403,3404,3405,3406,3407,3408,3409,3410" Coord="" icon="34" palaceName="Cung Setsubun" next="35" level="168" item="120034|1"/>
+  <palaceBig id="35" seapalaceId="3501,3502,3503,3504,3505,3506,3507,3508,3509,3510" Coord="" icon="35" palaceName="Cung Hinamatsuri" next="36" level="170" item="120034|1"/>
+  <palaceBig id="36" seapalaceId="3601,3602,3603,3604,3605,3606,3607,3608,3609,3610" Coord="" icon="36" palaceName="Cung Nioko Maiko" next="37" level="172" item="120034|1"/>
+  <palaceBig id="37" seapalaceId="3701,3702,3703,3704,3705,3706,3707,3708,3709,3710" Coord="" icon="37" palaceName="Cung Jin Takara" next="" level="174" item="120034|1"/>
+</root>

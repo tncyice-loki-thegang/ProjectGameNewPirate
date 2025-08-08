@@ -1,0 +1,8 @@
+<root>
+  <valuereturn id="1" rechargegold="10" startdate="20160223100000" enddate="20990225235959" sddate="20160217040000" receivedate="20160227235959" prize_num="4" belly="" experience="" prestige="" item="120036|15,71005|2,79101|25,71013|2"/>
+  <valuereturn id="2" rechargegold="500" startdate="20160223100000" enddate="20990225235959" sddate="20160217040000" receivedate="20160227235959" prize_num="4" belly="" experience="" prestige="" item="2400032|1,129303|50,79134|1,79004|1"/>
+  <valuereturn id="3" rechargegold="1000" startdate="20160223100000" enddate="20990225235959" sddate="20160217040000" receivedate="20160227235959" prize_num="4" belly="" experience="" prestige="" item="73018|4,71014|4,79102|70,79005|1"/>
+  <valuereturn id="4" rechargegold="5000" startdate="20160223100000" enddate="20990225235959" sddate="20160217040000" receivedate="20160227235959" prize_num="4" belly="" experience="" prestige="" item="79110|1,120048|1,121457|500,79135|1"/>
+  <valuereturn id="5" rechargegold="10000" startdate="20160223100000" enddate="20990225235959" sddate="20160217040000" receivedate="20160227235959" prize_num="4" belly="" experience="" prestige="" item="79137|1,75204|1,79128|1,50046|25"/>
+  <valuereturn id="6" rechargegold="20000" startdate="20180323100000" enddate="20990225235959" sddate="20180317040000" receivedate="20190227235959" prize_num="4" belly="" experience="" prestige="" item="79133|1,79136|1,79143|1,50035|1"/>
+</root>

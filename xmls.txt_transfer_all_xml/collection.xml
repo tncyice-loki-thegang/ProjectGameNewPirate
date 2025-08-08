@@ -1,0 +1,18 @@
+<root>
+<hero>
+<collection id="1" name="海军三大将" exp_id="3" gold_active="1500000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="88822,88823,88824" properties_active="1|9000,35|300,37|300,39|300" properties_up="1|9000,35|300,37|300,39|300"/>
+<collection id="2" name="草帽三兄弟" exp_id="2" gold_active="1000000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="88801,88815,88816" properties_active="1|6000,35|200,37|200,39|200" properties_up="1|6000,35|200,37|200,39|200"/>
+<collection id="3" name="医疗小分队" exp_id="2" gold_active="1000000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="88806,88827,88831" properties_active="1|6000,36|200,38|200,40|200" properties_up="1|6000,36|200,38|200,40|200"/>
+<collection id="4" name="王下七武海1" exp_id="2" gold_active="1000000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="88817,88811,88812,88810" properties_active="1|6000,35|100,37|100,39|100,36|100,38|100,40|100" properties_up="1|6000,35|100,37|100,39|100,36|100,38|100,40|100"/>
+</hero>
+<dress>
+<collection id="20" name="主角时装" exp_id="2" gold_active="1000000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="70761,70763,70765,70766" properties_active="1|6000,3|400,4|400,5|400" properties_up="1|6000,3|400,4|400,5|400"/>
+</dress>
+<pet>
+<collection id="30" name="主宠组合" exp_id="2" gold_active="1000000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="300043,300044" properties_active="1|6000,6|5000,7|5000,8|5000" properties_up="1|6000,6|5000,7|5000,8|5000"/>
+<collection id="31" name="副宠组合" exp_id="2" gold_active="1000000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="300042,300040" properties_active="1|6000,9|5000,10|5000,11|5000" properties_up="1|6000,9|5000,10|5000,11|5000"/>
+</pet>
+<mount>
+<collection id="40" name="炫酷坐骑" exp_id="3" gold_active="1500000" belly_upgrade="0" experience_upgrade="0" exp_upgrade="0|0|1000" success_rate="0|0|100" item_upgrade="66600003|1" collection="31,3300,34" properties_active="1|9000,36|300,38|300,40|300" properties_up="1|9000,36|300,38|300,40|300"/>
+</mount>
+</root>
