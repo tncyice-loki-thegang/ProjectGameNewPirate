@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <guildScience id="1" name="Cấp Công hội" desc="Nâng cấp Công hội, có thể tăng thành viên và giới hạn cấp công nghệ khác của Công hội." icon="level.png" needSourceType="1"/>
+  <guildScience id="2" name="Chiến tích" desc="Nâng cấp công nghệ chiến tích, có thể tăng số lượng C.tích nhận được." icon="yueli.png" needSourceType="1"/>
+  <guildScience id="3" name="Kinh nghiệm" desc="Nâng cấp công nghệ kinh nghiệm, có thể tăng số lượng k.nghiệm nhận được." icon="exp.png" needSourceType="1"/>
+  <guildScience id="4" name="Mỏ T.nguyên" desc="Nâng cấp công nghệ mỏ tài nguyên, có thể tăng lượng t.nguyên nhận được." icon="res.png" needSourceType="1"/>
+  <guildScience id="5" name="Yến tiệc" desc="Nâng cấp công nghệ yến tiệc, có thể tăng thu nhập từ yến tiệc." icon="yanhui.png" needSourceType="2"/>
+</root>

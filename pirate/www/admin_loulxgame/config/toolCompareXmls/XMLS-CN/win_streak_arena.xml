@@ -1,0 +1,8 @@
+﻿<root>
+  <win_streak id="1" killNum="10" winStreak="{0}淘汰10人！给我再来10个~" winStreakEnd="{0}终结了{1}的{2}连胜，可怜的人儿啊，不就只打了{2}人么~" color="#F77105,#07F90D"/>
+  <win_streak id="2" killNum="15" winStreak="{0}淘汰15人！刀不长眼呀~" winStreakEnd="{0}终结了{1}的{2}连胜，{0}签了个大名，表示自己到此一游呢~"  color="#F77105,#07F90D"/>
+  <win_streak id="3" killNum="20" winStreak="{0}淘汰20人！多来点儿炮灰吧~" winStreakEnd="{0}终结了{1}的{2}连胜，别这么紧张，只是放倒{2}个人而已~"  color="#F77105,#07F90D"/>
+  <win_streak id="4" killNum="25" winStreak="{0}淘汰25人！难度系数只有F？" winStreakEnd="{0}终结了{1}的{2}连胜，{0}是个大人物来着~"  color="#F77105,#07F90D"/>
+  <win_streak id="5" killNum="30" winStreak="{0}淘汰30人！揍到菊花怒放~" winStreakEnd="{0}终结了{1}的{2}连胜，如果帅可以养活人，{0}已经可以养活{2}个人了~"  color="#F77105,#07F90D"/>
+  <win_streak id="6" killNum="50" winStreak="{0}淘汰50人！这是成为角斗场场主的节奏吗？" winStreakEnd="{0}终结了{1}的{2}连胜，{1}的称霸梦被{0}打回现实了~"  color="#F77105,#07F90D"/>
+</root>

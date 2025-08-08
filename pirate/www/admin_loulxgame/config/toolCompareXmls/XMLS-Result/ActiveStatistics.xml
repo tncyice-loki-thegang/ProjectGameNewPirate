@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <ActiveStatistics id="2" count="10" type="2" TitleText="Ra khơi" value="5" buttonText="Đi ra khơi"/>
+  <ActiveStatistics id="3" count="4" type="3" TitleText="Nấu ăn" value="5" buttonText="Đi nấu ăn"/>
+  <ActiveStatistics id="4" count="10" type="4" TitleText="Đặt hàng" value="5" buttonText=""/>
+  <ActiveStatistics id="5" count="10" type="5" TitleText="NV hàng ngày" value="10" buttonText="NV hàng ngày"/>
+  <ActiveStatistics id="6" count="1" type="6" TitleText="Nhận tiền treo thưởng" value="5" buttonText="Lĩnh treo thưởng"/>
+  <ActiveStatistics id="7" count="2" type="7" TitleText="Dạy nô lệ" value="5" buttonText="Dạy nô lệ"/>
+  <ActiveStatistics id="8" count="1" type="8" TitleText="C.hóa trang bị" value="5" buttonText="Cường hóa"/>
+  <ActiveStatistics id="9" count="5" type="9" TitleText="Thách đấu PB tinh anh" value="10" buttonText="Đi đấu trường"/>
+  <ActiveStatistics id="10" count="1" type="10" TitleText="Tìm bảo thạch" value="5" buttonText=""/>
+  <ActiveStatistics id="11" count="10" type="11" TitleText="Đánh đấu trường" value="10" buttonText="Đi đấu trường"/>
+  <ActiveStatistics id="12" count="4" type="12" TitleText="Cướp tầm bảo" value="5" buttonText="Đi cướp tàu"/>
+  <ActiveStatistics id="13" count="1" type="13" TitleText="Tấn công Cảng" value="5" buttonText=""/>
+  <ActiveStatistics id="14" count="1" type="14" TitleText="Cống hiến C.hội" value="5" buttonText=""/>
+  <ActiveStatistics id="15" count="1" type="15" TitleText="Chiếm T.nguyên" value="5" buttonText="Đi chiếm lĩnh"/>
+  <ActiveStatistics id="16" count="4" type="16" TitleText="Hội đàm" value="5" buttonText=""/>
+  <ActiveStatistics id="17" count="3" type="17" TitleText="Tầm bảo" value="5" buttonText="Đi tầm bảo"/>
+  <ActiveStatistics id="18" count="3" type="18" TitleText="Chế đồ" value="5" buttonText="Đi chế tạo"/>
+  <ActiveStatistics id="19" count="1" type="19" TitleText="Tăng tốc Đ.đội" value="5" buttonText="Đi tăng tốc"/>
+</root>

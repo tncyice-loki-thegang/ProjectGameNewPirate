@@ -1,0 +1,139 @@
+<root>
+	<!-- 服务器日志相关配置 -->
+	<log>
+
+		<!-- 日志路径 -->
+		<filename>log/dataproxy.log</filename>
+
+		<!-- 日志级别：5表示FATAL，4表示WARNING, 2表示INFO，3表示NOTICE，1表示TRACE，0表示DEBUG -->
+		<level>0</level>
+
+		<!-- 是否立即输出 -->
+		<flush>false</flush>
+	</log>
+
+	<!-- 服务器连接相关配置 -->
+	<server>
+
+		<!-- 监听地址 -->
+		<listen_address>0.0.0.0</listen_address>
+
+		<!-- 监听端口 -->
+		<listen_port>3300</listen_port>
+
+		<!-- 最大请求长度 -->
+		<max_request_size>102400</max_request_size>
+
+		<!-- 最大响应长度 -->
+		<max_response_size>102400</max_response_size>
+
+		<!-- 压缩阀值 -->
+		<compress_threshold>102400</compress_threshold>
+
+		<!-- 写超时时间(ms) -->
+		<write_timeout>1000</write_timeout>
+
+		<!-- 读超时时间(ms) -->
+		<read_timeout>1000</read_timeout>
+
+		<!-- 连接队列长度 -->
+		<backlog>50</backlog>
+
+		<!-- 业务执行线程数 -->
+		<service_num>10</service_num>
+
+		<!-- 网络处理线程数 -->
+		<network_num>5</network_num>
+
+		<!-- 采用的amf协议版本 :0表示amf0，1表示amf3 -->
+		<amf_version>1</amf_version>
+
+		<!-- 采用的字节序:0表示BigEndian，1表示LittleEndian -->
+		<byte_order>0</byte_order>
+
+		<!--允许访问的地址 -->
+		<allowed_hosts>
+			<!--可以是一个ip，或者一个ip段，如192.168.1.0-192.168.1.255 -->
+			<host>127.0.0.1</host>
+		</allowed_hosts>
+
+		<!-- 以下为服务器上命令字的配置 -->
+		<command>
+
+			<!-- 数据命令相关配置 -->
+			<data>
+
+				<!-- 是否允许delete -->
+				<delete>false</delete>
+
+				<!-- 最大允许的va字段大小 -->
+				<max_va_size>64000</max_va_size>
+
+				<!-- sql所能使用的buffer大小 -->
+				<sql_buffer>1024000</sql_buffer>
+
+				<!-- 配置文件地址 -->
+				<config>data/data.xml</config>
+
+				<!-- 数据库配置 -->
+				<db>
+					<!-- 数据库地址 -->
+					<address>127.0.0.1</address>
+
+					<!-- 数据库端口 -->
+					<port>3306</port>
+
+					<!-- 数据库用户名 -->
+					<user>pirate</user>
+
+					<!-- 数据库密码 -->
+					<passwd>admin</passwd>
+
+					<!-- 数据库名 -->
+					<name>pirate</name>
+
+					<!-- 处理线程数 -->
+					<process_num>3</process_num>
+
+					<!-- 最大包字节数 -->
+					<max_packet_size>1024000</max_packet_size>
+				</db>
+
+				<!-- 缓存配置 -->
+				<memcache>
+
+					<!-- 缓存地址 -->
+					<address>127.0.0.1</address>
+
+					<!-- 缓存端口 -->
+					<port>11211</port>
+
+					<!-- buffer大小 -->
+					<buffer_size>102400</buffer_size>
+
+					<!-- 连接数 -->
+					<process_num>3</process_num>
+
+					<!-- 缓存时间 -->
+					<expired_time>1200</expired_time>
+				</memcache>
+			</data>
+
+			<lock>
+				<!-- 允许的最大锁时间 -->
+				<max_lock_time>1000</max_lock_time>
+			</lock>
+
+			<id>
+				<!-- 配置文件的位置 -->
+				<config>conf/id.xml</config>
+
+				<!-- 放置id数据的文件夹 -->
+				<store>data</store>
+
+				<!-- 最大的缓存数量 -->
+				<max_buffer_num>100</max_buffer_num>
+			</id>
+		</command>
+	</server>
+</root>

@@ -1,0 +1,17 @@
+<root>
+  <guaguale_shop id="1" itemTempId="121451" getNum="1" consumeHonour="625" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="1"/>
+  <guaguale_shop id="2" itemTempId="73012" getNum="1" consumeHonour="110" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="2"/>
+  <guaguale_shop id="3" itemTempId="70902" getNum="1" consumeHonour="360" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="3"/>
+  <guaguale_shop id="4" itemTempId="120047" getNum="200" consumeHonour="540" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="4"/>
+  <guaguale_shop id="5" itemTempId="73006" getNum="1" consumeHonour="540" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="5"/>
+  <guaguale_shop id="6" itemTempId="50014" getNum="1" consumeHonour="500" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="6"/>
+  <guaguale_shop id="7" itemTempId="70738" getNum="1" consumeHonour="300" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="7"/>
+  <guaguale_shop id="8" itemTempId="70804" getNum="1" consumeHonour="150" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="8"/>
+  <guaguale_shop id="9" itemTempId="70200" getNum="1" consumeHonour="120" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="9"/>
+  <guaguale_shop id="10" itemTempId="70736" getNum="1" consumeHonour="120" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="10"/>
+  <guaguale_shop id="11" itemTempId="70727" getNum="1" consumeHonour="75" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="11"/>
+  <guaguale_shop id="12" itemTempId="121101" getNum="1" consumeHonour="20" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="12"/>
+  <guaguale_shop id="13" itemTempId="121201" getNum="1" consumeHonour="25" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="13"/>
+  <guaguale_shop id="14" itemTempId="121301" getNum="1" consumeHonour="35" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="14"/>
+  <guaguale_shop id="15" itemTempId="121401" getNum="1" consumeHonour="55" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" type="0" preId="0" showId="15"/>
+</root>

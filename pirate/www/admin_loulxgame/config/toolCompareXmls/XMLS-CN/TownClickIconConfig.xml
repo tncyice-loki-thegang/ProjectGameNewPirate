@@ -1,0 +1,5 @@
+<root>
+  <TownClickIconConfig id="1" startTime="20171001100000" endTime="20181001100000"/>  <!--礼花特效-->
+  <TownClickIconConfig id="2" startTime="20171001100000" endTime="20181001100000"/>  <!--冰火岛特效、如果时间同时满足，取id大的-->
+  <TownClickIconConfig id="3" startTime="20171001100000" endTime="20181001100000"/>  <!--圣诞老人点地特效-->
+</root>

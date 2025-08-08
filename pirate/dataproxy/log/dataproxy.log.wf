@@ -1,0 +1,31 @@
+[20250806 01:18:13 942918][3628550112][FATAL][main.cpp:134]dataproxy started with arguments:
+
+[20250806 01:18:13 943573][3628550112][FATAL][AsyncPool.cpp:49]mysql pool start with arguments:
+user_name:pirate
+database:pirate20002
+connect_timeout:1000
+read_timeout:3500
+write_timeout:1000
+process_num:5
+max_connection:20
+max_packet_size:1024000
+host:127.0.0.1
+port:3306
+
+[20250806 01:20:07 274461][1739159296][WARNING][127.0.0.1:14278][logid:5497835203][DataCommand.cpp:914]warning found on table:t_user for command:insertIgnore
+[20250806 01:20:08 878280][3834345216][FATAL][127.0.0.1:14336][logid:3588679933][AMFType.cpp:160]not a array type
+[20250806 01:20:08 885903][3834345216][WARNING][127.0.0.1:14336][logid:3588679933][DataCommand.cpp:793]uncaught exception:inter
+[20250806 10:22:36 018461][2958317536][FATAL][main.cpp:134]dataproxy started with arguments:
+
+[20250806 10:22:36 019015][2958317536][FATAL][AsyncPool.cpp:49]mysql pool start with arguments:
+user_name:pirate
+database:pirate20002
+connect_timeout:1000
+read_timeout:3500
+write_timeout:1000
+process_num:5
+max_connection:20
+max_packet_size:1024000
+host:127.0.0.1
+port:3306
+

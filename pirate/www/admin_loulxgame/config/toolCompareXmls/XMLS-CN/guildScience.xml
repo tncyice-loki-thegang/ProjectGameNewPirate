@@ -1,0 +1,7 @@
+<root>
+  <guildScience id="1" name="公会等级" desc="提升公会等级，可以增加公会成员和其他科技等级上限。" icon="level.png" needSourceType="1"/>
+  <guildScience id="2" name="阅历" desc="提升阅历科技等级，可以增加在游戏中获得阅历的数量。" icon="yueli.png" needSourceType="1"/>
+  <guildScience id="3" name="经验" desc="提升经验科技等级，可以增加在游戏中获得经验的数量。" icon="exp.png" needSourceType="1"/>
+  <guildScience id="4" name="资源矿" desc="提升资源矿科技等级，可以提高资源获得量。" icon="res.png" needSourceType="1"/>
+  <guildScience id="5" name="宴会" desc="提升宴会科技等级，可以提高宴会的收益。" icon="yanhui.png" needSourceType="2"/>
+</root>

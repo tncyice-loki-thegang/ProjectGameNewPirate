@@ -1,0 +1,3 @@
+<root>
+  <guildboss needLevel="30" joinTime="3" permitTime="5" initLevel="1" maxLevel="200" boosArmyType="1" monsterArmyType="2" bossAppearNum="4" tx="20" ty="17" intervalTime="3" coolDown="30" purgeGold="10" purgeGoldAdd="5" activityNum="2" lastTime="15" attackBelly="50" attackExperience="200" attackPrestige="10" boosTime="230000" bellyCost="400|350000" juniorGoldCost="200|30" seniorGoldCost="1200|160" batchGoldCost="12000|1600"/>
+</root>

@@ -1,0 +1,102 @@
+<root>
+  <worldBoat boatLevel="1" boatImg="1" attack="1000" defence="750" life="7000" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="2" boatImg="1" attack="1100" defence="825" life="7700" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="3" boatImg="1" attack="1200" defence="900" life="8400" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="4" boatImg="1" attack="1300" defence="975" life="9100" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="5" boatImg="1" attack="1400" defence="1050" life="9800" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="6" boatImg="1" attack="1500" defence="1125" life="10500" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="7" boatImg="1" attack="1700" defence="1275" life="11900" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="8" boatImg="1" attack="1900" defence="1425" life="13300" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="9" boatImg="1" attack="2100" defence="1575" life="14700" canUp="1" name="1 cột buồm"/>
+  <worldBoat boatLevel="10" boatImg="1" attack="2300" defence="1725" life="16100" canUp="0" name="1 cột buồm"/>
+  <worldBoat boatLevel="11" boatImg="2" attack="2500" defence="1875" life="17500" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="12" boatImg="2" attack="2800" defence="2100" life="19600" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="13" boatImg="2" attack="3100" defence="2325" life="21700" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="14" boatImg="2" attack="3400" defence="2550" life="23800" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="15" boatImg="2" attack="3700" defence="2775" life="25900" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="16" boatImg="2" attack="4100" defence="3075" life="28700" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="17" boatImg="2" attack="4500" defence="3375" life="31500" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="18" boatImg="2" attack="5000" defence="3750" life="35000" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="19" boatImg="2" attack="5500" defence="4125" life="38500" canUp="1" name="Kamikaze"/>
+  <worldBoat boatLevel="20" boatImg="2" attack="6100" defence="4575" life="42700" canUp="0" name="Kamikaze"/>
+  <worldBoat boatLevel="21" boatImg="3" attack="6700" defence="5025" life="46900" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="22" boatImg="3" attack="7400" defence="5550" life="51800" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="23" boatImg="3" attack="8100" defence="6075" life="56700" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="24" boatImg="3" attack="8900" defence="6675" life="62300" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="25" boatImg="3" attack="9800" defence="7350" life="68600" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="26" boatImg="3" attack="10800" defence="8100" life="75600" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="27" boatImg="3" attack="11900" defence="8925" life="83300" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="28" boatImg="3" attack="13100" defence="9825" life="91700" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="29" boatImg="3" attack="14400" defence="10800" life="100800" canUp="1" name="Bezan Black"/>
+  <worldBoat boatLevel="30" boatImg="3" attack="15800" defence="11850" life="110600" canUp="0" name="Bezan Black"/>
+  <worldBoat boatLevel="31" boatImg="4" attack="17400" defence="13050" life="121800" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="32" boatImg="4" attack="19100" defence="14325" life="133700" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="33" boatImg="4" attack="21000" defence="15750" life="147000" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="34" boatImg="4" attack="23100" defence="17325" life="161700" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="35" boatImg="4" attack="25400" defence="19050" life="177800" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="36" boatImg="4" attack="27900" defence="20925" life="195300" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="37" boatImg="4" attack="30700" defence="23025" life="214900" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="38" boatImg="4" attack="33800" defence="25350" life="236600" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="39" boatImg="4" attack="37200" defence="27900" life="260400" canUp="1" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="40" boatImg="4" attack="40900" defence="30675" life="286300" canUp="0" name="Thiên nga cực tốc"/>
+  <worldBoat boatLevel="41" boatImg="5" attack="45000" defence="33750" life="315000" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="42" boatImg="5" attack="49500" defence="37125" life="346500" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="43" boatImg="5" attack="54500" defence="40875" life="381500" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="44" boatImg="5" attack="60000" defence="45000" life="420000" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="45" boatImg="5" attack="66000" defence="49500" life="462000" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="46" boatImg="5" attack="72600" defence="54450" life="508200" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="47" boatImg="5" attack="79900" defence="59925" life="559300" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="48" boatImg="5" attack="87900" defence="65925" life="615300" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="49" boatImg="5" attack="96700" defence="72525" life="676900" canUp="1" name="Going Merry"/>
+  <worldBoat boatLevel="50" boatImg="5" attack="100000" defence="75000" life="700000" canUp="0" name="Going Merry"/>
+  <worldBoat boatLevel="51" boatImg="6" attack="110000" defence="82500" life="770000" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="52" boatImg="6" attack="121000" defence="90750" life="847000" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="53" boatImg="6" attack="133100" defence="99825" life="931700" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="54" boatImg="6" attack="146400" defence="109800" life="1024800" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="55" boatImg="6" attack="161000" defence="120750" life="1127000" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="56" boatImg="6" attack="177100" defence="132825" life="1239700" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="57" boatImg="6" attack="194800" defence="146100" life="1363600" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="58" boatImg="6" attack="214300" defence="160725" life="1500100" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="59" boatImg="6" attack="235700" defence="176775" life="1649900" canUp="1" name=" Moby Dick"/>
+  <worldBoat boatLevel="60" boatImg="6" attack="259300" defence="194475" life="1815100" canUp="0" name=" Moby Dick"/>
+  <worldBoat boatLevel="61" boatImg="7" attack="285200" defence="213900" life="1996400" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="62" boatImg="7" attack="313700" defence="235275" life="2195900" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="63" boatImg="7" attack="345100" defence="258825" life="2415700" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="64" boatImg="7" attack="379600" defence="284700" life="2657200" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="65" boatImg="7" attack="417600" defence="313200" life="2923200" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="66" boatImg="7" attack="459400" defence="344550" life="3215800" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="67" boatImg="7" attack="505300" defence="378975" life="3537100" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="68" boatImg="7" attack="555800" defence="416850" life="3890600" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="69" boatImg="7" attack="611400" defence="458550" life="4279800" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="70" boatImg="7" attack="672500" defence="504375" life="4707500" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="71" boatImg="7" attack="739800" defence="554850" life="5178600" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="72" boatImg="7" attack="813800" defence="610350" life="5696600" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="73" boatImg="7" attack="895200" defence="671400" life="6266400" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="74" boatImg="7" attack="984700" defence="738525" life="6892900" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="75" boatImg="7" attack="1083200" defence="812400" life="7582400" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="76" boatImg="7" attack="1191500" defence="893625" life="8340500" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="77" boatImg="7" attack="1310700" defence="983025" life="9174900" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="78" boatImg="7" attack="1441800" defence="1081350" life="10092600" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="79" boatImg="7" attack="1586000" defence="1189500" life="11102000" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="80" boatImg="7" attack="1744600" defence="1308450" life="12212200" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="81" boatImg="7" attack="1919100" defence="1439325" life="13433700" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="82" boatImg="7" attack="2111000" defence="1583250" life="14777000" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="83" boatImg="7" attack="2322100" defence="1741575" life="16254700" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="84" boatImg="7" attack="2554300" defence="1915725" life="17880100" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="85" boatImg="7" attack="2809700" defence="2107275" life="19667900" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="86" boatImg="7" attack="3090700" defence="2318025" life="21634900" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="87" boatImg="7" attack="3399800" defence="2549850" life="23798600" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="88" boatImg="7" attack="3739800" defence="2804850" life="26178600" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="89" boatImg="7" attack="4113800" defence="3085350" life="28796600" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="90" boatImg="7" attack="4525200" defence="3393900" life="31676400" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="91" boatImg="7" attack="4977700" defence="3733275" life="34843900" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="92" boatImg="7" attack="5475500" defence="4106625" life="38328500" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="93" boatImg="7" attack="6023100" defence="4517325" life="42161700" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="94" boatImg="7" attack="6625400" defence="4969050" life="46377800" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="95" boatImg="7" attack="7287900" defence="5465925" life="51015300" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="96" boatImg="7" attack="8016700" defence="6012525" life="56116900" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="97" boatImg="7" attack="8818400" defence="6613800" life="61728800" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="98" boatImg="7" attack="9700200" defence="7275150" life="67901400" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="99" boatImg="7" attack="10670200" defence="8002650" life="74691400" canUp="1" name=" Red Force"/>
+  <worldBoat boatLevel="100" boatImg="7" attack="11737200" defence="8802900" life="82160400" canUp="0" name=" Red Force"/>
+</root>

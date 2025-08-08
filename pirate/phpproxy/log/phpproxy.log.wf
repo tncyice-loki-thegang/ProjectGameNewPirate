@@ -1,0 +1,2633 @@
+[20201113 10:40:16 881825][3183712224][FATAL][main.cpp:32]server:bin/phpproxy started
+[20201113 10:40:16 881896][3183712224][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20201113 10:40:16 881918][3183712224][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20201113 10:40:16 881923][3183712224][WARNING][ProxyCommand.cpp:58]installed module:data
+[20201113 10:40:16 881927][3183712224][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20201113 10:40:16 881931][3183712224][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20201113 12:30:01 842986][2925508352][WARNING][logid:3390387203][ProxyCommand.cpp:135]module:lcserver# not found
+[20201114 05:41:22 831435][3183712224][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20201114 05:41:22 832085][1634531072][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20201114 05:41:23 832474][1634531072][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20201114 05:41:24 832999][1634531072][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20201114 05:41:57 131697][3478079456][FATAL][main.cpp:32]server:bin/phpproxy started
+[20201114 05:41:57 131790][3478079456][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20201114 05:41:57 131809][3478079456][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20201114 05:41:57 131814][3478079456][WARNING][ProxyCommand.cpp:58]installed module:data
+[20201114 05:41:57 131818][3478079456][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20201114 05:41:57 131822][3478079456][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20201114 12:30:01 605859][3219875584][WARNING][logid:1289448205][ProxyCommand.cpp:135]module:lcserver# not found
+[20201114 20:00:01 965499][3219875584][WARNING][logid:6912204805][ProxyCommand.cpp:135]module:lcserver# not found
+[20210311 06:23:00 056348][0732809184][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210311 06:23:00 056422][0732809184][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210311 06:23:00 056558][0732809184][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210311 06:23:00 056565][0732809184][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210311 06:23:00 056569][0732809184][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210311 06:23:00 056573][0732809184][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210414 22:08:14 145120][0190564320][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210414 22:08:14 145179][0190564320][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210414 22:08:14 145194][0190564320][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210414 22:08:14 145198][0190564320][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210414 22:08:14 145202][0190564320][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210414 22:08:14 145206][0190564320][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210416 00:17:36 932124][1184778208][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210416 00:17:36 932178][1184778208][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210416 00:17:36 932191][1184778208][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210416 00:17:36 932194][1184778208][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210416 00:17:36 932197][1184778208][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210416 00:17:36 932199][1184778208][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210416 00:20:04 530588][0151987968][FATAL][logid:2222449636][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20210416 00:20:06 681429][0151987968][FATAL][logid:9729036936][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20210416 00:20:20 748549][0151987968][FATAL][logid:5732697013][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20210416 00:20:21 816521][0151987968][FATAL][logid:6635084113][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20210417 01:51:52 348062][0668378880][WARNING][logid:5331526000][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20210417 01:51:52 348113][0668378880][WARNING][logid:5331526000][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20210420 05:51:00 089122][0547555296][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210420 05:51:00 089249][0547555296][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210420 05:51:00 089280][0547555296][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210420 05:51:00 089288][0547555296][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210420 05:51:00 089296][0547555296][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210420 05:51:00 089303][0547555296][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210420 06:43:18 539547][2612541408][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210420 06:43:18 539664][2612541408][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210420 06:43:18 539693][2612541408][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210420 06:43:18 539701][2612541408][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210420 06:43:18 539708][2612541408][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210420 06:43:18 539715][2612541408][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210420 07:38:10 610631][2899961824][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210420 07:38:10 610811][2899961824][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210420 07:38:10 610907][2899961824][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210420 07:38:10 610919][2899961824][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210420 07:38:10 610927][2899961824][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210420 07:38:10 610934][2899961824][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210421 18:40:22 995569][4123547616][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210421 18:40:22 995686][4123547616][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210421 18:40:22 995716][4123547616][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210421 18:40:22 995724][4123547616][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210421 18:40:22 995731][4123547616][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210421 18:40:22 995738][4123547616][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210421 20:00:03 935994][3865343744][WARNING][logid:3955859405][ProxyCommand.cpp:135]module:lcserver# not found
+[20210421 22:07:10 615051][3090757376][WARNING][logid:4983474600][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20210421 22:07:10 615167][3090757376][WARNING][logid:4983474600][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20210421 23:33:36 167948][3090757376][WARNING][logid:1242017100][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20210421 23:33:36 168032][3090757376][WARNING][logid:1242017100][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20210422 01:15:50 470490][3090757376][WARNING][logid:5383106207][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20210422 01:15:50 470562][3090757376][WARNING][logid:5383106207][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20210422 02:13:16 470357][3090757376][WARNING][logid:3634551000][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20210422 02:13:16 470575][3090757376][WARNING][logid:3634551000][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20210422 03:08:25 797810][3090757376][FATAL][logid:3978907417][ProxyCommand.cpp:602]request to server:127.0.0.1 module:battle timeout
+[20210422 03:08:25 954375][3090757376][WARNING][logid:3978907417][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:Operation canceled
+[20210429 22:09:58 823522][2241939424][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210429 22:09:58 823669][2241939424][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210429 22:09:58 823699][2241939424][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210429 22:09:58 823707][2241939424][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210429 22:09:58 823715][2241939424][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210429 22:09:58 823721][2241939424][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 22:22:14 635608][0868321248][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 22:22:14 636101][0868321248][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 22:22:14 636289][0868321248][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 22:22:14 636302][0868321248][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 22:22:14 636310][0868321248][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 22:22:14 636316][0868321248][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 23:11:51 798754][3698669536][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 23:11:51 798871][3698669536][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 23:11:51 798901][3698669536][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 23:11:51 798909][3698669536][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 23:11:51 798916][3698669536][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 23:11:51 798923][3698669536][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210501 23:19:20 933483][1291810784][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210501 23:19:20 933662][1291810784][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210501 23:19:20 933696][1291810784][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210501 23:19:20 933704][1291810784][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210501 23:19:20 933711][1291810784][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210501 23:19:20 933718][1291810784][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210429 23:25:44 557909][2256168928][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210429 23:25:44 558047][2256168928][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210429 23:25:44 558078][2256168928][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210429 23:25:44 558086][2256168928][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210429 23:25:44 558093][2256168928][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210429 23:25:44 558100][2256168928][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 23:29:59 429235][1572526048][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 23:29:59 429352][1572526048][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 23:29:59 429383][1572526048][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 23:29:59 429391][1572526048][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 23:29:59 429398][1572526048][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 23:29:59 429404][1572526048][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210429 23:34:12 337657][0984209376][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210429 23:34:12 337769][0984209376][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210429 23:34:12 337798][0984209376][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210429 23:34:12 337807][0984209376][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210429 23:34:12 337814][0984209376][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210429 23:34:12 337821][0984209376][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 23:38:40 160841][0537962464][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 23:38:40 160959][0537962464][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 23:38:40 160989][0537962464][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 23:38:40 160997][0537962464][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 23:38:40 161005][0537962464][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 23:38:40 161011][0537962464][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210429 23:42:56 573653][3998390240][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210429 23:42:56 573775][3998390240][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210429 23:42:56 573861][3998390240][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210429 23:42:56 573873][3998390240][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210429 23:42:56 573881][3998390240][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210429 23:42:56 573888][3998390240][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 23:54:24 813453][0465078240][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 23:54:24 813571][0465078240][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 23:54:24 813601][0465078240][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 23:54:24 813609][0465078240][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 23:54:24 813616][0465078240][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 23:54:24 813623][0465078240][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 23:59:32 618315][4212717536][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 23:59:32 618435][4212717536][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 23:59:32 618465][4212717536][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 23:59:32 618473][4212717536][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 23:59:32 618480][4212717536][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 23:59:32 618487][4212717536][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 00:04:47 530755][3432376288][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 00:04:47 530920][3432376288][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 00:04:47 530952][3432376288][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 00:04:47 530960][3432376288][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 00:04:47 530968][3432376288][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 00:04:47 530975][3432376288][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210501 00:14:11 270610][0746547168][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210501 00:14:11 270726][0746547168][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210501 00:14:11 270754][0746547168][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210501 00:14:11 270762][0746547168][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210501 00:14:11 270769][0746547168][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210501 00:14:11 270775][0746547168][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210430 00:21:05 752155][2439043040][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210430 00:21:05 752268][2439043040][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210430 00:21:05 752298][2439043040][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210430 00:21:05 752326][2439043040][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210430 00:21:05 752336][2439043040][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210430 00:21:05 752342][2439043040][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210511 20:00:57 503678][3945994208][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210511 20:00:57 503937][3945994208][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210511 20:00:57 503969][3945994208][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210511 20:00:57 503977][3945994208][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210511 20:00:57 503985][3945994208][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210511 20:00:57 503992][3945994208][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210525 01:21:04 547454][1947060192][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210525 01:21:04 557967][1947060192][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210525 01:21:04 558040][1947060192][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210525 01:21:04 558052][1947060192][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210525 01:21:04 558061][1947060192][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210525 01:21:04 558067][1947060192][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20210525 01:27:51 346861][2536015840][FATAL][main.cpp:32]server:bin/phpproxy started
+[20210525 01:27:51 347044][2536015840][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20210525 01:27:51 347095][2536015840][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20210525 01:27:51 347109][2536015840][WARNING][ProxyCommand.cpp:58]installed module:data
+[20210525 01:27:51 347122][2536015840][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20210525 01:27:51 347134][2536015840][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20211201 03:08:21 748295][1088989152][FATAL][main.cpp:32]server:bin/phpproxy started
+[20211201 03:08:21 748345][1088989152][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20211201 03:08:21 748359][1088989152][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20211201 03:08:21 748362][1088989152][WARNING][ProxyCommand.cpp:58]installed module:data
+[20211201 03:08:21 748365][1088989152][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20211201 03:08:21 748368][1088989152][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20211201 12:30:02 461668][0830785280][WARNING][logid:6719307802][ProxyCommand.cpp:135]module:lcserver# not found
+[20211202 01:32:48 626273][0530282464][FATAL][main.cpp:32]server:bin/phpproxy started
+[20211202 01:32:48 626335][0530282464][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20211202 01:32:48 626348][0530282464][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20211202 01:32:48 626351][0530282464][WARNING][ProxyCommand.cpp:58]installed module:data
+[20211202 01:32:48 626354][0530282464][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20211202 01:32:48 626356][0530282464][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20211202 13:38:12 093128][3813775328][FATAL][main.cpp:32]server:bin/phpproxy started
+[20211202 13:38:12 093182][3813775328][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20211202 13:38:12 093195][3813775328][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20211202 13:38:12 093198][3813775328][WARNING][ProxyCommand.cpp:58]installed module:data
+[20211202 13:38:12 093201][3813775328][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20211202 13:38:12 093203][3813775328][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20211202 20:00:01 654669][3555571456][WARNING][logid:5068594302][ProxyCommand.cpp:135]module:lcserver# not found
+[20211219 10:18:23 151701][1525561312][FATAL][main.cpp:32]server:bin/phpproxy started
+[20211219 10:18:23 151752][1525561312][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20211219 10:18:23 151765][1525561312][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20211219 10:18:23 151768][1525561312][WARNING][ProxyCommand.cpp:58]installed module:data
+[20211219 10:18:23 151771][1525561312][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20211219 10:18:23 151774][1525561312][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220925 02:41:41 865775][1269041120][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220925 02:41:41 865837][1269041120][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220925 02:41:41 865850][1269041120][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220925 02:41:41 865853][1269041120][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220925 02:41:41 865856][1269041120][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220925 02:41:41 865858][1269041120][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220925 03:00:09 837071][0287131616][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220925 03:00:09 837116][0287131616][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220925 03:00:09 837127][0287131616][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220925 03:00:09 837129][0287131616][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220925 03:00:09 837132][0287131616][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220925 03:00:09 837134][0287131616][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220925 03:40:27 306201][1472813024][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220925 03:40:27 306251][1472813024][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220925 03:40:27 306263][1472813024][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220925 03:40:27 306266][1472813024][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220925 03:40:27 306269][1472813024][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220925 03:40:27 306271][1472813024][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220925 04:46:53 695248][0225822688][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220925 04:46:53 695296][0225822688][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220925 04:46:53 695307][0225822688][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220925 04:46:53 695310][0225822688][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220925 04:46:53 695313][0225822688][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220925 04:46:53 695315][0225822688][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220925 05:17:34 781795][3958912992][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220925 05:17:34 781865][3958912992][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220925 05:17:34 781957][3958912992][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220925 05:17:34 781960][3958912992][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220925 05:17:34 781963][3958912992][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220925 05:17:34 781965][3958912992][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220925 05:21:26 770081][0753752032][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220925 05:21:26 770123][0753752032][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220925 05:21:26 770133][0753752032][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220925 05:21:26 770136][0753752032][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220925 05:21:26 770138][0753752032][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220925 05:21:26 770140][0753752032][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220925 19:49:35 056903][4076054496][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220925 19:49:35 056947][4076054496][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220925 19:49:35 056958][4076054496][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220925 19:49:35 056961][4076054496][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220925 19:49:35 056964][4076054496][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220925 19:49:35 056966][4076054496][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220926 00:02:20 603643][3618256864][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220926 00:02:20 603687][3618256864][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220926 00:02:20 603699][3618256864][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220926 00:02:20 603701][3618256864][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220926 00:02:20 603704][3618256864][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220926 00:02:20 603706][3618256864][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20220926 08:50:12 419169][2137958368][FATAL][main.cpp:32]server:bin/phpproxy started
+[20220926 08:50:12 419210][2137958368][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20220926 08:50:12 419221][2137958368][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20220926 08:50:12 419224][2137958368][WARNING][ProxyCommand.cpp:58]installed module:data
+[20220926 08:50:12 419227][2137958368][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20220926 08:50:12 419229][2137958368][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221003 02:10:12 286570][1628891104][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221003 02:10:12 286613][1628891104][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221003 02:10:12 286624][1628891104][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221003 02:10:12 286627][1628891104][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221003 02:10:12 286630][1628891104][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221003 02:10:12 286632][1628891104][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221003 02:11:40 222925][1112491776][WARNING][logid:8445746535][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 02:11:40 222955][1112491776][WARNING][logid:8445746535][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 02:32:44 090571][1112491776][WARNING][logid:8344247100][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 02:32:44 090594][1112491776][WARNING][logid:8344247100][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 06:03:01 100093][1112491776][WARNING][logid:6473177930][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 06:03:01 100125][1112491776][WARNING][logid:6473177930][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 06:18:25 105590][1112491776][WARNING][logid:8343883100][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 06:18:25 105613][1112491776][WARNING][logid:8343883100][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 07:10:43 846607][1370687232][WARNING][logid:7029686817][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:46 317688][1370687232][WARNING][logid:2228867817][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:47 573602][1370687232][WARNING][logid:1190853217][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:48 542988][1370687232][WARNING][logid:6495262417][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:49 149601][1370687232][WARNING][logid:5134847517][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:49 715493][1370687232][WARNING][logid:4618102817][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:50 336690][1370687232][WARNING][logid:9668965117][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:50 845141][1370687232][WARNING][logid:2442494617][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:51 377107][1370687232][WARNING][logid:3512627217][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:51 875422][1370687232][WARNING][logid:2467360817][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:52 370777][1370687232][WARNING][logid:1454672917][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:52 845768][1370687232][WARNING][logid:1569699717][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:53 527373][1370687232][WARNING][logid:1155628017][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:54 044829][1370687232][WARNING][logid:7841985117][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:54 499836][1370687232][WARNING][logid:8286009717][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:54 976599][1370687232][WARNING][logid:6803946517][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:10:58 845988][1370687232][WARNING][logid:5163699517][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:11:00 377496][1370687232][WARNING][logid:5363125617][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:11:01 341923][1370687232][WARNING][logid:2663212617][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 07:32:07 740298][1112491776][WARNING][logid:9269170501][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 07:32:07 740324][1112491776][WARNING][logid:9269170501][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 21:11:26 092059][4187854816][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221003 21:11:26 092104][4187854816][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221003 21:11:26 092116][4187854816][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221003 21:11:26 092118][4187854816][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221003 21:11:26 092121][4187854816][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221003 21:11:26 092123][4187854816][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221003 21:12:46 701890][3155064576][WARNING][logid:5032973615][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:48 860053][3155064576][WARNING][logid:1147552315][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:50 016771][3155064576][WARNING][logid:2609092315][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:50 382880][3155064576][WARNING][logid:1044249515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:50 919513][3155064576][WARNING][logid:1460977515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:51 546171][3155064576][WARNING][logid:6686681515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:51 981439][3155064576][WARNING][logid:6866234215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:52 747943][3155064576][WARNING][logid:7424652215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:53 267411][3155064576][WARNING][logid:5830893115][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:53 622411][3155064576][WARNING][logid:6484673615][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:54 053557][3155064576][WARNING][logid:3711787015][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:55 041624][3155064576][WARNING][logid:5907995515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:55 666533][3155064576][WARNING][logid:1446972015][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:56 250537][3155064576][WARNING][logid:5217582215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:56 866436][3155064576][WARNING][logid:4702280415][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:57 175958][3155064576][WARNING][logid:2863511315][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:12:57 541249][3155064576][WARNING][logid:4075482715][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:13:14 110337][3155064576][WARNING][logid:7846707115][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:14:46 236347][3155064576][WARNING][logid:9524439215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:02 582709][3155064576][WARNING][logid:8062586515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:04 238602][3155064576][WARNING][logid:6226757815][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:04 966489][3155064576][WARNING][logid:7168704615][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:06 652220][3155064576][WARNING][logid:3688138015][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:07 472756][3155064576][WARNING][logid:1191477015][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:08 013896][3155064576][WARNING][logid:9507417115][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:08 548451][3155064576][WARNING][logid:9235453615][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:09 073958][3155064576][WARNING][logid:1417219715][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:09 569161][3155064576][WARNING][logid:7102617815][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:10 131124][3155064576][WARNING][logid:6326770815][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:10 625548][3155064576][WARNING][logid:8307356315][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:11 132961][3155064576][WARNING][logid:1793703315][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:11 748785][3155064576][WARNING][logid:8663327415][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:12 270616][3155064576][WARNING][logid:1676149215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:13 375504][3155064576][WARNING][logid:1547717715][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:13 925880][3155064576][WARNING][logid:5278003015][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:16:14 438351][3155064576][WARNING][logid:1203241115][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:19:37 494911][3155064576][WARNING][logid:6582975215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:19:39 200652][3155064576][WARNING][logid:9657335615][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:19:39 976370][3155064576][WARNING][logid:1408726415][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:22:41 688519][3155064576][WARNING][logid:4537856316][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:22:43 280728][3155064576][WARNING][logid:1671898116][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:22:44 074347][3155064576][WARNING][logid:1283010716][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:22:44 612491][3155064576][WARNING][logid:6176825716][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:22:45 140690][3155064576][WARNING][logid:2047451616][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:22:45 641162][3155064576][WARNING][logid:3891570016][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:22:46 094446][3155064576][WARNING][logid:6075666416][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:24:08 613535][3155064576][WARNING][logid:9347365616][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:24:09 939552][3155064576][WARNING][logid:3179254416][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:24:10 464984][3155064576][WARNING][logid:2658059716][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:42 617052][3155064576][WARNING][logid:3655699816][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:44 081805][3155064576][WARNING][logid:5654133016][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:44 854037][3155064576][WARNING][logid:5926173416][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:45 419155][3155064576][WARNING][logid:7668958916][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:45 967771][3155064576][WARNING][logid:5483471716][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:46 497848][3155064576][WARNING][logid:2860230116][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:46 928781][3155064576][WARNING][logid:9957834916][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:47 408449][3155064576][WARNING][logid:3272737716][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:47 842727][3155064576][WARNING][logid:1320639016][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:48 325803][3155064576][WARNING][logid:5760081516][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:48 744294][3155064576][WARNING][logid:5747861216][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:49 207764][3155064576][WARNING][logid:1772169916][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:49 645227][3155064576][WARNING][logid:4565958916][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:50 085380][3155064576][WARNING][logid:5240281716][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:50 526072][3155064576][WARNING][logid:5536992716][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:53 202101][3155064576][WARNING][logid:8641175916][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:53 696546][3155064576][WARNING][logid:1718510216][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:57 926943][3155064576][WARNING][logid:1491273816][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:25:58 449297][3155064576][WARNING][logid:8981642616][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 21:55:57 769199][2911274976][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221003 21:55:57 769246][2911274976][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221003 21:55:57 769257][2911274976][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221003 21:55:57 769260][2911274976][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221003 21:55:57 769262][2911274976][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221003 21:55:57 769265][2911274976][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221003 22:07:49 012956][2394875648][WARNING][logid:8373196431][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 22:07:49 012988][2394875648][WARNING][logid:8373196431][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 22:13:28 475295][2394875648][WARNING][logid:6947677404][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 22:13:28 475321][2394875648][WARNING][logid:6947677404][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 22:15:35 977113][2394875648][WARNING][logid:1923893792][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 22:15:35 977138][2394875648][WARNING][logid:1923893792][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 22:17:53 219868][2394875648][WARNING][logid:8123271780][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 22:17:53 219897][2394875648][WARNING][logid:8123271780][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 22:18:49 511923][2394875648][WARNING][logid:1723440700][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 22:18:49 511948][2394875648][WARNING][logid:1723440700][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 22:26:51 083073][2136680192][WARNING][logid:1788503515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:26:53 715580][2136680192][WARNING][logid:2472762915][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:26:57 052752][2136680192][WARNING][logid:5209177915][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:26:57 963090][2136680192][WARNING][logid:1338786415][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:26:58 616977][2136680192][WARNING][logid:3709592515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:26:59 288579][2136680192][WARNING][logid:2718996215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:26:59 950554][2136680192][WARNING][logid:3436900415][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:27:00 535786][2136680192][WARNING][logid:8951193115][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:40:48 032840][2394875648][WARNING][logid:1508432801][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 22:40:48 032866][2394875648][WARNING][logid:1508432801][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 22:42:03 769127][2136680192][WARNING][logid:5910936515][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:42:05 385143][2136680192][WARNING][logid:1129490015][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:42:06 296900][2136680192][WARNING][logid:1230357915][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:42:06 967361][2136680192][WARNING][logid:1025532215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:42:19 943882][2136680192][WARNING][logid:1378581516][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:42:21 070451][2136680192][WARNING][logid:6457941215][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:42:21 513154][2136680192][WARNING][logid:7023921415][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 22:47:04 554363][2394875648][WARNING][logid:7023921415][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 22:47:04 554392][2394875648][WARNING][logid:7023921415][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 23:14:14 021851][2394875648][WARNING][logid:1842770700][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 23:14:14 021883][2394875648][WARNING][logid:1842770700][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 23:20:00 320585][2136680192][WARNING][logid:7002395213][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:02 151854][2136680192][WARNING][logid:8025824413][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:03 226915][2136680192][WARNING][logid:6881047513][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:03 828159][2136680192][WARNING][logid:4805038413][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:04 283170][2136680192][WARNING][logid:2325555013][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:04 675606][2136680192][WARNING][logid:6393392213][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:05 135928][2136680192][WARNING][logid:1295709913][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:05 545926][2136680192][WARNING][logid:1964201713][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:05 994192][2136680192][WARNING][logid:8499265313][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:20:06 425994][2136680192][WARNING][logid:1670072013][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:26:29 325199][2394875648][WARNING][logid:1263744004][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 23:26:29 325224][2394875648][WARNING][logid:1263744004][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 23:44:06 629576][2394875648][WARNING][logid:4668774424][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221003 23:44:06 629607][2394875648][WARNING][logid:4668774424][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221003 23:45:25 081887][2136680192][WARNING][logid:4658021913][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:26 708946][2136680192][WARNING][logid:1403278313][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:27 365485][2136680192][WARNING][logid:2973357213][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:27 860848][2136680192][WARNING][logid:1284078113][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:28 366253][2136680192][WARNING][logid:5119105013][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:28 823087][2136680192][WARNING][logid:3835804113][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:29 255536][2136680192][WARNING][logid:5119528413][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:29 875331][2136680192][WARNING][logid:1826944313][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:30 371929][2136680192][WARNING][logid:6513201813][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:30 899144][2136680192][WARNING][logid:3552866513][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:31 258079][2136680192][WARNING][logid:3061802713][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:31 634585][2136680192][WARNING][logid:7649839213][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:31 978011][2136680192][WARNING][logid:6613511313][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:32 346964][2136680192][WARNING][logid:1153561513][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:33 003262][2136680192][WARNING][logid:1875743513][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:33 466385][2136680192][WARNING][logid:1412524213][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221003 23:45:33 966627][2136680192][WARNING][logid:6675036813][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221004 01:56:45 070009][2136680192][WARNING][logid:4927069814][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221004 01:56:46 514858][2136680192][WARNING][logid:8388575914][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221004 06:57:14 718588][2394875648][WARNING][logid:5840338602][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221004 06:57:14 718616][2394875648][WARNING][logid:5840338602][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221004 07:28:49 245776][2394875648][WARNING][logid:8635954020][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221004 07:28:49 245800][2394875648][WARNING][logid:8635954020][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221004 21:54:50 228783][2910889952][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221004 21:54:50 228831][2910889952][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221004 21:54:50 228843][2910889952][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221004 21:54:50 228846][2910889952][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221004 21:54:50 228848][2910889952][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221004 21:54:50 228851][2910889952][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221005 02:22:15 948351][2557659104][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221005 02:22:15 948404][2557659104][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221005 02:22:15 948415][2557659104][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221005 02:22:15 948418][2557659104][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221005 02:22:15 948421][2557659104][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221005 02:22:15 948423][2557659104][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221005 04:08:45 928929][2041259776][WARNING][logid:4603139021][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221005 04:08:45 928967][2041259776][WARNING][logid:4603139021][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221005 04:43:16 495730][4077950944][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221005 04:43:16 495807][4077950944][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221005 04:43:16 495820][4077950944][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221005 04:43:16 495823][4077950944][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221005 04:43:16 495826][4077950944][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221005 04:43:16 495828][4077950944][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221005 07:21:36 473495][3561551616][WARNING][logid:9047143900][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221005 07:21:36 473587][3561551616][WARNING][logid:9047143900][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221005 08:37:29 922824][2862991328][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221005 08:37:29 922866][2862991328][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221005 08:37:29 922876][2862991328][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221005 08:37:29 922879][2862991328][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221005 08:37:29 922882][2862991328][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221005 08:37:29 922884][2862991328][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221005 21:58:05 786967][2872862688][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221005 21:58:05 787014][2872862688][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221005 21:58:05 787026][2872862688][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221005 21:58:05 787029][2872862688][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221005 21:58:05 787031][2872862688][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221005 21:58:05 787033][2872862688][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221006 23:32:02 129477][2652174304][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221006 23:32:02 129611][2652174304][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221006 23:32:02 129622][2652174304][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221006 23:32:02 129625][2652174304][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221006 23:32:02 129628][2652174304][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221006 23:32:02 129630][2652174304][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221006 23:58:10 635120][1619384064][WARNING][logid:4617611300][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221006 23:58:10 635149][1619384064][WARNING][logid:4617611300][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 00:12:39 912621][2135774976][WARNING][logid:2712301014][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221007 00:12:41 299623][2135774976][WARNING][logid:6650075014][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221007 00:12:42 367757][2135774976][WARNING][logid:7847078814][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221007 00:12:43 029394][2135774976][WARNING][logid:2311064114][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221007 00:12:43 664569][2135774976][WARNING][logid:9637069014][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221007 00:56:59 016644][1619384064][WARNING][logid:8038237431][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 00:56:59 016680][1619384064][WARNING][logid:8038237431][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 02:43:35 029582][1619384064][WARNING][logid:1056839721][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 02:43:35 029643][1619384064][WARNING][logid:1056839721][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 02:54:50 112404][1619384064][WARNING][logid:4569096683][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 02:54:50 112445][1619384064][WARNING][logid:4569096683][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 03:02:30 264614][1619384064][WARNING][logid:5395902461][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 03:02:30 264641][1619384064][WARNING][logid:5395902461][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 03:16:11 353433][1619384064][WARNING][logid:9023087291][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 03:16:11 353465][1619384064][WARNING][logid:9023087291][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 04:52:19 284141][1619384064][WARNING][logid:1229910600][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 04:52:19 284179][1619384064][WARNING][logid:1229910600][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 05:04:46 719041][1619384064][WARNING][logid:3150091700][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 05:04:46 719130][1619384064][WARNING][logid:3150091700][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 05:29:51 855379][1619384064][WARNING][logid:4836418501][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 05:29:51 855408][1619384064][WARNING][logid:4836418501][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 06:11:15 862106][1619384064][WARNING][logid:8146906051][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 06:11:15 862156][1619384064][WARNING][logid:8146906051][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 06:56:16 010031][1619384064][WARNING][logid:2114525451][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 06:56:16 010072][1619384064][WARNING][logid:2114525451][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 07:10:05 040469][1114126304][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221007 07:10:05 040522][1114126304][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221007 07:10:05 040534][1114126304][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221007 07:10:05 040537][1114126304][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221007 07:10:05 040540][1114126304][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221007 07:10:05 040542][1114126304][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221007 20:28:12 516422][3696740320][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221007 20:28:12 516471][3696740320][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221007 20:28:12 516482][3696740320][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221007 20:28:12 516485][3696740320][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221007 20:28:12 516487][3696740320][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221007 20:28:12 516489][3696740320][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221007 21:17:01 886709][2922145536][WARNING][logid:1313458800][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 21:17:01 886743][2922145536][WARNING][logid:1313458800][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221007 22:32:55 354873][2922145536][WARNING][logid:8452169000][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221007 22:32:55 354900][2922145536][WARNING][logid:8452169000][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221008 00:34:36 126374][2922145536][WARNING][logid:6074111991][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221008 00:34:36 126423][2922145536][WARNING][logid:6074111991][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221008 06:04:11 964162][2922145536][WARNING][logid:1158534811][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221008 06:04:11 964360][2922145536][WARNING][logid:1158534811][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221008 07:29:12 735877][2922145536][WARNING][logid:2594297341][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221008 07:29:12 735944][2922145536][WARNING][logid:2594297341][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221015 07:28:23 777019][2899941344][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221015 07:28:23 777091][2899941344][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221015 07:28:23 777181][2899941344][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221015 07:28:23 777185][2899941344][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221015 07:28:23 777188][2899941344][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221015 07:28:23 777190][2899941344][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221015 08:38:57 598258][1608955648][WARNING][logid:6142121300][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221015 08:38:57 598305][1608955648][WARNING][logid:6142121300][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221015 09:11:14 279403][1608955648][WARNING][logid:7116027800][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221015 09:11:14 279431][1608955648][WARNING][logid:7116027800][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221015 21:13:43 453488][2912839648][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221015 21:13:43 453555][2912839648][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221015 21:13:43 453567][2912839648][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221015 21:13:43 453570][2912839648][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221015 21:13:43 453573][2912839648][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221015 21:13:43 453575][2912839648][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221015 23:34:38 119063][2654635776][WARNING][logid:1308945900][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221015 23:34:38 119111][2654635776][WARNING][logid:1308945900][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221015 23:54:26 100199][2654635776][WARNING][logid:1232335800][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221015 23:54:26 100224][2654635776][WARNING][logid:1232335800][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221015 23:57:32 972931][2654635776][WARNING][logid:8451531900][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221015 23:57:32 972955][2654635776][WARNING][logid:8451531900][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221016 00:22:51 982037][2654635776][WARNING][logid:6956934700][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221016 00:22:51 982057][2654635776][WARNING][logid:6956934700][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221016 09:36:12 637130][0512534496][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221016 09:36:12 637175][0512534496][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221016 09:36:12 637211][0512534496][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221016 09:36:12 637215][0512534496][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221016 09:36:12 637217][0512534496][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221016 09:36:12 637220][0512534496][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221016 10:06:16 406316][0254330624][WARNING][logid:6100204822][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:18 421461][0254330624][WARNING][logid:8499139122][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:19 593689][0254330624][WARNING][logid:4171584522][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:20 225624][0254330624][WARNING][logid:1071988122][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:20 778074][0254330624][WARNING][logid:1556849222][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:21 241155][0254330624][WARNING][logid:1702187822][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:21 780225][0254330624][WARNING][logid:1430976422][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:22 298040][0254330624][WARNING][logid:1645191422][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:22 797800][0254330624][WARNING][logid:4223487622][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:23 820622][0254330624][WARNING][logid:2065786422][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:24 290243][0254330624][WARNING][logid:1334097222][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:36 246331][0254330624][WARNING][logid:1170710023][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:37 551009][0254330624][WARNING][logid:7900966422][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:38 366641][0254330624][WARNING][logid:5210491922][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:39 087737][0254330624][WARNING][logid:9684336622][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:06:39 602040][0254330624][WARNING][logid:7505255122][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:07:17 015753][0254330624][WARNING][logid:2733876018][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:07:17 992787][0254330624][WARNING][logid:9712562218][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:07:18 617696][0254330624][WARNING][logid:4731462718][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:07:19 076088][0254330624][WARNING][logid:7410682218][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 10:07:33 059537][0254330624][WARNING][logid:4049232018][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221016 21:41:25 524855][3637340128][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221016 21:41:25 524896][3637340128][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221016 21:41:25 524908][3637340128][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221016 21:41:25 524911][3637340128][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221016 21:41:25 524913][3637340128][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221016 21:41:25 524915][3637340128][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221016 22:28:10 906851][3120940800][WARNING][logid:6323117711][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221016 22:28:10 906898][3120940800][WARNING][logid:6323117711][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221016 22:43:45 730145][3120940800][WARNING][logid:1344298622][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221016 22:43:45 730190][3120940800][WARNING][logid:1344298622][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221016 22:59:44 642850][3120940800][WARNING][logid:8626540506][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221016 22:59:44 642878][3120940800][WARNING][logid:8626540506][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221016 23:07:10 047547][3120940800][WARNING][logid:4579881692][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221016 23:07:10 047582][3120940800][WARNING][logid:4579881692][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221016 23:26:10 248567][3120940800][WARNING][logid:6541409600][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221016 23:26:10 248625][3120940800][WARNING][logid:6541409600][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221016 23:33:35 112968][0951637984][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221016 23:33:35 113017][0951637984][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221016 23:33:35 113029][0951637984][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221016 23:33:35 113032][0951637984][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221016 23:33:35 113034][0951637984][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221016 23:33:35 113037][0951637984][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221017 00:15:34 386769][0693434112][WARNING][logid:1534869816][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 00:15:35 820342][0693434112][WARNING][logid:6772561216][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 00:15:36 727377][0693434112][WARNING][logid:1187242116][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 00:15:37 254003][0693434112][WARNING][logid:7764900016][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 00:15:37 855350][0693434112][WARNING][logid:2878507216][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 00:15:38 434114][0693434112][WARNING][logid:7758672316][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 00:15:39 002682][0693434112][WARNING][logid:3096257116][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 00:44:31 556111][0435238656][WARNING][logid:2563209632][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 00:44:31 556176][0435238656][WARNING][logid:2563209632][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 01:15:38 964438][0435238656][WARNING][logid:5602140104][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 01:15:38 964494][0435238656][WARNING][logid:5602140104][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 01:18:51 131402][0435238656][WARNING][logid:1442881112][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 01:18:51 131428][0435238656][WARNING][logid:1442881112][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 01:29:54 926243][0435238656][WARNING][logid:6169964903][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 01:29:54 926269][0435238656][WARNING][logid:6169964903][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 01:35:36 124831][0435238656][WARNING][logid:9960459603][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 01:35:36 124863][0435238656][WARNING][logid:9960459603][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 01:41:15 913792][0435238656][WARNING][logid:5361255392][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 01:41:15 913819][0435238656][WARNING][logid:5361255392][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 04:38:09 154253][0435238656][WARNING][logid:9723731473][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 04:38:09 154298][0435238656][WARNING][logid:9723731473][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 05:11:48 991713][0435238656][WARNING][logid:5927573952][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 05:11:48 991759][0435238656][WARNING][logid:5927573952][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 07:16:24 241402][0693434112][WARNING][logid:9452341414][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:16:25 348094][0693434112][WARNING][logid:2317532614][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:16:25 980072][0693434112][WARNING][logid:6835868014][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:22:22 851006][0693434112][WARNING][logid:1532637014][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:22:23 900697][0693434112][WARNING][logid:2743533114][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:22:24 699265][0693434112][WARNING][logid:1494523414][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:22:25 218185][0693434112][WARNING][logid:3614576114][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:22:25 943673][0693434112][WARNING][logid:1881771714][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:22:26 451193][0693434112][WARNING][logid:7228985514][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20221017 07:30:17 547481][0435238656][WARNING][logid:1059882000][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 07:30:17 547507][0435238656][WARNING][logid:1059882000][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221017 07:52:40 119270][0435238656][WARNING][logid:1768006500][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221017 07:52:40 119298][0435238656][WARNING][logid:1768006500][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221023 09:46:39 898076][1425061856][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221023 09:46:39 898273][1425061856][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221023 09:46:39 898335][1425061856][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221023 09:46:39 898338][1425061856][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221023 09:46:39 898341][1425061856][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221023 09:46:39 898343][1425061856][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221023 10:09:58 121989][0481900512][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221023 10:09:58 122039][0481900512][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221023 10:09:58 122050][0481900512][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221023 10:09:58 122053][0481900512][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221023 10:09:58 122055][0481900512][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221023 10:09:58 122058][0481900512][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221023 10:11:19 467301][0223696640][FATAL][logid:2670024417][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:20 697212][0223696640][FATAL][logid:9012751716][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:21 801612][0223696640][FATAL][logid:9951752716][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:22 553977][0223696640][FATAL][logid:5839239116][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:23 282883][0223696640][FATAL][logid:1609791316][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:24 091330][0223696640][FATAL][logid:7803845616][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:24 702106][0223696640][FATAL][logid:9677495516][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:25 809913][0223696640][FATAL][logid:7199525516][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:26 397243][0223696640][FATAL][logid:6636223716][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:26 944662][0223696640][FATAL][logid:8513535316][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:37 991481][0223696640][FATAL][logid:4163291616][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:38 979851][0223696640][FATAL][logid:5730905416][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:11:39 717606][0223696640][FATAL][logid:4662507916][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:13:58 706437][0223696640][FATAL][logid:2006379515][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:13:59 656165][0223696640][FATAL][logid:4181797215][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:14:00 165463][0223696640][FATAL][logid:1565348215][ProxyCommand.cpp:347]connect to server:127.0.0.1 module:battle failed:Connection refused
+[20221023 10:19:26 727529][4002273024][WARNING][logid:2619665800][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221023 10:19:26 727561][4002273024][WARNING][logid:2619665800][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221023 10:20:20 813397][3702765536][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221023 10:20:20 813465][3702765536][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221023 10:20:20 813479][3702765536][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221023 10:20:20 813483][3702765536][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221023 10:20:20 813487][3702765536][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221023 10:20:20 813490][3702765536][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221023 10:23:53 245003][0166000608][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221023 10:23:53 245055][0166000608][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221023 10:23:53 245068][0166000608][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221023 10:23:53 245072][0166000608][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221023 10:23:53 245076][0166000608][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221023 10:23:53 245079][0166000608][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221023 22:14:52 744183][0433522656][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221023 22:14:52 744485][0433522656][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221023 22:14:52 744499][0433522656][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221023 22:14:52 744502][0433522656][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221023 22:14:52 744504][0433522656][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221023 22:14:52 744507][0433522656][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221023 22:32:12 790111][3953895168][WARNING][logid:3052293432][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221023 22:32:12 790143][3953895168][WARNING][logid:3052293432][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221024 00:59:02 388887][3953895168][WARNING][logid:1636190101][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221024 00:59:02 388970][3953895168][WARNING][logid:1636190101][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221023 17:11:08 005660][1072379872][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221023 17:11:08 005706][1072379872][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221023 17:11:08 005717][1072379872][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221023 17:11:08 005720][1072379872][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221023 17:11:08 005722][1072379872][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221023 17:11:08 005724][1072379872][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221023 18:07:32 169517][0555980544][WARNING][logid:3731783590][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221023 18:07:32 169665][0555980544][WARNING][logid:3731783590][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221023 18:21:09 980174][0555980544][WARNING][logid:1828168300][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221023 18:21:09 980209][0555980544][WARNING][logid:1828168300][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221023 18:33:01 688468][0555980544][WARNING][logid:1929981301][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221023 18:33:01 688496][0555980544][WARNING][logid:1929981301][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221023 18:38:20 819299][0555980544][WARNING][logid:3350457903][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221023 18:38:20 819323][0555980544][WARNING][logid:3350457903][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221030 01:14:13 247156][2788464608][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221030 01:14:13 247198][2788464608][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221030 01:14:13 247209][2788464608][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221030 01:14:13 247211][2788464608][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221030 01:14:13 247214][2788464608][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221030 01:14:13 247216][2788464608][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221030 01:19:57 615042][2530260736][WARNING][logid:1392359400][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221030 01:19:57 615066][2530260736][WARNING][logid:1392359400][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20221030 18:23:46 632826][2112878560][FATAL][main.cpp:32]server:bin/phpproxy started
+[20221030 18:23:46 632868][2112878560][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20221030 18:23:46 632879][2112878560][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20221030 18:23:46 632881][2112878560][WARNING][ProxyCommand.cpp:58]installed module:data
+[20221030 18:23:46 632884][2112878560][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20221030 18:23:46 632886][2112878560][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20221030 18:25:17 115761][1596479232][WARNING][logid:3684561921][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:lcserver#game20002 failed:End of file
+[20221030 18:25:17 115789][1596479232][WARNING][logid:3684561921][ProxyCommand.cpp:206]connection is reset, ignore error:read_response_failed
+[20231016 19:07:01 711626][2764773344][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231016 19:07:01 711728][2764773344][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231016 19:07:01 711747][2764773344][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231016 19:07:01 711751][2764773344][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231016 19:07:01 711754][2764773344][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231016 19:07:01 711757][2764773344][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231016 23:34:34 607395][2791634912][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231016 23:34:34 607463][2791634912][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231016 23:34:34 607483][2791634912][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231016 23:34:34 607487][2791634912][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231016 23:34:34 607490][2791634912][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231016 23:34:34 607493][2791634912][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231017 16:10:28 652473][1150621664][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231017 16:10:28 652747][1150621664][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231017 16:10:28 652900][1150621664][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231017 16:10:28 652908][1150621664][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231017 16:10:28 652913][1150621664][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231017 16:10:28 652917][1150621664][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231017 17:00:09 393828][4154603264][FATAL][logid:3240762500][ProxyCommand.cpp:602]request to server:127.0.0.1 module:data timeout
+[20231017 17:00:09 394946][4154603264][WARNING][logid:3240762500][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:data failed:Operation canceled
+[20231018 03:37:56 293562][1113462752][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231018 03:37:56 293730][1113462752][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231018 03:37:56 293796][1113462752][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231018 03:37:56 293801][1113462752][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231018 03:37:56 293804][1113462752][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231018 03:37:56 293806][1113462752][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231022 03:56:02 483500][4256618464][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231022 03:56:02 483580][4256618464][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231022 03:56:02 483600][4256618464][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231022 03:56:02 483636][4256618464][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231022 03:56:02 483642][4256618464][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231022 03:56:02 483646][4256618464][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231022 04:54:46 499820][4256610048][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231022 04:54:46 499940][2707437312][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231022 04:54:47 500515][2707437312][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231022 04:54:48 500703][2707437312][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231022 16:16:22 096737][3715618784][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231022 16:16:22 096801][3715618784][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231022 16:16:22 096815][3715618784][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231022 16:16:22 096818][3715618784][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231022 16:16:22 096821][3715618784][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231022 16:16:22 096824][3715618784][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231022 18:32:10 084970][3715610368][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231022 18:32:10 085189][1946154752][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231022 18:32:11 085720][1946154752][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231022 18:32:12 086227][1946154752][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231022 22:09:26 151572][0849577952][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231022 22:09:26 151657][0849577952][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231022 22:09:26 151683][0849577952][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231022 22:09:26 151690][0849577952][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231022 22:09:26 151696][0849577952][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231022 22:09:26 151702][0849577952][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231023 03:31:24 576109][0849569536][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231023 03:31:24 576439][3221223168][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231023 03:31:25 577018][3221223168][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231023 03:31:26 577375][3221223168][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231023 15:35:15 440519][0128686048][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231023 15:35:15 440584][0128686048][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231023 15:35:15 440600][0128686048][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231023 15:35:15 440603][0128686048][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231023 15:35:15 440606][0128686048][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231023 15:35:15 440609][0128686048][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231023 19:26:23 488676][0128686048][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231023 19:26:23 494817][2348807936][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231023 19:26:24 495641][2348807936][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231023 19:26:25 496477][2348807936][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231023 22:18:56 577511][3795974112][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231023 22:18:56 577573][3795974112][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231023 22:18:56 577589][3795974112][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231023 22:18:56 577592][3795974112][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231023 22:18:56 577595][3795974112][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231023 22:18:56 577598][3795974112][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 05:16:34 948643][3795974112][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 05:16:34 948886][2246792960][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 05:16:35 949046][2246792960][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 05:16:36 949606][2246792960][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 12:14:50 069363][1581438944][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 12:14:50 069440][1581438944][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 12:14:50 069461][1581438944][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 12:14:50 069480][1581438944][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 12:14:50 069485][1581438944][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 12:14:50 069488][1581438944][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 13:12:58 830204][3825202944][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 13:12:58 830302][3825202944][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 13:12:59 831047][3825202944][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:13:00 831562][3825202944][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:14:05 694400][4227479520][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 13:14:05 694471][4227479520][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 13:14:05 694490][4227479520][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 13:14:05 694495][4227479520][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 13:14:05 694500][4227479520][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 13:14:05 694532][4227479520][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 13:15:46 502430][4227479520][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 13:15:46 521553][2550134528][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 13:15:47 522145][2550134528][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:15:48 522600][2550134528][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:27:21 605281][1305581536][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 13:27:21 605343][1305581536][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 13:27:21 605358][1305581536][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 13:27:21 605361][1305581536][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 13:27:21 605364][1305581536][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 13:27:21 605367][1305581536][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 13:30:15 215695][1047377664][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 13:30:15 220508][4051367680][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 13:30:16 220731][4051367680][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:30:17 220916][4051367680][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:31:13 524185][0471328736][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 13:31:13 524256][0471328736][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 13:31:13 524276][0471328736][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 13:31:13 524281][0471328736][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 13:31:13 524286][0471328736][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 13:31:13 524290][0471328736][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 13:58:04 766262][0471320320][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 13:58:04 773097][2952787712][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 13:58:05 773479][2952787712][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:58:06 774146][2952787712][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 13:59:47 751178][0441501664][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 13:59:47 751240][0441501664][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 13:59:47 751255][0441501664][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 13:59:47 751258][0441501664][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 13:59:47 751261][0441501664][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 13:59:47 751263][0441501664][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 14:06:24 061202][0183297792][FATAL][logid:2852326800][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 14:06:24 061997][2952787712][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 14:06:25 062680][2952787712][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 14:06:26 063158][2952787712][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 14:07:14 156545][2452527072][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 14:07:14 156605][2452527072][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 14:07:14 156620][2452527072][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 14:07:14 156623][2452527072][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 14:07:14 156626][2452527072][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 14:07:14 156628][2452527072][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 16:42:48 596059][2194323200][FATAL][logid:6244540500][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 16:42:48 596572][0402650880][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 16:42:49 597070][0402650880][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 16:42:50 597588][0402650880][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 16:43:50 474303][2684684256][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 16:43:50 474399][2684684256][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 16:43:50 474444][2684684256][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 16:43:50 474449][2684684256][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 16:43:50 474452][2684684256][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 16:43:50 474454][2684684256][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 16:50:12 348352][1651894016][WARNING][logid:4701067710][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:14 190326][1651894016][WARNING][logid:6985774810][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:15 649038][1651894016][WARNING][logid:6993272110][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:17 178590][1651894016][WARNING][logid:9515151310][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:20 106457][1651894016][WARNING][logid:2379677610][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:20 841229][1651894016][WARNING][logid:1801901610][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:21 190095][1651894016][WARNING][logid:6770837010][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:22 026051][1651894016][WARNING][logid:1953182310][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:50:59 284838][1651894016][WARNING][logid:1223194310][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:01 382942][1651894016][WARNING][logid:7538974810][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:01 959717][1651894016][WARNING][logid:5192795410][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:02 590033][1651894016][WARNING][logid:8369686510][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:12 967163][1651894016][WARNING][logid:8484967910][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:13 619595][1651894016][WARNING][logid:2805344110][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:13 939559][1651894016][WARNING][logid:3355179410][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:14 275223][1651894016][WARNING][logid:4289428810][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:38 121188][1651894016][WARNING][logid:2396798607][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:38 762888][1651894016][WARNING][logid:4798725307][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:51 018603][1651894016][WARNING][logid:3279274606][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:51 737026][1651894016][WARNING][logid:6217997106][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:51:52 091435][1651894016][WARNING][logid:9148592606][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:53:11 213734][1651894016][WARNING][logid:6800976520][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:53:12 818679][1651894016][WARNING][logid:9186386920][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:07 187582][1651894016][WARNING][logid:2940578607][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:08 689082][1651894016][WARNING][logid:1913623907][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:11 347189][1651894016][WARNING][logid:8777616407][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:13 905724][1651894016][WARNING][logid:1116101607][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:26 610554][1651894016][WARNING][logid:9308697407][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:35 277596][1651894016][WARNING][logid:9304770507][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:35 677779][1651894016][WARNING][logid:1735017507][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:42 370288][1651894016][WARNING][logid:2922928407][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:42 721283][1651894016][WARNING][logid:2917336307][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:43 330558][1651894016][WARNING][logid:6006924607][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:43 699563][1651894016][WARNING][logid:6130670507][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:54:44 155181][1651894016][WARNING][logid:8167162107][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:57:34 345403][1651894016][WARNING][logid:9392894007][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 16:57:35 665787][1651894016][WARNING][logid:6661326607][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 17:04:22 948337][1651894016][WARNING][logid:5208802607][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 17:04:23 586160][1651894016][WARNING][logid:1115617207][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231024 18:02:01 310009][2684684256][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 18:02:01 315871][0872412928][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 18:02:02 316557][0872412928][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 18:02:03 317193][0872412928][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 18:02:48 379999][0526788576][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 18:02:48 380430][0526788576][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 18:02:48 380453][0526788576][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 18:02:48 380458][0526788576][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 18:02:48 380462][0526788576][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 18:02:48 380465][0526788576][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 18:37:28 180377][0526788576][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 18:37:28 180689][2751461120][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 18:37:29 193058][2751461120][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 18:37:30 193540][2751461120][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 18:46:36 295849][0716212192][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231024 18:46:36 295921][0716212192][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231024 18:46:36 295940][0716212192][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231024 18:46:36 295945][0716212192][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231024 18:46:36 295950][0716212192][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231024 18:46:36 295954][0716212192][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231024 18:58:42 120083][3978389248][FATAL][logid:3256100511][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231024 18:58:42 121836][3087005440][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231024 18:58:43 122040][3087005440][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231024 18:58:44 122504][3087005440][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231026 15:44:14 628818][0201496544][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231026 15:44:14 629049][0201496544][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231026 15:44:14 629166][0201496544][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231026 15:44:14 629171][0201496544][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231026 15:44:14 629174][0201496544][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231026 15:44:14 629177][0201496544][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231026 17:48:03 123716][0201488128][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231026 17:48:03 124080][2947282688][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231026 17:48:04 124408][2947282688][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231026 17:48:05 125012][2947282688][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231026 17:50:29 916614][1438263264][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231026 17:50:29 916674][1438263264][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231026 17:50:29 916688][1438263264][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231026 17:50:29 916691][1438263264][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231026 17:50:29 916694][1438263264][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231026 17:50:29 916697][1438263264][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231026 19:19:30 936746][1438263264][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231026 19:19:30 936938][3959420672][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231026 19:19:31 937165][3959420672][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231026 19:19:32 937477][3959420672][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231027 15:09:18 725481][3959703520][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231027 15:09:18 725547][3959703520][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231027 15:09:18 725562][3959703520][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231027 15:09:18 725566][3959703520][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231027 15:09:18 725569][3959703520][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231027 15:09:18 725571][3959703520][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231027 18:30:02 662542][0536868608][FATAL][logid:1896892342][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231027 18:30:02 663289][1879045888][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231027 18:30:03 665098][1879045888][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231027 18:30:04 665757][1879045888][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231027 18:32:31 165531][1435527136][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231027 18:32:31 165593][1435527136][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231027 18:32:31 165608][1435527136][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231027 18:32:31 165611][1435527136][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231027 18:32:31 165614][1435527136][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231027 18:32:31 165616][1435527136][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231027 19:26:33 297944][1435527136][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231027 19:26:33 302611][4181313280][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231027 19:26:34 303193][4181313280][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231027 19:26:35 303403][4181313280][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231027 22:18:45 889906][1355507680][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231027 22:18:45 889975][1355507680][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231027 22:18:45 889992][1355507680][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231027 22:18:45 889996][1355507680][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231027 22:18:45 890000][1355507680][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231027 22:18:45 890003][1355507680][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231028 00:01:03 530673][1355499264][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231028 00:01:03 563301][4101293824][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231028 00:01:04 563658][4101293824][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 00:01:05 564157][4101293824][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 00:01:50 036137][1811625952][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231028 00:01:50 036324][1811625952][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231028 00:01:50 036357][1811625952][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231028 00:01:50 036362][1811625952][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231028 00:01:50 036368][1811625952][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231028 00:01:50 036372][1811625952][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231028 01:06:33 368739][1553422080][FATAL][logid:8232633200][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231028 01:06:33 370579][0134215424][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231028 01:06:34 370789][0134215424][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 01:06:35 371289][0134215424][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 01:07:23 862558][0594126816][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231028 01:07:23 862709][0594126816][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231028 01:07:23 862765][0594126816][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231028 01:07:23 862771][0594126816][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231028 01:07:23 862776][0594126816][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231028 01:07:23 862780][0594126816][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231028 01:08:33 875942][1930245888][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231028 01:08:33 876291][3221223168][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231028 01:08:34 876597][3221223168][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 01:08:35 876796][3221223168][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 01:10:31 214820][0109275104][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231028 01:10:31 214902][0109275104][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231028 01:10:31 214920][0109275104][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231028 01:10:31 214925][0109275104][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231028 01:10:31 214929][0109275104][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231028 01:10:31 214933][0109275104][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231028 01:17:25 025798][0109266688][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231028 01:17:25 028206][2751461120][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231028 01:17:26 028527][2751461120][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 01:17:27 028807][2751461120][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 01:18:18 053647][0530286560][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231028 01:18:18 053705][0530286560][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231028 01:18:18 053719][0530286560][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231028 01:18:18 053723][0530286560][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231028 01:18:18 053725][0530286560][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231028 01:18:18 053728][0530286560][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231028 02:03:01 350418][0272082688][WARNING][logid:6215853320][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231028 02:03:02 222613][0272082688][WARNING][logid:9304462420][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20231028 02:14:49 703475][0530286560][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231028 02:14:49 703550][3154114304][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231028 02:14:50 704555][3154114304][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 02:14:51 705338][3154114304][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 02:15:38 698462][1053820896][FATAL][main.cpp:32]server:bin/phpproxy started
+[20231028 02:15:38 698520][1053820896][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20231028 02:15:38 698534][1053820896][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20231028 02:15:38 698537][1053820896][WARNING][ProxyCommand.cpp:58]installed module:data
+[20231028 02:15:38 698541][1053820896][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20231028 02:15:38 698543][1053820896][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20231028 02:16:47 480155][0021030656][FATAL][logid:2489315500][Server.cpp:31]SIGTERM recieved, shutdown now
+[20231028 02:16:47 485082][3799607040][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20231028 02:16:48 485517][3799607040][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20231028 02:16:49 485786][3799607040][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20250523 17:28:31 199290][2785224672][FATAL][main.cpp:32]server:bin/phpproxy started
+[20250523 17:28:31 199424][2785224672][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20250523 17:28:31 199499][2785224672][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20250523 17:28:31 199503][2785224672][WARNING][ProxyCommand.cpp:58]installed module:data
+[20250523 17:28:31 199505][2785224672][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20250523 17:28:31 199507][2785224672][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20250523 18:15:38 842607][2010629888][WARNING][logid:5577691421][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20250523 18:15:39 682974][2010629888][WARNING][logid:2115084721][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20250523 18:15:39 994770][2010629888][WARNING][logid:2887993221][ProxyCommand.cpp:487]read response header from server:127.0.0.1 module:battle failed:End of file
+[20250523 19:35:36 498816][1022466016][FATAL][main.cpp:32]server:bin/phpproxy started
+[20250523 19:35:36 498858][1022466016][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20250523 19:35:36 498870][1022466016][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20250523 19:35:36 498873][1022466016][WARNING][ProxyCommand.cpp:58]installed module:data
+[20250523 19:35:36 498875][1022466016][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20250523 19:35:36 498877][1022466016][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20250523 19:44:22 543937][0247871232][FATAL][logid:2497382600][Server.cpp:31]SIGTERM recieved, shutdown now
+[20250523 19:44:22 545464][3768252160][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20250523 19:44:23 546183][3768252160][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20250523 19:44:24 546901][3768252160][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20250523 22:35:39 816222][3781744608][FATAL][main.cpp:32]server:bin/phpproxy started
+[20250523 22:35:39 816487][3781744608][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20250523 22:35:39 816629][3781744608][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20250523 22:35:39 816634][3781744608][WARNING][ProxyCommand.cpp:58]installed module:data
+[20250523 22:35:39 816637][3781744608][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20250523 22:35:39 816639][3781744608][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20250523 23:36:15 838937][3781736192][FATAL][Server.cpp:31]SIGTERM recieved, shutdown now
+[20250523 23:36:15 839133][1677719296][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20250523 23:36:16 839459][1677719296][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20250523 23:36:17 840000][1677719296][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20250523 23:43:12 100247][0736122848][FATAL][main.cpp:32]server:bin/phpproxy started
+[20250523 23:43:12 100298][0736122848][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20250523 23:43:12 100321][0736122848][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20250523 23:43:12 100325][0736122848][WARNING][ProxyCommand.cpp:58]installed module:data
+[20250523 23:43:12 100327][0736122848][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20250523 23:43:12 100329][0736122848][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20250523 23:47:17 814306][2449127168][FATAL][logid:5446404139][Server.cpp:31]SIGTERM recieved, shutdown now
+[20250523 23:47:17 818979][3481908992][FATAL][Acceptor.cpp:68]accept failed:Operation canceled
+[20250523 23:47:18 819115][3481908992][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20250523 23:47:19 819617][3481908992][FATAL][Acceptor.cpp:68]accept failed:Bad file descriptor
+[20250806 01:18:13 960172][3516082144][FATAL][main.cpp:32]server:bin/phpproxy started
+[20250806 01:18:13 960204][3516082144][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20250806 01:18:13 960213][3516082144][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20250806 01:18:13 960215][3516082144][WARNING][ProxyCommand.cpp:58]installed module:data
+[20250806 01:18:13 960217][3516082144][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20250806 01:18:13 960218][3516082144][WARNING][ProxyCommand.cpp:58]installed module:stat
+[20250806 10:22:36 033750][1722554336][FATAL][main.cpp:32]server:bin/phpproxy started
+[20250806 10:22:36 033797][1722554336][FATAL][main.cpp:49]server started with args:
+root.log.filename:log/phpproxy.log
+root.log.flush:0
+root.log.log_level:2
+root.server.unix_socket:/home/pirate/phpproxy/var/phpproxy.sock
+root.server.max_request_size:102400
+root.server.max_response_size:1024000
+root.server.compress_threshold:10240
+root.server.read_timeout:4000
+root.server.write_timeout:1000
+root.server.backlog:50
+root.server.service_num:5
+root.server.network_num:5
+root.server.amf_version:1
+root.server.byte_order:0
+root.server.command.proxy.connect_timeout:2000
+
+[20250806 10:22:36 033807][1722554336][WARNING][ProxyCommand.cpp:58]installed module:battle
+[20250806 10:22:36 033810][1722554336][WARNING][ProxyCommand.cpp:58]installed module:data
+[20250806 10:22:36 033811][1722554336][WARNING][ProxyCommand.cpp:58]installed module:lcserver#game20002
+[20250806 10:22:36 033813][1722554336][WARNING][ProxyCommand.cpp:58]installed module:stat

@@ -1,0 +1,29 @@
+<root>
+  <content title="Tổ đội">1. 3 người chơi có thể tổ đội và đăng kí tham gia, giai đoạn tích điểm mỗi 1 người chơi dùng 2 Đ.đội hợp thành 1 tiểu đội để tham gia, giai đoạn vòng trong mỗi 1 người chơi lần lượt dùng tiểu đội của bản thân để chiến đấu với người chơi đối thủ.
+2. Sau khi tổ đội cần xếp trận xong mới có thể đăng ký.</content>
+  <content title="Cập nhật T.tin C.đấu">a) T.tin C.đấu
+ là dữ liệu liên quan đến người chơi và chiến đấu, bao gồm các thông tin ảnh hưởng đến độ mạnh yếu của người chơi  như Đ.đội, Pet, Trang bị, Trận hình, B.thạch, Tinh bàn.
+b) Cập nhật T.tin C.đấu 
+ Để đảm bảo những gì mà Hệ thống Hải tặc chiến đấu lưu là dữ liệu T.tin C.đấu mà người chơi muốn lưu nhất, người chơi sau mỗi lần thay đổi T.tin C.đấu, cần nhấn vào “Cập nhật T.tin C.đấu” để truyền người chơi T.tin C.đấu mới nhất tới server game. Trong thời gian Hải tặc chiến đấu nếu như dữ liệu T.tin C.đấu người chơi có thay đổi,  và người chơi chưa nhấn vào “Cập nhật T.tin C.đấu”, thì dữ liệu T.tin C.đấu của người chơi  được lưu trong hệ thống “Hải tặc chiến đấu” sẽ không thay đổi.
+c) Thay đổi Đ.đội và bày trận 
+ Các thành viên có thể thay đổi Đ.đội ra trận trong thời gian vòng tích điểm, do đội trưởng tiến hành bố trận.</content>
+  <content title="Quy tắc H.tặc chiến đấu">a) Quy tắc vòng tích điểm 
+
+1. 3 đội viên mỗi người dùng 2 Đ.đội tạo thành 1 tiểu đội chiến đấu, đội chiến sẽ ghép cặp chiến đấu, đội ngũ ghép được sẽ đánh trước.
+2. Sau khi ghép cặp xong, có thể xem thông tin đối thủ, cũng có thể ghép cặp lại, mỗi 1 đội ngũ lần lượt có 3 lần xem thông tin và cơ hội ghép cặp lại.
+3. Người chơi có thể mua số lần xem thông tin và ghép cặp lại.
+4. Mỗi lần chiến đấu sẽ có p.thưởng Beri, danh vọng.
+5. Mỗi ngày có 25 lần thách đấu, 10:00 -22:00 hàng ngày có thể thách đấu.
+6. Thách đấu thắng nhận được 20 tích điểm, thất bại nhận được 3 tích điểm.
+7. Sau khi vòng tích điểm kết thúc sẽ phát thưởng theo XH tích điểm, đội ngũ Top 16 tích điểm sẽ vào vòng trong.
+
+b) Quy tắc vòng trong 
+
+1. Top 16 chọn từ vòng tích điểm chia thành 8 nhóm, mỗi nhóm 2 đội đấu với nhau, mỗi trận cách nhau 1 ngày.
+2. Mỗi trận chia thành 5 hiệp, đội thắng  3 hiệp sẽ vào vòng tiếp theo 
+3. Mỗi hiệp mỗi người trong 2 phe cần cử ra 5 Đ.đội đánh với 5 Đ.đội của đối phương, bất luận thắng thua, trận tiếp theo đều sẽ do Đ.đội của thành viên khác ra trận.
+4. Thành viên chiến lực cao đánh trước, người đánh thắng 2 trận sẽ thắng.
+5. Mỗi hiệp cách nhau 30 phút, trước khi bắt đầu mỗi hiệp đội trưởng có thể điều chỉnh thứ tự xuất trận của đội.
+6. Tất cả người chơi ở server của Quán quân Hải tặc chiến đấu được lễ bao all server.</content>
+  <content title="Quy tắc trợ uy">Giai đoạn vòng trong, người chơi mỗi trận chỉ được chọn 1 đội ngũ để trợ uy, 10 phút trước mỗi trận không thể trợ uy. Đội ngũ được trợ uy nếu như vào vòng trong, thì người chơi trợ uy được nhận 2500 Beri*lv, 150 Danh vọng.</content>
+</root>

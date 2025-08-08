@@ -1,0 +1,5 @@
+<root>
+  <point_back id="1" activity="角斗场" high_cost="1|500" high_reduction="100" middle_cost="1|50" middle_reduction="75" low_cost="2|200000" low_reduction="50" help="1、上次活动没有参加的玩家可以花费一定金币或贝里追回一定的奖励。\n2、已经追回活动奖励的玩家不可再次追回。\n3、参与活动或追回奖励会刷新积分获得记录。\n4、相应的活动开始到发奖期间不能追回奖励。"/>
+  <point_back id="2" activity="海上争霸" high_cost="1|500" high_reduction="100" middle_cost="1|50" middle_reduction="75" low_cost="2|200000" low_reduction="50" help="2"/>
+  <point_back id="3" activity="海贼战场" high_cost="1|500" high_reduction="100" middle_cost="1|50" middle_reduction="75" low_cost="2|200000" low_reduction="50" help="3"/>
+</root>

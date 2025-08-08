@@ -1,0 +1,16 @@
+<root>
+  <top_limit id="1" name="厨房生产次数" topLimit="30"/>
+  <top_limit id="2" name="精英副本次数" topLimit="25"/>
+  <top_limit id="3" name="会谈次数" topLimit="20"/>
+  <top_limit id="4" name="寻宝次数" topLimit="15"/>
+  <top_limit id="5" name="制作次数" topLimit="50"/>
+  <top_limit id="6" name="星盘贝里购买次数" topLimit="5"/>
+  <top_limit id="7" name="ALLBule采集每日每种次数" topLimit="15"/>
+  <top_limit id="8" name="影魂贝里聚魂次数" topLimit="40"/>
+  <top_limit id="9" name="普通组队次数" topLimit="30"/>
+  <top_limit id="10" name="AlLBule养殖次数" topLimit="14"/>
+  <top_limit id="11" name="可订单次数" topLimit="60"/>
+  <top_limit id="12" name="神秘海域摇骰子次数" topLimit="5"/>
+  <top_limit id="13" name="霸气贝里试炼次数" topLimit="120"/>
+  <top_limit id="14" name="幸运指针免费次数" topLimit="2"/>
+</root>

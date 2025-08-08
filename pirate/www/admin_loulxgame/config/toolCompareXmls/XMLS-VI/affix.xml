@@ -1,0 +1,58 @@
+<root>
+  <affix id="1" affixName="调整生命基础值" affixType="life" print="SMệnh          +{s}" class="0" propertyName="S.mệnh"/>
+  <affix id="2" affixName="调整生命值百分比" affixType="lifeRate" print="SMệnh          +{s}%" class="1" propertyName="% S.mệnh"/>
+  <affix id="3" affixName="调整力量值点数" affixType="str" print="SM            +{s}" class="1" propertyName="SM"/>
+  <affix id="4" affixName="调整敏捷值点数" affixType="agi" print="NN            +{s}" class="1" propertyName="NN"/>
+  <affix id="5" affixName="调整智慧值点数" affixType="intel" print="Trí lực            +{s}" class="1" propertyName="Trí lực"/>
+  <affix id="6" affixName="调整物理攻击基础值" affixType="phyAtt" print="VCông    +{s}" class="0" propertyName="Vật công"/>
+  <affix id="7" affixName="调整必杀攻击基础值" affixType="kilAtt" print="TC    +{s}" class="0" propertyName="TC"/>
+  <affix id="8" affixName="调整魔法攻击基础值" affixType="magAtt" print="MCông    +{s}" class="0" propertyName="Ma công"/>
+  <affix id="9" affixName="调整物理防御基础值" affixType="phyDef" print="VPhòng    +{s}" class="0" propertyName="Vật phòng"/>
+  <affix id="10" affixName="调整必杀防御基础值" affixType="kilDef" print="TC phòng     +{s}" class="0" propertyName="TC phòng"/>
+  <affix id="11" affixName="调整魔法防御基础值" affixType="magDef" print="MPhòng    +{s}" class="0" propertyName="Ma phòng"/>
+  <affix id="12" affixName="调整怒气值点数" affixType="" print="Nộ khí          +{s}" class="0" propertyName="Nộ khí"/>
+  <affix id="13" affixName="调整命中率" affixType="HRRate" print="Chính xác          +{s}" class="0" propertyName="Chính xác"/>
+  <affix id="14" affixName="调整致命一击率" affixType="FTRate" print="Đòn trí mạng     +{s}" class="0" propertyName="Đòn trí mạng"/>
+  <affix id="15" affixName="调整格挡率" affixType="BloRate" print="Chặn đòn         +{s}" class="0" propertyName="Chặn đòn"/>
+  <affix id="16" affixName="调整闪避率" affixType="DodRate" print="Né tránh          +{s}" class="0" propertyName="Né tránh"/>
+  <affix id="17" affixName="调整风属性攻击基础值" affixType="winAtt" print="Phong kích       +{s}" class="0" propertyName="Phong kích"/>
+  <affix id="18" affixName="调整雷属性攻击基础值" affixType="thuAtt" print="Lôi kích       +{s}" class="0" propertyName="Lôi kích"/>
+  <affix id="19" affixName="调整水属性攻击基础值" affixType="watAtt" print="Thủy kích       +{s}" class="0" propertyName="Thủy kích"/>
+  <affix id="20" affixName="调整火属性攻击基础值" affixType="firAtt" print="Hỏa kích       +{s}" class="0" propertyName="Hỏa kích"/>
+  <affix id="21" affixName="调整风属性抗性" affixType="winDef" print="Kháng phong       +{s}" class="0" propertyName="Kháng phong"/>
+  <affix id="22" affixName="调整雷属性抗性" affixType="thuDef" print="Kháng lôi      +{s}" class="0" propertyName="Kháng lôi"/>
+  <affix id="23" affixName="调整水属性抗性" affixType="watDef" print="Kháng thủy       +{s}" class="0" propertyName="Kháng thủy"/>
+  <affix id="24" affixName="调整火属性抗性" affixType="firDef" print="Kháng hỏa       +{s}" class="0" propertyName="Kháng hỏa"/>
+  <affix id="25" affixName="调整物理攻击百分比" affixType="phyAttRate" print="VCông    +{s}%" class="1" propertyName="% Vật công"/>
+  <affix id="26" affixName="调整物理防御百分比" affixType="phyDefRate" print="VPhòng  +{s}%" class="1" propertyName="%  Vật phòng"/>
+  <affix id="27" affixName="调整必杀攻击百分比" affixType="kilAttRate" print="TC    +{s}%" class="1" propertyName="% TC"/>
+  <affix id="28" affixName="调整必杀防御百分比" affixType="kilDefRate" print="TC phòng     +{s}%" class="1" propertyName="% TC phòng"/>
+  <affix id="29" affixName="调整魔法攻击百分比" affixType="magAttRate" print="MCông    +{s}%" class="1" propertyName="% Ma công"/>
+  <affix id="30" affixName="调整魔法防御百分比" affixType="magDefRate" print="MPhòng    +{s}%" class="1" propertyName="% Ma phòng"/>
+  <affix id="31" affixName="调整风属性攻击百分比" affixType="winAttRate" print="Phong kích        +{s}%" class="1" propertyName="% Phong kích"/>
+  <affix id="32" affixName="调整雷属性攻击百分比" affixType="thuAttRate" print="Lôi kích      +{s}%" class="1" propertyName="% Lôi kích"/>
+  <affix id="33" affixName="调整水属性攻击百分比" affixType="watAttRate" print="Thủy kích      +{s}%" class="1" propertyName="% Thủy kích"/>
+  <affix id="34" affixName="调整火属性攻击百分比" affixType="firAttRate" print="Hỏa kích        +{s}%" class="1" propertyName="% Hỏa kích"/>
+  <affix id="35" affixName="调整物理伤害倍率" affixType="phyAttgift" print="VCông thiên phú   +{s}" class="2" propertyName="VCông thiên phú"/>
+  <affix id="36" affixName="调整物理免伤倍率" affixType="phyDefgift" print="VPhòng thiên phú   +{s}" class="2" propertyName="V.Phòng thiên phú"/>
+  <affix id="37" affixName="调整必杀伤害倍率" affixType="kilAttgift" print="TC thiên phú   +{s}" class="2" propertyName="TC thiên phú"/>
+  <affix id="38" affixName="调整必杀免伤倍率" affixType="kilDefgift" print="TC phòng thiên phú   +{s}" class="2" propertyName="TC phòng thiên phú"/>
+  <affix id="39" affixName="调整魔法伤害倍率" affixType="magAttgift" print="MCông thiên phú   +{s}" class="2" propertyName="Ma công thiên phú"/>
+  <affix id="40" affixName="调整魔法免伤倍率" affixType="magDefgift" print="MPhòng thiên phú   +{s}" class="2" propertyName="Ma phòng thiên phú"/>
+  <affix id="41" affixName="调整最终伤害" affixType="" print="S.thương cuối    +{s}" propertyName="S.thương cuối"/>
+  <affix id="42" affixName="调整减免最终伤害" affixType="" print="Giảm S.thương cuối    +{s}" class="0" propertyName="Giảm S.thương cuối"/>
+  <affix id="43" affixName="调整力量值百分比" affixType="strRate" print="S.mạnh            +{s}%" class="1" propertyName="Phần trăm SM"/>
+  <affix id="44" affixName="调整敏捷值百分比" affixType="agiRate" print="N.nhẹn           +{s}%" class="1" propertyName="Phần trăm NN"/>
+  <affix id="45" affixName="调整智慧值百分比" affixType="intelRate" print="Trí lực            +{s}%" class="1" propertyName="Phần trăm Trí lực"/>
+  <affix id="53" affixName="调整普通攻击伤害比" affixType="phyAttgift" print="S.thương đánh thường  +{s}%" class="1" propertyName="% S.thương thường"/>
+  <affix id="54" affixName="调整普通攻击免伤比" affixType="phyDefgift" print="Miễn sthương đánh thường  +{s}%" class="1" propertyName="% miễn S.thương thường"/>
+  <affix id="55" affixName="调整怒气攻击伤害比" affixType="kilAttgift" print="S.thương đánh nộ  +{s}%" class="1" propertyName="% S.thương nộ"/>
+  <affix id="56" affixName="调整怒气攻击免伤比" affixType="kilDefgift" print="Miễn s.thương đánh nộ   +{s}%" class="1" propertyName="% miễn S.thương nộ"/>
+  <affix id="57" affixName="调整治疗比率" affixType="magAttgift" print="Tỉ lệ trị liệu     +{s}%" class="1" propertyName="Tỉ lệ trị liệu"/>
+  <affix id="58" affixName="调整被治疗比率" affixType="magDefgift" print="Tỉ lệ được trị liệu    +{s}%" class="1" propertyName="Tỉ lệ được trị liệu"/>
+  <affix id="59" affixName="调整初始怒气" affixType="magDefgift" print="Nộ ban đầu      +{s}" class="0" propertyName="Nộ ban đầu"/>
+  <affix id="60" affixName="调整霸气伤害比" affixType="magDefgift" print="S.thương Haki    +{s}%" class="1" propertyName="% S.thương Haki"/>
+  <affix id="61" affixName="调整霸气免伤比" affixType="magDefgift" print="Miễn Haki    +{s}%" class="1" propertyName="% Miễn Haki"/>
+  <affix id="62" affixName="调整最终伤害增益百分比" affixType="" print="S.thương sâu hơn    +{s}%" class="1" propertyName="% S.thương sâu hơn"/>
+  <affix id="63" affixName="调整最终伤害减免百分比" affixType="" print="Miễn S.thương    +{s}%" class="1" propertyName="% Miễn S.thương"/>
+</root>

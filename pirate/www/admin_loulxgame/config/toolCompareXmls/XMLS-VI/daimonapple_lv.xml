@@ -1,0 +1,32 @@
+<root>
+  <daimonapple_lv level="1" grown="0" expressionForm="1" rewardId="101" levelUp="1"/>
+  <daimonapple_lv level="2" grown="1000000" expressionForm="1" rewardId="101" levelUp="1"/>
+  <daimonapple_lv level="3" grown="3000000" expressionForm="2" rewardId="101" levelUp="1"/>
+  <daimonapple_lv level="4" grown="6000000" expressionForm="2" rewardId="101" levelUp="2"/>
+  <daimonapple_lv level="5" grown="10000000" expressionForm="3" rewardId="101" levelUp="2"/>
+  <daimonapple_lv level="6" grown="15000000" expressionForm="3" rewardId="101" levelUp="2"/>
+  <daimonapple_lv level="7" grown="21000000" expressionForm="4" rewardId="101" levelUp="2"/>
+  <daimonapple_lv level="8" grown="28000000" expressionForm="4" rewardId="101" levelUp="2"/>
+  <daimonapple_lv level="9" grown="36000000" expressionForm="4" rewardId="101" levelUp="3"/>
+  <daimonapple_lv level="10" grown="45000000" expressionForm="5" rewardId="101" levelUp="3"/>
+  <daimonapple_lv level="11" grown="55000000" expressionForm="5" rewardId="101" levelUp="3"/>
+  <daimonapple_lv level="12" grown="70000000" expressionForm="5" rewardId="101" levelUp="3"/>
+  <daimonapple_lv level="13" grown="90000000" expressionForm="6" rewardId="101" levelUp="3"/>
+  <daimonapple_lv level="14" grown="115000000" expressionForm="6" rewardId="101" levelUp="3"/>
+  <daimonapple_lv level="15" grown="145000000" expressionForm="6" rewardId="101" levelUp="4"/>
+  <daimonapple_lv level="16" grown="180000000" expressionForm="6" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="17" grown="220000000" expressionForm="7" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="18" grown="265000000" expressionForm="7" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="19" grown="315000000" expressionForm="7" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="20" grown="370000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="21" grown="430000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="22" grown="495000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="23" grown="565000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="24" grown="640000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="25" grown="740000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="26" grown="865000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="27" grown="1015000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="28" grown="1190000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="29" grown="1390000000" expressionForm="8" rewardId="102" levelUp="4"/>
+  <daimonapple_lv level="30" grown="1615000000" expressionForm="8" rewardId="102" levelUp="4"/>
+</root>

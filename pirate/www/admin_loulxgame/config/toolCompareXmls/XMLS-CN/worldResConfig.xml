@@ -1,0 +1,27 @@
+<root>
+	<inspireCostGold>5</inspireCostGold>
+	<inspireCostExperience>5</inspireCostExperience>
+
+	<inspireCDTime>600000</inspireCDTime>
+	
+	<warFlags>
+		<warFlag>
+			<id>1</id>
+			<des>增加两次连胜次数</des>
+		</warFlag>
+		<warFlag>
+			<id>2</id>
+			<des>增加攻击10%</des>
+		</warFlag>
+		<warFlag>
+			<id>3</id>
+			<des>增加防御10%</des>
+		</warFlag>
+		<warFlag>
+			<id>4</id>
+			<des>增加攻击5%，增加防御5%</des>
+		</warFlag>
+	</warFlags>
+
+
+</root>

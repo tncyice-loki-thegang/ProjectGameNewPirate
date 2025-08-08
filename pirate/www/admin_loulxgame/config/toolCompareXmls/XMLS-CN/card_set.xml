@@ -1,0 +1,14 @@
+<root>
+  <card_set id="1" name="圣诞套牌" max="4" cardId="2308001|2308002|2308003|2308004|2308005" cardCost="20|100|30|60|50" prizeId="908" card_prize="5"/>
+  <card_set id="2" name="草帽套牌" max="8" cardId="2301001|2301002|2301003|2301004|2301005|2301006|2301007|2301008|2301009" cardCost="150|40|50|100|100|70|20|10|10" prizeId="901" card_prize="9"/>
+  <card_set id="3" name="鼓舞套牌" max="4" cardId="2302001|2302002|2302003|2302004|2302005|2302006|2302007|2302008" cardCost="120|100|10|40|50|70|10|5" prizeId="902" card_prize="8"/>
+  <card_set id="4" name="CP9套牌" max="5" cardId="2303001|2303002|2303003|2303004|2303005|2303006" cardCost="50|80|130|20|20|10" prizeId="903" card_prize="6"/>
+  <card_set id="5" name="海军套牌" max="2" cardId="2304001|2304002|2304003" cardCost="60|50|30" prizeId="904" card_prize="3"/>
+  <card_set id="6" name="僵尸套牌" max="6" cardId="2305001|2305002|2305003|2305004|2305005|2305006|2305007" cardCost="10|10|15|80|100|70|20" prizeId="905" card_prize="7"/>
+  <card_set id="7" name="巴洛克工作社套牌" max="3" cardId="2306001|2306002|2306003|2306004" cardCost="40|30|40|50" prizeId="906" card_prize="4"/>
+  <card_set id="8" name="超新星套牌" max="4" cardId="2307001|2307002|2307003|2307004|2307005" cardCost="80|100|70|70|50" prizeId="907" card_prize="5"/>
+  <card_set id="9" name="约定の誓言套牌" max="8" cardId="2308101|2308102|2308103|2308104|2308105|2308106|2308107|2308108|2308109" cardCost="180|50|60|120|120|80|30|20|20" prizeId="909" card_prize="9"/>
+  <card_set id="10" name="愤怒の鱼人套牌" max="6" cardId="2308201|2308202|2308203|2308204|2308205|2308206|2308207" cardCost="20|150|50|25|60|80|30" prizeId="910" card_prize="7"/>
+  <card_set id="11" name="海军の正义套牌" max="2" cardId="2308301|2308302|2308303" cardCost="100|50|200" prizeId="911" card_prize="3"/>
+  <card_set id="12" name="人鱼の高贵套牌" max="4" cardId="2308401|2308402|2308403|2308404|2308405" cardCost="150|80|60|40|20" prizeId="912" card_prize="5"/>
+</root>

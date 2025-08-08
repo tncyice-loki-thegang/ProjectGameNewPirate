@@ -1,0 +1,248 @@
+<root>
+  <!--属性集合 模板中配置的属性是策划不用填写,但是前端需要展示的属性-->
+  <!--<property id="属性id" name="属性名称" type="属性类型" description="属性描述"/>-->
+  <properties>
+    <property id="1" name="roomClass" type="int" description="舱室类别"/>
+    <property id="2" name="id" type="int" description="该舱室的ID"/>
+    <property id="3" name="name" type="String" description=""/>
+    <property id="4" name="info" type="String" description="舱室面板上所显示的文本描述"/>
+    <property id="5" name="resourceID" type="int" description="主船动作模型id"/>
+    <property id="6" name="icon" type="String" description="舱室面板上所显示的图标ID"/>
+    <property id="7" name="lv" type="int" description="船长室刚一出现时的基础等级。不填默认为1级。"/>
+    <property id="8" name="upgradeID" type="int" description=""/>
+    <property id="9" name="sailingIcon" type="String" description="进行出航操作时出现的图片（GIF或者动画）资源路径"/>
+    <property id="10" name="sail_baseBelly" type="int" description="计算出航获得游戏币时所需要用到的系数&#xA;出航所获游戏币=（船长室出航游戏币基础值*船长室等级+水手室出航游戏币基础值*水手室等级 +港口出航修正值）*港口系数*（1+贸易室出航游戏币百分比值*贸易室等级+港口提供的出航游戏币百分比值）*(1-疲劳度*疲劳度系数)&#xA;港口出航修正值  和  港口出航游戏币百分比值   港口系数  在城镇和港口相关的表中获得&#xA;水手室等级 为所有水手室等级的和"/>
+    <property id="11" name="fatigue_param" type="int" description="计算出航获得游戏币时用到    （这个数要乘10000）"/>
+    <property id="12" name="baseSailnum" type="int" description="每天凌晨4点增加该基础值。比如填10次，意思即每天都可以获得10次出航机会，该机会可以累积，最大值跟船长室出航次数最大值有关"/>
+    <property id="13" name="maxSailnum" type="int" description="出航次数最大值。"/>
+    <property id="14" name="basegold_num" type="int" description="计算金币强制出航时所需要用到，金币出航不消耗出航次数，无冷却时间。&#xA;"/>
+    <property id="15" name="growgold_num" type="int" description="之后金币强制生产增加的金币，&#xA;金币出航所需金币=基础值+增长值*已金币出航次数&#xA;例如 比如基础值是2  增长值是1,则第一次是2金币 第二次是3金币 第三次是4金币 依次增加&#xA;金币出航次数每天刷新 比如凌晨4点刷新， 之后的第一次金币出航是第一次"/>
+    <property id="16" name="timepergold" type="int" description="（以秒为单位）&#xA;如60，表示秒掉出航时间CD 每分钟需花费1金币，&#xA;超过即算1，比如CD是1分钟10秒，算作2分钟，秒掉需要2金币"/>
+    <property id="17" name="CD_num" type="int" description="固定时间，秒为单位&#xA;每次出航操作后的冷却时间"/>
+    <property id="18" name="answerID" type="int" description="答题包ID"/>
+    <property id="19" name="subordinate_maxNumPerLv" type="Array" description="例如&#xA;1|20,2|40,3|70,4|100,5|120)&#xA;前面是属城数量上限，后面是人物等级"/>
+    <property id="20" name="needVIPShowPrize" type="int" description=" VIP等级达到这个之后 出航奇遇的奖励直接显示出来，不用玩家去官网查找"/>
+    <property id="21" name="train_param" type="int" description="计算训练获得经验时需要用到&#xA;训练每10分钟增加经验值=训练室训练系数*训练室等级*训练强度经验倍率"/>
+    <property id="22" name="rapid_needResourceBase" type="Array" description="计算每次突飞所需阅历时用到，    &#xA;例如（0,10,0）&#xA;选项分别对应 （游戏币，阅历，金币）&#xA;计算每次突飞所需资源时用到,    &#xA;训练室普通突飞所需资源=训练室普通突飞需要资源基础值*训练室等级"/>
+    <property id="23" name="rapid_getExpBase" type="int" description="计算训练室普通突飞获得的经验时需要用到 ，&#xA;训练室突飞所获得经验值=训练室等级*训练室突飞经验基础值&#xA;金币突飞和普通突飞获得的经验值一样"/>
+    <property id="24" name="growCD_num" type="int" description="（以秒为单位）&#xA;每突飞一次增加的冷却时间，&#xA;例如180，表示每突飞一次增加3分钟冷却时间"/>
+    <property id="25" name="maxCD_num" type="int" description="突飞冷却时间达到上限之后不能进行突飞，必须等时间过完或者用金币秒掉CD后才能再次突飞&#xA;例如7200，表示2小时"/>
+    <property id="26" name="trainLv_name" type="Array" description="训练名称，比如（1|普通训练，2|加强训练，3|噩梦训练，4|地狱训练，5|魔鬼训练）分别对应1，2，3，4，5档训练强度的名字"/>
+    <property id="27" name="expRate_pergrade" type="Array" description="经验倍率为选择相应档次训练强度时获得的经验倍率，计算训练获得经验时需要用到，金币为选择相应档次训练需要的金币（倍率是乘10000后的数字）&#xA;例如（10000，12000，15000，20000，25000） 分别对应1，2，3，4，5档训练获得的经验倍率&#xA;训练每分钟增加经验值=训练室训练系数*训练室等级*训练强度经验倍率"/>
+    <property id="28" name="gold__pergrade" type="Array" description="经验倍率为选择相应档次训练强度时获得的经验倍率，计算训练获得经验时需要用到，金币为选择相应档次训练需要的金币（倍率是乘10000后的数字）&#xA;例如（0，1，5，15，30） 分别对应1，2，3，4，5档训练需要的金币&#xA;训练每分钟增加经验值=训练室训练系数*训练室等级*训练强度经验倍率"/>
+    <property id="29" name="trainTimes" type="Array" description="训练室可以选择的训练时间的数组（以秒计算）&#xA;例如（3600，14400，28800，86400，172800，259200）表示可以选择，1，4，8，24，48，72小时的训练"/>
+    <property id="30" name="trainTime_bellyAndGold" type="Array" description="选择相应档次的训练时间所需花费的游戏币和金币&#xA;例如（0|0，1000|0，2000|0，4000|5，8000|15，15000|30）&#xA;表示1，2，3，4，5，6档次训练时间所需的游戏币和金币&#xA;前面是需要金币，后面是需要的游戏币"/>
+    <property id="31" name="initTrainSlots" type="int" description="初始拥有的训练室训练栏位"/>
+    <property id="32" name="produceNumperDay" type="int" description="厨房每天可以进行生产的次数上限，比如填10次，意思即每天都可进行10次生产，此数值在每天凌晨4点重置，无法累加&#xD;"/>
+    <property id="33" name="kitchen_baseBelly" type="int" description="计算菜肴卖出获得游戏币时需用到，&#xA;菜肴卖出价格=（菜肴游戏币基础值+厨房游戏币基础值*厨房等级）*港口系数*（1+贸易室菜肴游戏币百分比值*贸易室等级+港口菜肴游戏币百分比值+公会菜肴科技游戏币百分比*科技等级）&#xA;港口菜肴游戏币百分比值  港口系数  在城镇和港口相关的表中获得&#xD;"/>
+    <property id="34" name="giveOrderNum" type="int" description="每日可以下订单的次数  &#xD;"/>
+    <property id="35" name="receiveOrderNum" type="int" description="每日可以被下订单的次数    &#xA;在某个时间点刷新，暂定为晚上8点&#xD;"/>
+    <property id="36" name="receive_param" type="int" description="计算被下订单者获得游戏币时需要用到 （这个数要乘10000）&#xA;订单接受者获得游戏币=菜肴卖出价格*订单接受者系数&#xD;"/>
+    <property id="37" name="give_param" type="int" description="计算下订单者获得游戏币时需要用到 （这个数要乘10000）&#xA;下定单者获得游戏币=菜肴卖出价格*订单下单者系数&#xD;"/>
+    <property id="38" name="orderGrowCD_num" type="int" description="（以秒为单位）&#xA;每次厨房生产增加的冷却时间&#xA;只有冷却时间过去或者用金币秒掉后才能再次下订单&#xD;"/>
+    <property id="39" name="ordertimepergold" type="int" description="（以秒为单位）&#xA;如60，表示秒掉生产时间CD 每分钟需花费1金币，&#xA;超过即算1，比如CD是1分钟10秒，算作2分钟，秒掉需要2金币&#xD;"/>
+    <property id="40" name="sail_rateBelly" type="int" description="计算出航获得游戏币时需要用到&#xD;"/>
+    <property id="41" name="kitchen_rateBelly" type="int" description="计算卖出菜肴获得游戏币时需要用到&#xD;"/>
+    <property id="42" name="maxBloodRate" type="int" description="计算血池上限时用到&#xA;血池上限=(医疗室等级+1)*医疗室血池上限系数+人物等级*人物血池上限系数&#xD;"/>
+  </properties>
+  <!-- 功能集合 -->
+  <!--一个功能包括了一系列的属性,每一个模板都是由一系列功能组成-->
+  <!--基础功能-->
+  <!--
+		<function id="功能ID" properties="属性集合" name="功能名称,会被编译成接口名" description="功能描述"/>
+		-->
+  <functions>
+    <function id="1" properties="1,2,3,4,5,6,7,8" name="IBasicRoomInterface" description="基本功能接口"/>
+    <function id="2" properties="13,14,17,34,35,36,37,38,39,40,41" name="ICaptainRoomInterface" description="船长室接口"/>
+    <function id="3" properties="9,10,11,13,14,15,16,17,19,20,21,23,24,25" name="IPetRoomInterface" description="宠物室接口"/>
+    <function id="4" properties="10,11,13,14,15,16,17,21,26,28,29,30,32,33" name="ITrainRoomInterface" description="训练室接口"/>
+    <function id="5" properties="13,14,15,17,23,43,44,45,46,47,48,49,50" name="IKitchenRoomInterface" description="厨房接口"/>
+    <function id="6" properties="52,51" name="ITradeRoomInterface" description="贸易室接口"/>
+    <function id="7" properties="" name="IStudyRoomInterface" description="研究室接口"/>
+    <function id="8" properties="53" name="IHospitalRoomInterface" description="医务室接口"/>
+    <function id="9" properties="" name="IGoldRoomInterface" description="藏金室接口"/>
+    <function id="10" properties="35" name="ISailorRoomInterface" description="水手室接口"/>
+  </functions>
+  <!-- 模板集合 -->
+  <!--一个模板由父模板(可选)和一系列功能集合构成-->
+  <!--
+		<template id="模板ID,即itemID" name="模板名称,会被编译成类名" superTemplates="超模板ID, 0表示无超模板" functions="专有功能id集合,0表示无专有功能" description="模板描述"/>
+		-->
+  <templates>
+    <template id="1" name="Template_BaseRoom" superTemplates="0" functions="1" description="基础舱室模板"/>
+    <template id="2" name="Template_CaptainRoom" superTemplates="1" functions="2" description="船长室模板"/>
+    <template id="3" name="Template_PetRoom" superTemplates="1" functions="3" description="宠物室模板"/>
+    <template id="4" name="Template_TrainRoom" superTemplates="1" functions="4" description="训练室模板"/>
+    <template id="5" name="Template_KitchenRoom" superTemplates="1" functions="5" description="厨房模板"/>
+    <template id="6" name="Template_TradeRoom" superTemplates="1" functions="6" description="贸易室模板"/>
+    <template id="7" name="Template_StudyRoom" superTemplates="1" functions="7" description="研究室模板"/>
+    <template id="8" name="Template_HospitalRoom" superTemplates="1" functions="8" description="医务室模板"/>
+    <template id="9" name="Template_GoldRoom" superTemplates="1" functions="9" description="藏金室模板"/>
+    <template id="10" name="Template_SailorRoom" superTemplates="1" functions="10" description="水手室模板"/>
+  </templates>
+  <items>
+    <room>
+      <roomClass>4</roomClass>
+      <id>4</id>
+      <name>宠物室</name>
+      <info>摆放宠物的地方，升级宠物室可以提高宠物训练时获得的经验和宠物训练位数量。</info>
+      <resourceID/>
+      <icon>chongwushi.png</icon>
+      <lv>1</lv>
+      <upgradeID>4</upgradeID>
+      <exp_param>20</exp_param>
+      <rapid_needResourceBase>0,40,0</rapid_needResourceBase>
+      <rapid_getExpBase>800</rapid_getExpBase>
+      <basegold_num>2</basegold_num>
+      <growgold_num>0</growgold_num>
+      <growCD_num>300</growCD_num>
+      <maxCD_num>7200</maxCD_num>
+      <timepergold>600</timepergold>
+      <initSlots>2</initSlots>
+      <nextTrainSlotneed>20,50,80</nextTrainSlotneed>
+      <initTrainSlots>2</initTrainSlots>
+      <expUpgradeID>3</expUpgradeID>
+      <rebornLv>30</rebornLv>
+      <LvperKnowPoints>3</LvperKnowPoints>
+      <depot_freeSlotNum>3</depot_freeSlotNum>
+      <depot_initOpenGold>25</depot_initOpenGold>
+      <depot_riseOpenGold>25</depot_riseOpenGold>
+      <strengthFishitems>200002,200008,200009</strengthFishitems>
+      <costItems_heritage>120011|1</costItems_heritage>
+      <cost_gold>500</cost_gold>
+      <heritage_expRate>5000</heritage_expRate>
+      <heritage_growExpRate>5000</heritage_growExpRate>
+      <heritage_qualityRate>4000</heritage_qualityRate>
+      <transfer_times>2</transfer_times>
+      <be_transfer_times>2</be_transfer_times>
+      <heritage_qualityRate2>4000</heritage_qualityRate2>
+      <costItems_heritage2>120011|2</costItems_heritage2>
+      <cost_gold2>1000</cost_gold2>
+    </room>
+    <room>
+      <roomClass>1</roomClass>
+      <id>1</id>
+      <name>船长室</name>
+      <info>船长休息和办公的地方，在这里可以出航、查看下属。
+升级船长室能够提高出航获得的收入。</info>
+      <resourceID/>
+      <icon>chuanzhangshi.png</icon>
+      <lv>1</lv>
+      <upgradeID>1</upgradeID>
+      <sailingIcon/>
+      <sail_baseBelly>240</sail_baseBelly>
+      <fatigue_param>0</fatigue_param>
+      <baseSailnum>10</baseSailnum>
+      <maxSailnum>30</maxSailnum>
+      <basegold_num>1</basegold_num>
+      <growgold_num>1</growgold_num>
+      <timepergold>60</timepergold>
+      <CD_num>0</CD_num>
+      <answerID>1</answerID>
+      <subordinate_maxNumPerLv>1|20,2|40,3|70,4|100,5|120</subordinate_maxNumPerLv>
+      <train_num_per_vassal>2</train_num_per_vassal>
+    </room>
+    <room>
+      <roomClass>3</roomClass>
+      <id>3</id>
+      <name>训练室</name>
+      <info>训练伙伴的地方，升级训练室可以提高伙伴训练和突飞时获得的经验。</info>
+      <resourceID/>
+      <icon>xunlianshi.png</icon>
+      <lv>1</lv>
+      <upgradeID>3</upgradeID>
+      <train_param>80</train_param>
+      <rapid_needResourceBase>0,30,0</rapid_needResourceBase>
+      <rapid_getExpBase>2400</rapid_getExpBase>
+      <basegold_num>2</basegold_num>
+      <growgold_num>0</growgold_num>
+      <growCD_num>180</growCD_num>
+      <maxCD_num>14400</maxCD_num>
+      <timepergold>600</timepergold>
+      <trainLv_name>1|轻松训练,2|普通训练,3|加强训练,4|噩梦训练,5|地狱训练,6|魔鬼训练,7|奇迹训练,8|九蛇训练</trainLv_name>
+      <expRate_pergrade>10000,12000,15000,20000,25000,30000,40000,50000</expRate_pergrade>
+      <gold__pergrade>0,1,5,15,30,50,75,100</gold__pergrade>
+      <trainTimes>3600,14400,28800,86400,172800,259200,345600,432000</trainTimes>
+      <trainTime_bellyAndGold>0|0,1000|0,2000|0,0|5,0|15,0|30,0|50,0|75</trainTime_bellyAndGold>
+      <initTrainSlots>2</initTrainSlots>
+    </room>
+    <room>
+      <roomClass>2</roomClass>
+      <id>2</id>
+      <name>厨房</name>
+      <info>烹饪料理的地方，烹饪出的料理可以卖掉获得贝里。
+升级厨房可以提高卖掉料理获得的收入。</info>
+      <resourceID/>
+      <icon>chufang.png</icon>
+      <lv>1</lv>
+      <upgradeID>2</upgradeID>
+      <produceNumperDay>10</produceNumperDay>
+      <kitchen_baseBelly>60</kitchen_baseBelly>
+      <giveOrderNum>10</giveOrderNum>
+      <receiveOrderNum>10</receiveOrderNum>
+      <receive_param>2000</receive_param>
+      <give_param>4000</give_param>
+      <growCD_num>0</growCD_num>
+      <timepergold>60</timepergold>
+      <basegold_num>2</basegold_num>
+      <growgold_num>2</growgold_num>
+      <orderGrowCD_num>30</orderGrowCD_num>
+      <ordertimepergold>60</ordertimepergold>
+    </room>
+    <room>
+      <roomClass>5</roomClass>
+      <id>5</id>
+      <name>贸易室</name>
+      <info>升级贸易室可以提高出航和卖掉料理获得的收入。</info>
+      <resourceID/>
+      <icon>maoyishi.png</icon>
+      <lv>1</lv>
+      <upgradeID>5</upgradeID>
+      <sail_rateBelly>50</sail_rateBelly>
+      <kitchen_rateBelly>50</kitchen_rateBelly>
+    </room>
+    <room>
+      <roomClass>6</roomClass>
+      <id>6</id>
+      <name>研究院</name>
+      <info>研究院是研究科技的地方,科技能够提升伙伴的能力。
+升级研究院可以提升科技的等级上限。</info>
+      <resourceID/>
+      <icon>yanjiuyuan.png</icon>
+      <lv>1</lv>
+      <upgradeID>6</upgradeID>
+    </room>
+    <room>
+      <roomClass>8</roomClass>
+      <id>8</id>
+      <name>藏金室</name>
+      <info>升级藏金室可以提高出航时获得金币的概率。</info>
+      <resourceID/>
+      <icon>cangjinshi.png</icon>
+      <lv>1</lv>
+      <upgradeID>8</upgradeID>
+    </room>
+    <room>
+      <roomClass>7</roomClass>
+      <id>7</id>
+      <name>医疗室</name>
+      <info>升级医疗室可以提高生命槽的上限并且减少战斗后生命值的损失。</info>
+      <resourceID/>
+      <icon>yiwushi.png</icon>
+      <lv>1</lv>
+      <upgradeID>7</upgradeID>
+      <maxBloodRate>575000</maxBloodRate>
+    </room>
+    <room>
+      <roomClass>9</roomClass>
+      <id>9</id>
+      <name>水手室</name>
+      <info>水手室们休息的地方，升级水手室可以提高出航时获得的收入。</info>
+      <resourceID/>
+      <icon>shuishoushi</icon>
+      <lv>1</lv>
+      <upgradeID>9</upgradeID>
+      <sail_baseBelly>50</sail_baseBelly>
+    </room>
+  </items>
+</root>

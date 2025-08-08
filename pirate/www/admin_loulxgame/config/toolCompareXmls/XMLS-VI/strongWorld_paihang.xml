@@ -1,0 +1,15 @@
+<root>
+  <strongWorld_paihang rankLbound="1" rankUbound="1" bellyBase="20000" prestige="1000" coinNum="3000" rewardItem="70520|30,73014|30"/>
+  <strongWorld_paihang rankLbound="2" rankUbound="2" bellyBase="15000" prestige="950" coinNum="2500" rewardItem="70520|28,73014|28"/>
+  <strongWorld_paihang rankLbound="3" rankUbound="3" bellyBase="12000" prestige="900" coinNum="2000" rewardItem="70520|26,73014|26"/>
+  <strongWorld_paihang rankLbound="4" rankUbound="10" bellyBase="11000" prestige="850" coinNum="1800" rewardItem="70520|24,73014|24"/>
+  <strongWorld_paihang rankLbound="11" rankUbound="20" bellyBase="10000" prestige="800" coinNum="1600" rewardItem="70520|22,73014|22"/>
+  <strongWorld_paihang rankLbound="21" rankUbound="40" bellyBase="9500" prestige="750" coinNum="1500" rewardItem="70520|20,73014|20"/>
+  <strongWorld_paihang rankLbound="41" rankUbound="60" bellyBase="9000" prestige="700" coinNum="1400" rewardItem="70520|18,73014|18"/>
+  <strongWorld_paihang rankLbound="61" rankUbound="90" bellyBase="8500" prestige="650" coinNum="1300" rewardItem="70520|16,73014|16"/>
+  <strongWorld_paihang rankLbound="91" rankUbound="140" bellyBase="8000" prestige="600" coinNum="1200" rewardItem="70520|12,73014|12"/>
+  <strongWorld_paihang rankLbound="141" rankUbound="200" bellyBase="7500" prestige="550" coinNum="1100" rewardItem="70520|10,73014|10"/>
+  <strongWorld_paihang rankLbound="201" rankUbound="999" bellyBase="7000" prestige="500" coinNum="1000" rewardItem="70520|8,73014|8"/>
+  <strongWorld_paihang rankLbound="1000" rankUbound="2000" bellyBase="6000" prestige="450" coinNum="900" rewardItem="70520|6,73014|6"/>
+  <strongWorld_paihang rankLbound="2001" rankUbound="5000" bellyBase="5000" prestige="400" coinNum="800" rewardItem="70520|4,73014|4"/>
+</root>

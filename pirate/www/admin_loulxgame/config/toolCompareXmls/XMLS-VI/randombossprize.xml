@@ -1,0 +1,25 @@
+<root>
+  <randombossprize id="1" belly="14000" experience="" prestige="" energystone="" elementsstone="" starbagan="" gold="" item=""/>
+  <randombossprize id="2" belly="" experience="5600" prestige="" energystone="" elementsstone="" starbagan="" gold="" item=""/>
+  <randombossprize id="3" belly="" experience="" prestige="500" energystone="" elementsstone="" starbagan="" gold="" item=""/>
+  <randombossprize id="4" belly="840" experience="168" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="60014|12"/>
+  <randombossprize id="5" belly="2800" experience="560" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="70726|4"/>
+  <randombossprize id="6" belly="5600" experience="1120" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="200009|6"/>
+  <randombossprize id="7" belly="5600" experience="1120" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="200010|6"/>
+  <randombossprize id="8" belly="2800" experience="560" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="70200|4"/>
+  <randombossprize id="9" belly="4200" experience="840" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="42005|4"/>
+  <randombossprize id="10" belly="4200" experience="840" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="70736|8"/>
+  <randombossprize id="11" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="70523|2"/>
+  <randombossprize id="12" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="120012|2"/>
+  <randombossprize id="13" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="121505|2"/>
+  <randombossprize id="14" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="121506|2"/>
+  <randombossprize id="15" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="121507|2"/>
+  <randombossprize id="16" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="120010|2"/>
+  <randombossprize id="17" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="120021|2"/>
+  <randombossprize id="18" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="70701|2"/>
+  <randombossprize id="19" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="70702|2"/>
+  <randombossprize id="20" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="121508|2"/>
+  <randombossprize id="21" belly="170" experience="70" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="200001|1"/>
+  <randombossprize id="22" belly="" experience="" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="200002|1"/>
+  <randombossprize id="23" belly="1400" experience="280" prestige="" energystone="" elementsstone="" starbagan="" gold="" item="120019|1"/>
+</root>

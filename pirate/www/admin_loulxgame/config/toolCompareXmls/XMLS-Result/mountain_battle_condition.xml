@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <mountain_battle_condition id="1" totalRound="" holdRound="" killMonsterId="" describe="Chiến thắng tất cả quái"/>
+  <mountain_battle_condition id="2" totalRound="5" holdRound="" killMonsterId="" describe="Thắng trong 5 lượt"/>
+  <mountain_battle_condition id="3" totalRound="" holdRound="5" killMonsterId="" describe="Kiên thủ trong 5 lượt"/>
+  <mountain_battle_condition id="4" totalRound="" holdRound="" killMonsterId="1607043" describe="Tiêu diệt “Hoa tiêu Thủy Đội bạo nộ”"/>
+  <mountain_battle_condition id="5" totalRound="5" holdRound="" killMonsterId="" describe="Thắng trong 5 lượt"/>
+  <mountain_battle_condition id="6" totalRound="" holdRound="5" killMonsterId="" describe="Kiên thủ trong 5 lượt"/>
+  <mountain_battle_condition id="7" totalRound="" holdRound="" killMonsterId="1607072" describe="Tiêu diệt “Gấu chó móng vuốt thép bạo nộ”"/>
+  <mountain_battle_condition id="8" totalRound="5" holdRound="" killMonsterId="" describe="Thắng trong 5 lượt"/>
+  <mountain_battle_condition id="9" totalRound="" holdRound="5" killMonsterId="" describe="Kiên thủ trong 5 lượt"/>
+  <mountain_battle_condition id="10" totalRound="" holdRound="" killMonsterId="1607103" describe="Tiêu diệt “Zombie gấu trúc bạo nộ”"/>
+  <mountain_battle_condition id="11" totalRound="5" holdRound="" killMonsterId="" describe="Thắng trong 5 lượt"/>
+  <mountain_battle_condition id="12" totalRound="" holdRound="5" killMonsterId="" describe="Kiên thủ trong 5 lượt"/>
+</root>

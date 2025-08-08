@@ -1,0 +1,36 @@
+<root>
+  <daimonapple_rebirth id="60139" item_need="120047|121500,120048|6" cost_gold="200"/>
+  <daimonapple_rebirth id="60140" item_need="120047|60750,120048|3" cost_gold="100"/>
+  <daimonapple_rebirth id="60123" item_need="120047|60750,120048|3" cost_gold="100"/>
+  <daimonapple_rebirth id="60122" item_need="120047|20250" cost_gold="50"/>
+  <daimonapple_rebirth id="60121" item_need="120047|4050" cost_gold="10"/>
+  <daimonapple_rebirth id="82702" item_need="120047|60750,120048|3,120050|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82712" item_need="120047|60750,120048|3,120059|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82714" item_need="120047|60750,120048|3,120061|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82713" item_need="120047|60750,120048|3,120060|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82704" item_need="120047|60750,120048|3,120051|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82705" item_need="120047|60750,120048|3,120052|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82706" item_need="120047|60750,120048|3,120053|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82707" item_need="120047|60750,120048|3,120054|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82708" item_need="120047|60750,120048|3,120055|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82709" item_need="120047|60750,120048|3,120056|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82710" item_need="120047|60750,120048|3,120057|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82711" item_need="120047|60750,120048|3,120058|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82715" item_need="120047|121500,120048|6,120062|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82716" item_need="120047|121500,120048|6,120063|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82717" item_need="120047|60750,120048|3,120064|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82718" item_need="120047|60750,120048|3,120065|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82724" item_need="120047|60750,120048|3,120100|1" cost_gold="400"/>
+  <daimonapple_rebirth id="82612" item_need="120047|20250,120077|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82602" item_need="120047|20250,120067|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82607" item_need="120047|20250,120072|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82601" item_need="120047|20250,120066|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82603" item_need="120047|20250,120068|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82604" item_need="120047|20250,120069|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82605" item_need="120047|20250,120070|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82606" item_need="120047|20250,120071|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82608" item_need="120047|20250,120073|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82609" item_need="120047|20250,120074|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82610" item_need="120047|20250,120075|1" cost_gold="100"/>
+  <daimonapple_rebirth id="82613" item_need="120047|20250,120078|1" cost_gold="100"/>
+</root>

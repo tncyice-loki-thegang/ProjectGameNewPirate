@@ -1,0 +1,23 @@
+<root>
+  <huodong_jifen id="1" opration="每消耗1000金币" score="1" gold="1000"/>
+  <huodong_jifen id="2" opration="每出航1次" score="1" gold="0"/>
+  <huodong_jifen id="3" opration="每厨房生产1次" score="2" gold="0"/>
+  <huodong_jifen id="4" opration="每订单1次" score="0" gold="0"/>
+  <huodong_jifen id="5" opration="每日任务完成1次" score="0" gold="0"/>
+  <huodong_jifen id="6" opration="领取悬赏工资" score="0" gold="0"/>
+  <huodong_jifen id="7" opration="每调教下属1次" score="0" gold="0"/>
+  <huodong_jifen id="8" opration="每装备强化1次" score="0" gold="0"/>
+  <huodong_jifen id="9" opration="每挑战精英副本1次" score="0" gold="0"/>
+  <huodong_jifen id="10" opration="每探索宝石1次" score="0" gold="0"/>
+  <huodong_jifen id="11" opration="每竞技场战斗1次" score="0" gold="0"/>
+  <huodong_jifen id="12" opration="每寻宝打劫1次" score="0" gold="0"/>
+  <huodong_jifen id="13" opration="每港口攻打1次" score="0" gold="0"/>
+  <huodong_jifen id="14" opration="每公会捐献1次" score="0" gold="0"/>
+  <huodong_jifen id="15" opration="每占领资源1次" score="0" gold="0"/>
+  <huodong_jifen id="16" opration="每会谈1次" score="0" gold="0"/>
+  <huodong_jifen id="17" opration="每寻宝1次" score="0" gold="0"/>
+  <huodong_jifen id="18" opration="每装备制作1次" score="0" gold="0"/>
+  <huodong_jifen id="19" opration="每突飞伙伴1次" score="0" gold="0"/>
+  <huodong_jifen id="20" opration="每金币赠送1次" score="0" gold="0"/>
+  <huodong_jifen id="22" opration="领取星盘祝福" score="0" gold="0"/>
+</root>

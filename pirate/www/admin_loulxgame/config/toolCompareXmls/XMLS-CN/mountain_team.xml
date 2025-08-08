@@ -1,0 +1,14 @@
+<root>
+  <mountain_team id="1" teamId="60701" winType="1"/>
+  <mountain_team id="2" teamId="60702" winType="2"/>
+  <mountain_team id="3" teamId="60703" winType="3"/>
+  <mountain_team id="4" teamId="60704" winType="4"/>
+  <mountain_team id="5" teamId="60705" winType="5"/>
+  <mountain_team id="6" teamId="60706" winType="6"/>
+  <mountain_team id="7" teamId="60707" winType="7"/>
+  <mountain_team id="8" teamId="60708" winType="8"/>
+  <mountain_team id="9" teamId="60709" winType="9"/>
+  <mountain_team id="10" teamId="60710" winType="10"/>
+  <mountain_team id="11" teamId="60711" winType="11"/>
+  <mountain_team id="12" teamId="60712" winType="12"/>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 表配置 -->
+<table>
+
+<!-- 表名 -->
+<name>t_first_down</name>
+
+<!-- 主键 -->
+<primary_keys>
+<!-- 主键id -->
+<key>army_id</key>
+<key>rank</key>
+</primary_keys>
+
+</table>

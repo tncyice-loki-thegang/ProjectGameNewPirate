@@ -1,0 +1,67 @@
+<root>
+  <guide id="1" url="1.jpg" type="伙伴面板" width="522" height="352"/>
+  <guide id="2" url="2.jpg" type="强化面板" width="522" height="352"/>
+  <guide id="4" url="4.jpg" type="阵形面板" width="522" height="352"/>
+  <guide id="7" url="7.jpg" type="港口面板" width="522" height="352"/>
+  <guide id="6" url="6.jpg" type="主船" width="522" height="352"/>
+  <guide id="8" url="8.jpg" type="好友功能" width="522" height="352"/>
+  <guide id="19" url="19.jpg" type="竞技场功能" width="522" height="352"/>
+  <guide id="14" url="14.jpg" type="历练" width="522" height="352"/>
+  <guide id="15" url="15.jpg" type="连续攻击" width="522" height="352"/>
+  <guide id="12" url="12.jpg" type="研究院" width="522" height="352"/>
+  <guide id="9" url="9.jpg" type="训练室" width="522" height="352"/>
+  <guide id="20" url="20.jpg" type="组队" width="522" height="352"/>
+  <guide id="22" url="22.jpg" type="公会" width="522" height="352"/>
+  <guide id="10" url="10.jpg" type="医疗室" width="522" height="352"/>
+  <guide id="13" url="13.jpg" type="会谈" width="522" height="352"/>
+  <guide id="21" url="21.jpg" type="活动" width="522" height="352"/>
+  <guide id="24" url="24.jpg" type="宝石探索" width="522" height="352"/>
+  <guide id="25" url="25.jpg" type="宝石融合" width="522" height="352"/>
+  <guide id="26" url="26.jpg" type="装备制作" width="522" height="352"/>
+  <guide id="27" url="27.jpg" type="寻宝系统" width="522" height="352"/>
+  <guide id="28" url="28.jpg" type="每日任务" width="522" height="352"/>
+  <guide id="29" url="29.jpg" type="攻打玩家" width="522" height="352"/>
+  <guide id="31" url="31.jpg" type="订单开启" width="522" height="352"/>
+  <guide id="23" url="23.jpg" type="资源开启" width="522" height="352"/>
+  <guide id="38" url="38.jpg" type="阵形升级" width="522" height="352"/>
+  <guide id="39" url="39.jpg" type="第一次通关" width="522" height="352"/>
+  <guide id="11" url="11.jpg" type="战斗损血" width="522" height="352"/>
+  <guide id="16" url="16.jpg" type="宠物" width="522" height="352"/>
+  <guide id="36" url="36.jpg" type="厨房开启" width="522" height="352"/>
+  <guide id="41" url="41.jpg" type="allblue开启" width="522" height="352"/>
+  <guide id="40" url="40.jpg" type="星盘开启" width="522" height="352"/>
+  <guide id="43" url="43.jpg" type="allblue开启养鱼" width="522" height="352"/>
+  <guide id="48" url="48.jpg" type="熔炼地狱" width="522" height="352"/>
+  <guide id="49" url="49.jpg" type="宝石迷阵" width="522" height="352"/>
+  <guide id="101" url="101.jpg" type="第一次进入副本" width="522" height="352"/>
+  <guide id="45" url="baowu.jpg" type="宝物" width="522" height="352"/>
+  <guide id="44" url="tuijincheng.jpg" type="深海监狱" width="522" height="352"/>
+  <guide id="46" url="baowuqianghua.jpg" type="宝物强化" width="522" height="352"/>
+  <guide id="47" url="shenyuanfuben.jpg" type="深渊副本" width="522" height="352"/>
+  <guide id="50" url="dingshangxuezhan2.jpg" type="血战" width="522" height="352"/>
+  <guide id="51" url="zhenxingshengjie.jpg" type="阵形升阶" width="522" height="352"/>
+  <guide id="52" url="jinjidehaijun.jpg" type="进击的海军" width="522" height="352"/>
+  <guide id="53" url="shenmihaiyu2.jpg" type="神秘岛" width="522" height="352"/>
+  <guide id="54" url="baqi.jpg" type="霸气系统" width="522" height="352"/>
+  <guide id="55" url="shenmifuchong55.jpg" type="副宠系统" width="522" height="352"/>
+  <guide id="56" url="haihun.jpg" type="海魂系统" width="522" height="352"/>
+  <guide id="60" url="baqitupo.jpg" type="霸气突破" width="522" height="352"/>
+  <guide id="61" url="yuansuxitong.jpg" type="元素系统" width="522" height="352"/>
+  <guide id="62" url="jiujitiaozhan.jpg" type="究极挑战" width="522" height="352"/>
+  <guide id="63" url="jinglingxitong.jpg" type="精灵系统" width="522" height="352"/>
+  <newhero id="1" heroID="10022" goto="12" text="" heroName="Kent" step="1"/>
+  <newhero id="2" heroID="10023" goto="107" text="" heroName="Lena"/>
+  <newhero id="3" heroID="10021" goto="107" text="" heroName="Yorki"/>
+  <girl id="1" text="Hãy chọn trang bị cần cường hóa trước, rồi nhấn vào nút Cường hóa để cường hóa!" type="1" next="0" step="7"/>
+  <girl id="2" text="Bến cảng là nơi mọi người đỗ tàu chính, trong giao diện bến cảng có thể thay đổi lời nhắn của bạn" type="2" next="3"/>
+  <girl id="3" text="Hơn nữa có thể nhấn vào tàu chính của người chơi khác để xem lời nhắn của họ" type="1" next="0" step="17"/>
+  <girl id="4" text="Trong giao diện tài nguyên có thể chiếm lĩnh tài nguyên, sau khi thời gian chiếm lĩnh kết thúc sẽ nhận được Beri" type="1" next="0" step="28"/>
+  <girl id="5" text="Hãy chọn phe phái, sau khi chọn phe phái có thể tham gia Công hội cùng người chơi khác bắt đầu phiêu lưu~" type="1" next="0"/>
+  <girl id="6" text="Chúc mừng bạn, phòng giấu vàng đã mở, có thể xem phòng giấu vàng trong giao diện tàu chính." type="2" next="7"/>
+  <girl id="7" text="Phòng giấu vàng có thể tăng xác suất nhận được vàng khi ra khơi." type="1" next="0"/>
+  <girl id="8" text="Nâng cấp cabin sẽ có thời gian Cd" type="1" next="0" step="32"/>
+  <girl id="10" text="Sau khi nâng cấp Pet sẽ nhận được điểm số kỹ năng, tiêu hao điểm số kỹ năng có thể lĩnh ngộ kỹ năng của Pet" type="1" next="0" step="24"/>
+  <girl id="11" text="Ở đảo thú lạ có thể huấn luyện Pet, chọn Pet, nhấn huấn luyện là có thể huấn luyện Pet rồi!" type="1" next="0" step="24"/>
+  <girl id="12" text="Có thể tiến hành trang bị cho Pet, sau khi trang bị Pet sẽ được hiển thị ở trong thành phố" type="1" next="0" step="24"/>
+  <petegg id="1" eggID="110001" text="Gâu gâu..." eggName="Chou Chou"/>
+</root>

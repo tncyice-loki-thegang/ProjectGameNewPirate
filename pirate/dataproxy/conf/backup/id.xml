@@ -1,0 +1,86 @@
+<root>
+	<!-- timer的id -->
+	<id>
+		<!-- id名称 -->
+		<name>tid</name>
+
+		<!-- 每个id的步长 -->
+		<step>1</step>
+
+		<!-- 每个id的初始值 -->
+		<default>1</default>
+	</id>
+
+	<!-- 用户id -->
+	<id>
+		<name>uid</name>
+		<step>1</step>
+		<default>20000</default>
+	</id>
+
+
+	<!-- 邮件id -->
+	<id>
+		<name>mid</name>
+		<step>1</step>
+		<default>100000</default>
+	</id>
+
+	<!-- 英雄id -->
+	<id>
+		<name>hid</name>
+		<step>1</step>
+		<default>10000000</default>
+	</id>
+
+	<!-- 物品id -->
+	<id>
+		<name>item_id</name>
+		<step>1</step>
+		<default>1000000</default>
+	</id>
+
+	<!-- 主船id -->
+	<id>
+		<name>boat_id</name>
+		<step>1</step>
+		<default>1</default>
+	</id>
+
+	<!-- 任务id -->
+	<id>
+		<name>kid</name>
+		<step>1</step>
+		<default>1</default>
+	</id>
+
+
+	<!-- 战斗记录id -->
+	<id>
+		<name>brid</name>
+		<step>1</step>
+		<default>1</default>
+	</id>
+
+	<!-- 工会id -->
+	<id>
+		<name>guild_id</name>
+		<step>1</step>
+		<default>10000</default>
+	</id>
+
+	<!-- 工会记录id -->
+	<id>
+		<name>grid</name>
+		<step>1</step>
+		<default>1</default>
+	</id>
+
+	<!-- 报名id -->
+	<id>
+		<name>signup_id</name>
+		<step>1</step>
+		<default>100000</default>
+	</id>
+
+</root>

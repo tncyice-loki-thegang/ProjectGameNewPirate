@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 表配置 -->
+<table>
+
+<!-- 表名 -->
+<name>t_mail</name>
+
+<!-- 分表信息 -->
+<partition>
+
+<!-- 分表键值 -->
+<key>reciever_uid</key>
+
+<!-- 分表方法 mod, div, month, week, year, day -->
+<method>mod</method>
+
+<!-- 分表值 -->
+<value>10</value>
+</partition>
+</table>

@@ -1,0 +1,8 @@
+<root>
+  <win_streak id="1" killNum="10" winStreak="{0} loại 10 người! Loại tiếp 10 người cho ta~" winStreakEnd="{0} kết thúc {2} thắng liên tiếp của {1}, người đáng thương ơi, chẳng phải chỉ đánh {2} người sao~" color="#F77105,#07F90D"/>
+  <win_streak id="2" killNum="15" winStreak="{0} loại 15 người! Đao kiếm vô tình~" winStreakEnd="{0} kết thúc {2} thắng liên tiếp của {1}, {0} kí tên, thẻ hiện đã đển đây chơi~" color="#F77105,#07F90D"/>
+  <win_streak id="3" killNum="20" winStreak="{0} loại 20 người! Tới thêm bia đỡ đạn đi~" winStreakEnd="{0} kết thúc {2} thắng liên tiếp của {1}, đừng căng thẳng, chỉ là đánh đổ {2} người mà thôi~" color="#F77105,#07F90D"/>
+  <win_streak id="4" killNum="25" winStreak="{0} loại 25 người! Hệ số độ khó là F?" winStreakEnd="{0} kết thúc {2} thắng liên tiếp của {1}, {0} là nhân vật lớn đấy~" color="#F77105,#07F90D"/>
+  <win_streak id="5" killNum="30" winStreak="{0} loại 30 người! Đánh đến khi hoa cúc nở~" winStreakEnd="{0} kết thúc {2} thắng liên tiếp của {1}, nếu như đẹp trai có thể ăn được, thì {0} đã có thể nuôi được {2} rồi~" color="#F77105,#07F90D"/>
+  <win_streak id="6" killNum="50" winStreak="{0} loại 50 người! Đây là tiết tấu trở thành chủ Đấu trường sao?" winStreakEnd="{0} kết thúc {2} thắng liên tiếp của {1}, giấc mộng xưng bá của {1} đã bị {0} đánh cho vỡ mộng rồi~" color="#F77105,#07F90D"/>
+</root>

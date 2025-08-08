@@ -1,0 +1,42 @@
+<root>
+  <content title="Cập nhật t.tin chiến đấu">a)T.tin chiến đấu 
+Dữ liệu liên quan đến người chơi và chiến đấu, gồm Đ.đội, pet, trang bị, trận hình, B.thạch, T.bàn có thể ảnh hưởng đến độ mạnh yếu trong chiến đấu. 
+b)Cập nhật t.tin chiến đấu 
+Để đảm bảo dữ liệu mà server lưu lại  là dữ liệu mà người chơi muốn lưu lại nhất trong Vương giả chiến, sau mỗi lần thay đổi t.tin, cần nhấn "Cập nhật t.tin chiến đấu" để truyền t.tin chiến đấu mới nhất lên server. Trong thời gian Vương giả chiến nếu thay đổi t.tin chiến đấu, mà không nhấn "Cập nhật t.tin chiến đấu", thì dữ liệu chiến đấu của người chơi lưu trong hệ thống sẽ không đổi.</content>
+  <content title="Quy tắc Vương giả chiến">a)Quy tắc đánh trước
+Người chơi  lực chiến đấu cao đánh trước. 
+b)Quy tắc vòng loại
+i.Quy tắc vòng loại Tân Thế Giới
+1.Chia cặp tùy ý, mỗi trận 1 ván, mỗi ván cách nhau 20 phút. 
+2.Người chơi sẽ không gặp phải đối thủ đã bị out. 
+3.Nếu người chơi thất bại 3 trận, sẽ bị out, cho đến khi chọn ra Top 32.
+4.Người chơi có thể xem chiến tích ở chỗ Xem Thành thích. 
+ii.Quy tắc vòng loại Đại Hải Trình
+5Sau khi kết thúc vòng loại Tân Thế Giới, bỏ những tuyển thủ bị out ở Tân Thế Giới, những người chơi khác tiến hành vòng loại Đại Hải Trình. Chia phe ngẫu nhiên, mỗi trận 1 ván, mỗi ván cách nhau 20 phút. 
+6.Người chơi sẽ không gặp phải những đối thủ đã bị out. 
+7.Nếu người chơi bại 3 trận, sẽ bị out, cho đến khi chọn ra Top 32, vòng loại kết thúc.
+8.Người chơi có thể xem chiến tích ở chỗ Xem Thành tích. 
+c)Quy tắc vòng trong
+1.Top 32 Tân Thế Giới và Đại Hải Trình chia thành 16 nhóm, 2 người 1 nhóm đấu 5 ván, người chơi thắng 3 ván được vào vòng trong, mỗi ván cách nhau 30 phút, mỗi vòng cách nhau 1 ngày. 
+2.Hai nhóm Top 32 sẽ chọn ra Quán quân của từng nhóm. 
+3.  Người chơi vào vòng trong sẽ tự động vào vòng loại Vương giả chiến liên server.</content>
+  <content title="Quy tắc Vương giả chiến liên server">a)Q.tắc đánh trước 
+Người chơi  lực chiến đấu cao đánh trước. 
+b)Quy tắc vòng loại 
+i.Quy tắc vòng loại Tân Thế Giới 
+1.Chia cặp tùy ý, mỗi trận 1 ván, mỗi ván cách nhau 20 phút. 
+2.Người chơi sẽ không gặp phải đối thủ đã bị out. 
+3.Nếu thua 3 lần, sẽ bị out, cho đến khi chọn ra Top 32. 
+4.Người chơi có thể xem chiến tích ở chỗ Xem Thành thích.
+ii.Quy tắc vòng loại Đại Hải Trình
+5Khi vòng loại Tân Thế Giới kết thúc, bỏ đi những tuyển thủ bị out,những người chơi khác tiến hành vòng loại Đại Hải Trình. Chia phe ngẫu nhiên, mỗi trận 1 ván, mỗi ván cách nhau 20 phút. 
+6.Người chơi sẽ không gặp phải những đối thủ đã bị out. 
+7.Chia phe tùy ý, mỗi trận 1 ván, mỗi ván cách 20 phút. 
+8.Nếu người chơi thua 3 trận, sẽ bị out, cho đến khi có top 32 vòng loại kết thúc. 
+9.Người chơi có thể xem chiến tích ở chỗ Xem Thành thích.
+c)Quy tắc vòng trong
+1.Top 32 Tân Thế Giới và Đại Hải Trình chia thành 16 nhóm, 2 người 1 nhóm đấu 5 ván, người chơi thắng 3 ván được vào vòng trong, mỗi ván cách nhau 30 phút, mỗi vòng cách nhau 1 ngày. 
+2.Hai nhóm sẽ có quán quân từng nhóm. 
+3.  Tất cả người chơi trong server có Quán quân Tân Thế Giới Vương giả chiến liên server nhận p.thưởng: 500000*Lv Beri, 500000 C.tích, 10000 vàng.</content>
+  <content title="Quy tắc trợ uy">Giai đoạn vòng trong, người chơi chỉ được chọn 1 người chơi để trợ uy, 10 phút trước mỗi trận không được trợ uy. Trong Vương giả chiến, người chơi được trợ uy nếu vào vòng đấu tiếp, người chơi trợ uy sẽ nhận được 50000 beri*Lv nhân vật, 50000 c.tích*Lv nhân vật; Trong Vương giả chiến liên server, nếu người chơi được trợ uy vào vòng tiếp thì người trợ uy sẽ nhận được 10000 beri*Lv nhân vật, 10000 c.tích*Lv nhân vật.</content>
+</root>

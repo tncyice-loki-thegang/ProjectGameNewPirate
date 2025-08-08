@@ -1,0 +1,41 @@
+<?php
+/***************************************************************************
+ * 
+ * Copyright (c) 2011 babeltime.com, Inc. All Rights Reserved
+ * $Id: HeroModifyGW.php 27354 2012-09-19 06:36:57Z HongyuLan $
+ * 
+ **************************************************************************/
+
+ /**
+ * @file $HeadURL: svn://192.168.1.80:3698/C/tags/pirate/rpcfw/rpcfw_1-0-21-57/test/HeroModifyGW.php $
+ * @author $Author: HongyuLan $(lanhongyu@babeltime.com)
+ * @date $Date: 2012-09-19 14:36:57 +0800 (三, 2012-09-19) $
+ * @version $Revision: 27354 $
+ * @brief 
+ *  
+ **/
+
+/**
+ * hid exp level upgrade_time
+ * Enter description here ...
+ * @author idyll
+ *
+ */
+
+class HeroRemoveDaimonApple extends BaseScript
+{
+	/* (non-PHPdoc)
+	 * @see BaseScript::executeScript()
+	 */
+	protected function executeScript($arrOption)
+	{	
+		$hero = HeroDao::getByHid(10011900, array('va_hero'));
+		$va = $hero['va_hero'];
+		$va['daimonApple'] = array(0,0,0);
+		
+		HeroDao::update(10011900, array("va_hero" => $va));
+		Logger::info('modify hero hid:%d, va_hero:%s', 10011900, $va);		
+	}
+}
+
+/* vim: set ts=4 sw=4 sts=4 tw=100 noet: */

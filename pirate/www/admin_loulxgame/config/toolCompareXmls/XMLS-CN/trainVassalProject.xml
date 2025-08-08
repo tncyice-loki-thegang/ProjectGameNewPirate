@@ -1,0 +1,6 @@
+<root>
+  <item projectID="1" icon="1.jpg" projectName="拖去刷马桶" reward_baseBelly="5" projectInfo="{vassal}被{host}拉去刷马桶，结果掉进马桶里了。。。" openLv="1"/>
+  <item projectID="2" icon="2.jpg" projectName="安抚下属" reward_baseBelly="10" projectInfo="{host}赏了{vassal}一个仙人掌吃" openLv="10"/>
+  <item projectID="3" icon="3.jpg" projectName="挠痒痒" reward_baseBelly="15" projectInfo="{host}挠了{vassal}一天痒痒" openLv="20"/>
+  <item projectID="4" icon="4.jpg" projectName="一起做游戏" reward_baseBelly="20" projectInfo="{host}和{vassal}一起做游戏，太开心了" openLv="30"/>
+</root>

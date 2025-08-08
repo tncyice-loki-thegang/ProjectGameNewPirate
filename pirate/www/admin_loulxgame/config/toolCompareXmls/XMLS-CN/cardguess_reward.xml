@@ -1,0 +1,7 @@
+<root>
+  <cardguess_reward id="101" name="特等奖" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70200|4,70304|1,50013|2"/>
+  <cardguess_reward id="102" name="一等奖" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70200|2,70303|1,50013|1"/>
+  <cardguess_reward id="103" name="二等奖" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70200|1,70302|1,50014|4"/>
+  <cardguess_reward id="104" name="三等奖" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70306|1,50014|2"/>
+  <cardguess_reward id="105" name="参与奖" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70305|1"/>
+</root>

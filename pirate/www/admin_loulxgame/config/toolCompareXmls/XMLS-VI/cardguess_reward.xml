@@ -1,0 +1,7 @@
+<root>
+  <cardguess_reward id="101" name="PT đặc biệt" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item=""/>
+  <cardguess_reward id="102" name="PT hạng 1" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item=""/>
+  <cardguess_reward id="103" name="PT hạng 2" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item=""/>
+  <cardguess_reward id="104" name="PT hạng 3" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item=""/>
+  <cardguess_reward id="105" name="PT tham gia" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item=""/>
+</root>

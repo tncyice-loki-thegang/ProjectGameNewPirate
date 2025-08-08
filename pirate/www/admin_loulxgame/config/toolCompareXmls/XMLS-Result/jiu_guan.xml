@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <jiu_guan htid="10021" needPrestige="10" camp="0" dialog="Tôi đã kể với bạn câu chuyện của tôi chưa nhỉ? Đồng đội của tôi đã từng có Nhạc công, và còn cả cá voi nữa, không biết bạn sẽ dành cho tôi sự mạo hiểm gì đây?" level="1"/>
+  <jiu_guan htid="10024" needPrestige="500" camp="0" dialog="Bố nói rồi, cách chế tạo đá quý nhất định có tồn tại , bây giờ chỉ còn thiếu là đi tìm nơi mấu chốt nhất đó thôi, bạn có thể đưa tôi đi không?" level="1"/>
+  <jiu_guan htid="10008" needPrestige="2000" camp="0" dialog="Ta đây chính là Buggy Chú hề,người đã từng làm thuyền trưởng của tôi cũng chỉ là người trong truyền thuyết mà thôi. Thế nên các ngươi lúc nào cũng phải cẩn thận kẻo bị ta cướp mất ngôi vị đấy, hhaha!" level="1"/>
+  <jiu_guan htid="10010" needPrestige="4500" camp="0" dialog="Usopp, cảm ơn anh đã kể chuyện của anh cho tôi, sau này nếu có cơ hội, tôi sẽ kể cho anh nghe những câu chuyện phiêu lưu của tôi." level="1"/>
+  <jiu_guan htid="10009" needPrestige="7500" camp="0" dialog="Tôi đây ghét nhất là chờ đợi, tôi đã chờ 3 năm rồi, các người vẫn còn muốn tôi tiếp tục chờ hay sao?" level="1"/>
+  <jiu_guan htid="10038" needPrestige="10000" camp="0" dialog="Món ăn mà cả đời tôi khó quên nhất chính là bát canh mà Sanji đưa cho tôi, mùi vị đó, tôi sẽ khắc ghi suốt đời." level="1"/>
+  <jiu_guan htid="10012" needPrestige="12500" camp="0" dialog="Hơ hơ, anh cho rằng người cá như tôi sẽ thua loài người các anh sao? Xem ra cuộc sống quá an nhàn đã khiến kỹ năng chiến đấu của tôi bị mai một rồi." level="1"/>
+  <jiu_guan htid="10063" needPrestige="15000" camp="0" dialog="Kể cả là sức mạnh, bạn cũng tuyệt đối không thua gì những người đàn ông, bạn cũng nghĩ thế, đúng không?" level="1"/>
+  <jiu_guan htid="10015" needPrestige="18000" camp="0" dialog="Từ khi ăn được trái ác quỷ Sube Sube, lưng không còn đau, chân không còn mỏi nữa, nhưng nhan sắc thì không có gì thay đổi, nếu nhất định phải nói thì chỉ có tàn nhang là biến mất thôi." level="1"/>
+  <jiu_guan htid="10016" needPrestige="22000" camp="0" dialog="Sau khi rời khỏi đất nước, tôi mới biết được sự rộng lớn của đại dương. Ở đây có không ít những thứ khiến người ta không thể tin được, nhưng cũng tràn đầy sức sống. Ở đây có những sinh vật chưa nhìn thấy bao giờ, những cảnh vật chưa bao giờ nghĩ đến." level="1"/>
+  <jiu_guan htid="10062" needPrestige="26000" camp="0" dialog="Không thể để công chúa Vivi chiến đấu một mình ở ngoài kia được! Đợi đã, công chúa, không thể thể hiện những cử chỉ tùy tiện cùng với bọn chúng được!" level="1"/>
+  <jiu_guan htid="10047" needPrestige="32000" camp="0" dialog="Tôi nguyện gầy như một tia sáng để chiếu sáng cho những người phụ nữ béo, hahahaha" level="1"/>
+  <jiu_guan htid="10051" needPrestige="45000" camp="0" dialog="Giống như Hoa anh đào nở trên núi Drum, mùa đông trên đảo Drum rồi cũng sẽ qua, mọi người sẽ lại chào đón một ngày mai tươi sáng……." level="1"/>
+  <jiu_guan htid="10002" needPrestige="60000" camp="0" dialog="Tôi muốn dùng những kiến thức mình đã học được về hàng hải đi du lịch khắp nơi trên thế giới, và muốn đem tất cả những gì tôi nhìn thấy vẽ thành bản đồ thế giới" level="1"/>
+  <jiu_guan htid="10042" needPrestige="80000" camp="0" dialog="Dưới địa ngục nở ra một bông hoa tình bạn, trên những ngọn sóng dập dềnh, lưu lại một cánh hoa tương tư, có một ngày, hoa nhất định sẽ  lại nở!" level="1"/>
+  <jiu_guan htid="10013" needPrestige="100000" camp="0" dialog="Mục tiêu của tôi là tìm thây tất cả các loại đao đã bị kẻ xấu lấy mất trên thế giới. Này anh kia, có phải là Zoro không? Mau đứng lại!" level="1"/>
+  <jiu_guan htid="10004" needPrestige="125000" camp="0" dialog="AAAAAA! Biển lớn! Cảm ơn cuộc trùng phùng ngày hôm nay. Aaaaaaaaaa! Người yêu! Em đã khiến kẻ đau khổ như anh phải mỉm cười. Nếu em muốn anh đi làm cướp biển, anh cũng sẵn lòng." level="1"/>
+  <jiu_guan htid="10005" needPrestige="150000" camp="0" dialog="Dự tính và kỳ vọng là không giống nhau, cái mà tôi đi tìm là những văn bản lịch sử thật sự. Trong tất cả các văn bản lịch sử khắp nởi trên thế giới, hòn đá duy nhất ghi chép lịch sử, đó chính là văn bản lịch sử." level="1"/>
+  <jiu_guan htid="10006" needPrestige="180000" camp="0" dialog="Tôi muốn trở thành kiếm khách số 1 trên thế giới, nếu anh hại tôi không thực hiện được dã tâm này, đến lúc đó anh hãy mổ bụng tự sát để đền tội cho tôi...Nếu đã thế thì, kể cả là tiếng xấu đồn xa thì tôi cũng nổi tiếng khắp thế giới rồi!" level="1"/>
+  <jiu_guan htid="10044" needPrestige="210000" camp="0" dialog="Trên Đại hải trình, những tân thủ mới giống như các anh ở khắp mọi nơi, cái gọi là lý tưởng, là hiện thực mà những nhân tài có thực lực mới có thể nói đến ; còn cái gọi là yếu đuối, lại chính là một thứ tội!" level="1"/>
+  <jiu_guan htid="10007" needPrestige="250000" camp="0" dialog="Hồi nhỏ tôi đã được một hải tặc cứu mang, người đó vì thế mà mất đi cánh tay trái. Thế nên tôi không bao giờ coi nhẹ sinh mạng của mình. Nhưng tôi cũng có một mơ ước, bất luận thế nào cũng phải đi thực hiện nó. Vua cướp biển, nhất định tôi phải làm!" level="1"/>
+  <jiu_guan htid="30007" needPrestige="195000" camp="0" dialog="Nếu như họ nhìn trúng tính cách ưu tú và vẻ đẹp ngoại hình của tôi thì chắc chắn chỉ có tôi là có thể lựa chọn được!" level="1"/>
+  <jiu_guan htid="30011" needPrestige="300000" camp="0" dialog="Chiếc thuyền vững chắc nhất mà tôi chế tạo ra là để chuẩn bị cho vua hải tặc tương lai. Hi vọng anh sẽ ngồi chiếc thuyền này và đi khắp mọi nơi trên thế giới." level="1"/>
+  <jiu_guan htid="30016" needPrestige="400000" camp="0" dialog="Tiếp theo, ta sẽ biến các bạn trở nên nhẵn bóng." level="1"/>
+  <jiu_guan htid="30024" needPrestige="500000" camp="0" dialog="Bạn nhỏ tới đây chú cho kẹo mút nào~" level="1"/>
+  <jiu_guan htid="30020" needPrestige="600000" camp="0" dialog="Nào, hãy đẩy ta nào! Đẩy rồi sẽ biết, ta không phải là Trái “Ushi Ushi”, mà là Trái “Doa Doa”!" level="1"/>
+  <jiu_guan htid="30018" needPrestige="800000" camp="0" dialog="Nếu như nói có thứ gì mà ta luôn yêu cầu thì đó là máu..." level="1"/>
+  <jiu_guan htid="30069" needPrestige="350000" camp="0" dialog="Khi đến thé giới mới chúng ta nhất định phải đấu 1 lần nữa." level="1"/>
+  <jiu_guan htid="30068" needPrestige="550000" camp="0" dialog="Haha, hãy đến xem vật phẩm ta sưu tập được không tồi chứ?" level="1"/>
+  <jiu_guan htid="30071" needPrestige="700000" camp="0" dialog="Ô la la la, cô gái xinh đẹp ơi, có thể cho tôi xem đồ lót của cô không? Tuy tôi không có mắt!" level="1"/>
+  <jiu_guan htid="30072" needPrestige="1200000" camp="0" dialog="Ya ya ya, lúc đó mà có chiến lực của Oars, đã không bị thua tên Kaidou ở Tân Thế Giới!" level="1"/>
+  <jiu_guan htid="30093" needPrestige="1500000" camp="0" dialog="Nếu đi du lịch, bạn muốn đi đâu nhất?" level="1"/>
+  <jiu_guan htid="30117" needPrestige="900000" camp="0" dialog="Nhất định phải đưa ta tới công viên Sabaody nhé!" level="1"/>
+  <jiu_guan htid="30135" needPrestige="1000000" camp="0" dialog="Bên cạnh tổng bộ hải quân, muốn qua thật không dễ? Nhưng, ta cũng có chí khí của riêng mình!" level="1"/>
+  <jiu_guan htid="30150" needPrestige="1800000" camp="0" dialog="Dù cho ta có làm việc gì xấu xa. Dù là đá bay con mèo … hay cắt tai ngươi… hay lạm sát kẻ vô tội, cả thế giới vẫn tha thứ cho ta. Vì sao ư, bởi vì ta đẹp như tiên nữ." level="1"/>
+  <jiu_guan htid="30138" needPrestige="1100000" camp="0" dialog="Số mệnh đã định, hôm nay không thể là ngày giỗ của ta." level="1"/>
+  <jiu_guan htid="30137" needPrestige="1300000" camp="0" dialog="Muốn biết vì sao ta được gọi là hải quân rơi không? Ta nghĩ ngươi chưa hiểu đủ về hải quân." level="1"/>
+  <jiu_guan htid="30183" needPrestige="2100000" camp="0" dialog="Đó là ân nhân của đảo người cá, ông trời cũng muốn ngăn chặn chiến tranh." level="1"/>
+  <jiu_guan htid="30193" needPrestige="1400000" camp="0" dialog="Lâu lắm rồi mới có 1 trận đánh đã đời thế này, các bạn cũng ngứa tay đúng không?" level="1"/>
+  <jiu_guan htid="30205" needPrestige="2000000" camp="0" dialog="Trong chuyến hành trình, mỗi khi nói phải có được “ONEPIECE” thì đều bị mọi người cười nhạo. Mặc dù mỗi lần ta đều giết hết sạch những người cười nhạo, nhưng nếu như không có gan nói ra điều này thì không thể tiếp tục tồn tại ở vùng biển phía trước." level="1"/>
+  <jiu_guan htid="30201" needPrestige="2400000" camp="0" dialog="Nên nhớ rằng, kẻ yếu, đến cách chết cũng không được lựa chọn đâu." level="1"/>
+  <jiu_guan htid="30222" needPrestige="1250000" camp="0" dialog="还想要打架？你不知道我有多厉害吗？！" level="1"/>
+  <jiu_guan htid="30229" needPrestige="1150000" camp="0" dialog="Uhm~Chấp nhận sự hành hạ của ta, để ta thưởng thức tiếng rên nào~" level="1"/>
+  <jiu_guan htid="30228" needPrestige="1550000" camp="0" dialog="不要妄想能打败我。你们跟我可有着巨大的兵力差距。" level="1"/>
+  <jiu_guan htid="30232" needPrestige="2900000" camp="0" dialog="Ta ngửi thấy mùi con người mới trên người ngươi, hãy tới tạo ra kì tích nào, Kama!" level="1"/>
+  <jiu_guan htid="30251" needPrestige="1050000" camp="0" dialog="新人妖乐园的酒是很不错的，想要来一点吗？" level="1"/>
+  <jiu_guan htid="30260" needPrestige="4000000" camp="0" dialog="Ếch ngồi đáy giếng, cho ngươi nhận biết thế giới lớn thế nào." level="120"/>
+  <jiu_guan htid="30283" needPrestige="2600000" camp="0" dialog="深海监狱里我是最强的男人，额……不过我又要去拉肚子了。" level="1"/>
+  <jiu_guan htid="30294" needPrestige="3500000" camp="0" dialog="Ngươi chuẩn bị bao nhiêu rượu ngon? Tửu lượng của ta tốt lắm đấy~" level="1"/>
+  <jiu_guan htid="30304" needPrestige="3200000" camp="0" dialog="我的硬度，超乎你想象！" level="1"/>
+  <jiu_guan htid="30254" needPrestige="3800000" camp="0" dialog="在我心中，老爹依然存在。" level="1"/>
+  <jiu_guan htid="30274" needPrestige="3600000" camp="0" dialog="下次遇上敌人时用什么花呢？" level="1"/>
+  <jiu_guan htid="30355" needPrestige="3300000" camp="0" dialog="我们鱼人族才是最高等的种族！" level="1"/>
+  <jiu_guan htid="30366" needPrestige="2200000" camp="0" dialog="听着我的歌声，让身心愉快起来，这是身为王子的我，身为哥哥的我的责任。" level="1"/>
+</root>

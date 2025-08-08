@@ -1,0 +1,8 @@
+﻿<root>
+  <win_streak id="1" killNum="10" winStreak="{0}连推10人！你是在被摔倒的老爷爷追吗！" winStreakEnd="{0}终结了{1}的{2}连胜，这事儿真不赖我！" color="#F77105,#07F90D"/>
+  <win_streak id="2" killNum="15" winStreak="{0}连推15人！你击败的不是天真，是无邪！" winStreakEnd="{0}终结了{1}的{2}连胜，{1}，都是红的发紫，你跟我装什么茄子啊！"  color="#F77105,#07F90D"/>
+  <win_streak id="3" killNum="20" winStreak="{0}连推20人！就没有人能撼动他吗？" winStreakEnd="{0}终结了{1}的{2}连胜，{2}的智商余额不足了吧？"  color="#F77105,#07F90D"/>
+  <win_streak id="4" killNum="25" winStreak="{0}连推25人！我骄傲！" winStreakEnd="{0}横空出世，给{1}致命一击！你还骄傲的起来吗？"  color="#F77105,#07F90D"/>
+  <win_streak id="5" killNum="30" winStreak="{0}连推30人，你摊上事了！" winStreakEnd="{0}终结了{1}的{2}连胜，你摊上大事了！"  color="#F77105,#07F90D"/>
+  <win_streak id="6" killNum="50" winStreak="击杀50人！{0}成为了一个真正的传说！" winStreakEnd="你没有看错！！{0}终结了{1}的{2}连胜！！！！！"  color="#F77105,#07F90D"/>
+</root>

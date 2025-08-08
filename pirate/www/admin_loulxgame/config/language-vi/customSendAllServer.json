@@ -1,0 +1,28 @@
+{
+	"customSendAllServer": [
+		{
+			"id": "sendGold",
+			"title": "Gửi Vàng"
+		},
+		{
+			"id": "sendHonourPoint",
+			"title": "Gửi Điểm Vinh Dự"
+		},
+		{
+			"id": "resetSmelting",
+			"title": "Reset Chế Tạo"
+		},
+		{
+			"id": "resetTreasure",
+			"title": "Reset Tầm Bảo"
+		},
+		{
+			"id": "resetElement",
+			"title": "Reset Xếp Nguyên Tố"
+		},
+		{
+			"id": "resetGetHaki",
+			"title": "Reset Lượt Haki"
+		}
+	]
+}

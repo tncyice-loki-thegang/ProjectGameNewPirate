@@ -1,0 +1,35 @@
+<root>
+  <task_activity_info id="1" gold_cost="150" direct_arrive="2" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="73002|1" type="1"/>
+  <task_activity_info id="2" gold_cost="100" direct_arrive="9" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70806|2" type="6"/>
+  <task_activity_info id="3" gold_cost="200" direct_arrive="5" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="71006|10" type="3"/>
+  <task_activity_info id="4" gold_cost="150" direct_arrive="12" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="76013|1" type="8"/>
+  <task_activity_info id="5" gold_cost="10" direct_arrive="0" reward="3" reward_belly="" reward_experience="" reward_gold="25" reward_item="" type="15"/>
+  <task_activity_info id="6" gold_cost="150" direct_arrive="2" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="60143|1" type="1"/>
+  <task_activity_info id="7" gold_cost="250" direct_arrive="28" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="50036|1" type="10"/>
+  <task_activity_info id="8" gold_cost="300" direct_arrive="3" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="120088|10" type="2"/>
+  <task_activity_info id="9" gold_cost="100" direct_arrive="19" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70528|1" type="12"/>
+  <task_activity_info id="10" gold_cost="25" direct_arrive="0" reward="3" reward_belly="" reward_experience="" reward_gold="50" reward_item="" type="15"/>
+  <task_activity_info id="11" gold_cost="150" direct_arrive="2" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="76013|1" type="1"/>
+  <task_activity_info id="12" gold_cost="400" direct_arrive="24" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70304|1" type="11"/>
+  <task_activity_info id="13" gold_cost="60" direct_arrive="7" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="120047|1000" type="4"/>
+  <task_activity_info id="14" gold_cost="50" direct_arrive="8" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="60143|1" type="5"/>
+  <task_activity_info id="15" gold_cost="50" direct_arrive="0" reward="3" reward_belly="" reward_experience="" reward_gold="100" reward_item="" type="15"/>
+  <task_activity_info id="16" gold_cost="150" direct_arrive="2" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="50036|1" type="1"/>
+  <task_activity_info id="17" gold_cost="100" direct_arrive="9" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="120088|10" type="6"/>
+  <task_activity_info id="18" gold_cost="150" direct_arrive="12" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70732|1" type="8"/>
+  <task_activity_info id="19" gold_cost="100" direct_arrive="18" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="71016|1" type="13"/>
+  <task_activity_info id="20" gold_cost="75" direct_arrive="0" reward="3" reward_belly="" reward_experience="" reward_gold="150" reward_item="" type="15"/>
+  <task_activity_info id="21" gold_cost="150" direct_arrive="2" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70722|1" type="1"/>
+  <task_activity_info id="22" gold_cost="100" direct_arrive="11" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="60024|20" type="7"/>
+  <task_activity_info id="23" gold_cost="375" direct_arrive="28" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="60143|1" type="10"/>
+  <task_activity_info id="24" gold_cost="300" direct_arrive="3" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="120018|15" type="2"/>
+  <task_activity_info id="25" gold_cost="100" direct_arrive="0" reward="3" reward_belly="" reward_experience="" reward_gold="200" reward_item="" type="15"/>
+  <task_activity_info id="26" gold_cost="150" direct_arrive="2" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70529|1" type="1"/>
+  <task_activity_info id="27" gold_cost="100" direct_arrive="9" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="50036|2" type="6"/>
+  <task_activity_info id="28" gold_cost="150" direct_arrive="12" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70803|1" type="8"/>
+  <task_activity_info id="29" gold_cost="300" direct_arrive="3" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70307|1" type="2"/>
+  <task_activity_info id="30" gold_cost="150" direct_arrive="0" reward="3" reward_belly="" reward_experience="" reward_gold="300" reward_item="" type="15"/>
+  <task_activity_info id="1000" gold_cost="50" direct_arrive="2" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="50036|1" type="1"/>
+  <task_activity_info id="1001" gold_cost="50" direct_arrive="3" reward="4" reward_belly="" reward_experience="" reward_gold="" reward_item="70806|2" type="2"/>
+  <task_activity_info id="1002" gold_cost="20" direct_arrive="0" reward="3" reward_belly="" reward_experience="" reward_gold="50" reward_item="" type="15"/>
+</root>

@@ -1,0 +1,17 @@
+<root>
+  <sci_tech id="10001" tname="物理攻击" name="物理攻击" desc="每升一级增加物理攻击力5点。" iconid="1" type="1" openlevel="1" addatrid="6" addition="5" costid="10001"/>
+  <sci_tech id="10002" tname="物理防御" name="物理防御" desc="每升一级增加物理防御力3点。" iconid="2" type="1" openlevel="1" addatrid="9" addition="3" costid="10002"/>
+  <sci_tech id="10003" tname="必杀攻击" name="必杀攻击" desc="每升一级增加必杀攻击力5点。" iconid="3" type="1" openlevel="20" addatrid="7" addition="5" costid="10003"/>
+  <sci_tech id="10004" tname="必杀防御" name="必杀防御" desc="每升一级增加必杀防御力3点。" iconid="4" type="1" openlevel="25" addatrid="10" addition="3" costid="10004"/>
+  <sci_tech id="10005" tname="魔法攻击" name="魔法攻击" desc="每升一级增加魔法攻击力5点。" iconid="5" type="1" openlevel="30" addatrid="8" addition="5" costid="10005"/>
+  <sci_tech id="10006" tname="魔法防御" name="魔法防御" desc="每升一级增加魔法防御力3点。" iconid="6" type="1" openlevel="35" addatrid="11" addition="3" costid="10006"/>
+  <sci_tech id="10007" tname="生命" name="生命" desc="每升一级增加生命力15点。" iconid="7" type="1" openlevel="40" addatrid="1" addition="15" costid="10007"/>
+  <sci_tech id="10011" tname="主船技能科技" name="主船技能科技" desc="升级主船科技可以学习更多的主船技能" iconid="8" type="2" openlevel="999" addatrid="" addition="" costid="10008"/>
+  <sci_tech id="10021" tname="物理攻击百分比" name="物理攻击" desc="每升一级增加物理攻击力0.5%。" iconid="1" type="1" openlevel="999" addatrid="25" addition="50" costid="10009"/>
+  <sci_tech id="10022" tname="物理防御百分比" name="物理防御" desc="每升一级增加物理防御力0.5%。" iconid="2" type="1" openlevel="999" addatrid="26" addition="50" costid="10010"/>
+  <sci_tech id="10023" tname="必杀攻击百分比" name="必杀攻击" desc="每升一级增加必杀攻击力0.5%。" iconid="3" type="1" openlevel="999" addatrid="27" addition="50" costid="10011"/>
+  <sci_tech id="10024" tname="必杀防御百分比" name="必杀防御" desc="每升一级增加必杀防御力0.5%。" iconid="4" type="1" openlevel="999" addatrid="28" addition="50" costid="10012"/>
+  <sci_tech id="10025" tname="魔法攻击百分比" name="魔法攻击" desc="每升一级增加魔法攻击力0.5%。" iconid="5" type="1" openlevel="999" addatrid="29" addition="50" costid="10013"/>
+  <sci_tech id="10026" tname="魔法防御百分比" name="魔法防御" desc="每升一级增加魔法防御力0.5%。" iconid="6" type="1" openlevel="999" addatrid="30" addition="50" costid="10014"/>
+  <sci_tech id="10027" tname="生命百分比" name="生命" desc="每升一级增加生命值0.5%。" iconid="7" type="1" openlevel="999" addatrid="2" addition="50" costid="10015"/>
+</root>

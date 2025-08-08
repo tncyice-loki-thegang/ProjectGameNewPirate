@@ -1,0 +1,8 @@
+<root>
+  <element_game id="1" baseIntegral="200" iconUrl="itemSmall/feng_gongji.png" exchangeRate="30"/>
+  <element_game id="2" baseIntegral="200" iconUrl="itemSmall/lei_gongji.png" exchangeRate="30"/>
+  <element_game id="3" baseIntegral="200" iconUrl="itemSmall/shui_gongji.png" exchangeRate="30"/>
+  <element_game id="4" baseIntegral="200" iconUrl="itemSmall/huo_gongji.png" exchangeRate="30"/>
+  <element_game id="5" baseIntegral="200" iconUrl="itemSmall/shengming.png" exchangeRate="30"/>
+  <element_game id="6" baseIntegral="200" iconUrl="itemSmall/mianshangqiu.png" exchangeRate="30"/>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <emblem id="1" emname="Huy hiệu cấp C.hội 1" ename="Mắt Đại dương" description="Mong bạn mang theo tấm huy chương này đi đến mọi ngóc ngách của biển cả." res="0.png" type="1" lvl="1" score="" smallRes="1001.png"/>
+  <emblem id="2" emname="Huy hiệu cấp C.hội 6" ename="Quả rừng" description="Món quà mà thiên nhiên chưa bao giờ tiếc…" res="5.png" type="1" lvl="10" score="" smallRes="1011.png"/>
+  <emblem id="3" emname="Huy hiệu cấp C.hội 2" ename="Cánh chim trời" description="Cho dù không có đôi cánh, chỉ cần có ý muốn phiêu lưu là có thể bay lượn rồi." res="1.png" type="1" lvl="20" score="" smallRes="1002.png"/>
+  <emblem id="4" emname="Huy hiệu cấp C.hội 7" ename="Mũ chú hề" description="Nhớ là phải giữ lại trong tay tấm Joker cuối cùng." res="6.png" type="1" lvl="30" score="" smallRes="1012.png"/>
+  <emblem id="5" emname="Huy hiệu cấp C.hội 3" ename="Vũ nữ trong bình" description="Bất kể bạn sống ở đâu, kể cả là trong một chiếc bình nhỏ bé cũng sẽ có sân khấu dành cho bạn." res="2.png" type="1" lvl="40" score="" smallRes="1003.png"/>
+  <emblem id="6" emname="Huy hiệu cấp C.hội 8" ename="Yêu tinh nhút nhát" description="Suỵt! Yên lặng xem cô ấy múa, đừng làm phiền…" res="7.png" type="1" lvl="50" score="" smallRes="1013.png"/>
+  <emblem id="7" emname="Huy hiệu cấp C.hội 4" ename="Trái tim đỏ" description="Bất luận người kia ở đâu, chỉ cần trong tim nhớ về anh ta, nhất định sẽ có ngày gặp lại." res="3.png" type="1" lvl="60" score="" smallRes="1004.png"/>
+  <emblem id="8" emname="Huy hiệu cấp C.hội 9" ename="Thiên Bình trồng cây chuối" description="Phải luôn luôn đảm bảo sự công bằng, nếu không Thiên Bình sẽ trở thành người phán xét." res="8.png" type="1" lvl="70" score="" smallRes="1014.png"/>
+  <emblem id="9" emname="Huy hiệu cấp C.hội 5" ename="Vương miện Tứ Hải" description="Bây giờ, đem theo đồng đội mạnh nhất của bạn đi chinh phục Đại hải trình nào!" res="4.png" type="1" lvl="80" score="" smallRes="1005.png"/>
+  <emblem id="10" emname="Huy hiệu cấp C.hội 10" ename="Vương giả bác học" description="Chỉ có người học rộng biết nhiều nhất mới có thể mở được những bí mật trên vùng biển này." res="9.png" type="1" lvl="100" score="" smallRes="1015.png"/>
+  <emblem id="11" emname="Huy hiệu tích điểm C.hội 1" ename="Băng h.tặc siêu năng" description="Nghe nói tất cả mọi người trong băng hải tặc này đều có sức mạnh của trái ác quỷ." res="101.png" type="2" lvl="" score="100" smallRes="1006.png"/>
+  <emblem id="12" emname="Huy hiệu tích điểm C.hội 2" ename="Hải Vương tham ăn" description="Trên vùng biển này, niềm hạnh phúc lớn nhất là có thể ăn thịt thoải mái." res="102.png" type="2" lvl="" score="150" smallRes="1008.png"/>
+  <emblem id="13" emname="Huy hiệu tích điểm C.hội 3" ename="Tung tích ngư dân" description="Có những thủy thủ cả đời đi tìm kiếm đảo Người Cá, nơi được gọi là Thiên đường trong mơ." res="103.png" type="2" lvl="" score="200" smallRes="1007.png"/>
+  <emblem id="14" emname="Huy hiệu tích điểm C.hội 4" ename="Người ở ẩn" description="Có lúc ngồi trong bụng cá voi vẽ vời hoa cỏ cũng là một lựa chọn không tồi." res="104.png" type="2" lvl="" score="250" smallRes="1009.png"/>
+  <emblem id="15" emname="Huy hiệu tích điểm C.hội 5" ename="Kinh thánh bạo chúa" description="Một công hộ mạnh sẽ luôn có những người hi sinh thầm lặng, họ luôn giữ trong lòng một niềm tin về đồng đội." res="105.png" type="2" lvl="" score="300" smallRes="1010.png"/>
+  <emblem id="16" emname="Huy hiệu tích điểm C.hội 6" ename="Cá nhiệt đới Golden" description="Nghe nói ở vùng biển này có loài cá nhiệt đới bằng vàng ròng." res="106.png" type="2" lvl="" score="350" smallRes="1016.png"/>
+  <emblem id="17" emname="Huy hiệu tích điểm C.hội 7" ename="Bách hợp bất khuất" description="Hoa bách hợp đã dùng trọn cuộc đời để tỏa hương thơm ngát." res="107.png" type="2" lvl="" score="400" smallRes="1017.png"/>
+  <emblem id="18" emname="Huy hiệu tích điểm C.hội 8" ename="Đinh ba của Hải vương" description="Mỗi vị vua của Đảo Người Cá đều được trao một chiếc đinh ba." res="108.png" type="2" lvl="" score="450" smallRes="1018.png"/>
+  <emblem id="19" emname="Huy hiệu tích điểm C.hội 9" ename="Lái tàu siêu hạng" description="Nếu không có một người cầm lái giỏi thì không thể đến Đại hải trình được." res="109.png" type="2" lvl="" score="500" smallRes="1019.png"/>
+  <emblem id="20" emname="Huy hiệu tích điểm C.hội 10" ename="Ánh sáng cây mặt trời" description="Sống thuyền làm bằng gỗ của cây mặt trời Adam sẽ không bao giờ bị phá vỡ." res="110.png" type="2" lvl="" score="1000" smallRes="1020.png"/>
+</root>

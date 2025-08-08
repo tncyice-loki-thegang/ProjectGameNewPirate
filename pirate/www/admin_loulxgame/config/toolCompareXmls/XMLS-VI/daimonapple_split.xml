@@ -1,0 +1,29 @@
+<root>
+  <daimonapple_split fuseApple="83085" apple1="82704" apple2="82705" goldCost="100"/>
+  <daimonapple_split fuseApple="83086" apple1="82714" apple2="82702" goldCost="100"/>
+  <daimonapple_split fuseApple="83087" apple1="82704" apple2="82712" goldCost="100"/>
+  <daimonapple_split fuseApple="83088" apple1="82701" apple2="82714" goldCost="100"/>
+  <daimonapple_split fuseApple="83089" apple1="82714" apple2="82717" goldCost="100"/>
+  <daimonapple_split fuseApple="83090" apple1="82705" apple2="82702" goldCost="100"/>
+  <daimonapple_split fuseApple="83091" apple1="82713" apple2="82712" goldCost="100"/>
+  <daimonapple_split fuseApple="83092" apple1="82705" apple2="82701" goldCost="100"/>
+  <daimonapple_split fuseApple="83093" apple1="82705" apple2="82715" goldCost="100"/>
+  <daimonapple_split fuseApple="83094" apple1="82702" apple2="82712" goldCost="100"/>
+  <daimonapple_split fuseApple="83095" apple1="82702" apple2="82701" goldCost="100"/>
+  <daimonapple_split fuseApple="83096" apple1="82702" apple2="82715" goldCost="100"/>
+  <daimonapple_split fuseApple="83097" apple1="82712" apple2="82701" goldCost="100"/>
+  <daimonapple_split fuseApple="83098" apple1="82712" apple2="82717" goldCost="100"/>
+  <daimonapple_split fuseApple="83099" apple1="82701" apple2="82717" goldCost="100"/>
+  <daimonapple_split fuseApple="83100" apple1="82709" apple2="82706" goldCost="100"/>
+  <daimonapple_split fuseApple="83101" apple1="82612" apple2="82602" goldCost="50"/>
+  <daimonapple_split fuseApple="83102" apple1="82609" apple2="81125" goldCost="50"/>
+  <daimonapple_split fuseApple="83103" apple1="82612" apple2="81125" goldCost="50"/>
+  <daimonapple_split fuseApple="83200" apple1="82716" apple2="82705" goldCost="100"/>
+  <daimonapple_split fuseApple="83201" apple1="82718" apple2="82705" goldCost="100"/>
+  <daimonapple_split fuseApple="83202" apple1="82724" apple2="82705" goldCost="100"/>
+  <daimonapple_split fuseApple="83203" apple1="82704" apple2="82702" goldCost="100"/>
+  <daimonapple_split fuseApple="83100" apple1="82709" apple2="82706" goldCost="100"/>
+  <daimonapple_split fuseApple="83204" apple1="82710" apple2="82707" goldCost="100"/>
+  <daimonapple_split fuseApple="83105" apple1="82602" apple2="81125" goldCost="50"/>
+  <daimonapple_split fuseApple="83106" apple1="82601" apple2="82602" goldCost="50"/>
+</root>

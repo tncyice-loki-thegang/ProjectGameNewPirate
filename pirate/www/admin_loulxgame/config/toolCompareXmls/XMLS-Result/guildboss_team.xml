@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <guildboss_team monstersquadID="60601" name="Kẻ gây rối Yến tiệc" model="215" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60602" name="Kẻ gây rối Yến tiệc" model="212" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60603" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60604" name="Kẻ gây rối Yến tiệc" model="216" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60605" name="Mihawk gây rối" model="348" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60606" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60607" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60608" name="Kẻ gây rối Yến tiệc" model="214" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60609" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60610" name="Luffy gây rối" model="349" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60611" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60612" name="Kẻ gây rối Yến tiệc" model="210" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60613" name="Kẻ gây rối Yến tiệc" model="211" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60614" name="Kẻ gây rối Yến tiệc" model="218" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60615" name="Zoro gây rối" model="350" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60616" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60617" name="Kẻ gây rối Yến tiệc" model="217" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60618" name="Kẻ gây rối Yến tiệc" model="214" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60619" name="Kẻ gây rối Yến tiệc" model="215" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60620" name="Sarquiss gây rối" model="351" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60621" name="Kẻ gây rối Yến tiệc" model="218" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60622" name="Kẻ gây rối Yến tiệc" model="216" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60623" name="Kẻ gây rối Yến tiệc" model="217" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60624" name="Kẻ gây rối Yến tiệc" model="218" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60625" name="Eustass Kid gây rối" model="352" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60626" name="Kẻ gây rối Yến tiệc" model="210" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60627" name="Kẻ gây rối Yến tiệc" model="212" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60628" name="Kẻ gây rối Yến tiệc" model="214" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60629" name="Kẻ gây rối Yến tiệc" model="218" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60630" name="Franky gây rối" model="353" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60631" name="Kẻ gây rối Yến tiệc" model="217" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60632" name="Kẻ gây rối Yến tiệc" model="216" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60633" name="Kẻ gây rối Yến tiệc" model="216" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60634" name="Kẻ gây rối Yến tiệc" model="210" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60635" name="Mr7 gây rối" model="354" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60636" name="Kẻ gây rối Yến tiệc" model="212" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60637" name="Kẻ gây rối Yến tiệc" model="214" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60638" name="Kẻ gây rối Yến tiệc" model="216" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60639" name="Kẻ gây rối Yến tiệc" model="218" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60640" name="Igaram gây rối" model="355" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60641" name="Kẻ gây rối Yến tiệc" model="212" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60642" name="Kẻ gây rối Yến tiệc" model="218" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60643" name="Kẻ gây rối Yến tiệc" model="216" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60644" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60645" name="Jango gây rối" model="356" randomType="1" dropId="400101" drop2Id="400103"/>
+  <guildboss_team monstersquadID="60646" name="Kẻ gây rối Yến tiệc" model="211" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60647" name="Kẻ gây rối Yến tiệc" model="214" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60648" name="Kẻ gây rối Yến tiệc" model="213" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60649" name="Kẻ gây rối Yến tiệc" model="214" randomType="2" dropId="400102" drop2Id="400104"/>
+  <guildboss_team monstersquadID="60650" name="Momonga gây rối" model="357" randomType="1" dropId="400101" drop2Id="400103"/>
+</root>

@@ -1,0 +1,6 @@
+<root>
+  <elves_function id="1" icon="001.png" name="免费续矿" desc="开启免费续矿后，续矿将不消耗金币。精灵每天获得40经验。" day="10" price="400" discount="350" exp="40" level="0"/>
+  <elves_function id="2" icon="002.png" name="免费养殖队列" desc="开启免费养殖队列后，开启养殖队列将不消耗金币。精灵每天获得10经验。" day="10" price="100" discount="88" exp="10" level="0"/>
+  <elves_function id="3" icon="003.png" name="精灵寻宝" desc="开启精灵寻宝后，可在寻宝中设置自动消耗阅历刷新藏宝图并寻宝。每天获得10经验" day="10" price="100" discount="50" exp="10" level="0"/>
+  <elves_function id="4" icon="004.png" name="乔巴萌表情" desc="开启乔巴萌表情后，可使用可爱的乔巴表情。精灵每天获得10经验。" day="10" price="50" discount="10" exp="10" level="0"/>
+</root>

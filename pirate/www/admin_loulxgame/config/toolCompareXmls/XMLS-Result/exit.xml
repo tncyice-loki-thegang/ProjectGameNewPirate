@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <exit id="1" tomapid="2" toexitid="2" tips="Ấn vào Đại Hải Trình" mapid="1" showForceId="620"/>
+  <exit id="2" tomapid="1" toexitid="1" tips="Ấn vào Đông Hải" mapid="2" showForceId="620"/>
+  <exit id="3" tomapid="3" toexitid="4" tips="Ấn vào Tân Thế Giới" mapid="2" showForceId="10425"/>
+  <exit id="4" tomapid="2" toexitid="3" tips="Ấn vào Đại Hải Trình" mapid="3" showForceId="10425"/>
+</root>

@@ -1,0 +1,6 @@
+<root>
+  <camp id="1" name="Biển Tây" desc="Là biển nằm ở phía tây của núi Reverse, ở đây tập hợp một lượng lớn các nhà khảo cổ học và những nhà thám hiểm, đồng thời vì thế mà ngày càng nhiều bí mật bị khai quật. Bao gồm các đảo mà nhiều năm trước đây đã bị chính phủ sử dụng tu ma thuật để hủy diệt hòn đảo của các nhà khảo cổ học - O' hara cũng nằm trong số này, là vùng biển bị chính phủ giám sát chặt chẽ."/>
+  <camp id="2" name="Biển Nam" desc="Là biển nằm ở phía nam của núi Reverse, đã từng vì một hòn đảo được gọi là Baterilla mà được cả thế giới chú ý. Nghe nói đây là nơi vua cướp biển Roger đã sinh sống sau khi hoàn thành Đại hải trình vĩ đại, còn đối với chính phủ, thì đây là hòn đảo không thể đề cập đến. tuy nhiên, đây là nơi Ace được sinh ra."/>
+  <camp id="3" name="Biển Bắc" desc="Là biển nằm ở phía bắc của núi Reverse, vẫn luôn lưu truyền những truyền thuyết về làng Golden, nhưng số đông đều cho rằng đó chỉ là câu chuyện do &quot;kẻ lừa đảo&quot; Norland bịa ra. Nhưng con cháu của ông ta thì hoàn toàn tin tưởng vào điều đó, và luôn chờ đợi sẽ có người thay họ bóc trần bí mật 400 năm trước về Làng Golden."/>
+  <camp id="9999" name="Phe ngẫu nhiên" desc="Nghe theo số mệnh, hệ thống sẽ giúp bạn chọn ngẫu nhiên 1 trong 3 phe phái, có thể sẽ nhận được phần thưởng là 100 vàng."/>
+</root>

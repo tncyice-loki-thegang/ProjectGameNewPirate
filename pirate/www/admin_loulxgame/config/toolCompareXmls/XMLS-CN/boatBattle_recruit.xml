@@ -1,0 +1,9 @@
+<root>
+  <boatBattle_recruit htid="30241" needScore="25000" camp="0" dialog="成熟的海军就是要有顽强的毅力和为了捍卫正义而牺牲的精神。"/>
+  <boatBattle_recruit htid="30242" needScore="52000" camp="0" dialog="不要妄想用骨头收买我！"/>
+  <boatBattle_recruit htid="30243" needScore="84000" camp="0" dialog="海贼们逃到军舰上了吗？全部炮手瞄准，绝不放过一个海贼！"/>
+  <boatBattle_recruit htid="30244" needScore="115000" camp="0" dialog="蒂娜遗憾。你们将被收押在推进城了！"/>
+  <boatBattle_recruit htid="30245" needScore="155000" camp="0" dialog="推进城有逃犯越狱都是署长的错！"/>
+  <boatBattle_recruit htid="30246" needScore="190000" camp="0" dialog="老子可是嘴巴最严的男人，你不会从我这里知道海军本部就是在马林梵多的！"/>
+  <boatBattle_recruit htid="30247" needScore="255000" camp="0" dialog="敢在海军大将面前挑衅的海贼？等我先睡一觉再来收拾你们。"/>
+</root>

@@ -1,0 +1,2212 @@
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 170926 22:41:10
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.157258  Lock_time: 0.000232 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1506436870;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506436868' LIMIT 0, 100;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 170927 11:33:15
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 20.896418  Lock_time: 18.002943 Rows_sent: 1  Rows_examined: 1
+use pirate20002;
+SET timestamp=1506483195;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506483174' LIMIT 0, 100;
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 15.884663  Lock_time: 13.391282 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1506483195;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506483179' LIMIT 0, 100;
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 19.892904  Lock_time: 17.399326 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1506483195;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506483175' LIMIT 0, 100;
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 17.392948  Lock_time: 14.899493 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1506483195;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506483177' LIMIT 0, 100;
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 18.890891  Lock_time: 16.397410 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1506483195;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506483176' LIMIT 0, 100;
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 16.885076  Lock_time: 14.391638 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1506483195;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506483178' LIMIT 0, 100;
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 20.970786  Lock_time: 18.076821 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1506483195;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506483173' LIMIT 0, 100;
+# Time: 170927 11:33:16
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 16.490780  Lock_time: 13.434144 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1506483196;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '4' AND execute_time < '1506483164' LIMIT 0, 100;
+# Time: 170927 12:49:14
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.543810  Lock_time: 1.118143 Rows_sent: 1  Rows_examined: 2204
+SET timestamp=1506487754;
+SELECT uid FROM pirate20002.t_user WHERE status = '1' LIMIT 0, 5000;
+# Time: 170927 12:50:08
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.833488  Lock_time: 0.000103 Rows_sent: 57  Rows_examined: 57
+SET timestamp=1506487808;
+SELECT * FROM pirate20002.t_user WHERE status != '0' AND uid IN ('22206', '22214', '22227', '22241', '22243', '22253', '22258', '22262', '22297', '22350', '22353', '22375', '22378', '22395', '22401', '22473', '22482', '22507', '22511', '22521', '22523', '22531', '22553', '22559', '22578', '22606', '22813', '22915', '23120', '23131', '23134', '23143', '23148', '23158', '23176', '23203', '23304', '23336', '23381', '23452', '23522', '23532', '23576', '23713', '23729', '23753', '23768', '23905', '23937', '24031', '24196', '24228', '24309', '24383', '24402', '24635', '24668');
+# Time: 170927 16:40:47
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 4.753788  Lock_time: 0.000041 Rows_sent: 1  Rows_examined: 139347
+SET timestamp=1506501647;
+SELECT COUNT(*) FROM `t_task_2`;
+# Time: 170927 16:40:54
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 5.796457  Lock_time: 0.024306 Rows_sent: 1  Rows_examined: 134886
+SET timestamp=1506501654;
+SELECT COUNT(*) FROM `t_user_achieve`;
+# Time: 170927 16:41:11
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 17.108982  Lock_time: 0.000045 Rows_sent: 1  Rows_examined: 262397
+SET timestamp=1506501671;
+SELECT COUNT(*) FROM `t_user_defeat`;
+# Time: 170927 16:41:24
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 2.117134  Lock_time: 0.000203 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1506501684;
+SHOW TABLE STATUS LIKE 't_hero_copy';
+# Time: 170927 16:41:28
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 2.063108  Lock_time: 0.000040 Rows_sent: 74324  Rows_examined: 74324
+SET timestamp=1506501688;
+SELECT * FROM `t_random_name`;
+# Time: 170927 16:41:34
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 3.314089  Lock_time: 0.000042 Rows_sent: 139347  Rows_examined: 139347
+SET timestamp=1506501694;
+SELECT * FROM `t_task_2`;
+# Time: 170927 16:41:41
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 2.637360  Lock_time: 0.000059 Rows_sent: 262397  Rows_examined: 262397
+SET timestamp=1506501701;
+SELECT * FROM `t_user_defeat`;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 170928 20:52:00
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 17.480551  Lock_time: 0.000092 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1506603120;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1506603103' LIMIT 0, 100;
+# Time: 170928 20:55:02
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 8.606896  Lock_time: 1.569264 Rows_sent: 493  Rows_examined: 493
+SET timestamp=1506603302;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '22429' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 180228 23:10:03
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.025545  Lock_time: 0.000071 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1519830603;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1519830601' LIMIT 0, 100;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 180301 21:36:58
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 4.503855  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1519911418;
+SET NAMES utf8;
+# Time: 180301 21:42:56
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 6.110921  Lock_time: 0.000077 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1519911776;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1519911770' LIMIT 0, 100;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200329 16:40:12
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 4.974306  Lock_time: 0.000082 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1585471212;
+show tables;
+# Time: 200329 21:51:07
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.022659  Lock_time: 0.000142 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1585489867;
+UPDATE pirate20002.t_talks SET uid = 22001, talk_times = 6, talk_accumulate = 0, talk_date = 1585489750, refresh_times = 144, refresh_date = 1585489865, open_free_mode = 0, va_talks_info = UNHEX('0A0B011174616C6B5F77696E0A0B01033104811D01136F75745F6865726F7309050104CE2A04CE2B01') WHERE uid = '22001';
+# Time: 200329 22:05:42
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.436556  Lock_time: 0.000096 Rows_sent: 944  Rows_examined: 949
+SET timestamp=1585490742;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200329 23:37:34
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 10.945696  Lock_time: 0.000207 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1585496254;
+SHOW FULL TABLES WHERE Table_type != 'VIEW';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200330 17:20:04
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 4.046867  Lock_time: 1.402829 Rows_sent: 1  Rows_examined: 1
+use pirate20002;
+SET timestamp=1585560004;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1585559998' LIMIT 0, 100;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200330 23:00:05
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 4.102890  Lock_time: 0.000098 Rows_sent: 1  Rows_examined: 1
+use pirate20002;
+SET timestamp=1585580405;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1585580401' LIMIT 0, 100;
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.085419  Lock_time: 0.000066 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1585580405;
+UPDATE pirate20002.t_timer SET status = 4 WHERE status = '1' AND tid = '6502';
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.103085  Lock_time: 0.000196 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1585580405;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1585580403' LIMIT 0, 100;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200401 13:48:00
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.281392  Lock_time: 0.000101 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1585720080;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '4' AND execute_time < '1585720063' LIMIT 0, 100;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200401 21:39:07
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 4.032384  Lock_time: 0.000117 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1585748347;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1585748343' LIMIT 0, 100;
+# Time: 200401 21:39:56
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.916479  Lock_time: 0.490759 Rows_sent: 944  Rows_examined: 949
+SET timestamp=1585748396;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200402 13:06:34
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 9.061127  Lock_time: 0.692678 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1585803994;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200402 16:03:23
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.019917  Lock_time: 0.000078 Rows_sent: 0  Rows_examined: 92
+use pirate20002;
+SET timestamp=1585814603;
+SELECT taskId FROM pirate20002.t_task_2 WHERE uid = '22001' AND status = '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200407 23:35:05
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 9.351141  Lock_time: 0.924452 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1586273705;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200408  6:28:55
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.289198  Lock_time: 0.518986 Rows_sent: 944  Rows_examined: 949
+use pirate20002;
+SET timestamp=1586298535;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200409  5:40:03
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 7.915861  Lock_time: 0.986645 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1586382003;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200409 21:00:05
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.457884  Lock_time: 0.184708 Rows_sent: 1  Rows_examined: 1
+use pirate20002;
+SET timestamp=1586437205;
+SELECT * FROM pirate20002.t_global WHERE sq_id = '2';
+# Time: 200409 21:00:06
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.999769  Lock_time: 1.065261 Rows_sent: 724  Rows_examined: 729
+SET timestamp=1586437206;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200412 23:11:21
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 11.939516  Lock_time: 3.545946 Rows_sent: 20  Rows_examined: 38946
+use pirate20002;
+SET timestamp=1586704281;
+SELECT name FROM pirate20002.t_random_name WHERE gender = '0' AND status = '0' LIMIT 710, 20;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 171204  8:28:26
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 4.191852  Lock_time: 1.458979 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1512347306;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1512347302' LIMIT 0, 100;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200415  0:04:19
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 8.643579  Lock_time: 0.000137 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1586880259;
+SHOW FULL TABLES WHERE Table_type != 'VIEW';
+# Time: 200415  0:05:21
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 61.419066  Lock_time: 0.000101 Rows_sent: 210  Rows_examined: 210
+SET timestamp=1586880321;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200415  0:22:39
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 5.515042  Lock_time: 0.744324 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1586881359;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200415  4:11:52
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.051925  Lock_time: 0.861399 Rows_sent: 945  Rows_examined: 950
+use pirate20002;
+SET timestamp=1586895112;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200911  6:31:30
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 28.985899  Lock_time: 0.000100 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1599777090;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 291211  6:41:05
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 2.437675  Lock_time: 0.000181 Rows_sent: 2  Rows_examined: 2
+use t9-rxhzw-web;
+SET timestamp=1891636865;
+SHOW TABLE STATUS;
+# Time: 291211  6:41:17
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 11.688091  Lock_time: 0.000130 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1891636877;
+SHOW FULL TABLES WHERE Table_type != 'VIEW';
+# Time: 291211  6:41:22
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 2.737629  Lock_time: 0.000509 Rows_sent: 1446  Rows_examined: 2892
+SET timestamp=1891636882;
+SELECT TABLE_SCHEMA, TABLE_NAME, COLUMN_NAME, COLUMN_TYPE FROM information_schema.COLUMNS WHERE TABLE_SCHEMA = 'pirate20002' ORDER BY TABLE_SCHEMA, TABLE_NAME;
+# Time: 291211  6:42:00
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 43.398436  Lock_time: 0.000274 Rows_sent: 210  Rows_examined: 210
+SET timestamp=1891636920;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200415  7:00:20
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 5.020115  Lock_time: 0.000117 Rows_sent: 263  Rows_examined: 263
+use information_schema;
+SET timestamp=1586905220;
+SELECT * FROM `information_schema`.`TABLES` LIMIT 0,1000;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200419  7:23:18
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.359692  Lock_time: 1.268668 Rows_sent: 945  Rows_examined: 950
+use pirate20002;
+SET timestamp=1587252198;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200419 23:29:30
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 23.391313  Lock_time: 0.000114 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1587310170;
+SHOW TABLE STATUS;
+# Time: 200419 23:30:34
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 19.247929  Lock_time: 5.556042 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1587310234;
+DELETE FROM `pirate20002`.`t_reward_gold` WHERE `uid` = 20500;
+# Time: 200419 23:30:56
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 19.425167  Lock_time: 1.058479 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1587310256;
+DELETE FROM `pirate20002`.`t_reward_gold` WHERE `uid` = 20501;
+# Time: 200419 23:31:05
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 4.529524  Lock_time: 0.000088 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1587310265;
+DELETE FROM `pirate20002`.`t_reward_gold` WHERE `uid` = 21601;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 990131 23:34:33
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 4.360018  Lock_time: 1.617177 Rows_sent: 6  Rows_examined: 6
+use pirate20002;
+SET timestamp=917796873;
+SHOW COLUMNS FROM `pirate20002`.`t_user_defeat`;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 290131 23:45:55
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.861840  Lock_time: 1.053590 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1864568755;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+# Time: 290131 23:48:47
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 14.002539  Lock_time: 0.000103 Rows_sent: 210  Rows_examined: 210
+SET timestamp=1864568927;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200415 18:40:25
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 4.437948  Lock_time: 1.005179 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1586947225;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200419 21:03:03
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 6.530616  Lock_time: 0.977692 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1587301383;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+# Time: 200419 21:03:21
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 13.614843  Lock_time: 0.000096 Rows_sent: 210  Rows_examined: 210
+SET timestamp=1587301401;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200416  4:09:55
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.173708  Lock_time: 0.566545 Rows_sent: 945  Rows_examined: 950
+use pirate20002;
+SET timestamp=1586981395;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200416  7:43:51
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 10.808154  Lock_time: 0.000148 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1586994231;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200417  3:05:34
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 6.708066  Lock_time: 0.000094 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1587063934;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200418  0:57:48
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.272275  Lock_time: 1.065102 Rows_sent: 946  Rows_examined: 951
+use pirate20002;
+SET timestamp=1587142668;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200420  2:21:45
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 7.342441  Lock_time: 2.420972 Rows_sent: 724  Rows_examined: 729
+use pirate20002;
+SET timestamp=1587320505;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200503 18:25:42
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 5.115924  Lock_time: 0.000041 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1588501542;
+show tables;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200506  3:13:27
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.714022  Lock_time: 0.000089 Rows_sent: 0  Rows_examined: 1
+use pirate20002;
+SET timestamp=1588706007;
+UPDATE pirate20002.t_user SET experience_num = 11172928 WHERE uid = '24700' AND status != '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200510  5:06:12
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 5.449299  Lock_time: 1.102610 Rows_sent: 215  Rows_examined: 215
+use pirate20002;
+SET timestamp=1589058372;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '24700' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200522 17:44:30
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.958469  Lock_time: 1.008505 Rows_sent: 950  Rows_examined: 955
+use pirate20002;
+SET timestamp=1590140670;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200522 17:58:09
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.188243  Lock_time: 0.929984 Rows_sent: 950  Rows_examined: 955
+use pirate20002;
+SET timestamp=1590141489;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200522 19:00:57
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.446781  Lock_time: 0.933242 Rows_sent: 950  Rows_examined: 955
+use pirate20002;
+SET timestamp=1590145257;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200522 21:59:59
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.660691  Lock_time: 0.527256 Rows_sent: 950  Rows_examined: 955
+use pirate20002;
+SET timestamp=1590155999;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200522 23:43:30
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 3.909314  Lock_time: 1.414008 Rows_sent: 1  Rows_examined: 1
+use t9-rxhzw-web;
+SET timestamp=1590162210;
+SHOW TABLE STATUS LIKE 'server';
+# Time: 200522 23:46:31
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.095647  Lock_time: 0.556663 Rows_sent: 950  Rows_examined: 955
+use pirate20002;
+SET timestamp=1590162391;
+SELECT kid,taskId,status,va_task FROM pirate20002.t_task_2 WHERE uid = '20400' AND status > '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 200919 19:04:32
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.259226  Lock_time: 0.000051 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1600513472;
+INSERT INTO pirate20002.t_timer SET uid = 0, status = 1, execute_time = 1600517529, execute_count = 0, execute_method = UNHEX('74726561737572656E70632E7472696765724E7063426F6174496E666F'), va_args = UNHEX('0903010404'), tid = 18801;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 210421 23:57:59
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 3.315856  Lock_time: 0.000061 Rows_sent: 1  Rows_examined: 1
+use pirate20002;
+SET timestamp=1619020679;
+SELECT * FROM pirate20002.t_server_defeat WHERE army_id = '709' AND group_id = '2' AND rp_id = '0' AND status != '0';
+# Time: 210422  3:21:13
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.422436  Lock_time: 0.000331 Rows_sent: 95  Rows_examined: 95
+SET timestamp=1619032873;
+SELECT * FROM pirate20002.t_item_0 WHERE item_deleted = '0' AND item_id IN ('1265900', '1265901', '1265902', '1266102', '1266103', '1266112', '1266113', '1266114', '1266115', '1266117', '1266118', '1266119', '1266120', '1266121', '1266122', '1266123', '1266124', '1266125', '1266126', '1266127', '1266128', '1266129', '1266130', '1266131', '1266132', '1266133', '1266134', '1266135', '1266136', '1266137', '1266138', '1266139', '1266140', '1266141', '1266142', '1266143', '1266144', '1266145', '1266146', '1266147', '1266148', '1266149', '1266150', '1266151', '1266152', '1266153', '1266154', '1266155', '1266156', '1266157', '1266158', '1266159', '1266160', '1266161', '1266162', '1266163', '1266164', '1266165', '1266166', '1266167', '1266168', '1266169', '1266170', '1266177', '1266178', '1266179', '1266180', '1266182', '1266206', '1266207', '1266216', '1266217', '1266218', '1266219', '1266220', '1266221', '1266222', '1266223', '1266224', '1266225', '1266226', '1266227', '1266228', '1266229', '1266230', '1266231', '1266232', '1266233', '1266234', '1266235', '1266236', '1266237', '1266238', '1266239', '1266240');
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 210525  1:31:47
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 9.448130  Lock_time: 5.474715 Rows_sent: 0  Rows_examined: 142
+use pirate20002;
+SET timestamp=1621877507;
+SELECT uid FROM pirate20002.t_user WHERE status = '1' LIMIT 0, 5000;
+# Time: 210525  1:33:53
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 4.673857  Lock_time: 2.532771 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1621877633;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '1' AND execute_time < '1621877629' LIMIT 0, 100;
+# Time: 210525  1:35:40
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.498634  Lock_time: 0.000210 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1621877740;
+SELECT tid,execute_count,uid FROM pirate20002.t_timer WHERE status = '4' AND execute_time < '1621877722' LIMIT 0, 100;
+# Time: 210525  1:36:02
+# User@Host: pirate[pirate] @  [127.0.0.1]
+# Query_time: 2.650584  Lock_time: 0.000089 Rows_sent: 0  Rows_examined: 103
+SET timestamp=1621877762;
+SELECT taskId FROM pirate20002.t_task_2 WHERE uid = '24900' AND status = '0';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 211219 10:26:57
+# User@Host: root[root] @  [192.168.0.1]
+# Query_time: 4.318113  Lock_time: 0.000337 Rows_sent: 0  Rows_examined: 0
+use pirate20002;
+SET timestamp=1639880817;
+SELECT * FROM `information_schema`.`TRIGGERS` WHERE `EVENT_OBJECT_SCHEMA`='pirate20002';
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 231017 18:36:56
+# User@Host: root[root] @  [127.0.0.1]
+# Query_time: 2.837442  Lock_time: 0.000078 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1697539016;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 231024 13:28:10
+# User@Host: root[root] @  [127.0.0.1]
+# Query_time: 2.842844  Lock_time: 0.000079 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1698125290;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+# Time: 250523 22:40:45
+# User@Host: root[root] @  [127.0.0.1]
+# Query_time: 2.586771  Lock_time: 0.000051 Rows_sent: 210  Rows_examined: 210
+use pirate20002;
+SET timestamp=1748011245;
+SHOW TABLE STATUS;
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument
+/home/pirate/programs/mysql/libexec/mysqld, Version: 5.1.59-log (Source distribution). started with:
+Tcp port: 3306  Unix socket: /home/pirate/programs/mysql/var/mysql.sock
+Time                 Id Command    Argument

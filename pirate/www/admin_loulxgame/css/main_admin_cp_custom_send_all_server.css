@@ -1,0 +1,15 @@
+div.choseCustomFunction{
+	width: 100%;
+	height: 250px;
+	text-align: center;
+	margin: auto;
+	text-align: -webkit-center;
+}
+
+.choseCustomFunctionBottom {
+	background-image: url('../images/bg-title.png');
+	background-repeat: no-repeat;
+	background-position: 0 -226px;
+	height: 170px;
+	width: 100%;
+}

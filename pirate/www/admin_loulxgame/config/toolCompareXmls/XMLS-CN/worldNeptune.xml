@@ -1,0 +1,7 @@
+<root>
+  <worldNeptune ID="1" name="海猫" normalAtk="158" rageAtkSkill="220" artID="1" type="1" condition="0" nepEffect="" effectDesc="无" neppositionX="0" neppositionY="增加|22" popotxt="直接点击战船，可以发动海王类攻击！|50;要是在无风带，会有很多我的同伴呢！|75;要是在无风带，比赛就没办法进行了！|100"/>
+  <worldNeptune ID="2" name="海牛" normalAtk="158" rageAtkSkill="220" artID="2" type="1" condition="11" nepEffect="6|100" effectDesc="战船基础攻击提升100" neppositionX="0" neppositionY="增加|22" popotxt="直接点击战船，可以发动海王类攻击！|50;如太阳一般灿烂的船，叫萨乌森·桑尼号|75;被船之精灵护佑的战船，叫黄金梅利号|100"/>
+  <worldNeptune ID="3" name="海熊" normalAtk="158" rageAtkSkill="220" artID="3" type="1" condition="21" nepEffect="6|1000" effectDesc="战船基础攻击提升1000" neppositionX="0" neppositionY="0" popotxt="直接点击战船，可以发动海王类攻击！|50;战船之间的决斗，胜负难料|75;胜者为王，败者为寇|100"/>
+  <worldNeptune ID="4" name="海狮" normalAtk="158" rageAtkSkill="220" artID="4" type="1" condition="31" nepEffect="35|1000" effectDesc="战船伤害提升10%" neppositionX="0" neppositionY="0" popotxt="直接点击战船，可以发动海王类攻击！|50;肉!哪里有肉!|75;肉～～肉～～肉～～我要肉～～～|100"/>
+  <worldNeptune ID="5" name="海斑马" normalAtk="158" rageAtkSkill="220" artID="5" type="1" condition="41" nepEffect="35|1500" effectDesc="战船伤害提升15%" neppositionX="0" neppositionY="增加|22" popotxt="直接点击战船，可以发动海王类攻击！|50;都是些想要成为海贼王的男人的男人！|75;伟大的航道，可比现在凶险百倍|100"/>
+</root>

@@ -1,0 +1,24 @@
+<root>
+  <gemExchange id="40039" level="6" Num="3" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="40040" level="6" Num="1" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="40041" level="6" Num="3" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="40042" level="6" Num="1" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="40043" level="6" Num="3" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="40044" level="6" Num="1" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="40045" level="6" Num="2" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="42005" level="6" Num="1" needPoint="" needGemId="" exchangeLevel="6" needGemLevel="0" needEssence="0"/>
+  <gemExchange id="40061" level="0" Num="1" needPoint="50000" needGemId="40039" exchangeLevel="7" needGemLevel="30" needEssence="0"/>
+  <gemExchange id="40062" level="0" Num="1" needPoint="25000" needGemId="40040" exchangeLevel="7" needGemLevel="30" needEssence="0"/>
+  <gemExchange id="40063" level="0" Num="1" needPoint="50000" needGemId="40041" exchangeLevel="7" needGemLevel="30" needEssence="0"/>
+  <gemExchange id="40064" level="0" Num="1" needPoint="25000" needGemId="40042" exchangeLevel="7" needGemLevel="30" needEssence="0"/>
+  <gemExchange id="40065" level="0" Num="1" needPoint="50000" needGemId="40043" exchangeLevel="7" needGemLevel="30" needEssence="0"/>
+  <gemExchange id="40066" level="0" Num="1" needPoint="25000" needGemId="40044" exchangeLevel="7" needGemLevel="30" needEssence="0"/>
+  <gemExchange id="40067" level="0" Num="1" needPoint="35000" needGemId="40045" exchangeLevel="7" needGemLevel="30" needEssence="0"/>
+  <gemExchange id="40071" level="0" Num="1" needPoint="20000" needGemId="40061" exchangeLevel="8" needGemLevel="30" needEssence="5000"/>
+  <gemExchange id="40072" level="0" Num="1" needPoint="10000" needGemId="40062" exchangeLevel="8" needGemLevel="30" needEssence="2500"/>
+  <gemExchange id="40073" level="0" Num="1" needPoint="20000" needGemId="40063" exchangeLevel="8" needGemLevel="30" needEssence="5000"/>
+  <gemExchange id="40074" level="0" Num="1" needPoint="10000" needGemId="40064" exchangeLevel="8" needGemLevel="30" needEssence="2500"/>
+  <gemExchange id="40075" level="0" Num="1" needPoint="20000" needGemId="40065" exchangeLevel="8" needGemLevel="30" needEssence="5000"/>
+  <gemExchange id="40076" level="0" Num="1" needPoint="10000" needGemId="40066" exchangeLevel="8" needGemLevel="30" needEssence="2500"/>
+  <gemExchange id="40077" level="0" Num="1" needPoint="15000" needGemId="40067" exchangeLevel="8" needGemLevel="30" needEssence="3500"/>
+</root>

@@ -1,0 +1,270 @@
+<root>
+	<log>
+		<!--日志文件名 -->
+		<filename>log/game20002.log</filename>
+
+		<!--日志级别 -->
+		<level>2</level>
+
+		<!--是否立即输出 -->
+		<flush>false</flush>
+	</log>
+
+	<!--服务器相关配置 -->
+	<server>
+		<group>game20002</group>
+		<db_name>pirate20002</db_name>
+		<!-- 服务器所支持的客户端类型 -->
+		<client_type>0</client_type>
+		<!--等待连接的队列长度 -->
+		<backlog>50</backlog>
+		<!-- 连接后接到第一个请求的最长时间 -->
+		<max_connect_time>120000</max_connect_time>
+		<!--读超时时间(ms) -->
+		<read_timeout>30000</read_timeout>
+		<!--写超时时间(ms) -->
+		<write_timeout>30000</write_timeout>
+		<!--心跳包时间间隔(s) -->
+		<heartbeat_interval>60</heartbeat_interval>
+		<!--请求最大长度(byte) -->
+		<max_request_size>1024000</max_request_size>
+		<!--最大响应长度(byte) -->
+		<max_response_size>1024000</max_response_size>
+		<!--压缩门槛(byte) -->
+		<compress_threshold>102400</compress_threshold>
+		<!--当前使用的amf版本 -->
+		<amf_version>1</amf_version>
+		<!--当前使用的字节序 -->
+		<byte_order>0</byte_order>
+		<!-- dummy callback -->
+		<dummy_callback>dummy</dummy_callback>
+
+		<!--这里是对用户提供服务的服务器配置 -->
+		<public>
+			<listen_address>192.168.1.234</listen_address>
+			<listen_port>8002</listen_port>
+			<!--业务线程执行数 -->
+			<service_num>5</service_num>
+			<!--网络线程执行数 -->
+			<network_num>5</network_num>
+			<!--用于计算checksum的扰码 -->
+			<mess_code>BabelTime</mess_code>
+			<mess_codes>
+				<mess_code>BabelTime</mess_code>
+				<mess_code>4bd4ace59</mess_code>
+			</mess_codes>
+			<!--一个请求的最长合法生存时间(s) -->
+			<max_idle_time>86400000</max_idle_time>
+			<!--策略文件-->
+			<policy_file>conf/crossdomain.xml</policy_file>
+			<max_request_per_second>40</max_request_per_second>
+			<!-- 最大响应列表 -->
+			<max_response_list>100</max_response_list>
+			<!-- 最大响应界限 -->
+			<response_list_threshold>1000</response_list_threshold>
+			<!--不需要检查token的方法-->
+			<token_safe_methods>
+				<method>arena.hasReward</method>
+				<method>arena.leaveArena</method>
+				<method>astrolabe.askInitInfo</method>
+				<method>bag.bagInfo</method>
+				<method>boss.over</method>
+				<method>boss.canEnter</method>
+				<method>city.checkEnter</method>
+				<method>city.enterTownList</method>
+				<method>city.leaveTown</method>
+				<method>copy.checkWhenLogin</method>
+				<method>copy.leaveCopy</method>
+				<method>gm.reportClientError</method>
+				<method>guild.endBanquet</method>
+				<method>guild.leaveClub</method>
+				<method>guild.refreshBanquet</method>
+				<method>map.mapInfo</method>
+				<method>map.portBerthInfo</method>
+				<method>port.portBerthInfo</method>
+				<method>port.resourceInfo</method>
+				<method>port.selfBerthInfo</method>
+				<method>port.selfResourceInfo</method>
+				<method>team.leave</method>
+				<method>trade.repurchaseInfo</method>
+				<method>trade.sellerInfo</method>
+				<method>treasure.enterReturnScene</method>
+				<method>user.isGetPayReward</method>
+				<method>user.setVaConfig</method>
+				<method>user.unameToUid</method>
+				<method>worldResource.guildworldResourceInfos</method>
+				<method>worldResource.worldResourceAttackList</method>
+				<method>worldresource.worldResourceInfo</method>
+			</token_safe_methods>
+		</public>
+		<!--这里是对内提供服务的服务器配置 -->
+		<private>
+			<listen_address>127.0.0.1</listen_address>
+			<listen_port>8002</listen_port>
+			<!--业务线程执行数 -->
+			<service_num>1</service_num>
+			<!--网络线程执行数 -->
+			<network_num>1</network_num>
+			<!--请求队列的报警长度-->
+			<queue_threshold>500</queue_threshold>
+			<!--允许访问的地址 -->
+			<allowed_hosts>
+				<!--可以是一个ip，或者一个ip段，如192.168.1.0-192.168.1.255 -->
+				<host>127.0.0.1</host>
+			</allowed_hosts>
+		</private>
+		<!-- phpproxy配置 -->
+		<phpproxy>
+			<!-- phpproxy所使用的地址 -->
+			<socket_path>/home/pirate/phpproxy/var/phpproxy.sock</socket_path>
+			<!-- phpproxy的处理线程数 -->
+			<service_num>2</service_num>
+			<!-- phpproxy最大的连接数 -->
+			<max_connect>10</max_connect>
+		</phpproxy>
+		<!-- 任务相关配置 -->
+		<task>
+			<!-- 是否启动 -->
+			<enable>true</enable>
+			<!-- 执行间隔 -->
+			<execute_interval>1</execute_interval>
+			<!-- 重试间隔 -->
+			<retry_interval>30</retry_interval>
+			<!-- 执行窗口大小 -->
+			<window_size>100</window_size>
+			<!-- 最大重试次数 -->
+			<max_retry_count>3</max_retry_count>
+			<!-- 任务执行方法 -->
+			<method>timer.execute</method>
+			<!-- phpproxy所使用的方法名 -->
+			<module>data</module>
+			<!-- 回调 -->
+			<callback>dummy</callback>
+		</task>
+		<!--以下是相关命令的一些配置 -->
+		<command>
+			<!--城镇命令的相关配置 -->
+			<town>
+				<!--当用户进入城镇时的回调函数名 -->
+				<enter_callback>town.addPlayer</enter_callback>
+				<!--当用户离开城镇时的回调函数名 -->
+				<leave_callback>town.delPlayer</leave_callback>
+				<!--当用户在城镇里移动时的函数名 -->
+				<move_callback>town.move</move_callback>
+				<!-- 当用户属性更新时的函数名-->
+				<update_callback>town.update</update_callback>
+				<!-- 当用户瞬移时的函数名 -->
+				<transport_callback>town.transport</transport_callback>
+				<!--npc的配置文件 -->
+				<npc_config_file>data/npc.csv</npc_config_file>
+				<!--城镇的配置文件 -->
+				<town_config_file>data/town.csv</town_config_file>
+				<!--公会npcId -->
+				<guild_npc_id>9001</guild_npc_id>
+				<!--当城镇多于多少个时就开始清理 -->
+				<threshold>50</threshold>
+				<!-- 最大移动次数 -->
+				<max_move_count>100</max_move_count>
+				<!-- 最大可见人数 -->
+				<max_visible_count>50</max_visible_count>
+				<!-- 最大移动请求数 -->
+				<max_move_request>12</max_move_request>
+			</town>
+			<!--组队相关-->
+			<team>
+				<!--队伍配置-->
+				<team_config>data/copy_team.csv</team_config>
+				<!--通知加调-->
+				<notify_callback>team.update</notify_callback>
+				<!--
+				副本组队方法-->
+				<copy_team_method>copy.groupAttack</copy_team_method>
+			</team>
+			<!--调用php-cgi的相关配置 -->
+			<fastcgi>
+				<!--业务执行超时时间(ms) -->
+				<business_timeout>30000</business_timeout>
+				<!-- 连接超时时间 -->
+				<connect_timeout>2000</connect_timeout>
+				<!-- 权重因子 -->
+				<weight_factor>50</weight_factor>
+				<!-- 最小权重 -->
+				<min_weight>10</min_weight>
+				<!--php-cgi监听端口 -->
+				<backend_port>5555</backend_port>
+				<!--后端的请求php文件 -->
+				<backend_index>/home/pirate/rpcfw/lib/index.php</backend_index>
+				<backend_list>
+					<backend><host>127.0.0.1</host></backend>
+				</backend_list>
+			</fastcgi>
+			<!-- 公会战斗配置 -->
+			<guild_battle>
+				<!-- 单挑次数 -->
+				<chanllenge_num>4</chanllenge_num>
+				<!-- 报名持续时间 -->
+				<battle_last_time>1800</battle_last_time>
+				<!-- 挑战时间间隔 -->
+				<chanllenge_interval>300</chanllenge_interval>
+				<!-- 挑战cd时间 -->
+				<chanllenge_cdtime>30</chanllenge_cdtime>
+				<!-- 主船类型 -->
+				<boat_type>1</boat_type>
+				<!-- 鼓舞相关配置 -->
+				<inspire>
+					<!-- 战旗的权重 -->
+					<flags>
+						<!-- 战旗配置 -->
+						<flag>
+							<!-- 连战 -->
+							<id>1</id>
+							<weight>2500</weight>
+						</flag>
+						<flag>
+							<!-- 利剑 -->
+							<id>2</id>
+							<weight>2500</weight>
+						</flag>
+						<flag>
+							<!-- 铁壁 -->
+							<id>3</id>
+							<weight>2500</weight>
+						</flag>
+						<flag>
+							<!-- 无畏 -->
+							<id>4</id>
+							<weight>2500</weight>
+						</flag>
+					</flags>
+					<!-- 是否有战旗的权重 -->
+					<flag_prob>1000</flag_prob>
+					<!-- 鼓舞成功的权重 -->
+					<base_prop>8000</base_prop>
+					<!-- 鼓舞系数 -->
+					<prob_coef>300</prob_coef>
+					<!-- 鼓舞的cd时间 -->
+					<cdtime>25</cdtime>
+					<!-- 最大攻击等级 -->
+					<max_attack_level>10</max_attack_level>
+					<!-- 最大防守等级 -->
+					<max_defend_level>10</max_defend_level>
+				</inspire>
+				<!-- 公会战的结果 -->
+				<battle_method>guild.battle</battle_method>
+				<!-- 单挑结果 -->
+				<chanllenge_method>guild.chanllenge</chanllenge_method>
+				<!-- 公会的回调 -->
+				<notify_callback>worldResource.battleFieldUpdate</notify_callback>
+			</guild_battle>
+			<!-- 私有方法相关配置 -->
+			<private>
+				<!-- 报告间隔 -->
+				<report_interval>10</report_interval>
+				<!-- 最大虚拟连接数 -->
+				<max_virtual_connection>10</max_virtual_connection>
+				<!-- 目前在线人数 -->
+				<status>status/game20002.report</status>
+			</private>
+		</command>
+	</server>
+</root>

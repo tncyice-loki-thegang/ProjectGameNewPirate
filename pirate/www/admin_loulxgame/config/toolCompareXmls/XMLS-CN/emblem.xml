@@ -1,0 +1,22 @@
+<root>
+  <emblem id="1" emname="公会等级会徽1" ename="海洋之眼" description="愿你带着这枚徽章，到达这片大海的每一个角落。" res="0.png" type="1" lvl="1" score="" smallRes="1001.png"/>
+  <emblem id="2" emname="公会等级会徽6" ename="密林之实" description="大自然从不吝啬它的馈赠…" res="5.png" type="1" lvl="10" score="" smallRes="1011.png"/>
+  <emblem id="3" emname="公会等级会徽2" ename="天空之翼" description="即使没有翅膀，只要有冒险的意志，也能够飞翔。" res="1.png" type="1" lvl="20" score="" smallRes="1002.png"/>
+  <emblem id="4" emname="公会等级会徽7" ename="小丑之冠" description="记得为手中留下最后一张JOKER。" res="6.png" type="1" lvl="30" score="" smallRes="1012.png"/>
+  <emblem id="5" emname="公会等级会徽3" ename="瓶中舞女" description="无论身处何地，即使是在小小的瓶子之中，也有属于你的舞台。" res="2.png" type="1" lvl="40" score="" smallRes="1003.png"/>
+  <emblem id="6" emname="公会等级会徽8" ename="害羞的妖精" description="嘘，静静观看她的舞蹈，不要打扰…" res="7.png" type="1" lvl="50" score="" smallRes="1013.png"/>
+  <emblem id="7" emname="公会等级会徽4" ename="深红之心" description="无论伙伴在哪里，只要心怀他人，总有一天还会相见。" res="3.png" type="1" lvl="60" score="" smallRes="1004.png"/>
+  <emblem id="8" emname="公会等级会徽9" ename="倒立天枰" description="要时刻保证公正的决断，不然天枰就会变成审判。" res="8.png" type="1" lvl="70" score="" smallRes="1014.png"/>
+  <emblem id="9" emname="公会等级会徽5" ename="四海皇冠" description="现在，带上你最强大的伙伴，征服伟大航道吧！" res="4.png" type="1" lvl="80" score="" smallRes="1005.png"/>
+  <emblem id="10" emname="公会等级会徽10" ename="博学王者" description="只有最博学的人才能解开这片大海上所有的秘密。" res="9.png" type="1" lvl="100" score="" smallRes="1015.png"/>
+  <emblem id="11" emname="公会积分会徽1" ename="超能海贼团" description="据说这个海贼团中的每个人都拥有恶魔果实的能力…" res="101.png" type="2" lvl="" score="100" smallRes="1006.png"/>
+  <emblem id="12" emname="公会积分会徽2" ename="贪吃海王" description="在这片大海上最幸福的事情就是能大口吃肉了。" res="102.png" type="2" lvl="" score="150" smallRes="1008.png"/>
+  <emblem id="13" emname="公会积分会徽3" ename="人鱼踪迹" description="有些水手一辈子都在追寻人鱼岛，那被称为“梦想”的乐园。" res="103.png" type="2" lvl="" score="200" smallRes="1007.png"/>
+  <emblem id="14" emname="公会积分会徽4" ename="隐世长者" description="有时候在鲸鱼肚子里画画花花草草也是不错的选择。" res="104.png" type="2" lvl="" score="250" smallRes="1009.png"/>
+  <emblem id="15" emname="公会积分会徽5" ename="暴君圣经" description="一个强大的公会都有那些默默付出的人，他们坚守着伙伴的信念。" res="105.png" type="2" lvl="" score="300" smallRes="1010.png"/>
+  <emblem id="16" emname="公会积分会徽6" ename="黄金热带鱼" description="据说有片海域存在着纯金的热带鱼。" res="106.png" type="2" lvl="" score="350" smallRes="1016.png"/>
+  <emblem id="17" emname="公会积分会徽7" ename="不屈百合" description="百合花会用尽一生来散发它的芳华。" res="107.png" type="2" lvl="" score="400" smallRes="1017.png"/>
+  <emblem id="18" emname="公会积分会徽8" ename="海神三叉戟" description="鱼人岛的每一任国王都会被授予三叉戟。" res="108.png" type="2" lvl="" score="450" smallRes="1018.png"/>
+  <emblem id="19" emname="公会积分会徽9" ename="金牌舵手" description="没有一名金牌舵手，是无法在伟大航道航行的。" res="109.png" type="2" lvl="" score="500" smallRes="1019.png"/>
+  <emblem id="20" emname="公会积分会徽10" ename="阳树之晶" description="用阳树亚当的木头制成的龙骨永远不会断裂。" res="110.png" type="2" lvl="" score="1000" smallRes="1020.png"/>
+</root>

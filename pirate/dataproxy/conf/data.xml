@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<table>
+		<!-- 表名 -->
+		<name>t_bag</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+			<key>gid</key>
+		</primary_keys>
+
+		<!-- 分表信息 -->
+		<partition>
+
+			<!-- 分表键值 -->
+			<key>uid</key>
+
+			<!-- 分表方法 mod, div, month, week, year, day -->
+			<method>div</method>
+
+			<!-- 分表值 -->
+			<value>1000000</value>
+		</partition>
+	</table>
+
+	<!-- 公会表，不需要分表，但是需要缓存 -->
+	<table>
+		<name>t_guild</name>
+		<primary_keys>
+			<key>guild_id</key>
+		</primary_keys>
+	</table>
+
+	<!-- 公会成员表，不需要分表，但是需要缓存 -->
+	<table>
+		<name>t_guild_member</name>
+		<primary_keys>
+			<key>uid</key>
+		</primary_keys>
+	</table>
+
+	<!-- 公会记录表，不需要分表，但是需要缓存 -->
+	<table>
+		<name>t_guild_record</name>
+
+		<log_sql>false</log_sql>
+
+		<primary_keys>
+			<key>grid</key>
+		</primary_keys>
+	</table>
+
+	<!-- 战斗记录表 -->
+	<table>
+		<!-- 表名 -->
+		<name>t_battle_record</name>
+
+		<log_sql>false</log_sql>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>brid</key>
+		</primary_keys>
+
+		<!-- 分表信息 -->
+		<partition>
+
+			<!-- 分表键值 -->
+			<key>brid</key>
+
+			<!-- 分表方法 mod, div, month, week, year, day -->
+			<method>mod</method>
+
+			<!-- 分表值 -->
+			<value>10</value>
+		</partition>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_arena_lucky</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>begin_date</key>
+		</primary_keys>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_captain</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_user_enter_town</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>town_id</key>
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_activity</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>activity_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_copy</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+			<key>copy_id</key>
+		</primary_keys>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_first_down</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>army_id</key>
+			<key>rank</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_replay</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+			<key>army_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_server_defeat</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>army_id</key>
+			<key>group_id</key>
+			<key>rp_id</key>
+		</primary_keys>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_user_defeat</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+			<key>army_id</key>
+			<key>rp_id</key>
+		</primary_keys>
+	</table>
+
+	<table>
+
+		<!-- 表名 -->
+		<name>t_forge</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_hero</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>hid</key>
+		</primary_keys>
+	</table>
+
+	<table>
+
+		<!-- 表名 -->
+		<name>t_item</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>item_id</key>
+		</primary_keys>
+
+		<!-- 分表信息 -->
+		<partition>
+
+			<!-- 分表键值 -->
+			<key>item_id</key>
+
+			<!-- 分表方法 mod, div, month, week, year, day -->
+			<method>div</method>
+
+			<!-- 分表值 -->
+			<value>10000000</value>
+		</partition>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_kitchen</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_mail</name>
+
+		<!-- 分表信息 -->
+		<partition>
+
+			<!-- 分表键值 -->
+			<key>reciever_uid</key>
+
+			<!-- 分表方法 mod, div, month, week, year, day -->
+			<method>mod</method>
+
+			<!-- 分表值 -->
+			<value>10</value>
+		</partition>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_pet</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_port_berth</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_port_resource</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>port_id</key>
+			<key>page_id</key>
+			<key>resource_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_port</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>port_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_sailboat</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_sci_tech</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_talks</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_repurchase</name>
+
+		<!-- 分表信息 -->
+		<partition>
+
+			<!-- 分表键值 -->
+			<key>uid</key>
+
+			<!-- 分表方法 mod, div, month, week, year, day -->
+			<method>div</method>
+
+			<!-- 分表值 -->
+			<value>1000000</value>
+		</partition>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_train</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_user</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_world_resource</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>resource_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_timer</name>
+
+		<log_sql>false</log_sql>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>tid</key>
+		</primary_keys>
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_practice</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_global</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>sq_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_smelting</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_guild_achieve</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>guild_id</key>
+			<key>achieve_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_user_title</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+			<key>title_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_user_achieve</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+			<key>achieve_id</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+
+		<!-- 表名 -->
+		<name>t_boss_attack</name>
+
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>boss_id</key>
+			<key>uid</key>
+		</primary_keys>
+
+	</table>
+
+	<!-- 表配置 -->
+	<table>
+		<!-- 表名 -->
+		<name>t_task</name>
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>kid</key>
+		</primary_keys>
+		<!-- 分表信息 -->
+		<partition>
+			<!-- 分表键值 -->
+			<key>uid</key>
+			<!-- 分表方法 mod, div, month, week, year, day -->
+			<method>div</method>
+			<!-- 分表值 -->
+			<value>10000</value>
+		</partition>
+	</table>
+
+    <!-- 表配置 -->
+    <table>
+
+        <!-- 表名 -->
+        <name>t_copy_pass</name>
+
+        <!-- 主键 -->
+        <primary_keys>
+            <!-- 主键id -->
+            <key>copy_id</key>
+            <key>uid</key>
+        </primary_keys>
+
+    </table>
+
+    <!-- 表配置 -->
+    <table>
+
+        <!-- 表名 -->
+        <name>t_elite_copy</name>
+
+        <!-- 主键 -->
+        <primary_keys>
+            <!-- 主键id -->
+            <key>uid</key>
+        </primary_keys>
+
+    </table>
+
+    <!-- 表配置 -->
+    <table>
+
+        <!-- 表名 -->
+        <name>t_open_prize</name>
+
+        <!-- 主键 -->
+        <primary_keys>
+            <!-- 主键id -->
+            <key>uid</key>
+            <key>prize_id</key>
+        </primary_keys>
+
+    </table>
+    
+    <!-- 表配置 -->
+	<table>
+	
+		<!-- 表名 -->
+		<name>t_exchange</name>
+		
+		<!-- 主键 -->
+		<primary_keys>
+			<!-- 主键id -->
+			<key>uid</key>
+		</primary_keys>
+	
+	</table>
+
+    <!-- 表配置 -->
+    <table>
+    
+        <!-- 表名 -->
+        <name>t_active</name>
+        
+        <!-- 主键 -->
+        <primary_keys>
+            <!-- 主键id -->
+            <key>uid</key>
+        </primary_keys>
+    
+    </table>
+
+    <!-- 表配置 -->
+    <table>
+    
+        <!-- 表名 -->
+        <name>t_hero_copy</name>
+        
+        <!-- 主键 -->
+        <primary_keys>
+            <!-- 主键id -->
+            <key>uid</key>
+            <key>copy_id</key>
+        </primary_keys>
+    
+    </table>
+
+    <!-- 表配置 -->
+    <table>
+    
+        <!-- 表名 -->
+        <name>t_user_olympic</name>
+        
+        <!-- 主键 -->
+        <primary_keys>
+            <!-- 主键id -->
+            <key>uid</key>
+        </primary_keys>
+    
+    </table>
+
+    <!-- 表配置 -->
+    <table>
+
+        <!-- 表名 -->
+        <name>t_charity</name>
+        
+        <!-- 主键 -->
+        <primary_keys>
+            <!-- 主键id -->
+            <key>uid</key>
+        </primary_keys>
+
+    </table>
+		
+</root>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<charging_reward special_updateTime="2017|10|01|10|00|00" common_updateTime="2018|10|10|10|00|00" chargGold_1="100000" prize_1="101" gaugeValue_1="288" chargGold_2="200000" prize_2="102" gaugeValue_2="1388" chargGold_3="300000" prize_3="103" gaugeValue_3="2888" chargGold_4="400000" prize_4="104" gaugeValue_4="5888" chargGold_5="500000" prize_5="105" gaugeValue_5="13888" chargGold_6="600000" prize_6="106" gaugeValue_6="28888" chargGold_7="800000" prize_7="107" gaugeValue_7="58888" chargGold_8="999999" prize_8="108" gaugeValue_8="88888"/>
+</root>

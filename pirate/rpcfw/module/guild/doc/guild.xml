@@ -1,0 +1,27 @@
+<root>
+	<table>
+		<name>t_guild</name>
+		<priamry_keys>
+			<key>uid</key>
+		</priamry_keys>
+	</table>
+	<table>
+		<name>t_guild_member</name>
+		<primary_keys>
+			<key>uid</key>
+		</primary_keys>
+	</table>
+	<table>
+		<name>t_guild_record</name>
+		<primary_keys>
+			<key>grid</key>
+		</primary_keys>
+	</table>
+	<table>
+		<name>t_guild_apply</name>
+		<primary_keys>
+			<key>uid</key>
+			<key>guild_id</key>
+		</primary_keys>
+	</table>
+</root>

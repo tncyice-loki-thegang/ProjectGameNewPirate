@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <sellers id="1" name="Đốt tàu chiến" freshTime="7200" goods=""/>
+  <sellers id="2" name="Làng Cối Xay Gió" freshTime="7200" goods="1006,1005,1007,1008,1009,1010,1011,1012"/>
+  <sellers id="3" name="Làng Syrup" freshTime="7200" goods="1013,134,155,176,197,218,239,1001,1002,1003,1004"/>
+  <sellers id="4" name="Trấn Logue" freshTime="7200" goods="113,134,155,176,197,218,239,1001,1002,1003,1004"/>
+  <sellers id="5" name="Đảo Drum" freshTime="7200" goods="113,134,155,176,197,218,239,1001,1002,1003,1004"/>
+  <sellers id="6" name="Rainbase" freshTime="7200" goods="113,134,155,176,197,218,239,1001,1002,1003,1004"/>
+  <sellers id="7" name="Skypiea" freshTime="7200" goods="113,134,155,176,197,218,239,1001,1002,1003,1004"/>
+  <sellers id="8" name="Enies Lobby" freshTime="7200" goods="114,135,156,177,198,219,240,1001,1002,1003,1004"/>
+  <sellers id="9" name="Thriller Bark" freshTime="7200" goods="114,135,156,177,198,219,240,1001,1002,1003,1004"/>
+</root>

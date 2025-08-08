@@ -1,0 +1,11 @@
+<root>1.Tất cả hiệu quả hồi máu sẽ không có tác dụng trong Colosseum.
+2.Phe chủ động tấn công được quyền đánh trước.
+3.Trước khi chiến đấu bắt đầu người chơi có 45s chuẩn bị, đếm ngược kết thúc, người chơi mới có thể đánh.
+4.Chiến đấu dùng phương thức kế thừa lượng máu, lần đấu mới kế từa lượng máu thừa của lần trước (Sau khi hồi sinh lượng máu lại đầy).
+5.Người chiow có thể ấn vào nút ẩn ở góc phải bên trên để ẩn người chơi đang chiến đấu.
+6.Sau khi người chơi chết có thể dùng vàng để bỏ cd hồi sinh,hồi sinh xong lượng máu lại đầy (cd chiến đáu không thể bỏ). 
+7.Người chơi có thể nhấn vào mô hình nhân vật của người chơi khác để chiến đấu, cũng có thể nhấn vào nút tấn công trong BXH trực tiếp tấn công người chơi khác. 
+8.2 phe chiến đấu đều vào giao diện chiến đấu, đánh xong 2 bên sẽ có thời gian cd chiến đấu, cd chiến đấu không thể dùng vàng để reset; Bỏ Cd chiến đấu xong mới có thể tiếp tục trận tiếp theo. 
+9.Người chơi có thể dùng vàng để cổ vũ, thuộc tính tấn công lập tức có tác dụng, thuộc tính S.mệnh có tác dụng sau khi người chơi chết (Cổ vũ trong thời gian chuẩn bị sẽ có tác dụng ngay). 
+10.Chỉ có ở trạng thái chiến đấu và trạng thái tử vong mới có thể thay đổi trận hình và trang bị, còn các trạng thái khác thì không thể.
+11.Người chơi trong trạng thái chiến đấu vừa không thể tấn công, cũng không thể bị tấn công.</root>

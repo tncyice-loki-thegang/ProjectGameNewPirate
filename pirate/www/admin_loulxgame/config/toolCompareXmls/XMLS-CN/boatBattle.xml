@@ -1,0 +1,3 @@
+<root>
+  <boatBattle needLv="70" name="进击の海军" info="海军与海贼的战争已经到达了白热化阶段。勇敢的冒险者，开动你的战船，在海军本部之前，同海军舰队一决雌雄吧！" readyTime="4" participateTimes="1000" maxReceive="6" buyFailTimes="1" buyFailPrice="0" teamNum="1|3" unitNumber="5" Group="2" interval="1000" CDTime="10" blood="6" unitSpeed="10" distance="170000" crashDistance="30000" cutblood="1" integral="6" SuperNumber="0" SuperGold="0" SuperLineNumber="0" SuperLineGold="0" freeSuper="0" freeSuperLine="0" teamId="500002" receiveTimes="2" buyReceiveTimes="2" buyReceivePrices="100|100" formationCd="20" attA="8" attB="225" defA="4" defB="225" hpA="60" hpB="225" entranceMax="5" allCD="0.5" zuduiunitNumber="2" endcount="20"/>
+</root>

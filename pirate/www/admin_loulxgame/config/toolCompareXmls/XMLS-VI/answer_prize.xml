@@ -1,0 +1,28 @@
+<root>
+  <answer_prize id="1" belly="1000" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="" resource="gift_belly" level="5"/>
+  <answer_prize id="2" belly="" experience="200" prestige="" gold="" execution="" elementStone="" energyStone="" item="" resource="gift_experence" level="5"/>
+  <answer_prize id="3" belly="" experience="" prestige="" gold="10" execution="" elementStone="" energyStone="" item="" resource="gift_gold" level="4"/>
+  <answer_prize id="4" belly="" experience="" prestige="100" gold="" execution="" elementStone="" energyStone="" item="" resource="gift_prestige" level="3"/>
+  <answer_prize id="10" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="70303|1" resource="" level=""/>
+  <answer_prize id="11" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="70200|1" resource="" level=""/>
+  <answer_prize id="12" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="70725|1" resource="" level=""/>
+  <answer_prize id="13" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="70736|1" resource="" level=""/>
+  <answer_prize id="14" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="120019|5" resource="" level=""/>
+  <answer_prize id="15" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="73006|1" resource="" level=""/>
+  <answer_prize id="16" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="70805|1" resource="" level=""/>
+  <answer_prize id="17" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="120013|50" resource="" level=""/>
+  <answer_prize id="18" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="120018|1" resource="" level=""/>
+  <answer_prize id="19" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="121451|5" resource="" level=""/>
+  <answer_prize id="20" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="60024|1" resource="" level=""/>
+  <answer_prize id="21" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="70209|1" resource="" level=""/>
+  <answer_prize id="22" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="129903|1" resource="" level=""/>
+  <answer_prize id="23" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="73031|1" resource="" level=""/>
+  <answer_prize id="24" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71017|1" resource="" level=""/>
+  <answer_prize id="25" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71018|1" resource="" level=""/>
+  <answer_prize id="26" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71019|1" resource="" level=""/>
+  <answer_prize id="27" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71008|1" resource="" level=""/>
+  <answer_prize id="28" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71020|1" resource="" level=""/>
+  <answer_prize id="29" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71017|1" resource="" level=""/>
+  <answer_prize id="30" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71018|1" resource="" level=""/>
+  <answer_prize id="31" belly="" experience="" prestige="" gold="" execution="" elementStone="" energyStone="" item="71019|1" resource="" level=""/>
+</root>

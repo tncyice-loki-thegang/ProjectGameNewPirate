@@ -1,0 +1,255 @@
+<root>
+  <card_name id="1" maleName="Younis Beco" femaleName="Younis Laxian "/>
+  <card_name id="2" maleName="Younis Dalton" femaleName="Younis Ada "/>
+  <card_name id="3" maleName="Younis zábal" femaleName="Younis Teela "/>
+  <card_name id="4" maleName="Younis Dorje" femaleName="Younis Jamie"/>
+  <card_name id="5" maleName="Younis Fred" femaleName="Younis Lara"/>
+  <card_name id="6" maleName="Younis Hajier" femaleName="Younis Remy"/>
+  <card_name id="7" maleName="Younis Hanoch" femaleName="Younis Lika"/>
+  <card_name id="8" maleName="Younis Jimmy" femaleName="Younis Lena"/>
+  <card_name id="9" maleName="Younis Gallup" femaleName="Younis Lillian"/>
+  <card_name id="10" maleName="Younis Jesse" femaleName="Ablis Laxian "/>
+  <card_name id="11" maleName="Ablis Beco" femaleName="Ablis Ada "/>
+  <card_name id="12" maleName="Ablis Dalton" femaleName="Ablis Teela "/>
+  <card_name id="13" maleName="Ablis zábal" femaleName="Ablis Jamie"/>
+  <card_name id="14" maleName="Ablis Dorje" femaleName="Ablis Kreja"/>
+  <card_name id="15" maleName="Ablis Fred" femaleName="Ablis Lara"/>
+  <card_name id="16" maleName="Ablis Hajier" femaleName="Ablis Remy"/>
+  <card_name id="17" maleName="Ablis Hanoch" femaleName="Ablis Lika"/>
+  <card_name id="18" maleName="Ablis Jimmy" femaleName="Ablis Lena"/>
+  <card_name id="19" maleName="Ablis Gallup" femaleName="Ablis Lillian"/>
+  <card_name id="20" maleName="Ablis Jesse" femaleName="Abby Laxian "/>
+  <card_name id="21" maleName="Abby Beco" femaleName="Abby Ada "/>
+  <card_name id="22" maleName="Abby Dalton" femaleName="Abby Teela "/>
+  <card_name id="23" maleName="Abby zábal" femaleName="Abby Jamie"/>
+  <card_name id="24" maleName="Abby Dorje" femaleName="Abby Kreja"/>
+  <card_name id="25" maleName="Abby Fred" femaleName="Abby Lara"/>
+  <card_name id="26" maleName="Abby Hajier" femaleName="Abby Remy"/>
+  <card_name id="27" maleName="Abby Hanoch" femaleName="Abby Lika"/>
+  <card_name id="28" maleName="Abby Jimmy" femaleName="Abby Lena"/>
+  <card_name id="29" maleName="Abby Gallup" femaleName="Abby Lillian"/>
+  <card_name id="30" maleName="Abby Jesse" femaleName="Ed Laxian "/>
+  <card_name id="31" maleName="Ad  Beco" femaleName="Ed Ada "/>
+  <card_name id="32" maleName="Ad  Dalton" femaleName="Ed Teela "/>
+  <card_name id="33" maleName="Ad  zábal" femaleName="Ed Jamie"/>
+  <card_name id="34" maleName="Ad  Dorje" femaleName="Ed Kreja"/>
+  <card_name id="35" maleName="Ad  Fred" femaleName="Ed Lara"/>
+  <card_name id="36" maleName="Ad  Hajier" femaleName="Ed Remy"/>
+  <card_name id="37" maleName="Ad  Hanoch" femaleName="Ed Lika"/>
+  <card_name id="38" maleName="Ad  Jimmy" femaleName="Ed Lena"/>
+  <card_name id="39" maleName="Ad  Gallup" femaleName="Ed Lillian"/>
+  <card_name id="40" maleName="Ad  Jesse" femaleName="Ann Laxian "/>
+  <card_name id="41" maleName="Ann Beco" femaleName="Ann Ada "/>
+  <card_name id="42" maleName="Ann Dalton" femaleName="Ann Teela "/>
+  <card_name id="43" maleName="Ann zábal" femaleName="Ann Jamie"/>
+  <card_name id="44" maleName="Ann Dorje" femaleName="Ann Kreja"/>
+  <card_name id="45" maleName="Ann Fred" femaleName="Ann Lara"/>
+  <card_name id="46" maleName="Ann Hajier" femaleName="Ann Remy"/>
+  <card_name id="47" maleName="Ann Hanoch" femaleName="Ann Lika"/>
+  <card_name id="48" maleName="Ann Jimmy" femaleName="Ann Lena"/>
+  <card_name id="49" maleName="Ann Gallup" femaleName="Ann Lillian"/>
+  <card_name id="50" maleName="Ann Jesse" femaleName="Anne Laxian "/>
+  <card_name id="51" maleName="Anne Beco" femaleName="Anne Ada "/>
+  <card_name id="52" maleName="Anne Dalton" femaleName="Anne Teela "/>
+  <card_name id="53" maleName="Anne zábal" femaleName="Anne Jamie"/>
+  <card_name id="54" maleName="Anne Dorje" femaleName="Anne Kreja"/>
+  <card_name id="55" maleName="Anne Fred" femaleName="Anne Lara"/>
+  <card_name id="56" maleName="Anne Hajier" femaleName="Anne Remy"/>
+  <card_name id="57" maleName="Anne Hanoch" femaleName="Anne Lika"/>
+  <card_name id="58" maleName="Anne Jimmy" femaleName="Anne Lena"/>
+  <card_name id="59" maleName="Anne Gallup" femaleName="Anne Lillian"/>
+  <card_name id="60" maleName="Anne Jesse" femaleName="Dim Laxian "/>
+  <card_name id="61" maleName="Dim Beco" femaleName="Dim Ada "/>
+  <card_name id="62" maleName="Dim Dalton" femaleName="Dim Teela "/>
+  <card_name id="63" maleName="Dim zábal" femaleName="Dim Jamie"/>
+  <card_name id="64" maleName="Dim Dorje" femaleName="Dim Kreja"/>
+  <card_name id="65" maleName="Dim Fred" femaleName="Dim Lara"/>
+  <card_name id="66" maleName="Dim Hajier" femaleName="Dim Remy"/>
+  <card_name id="67" maleName="Dim Hanoch" femaleName="Dim Lika"/>
+  <card_name id="68" maleName="Dim Jimmy" femaleName="Dim Lena"/>
+  <card_name id="69" maleName="Dim Gallup" femaleName="Dim Lillian"/>
+  <card_name id="70" maleName="Dim Jesse" femaleName="Odd Laxian "/>
+  <card_name id="71" maleName="Odd Beco" femaleName="Odd Ada "/>
+  <card_name id="72" maleName="Odd Dalton" femaleName="Odd Teela "/>
+  <card_name id="73" maleName="Odd zábal" femaleName="Odd Jamie"/>
+  <card_name id="74" maleName="Odd Dorje" femaleName="Odd Kreja"/>
+  <card_name id="75" maleName="Odd Fred" femaleName="Odd Lara"/>
+  <card_name id="76" maleName="Odd Hajier" femaleName="Odd Remy"/>
+  <card_name id="77" maleName="Odd Hanoch" femaleName="Odd Lika"/>
+  <card_name id="78" maleName="Odd Jimmy" femaleName="Odd Lena"/>
+  <card_name id="79" maleName="Odd Gallup" femaleName="Odd Lillian"/>
+  <card_name id="80" maleName="Odd Jesse" femaleName="Odin Laxian "/>
+  <card_name id="81" maleName="Odin Beco" femaleName="Odin Ada "/>
+  <card_name id="82" maleName="Odin Dalton" femaleName="Odin Teela "/>
+  <card_name id="83" maleName="Odin zábal" femaleName="Odin Jamie"/>
+  <card_name id="84" maleName="Odin Dorje" femaleName="Odin Kreja"/>
+  <card_name id="85" maleName="Odin Fred" femaleName="Odin Lara"/>
+  <card_name id="86" maleName="Odin Hajier" femaleName="Odin Remy"/>
+  <card_name id="87" maleName="Odin Hanoch" femaleName="Odin Lika"/>
+  <card_name id="88" maleName="Odin Jimmy" femaleName="Odin Lena"/>
+  <card_name id="89" maleName="Odin Gallup" femaleName="Odin Lillian"/>
+  <card_name id="90" maleName="Odin Jesse" femaleName="Oswald Laxian "/>
+  <card_name id="91" maleName="Oswald Beco" femaleName="Oswald Ada "/>
+  <card_name id="92" maleName="Oswald Dalton" femaleName="Oswald Teela "/>
+  <card_name id="93" maleName="Oswald zábal" femaleName="Oswald Jamie"/>
+  <card_name id="94" maleName="Oswald Dorje" femaleName="Oswald Kreja"/>
+  <card_name id="95" maleName="Oswald Fred" femaleName="Oswald Lara"/>
+  <card_name id="96" maleName="Oswald Hajier" femaleName="Oswald Remy"/>
+  <card_name id="97" maleName="Oswald Hanoch" femaleName="Oswald Lika"/>
+  <card_name id="98" maleName="Oswald Jimmy" femaleName="Oswald Lena"/>
+  <card_name id="99" maleName="Oswald Gallup" femaleName="Oswald Lillian"/>
+  <card_name id="100" maleName="Oswald Jesse" femaleName="Basil Laxian "/>
+  <card_name id="101" maleName="Basil Beco" femaleName="Basil Ada "/>
+  <card_name id="102" maleName="Basil Dalton" femaleName="Basil Teela "/>
+  <card_name id="103" maleName="Basil zábal" femaleName="Basil Jamie"/>
+  <card_name id="104" maleName="Basil Dorje" femaleName="Basil Kreja"/>
+  <card_name id="105" maleName="Basil Fred" femaleName="Basil Lara"/>
+  <card_name id="106" maleName="Basil Hajier" femaleName="Basil Remy"/>
+  <card_name id="107" maleName="Basil Hanoch" femaleName="Basil Lika"/>
+  <card_name id="108" maleName="Basil Jimmy" femaleName="Basil Lena"/>
+  <card_name id="109" maleName="Basil Gallup" femaleName="Basil Lillian"/>
+  <card_name id="110" maleName="Basil Jesse" femaleName="Barbara Laxian "/>
+  <card_name id="111" maleName="Barbara Beco" femaleName="Barbara Ada "/>
+  <card_name id="112" maleName="Barbara Dalton" femaleName="Barbara Teela "/>
+  <card_name id="113" maleName="Barbara zábal" femaleName="Barbara Jamie"/>
+  <card_name id="114" maleName="Barbara Dorje" femaleName="Barbara Kreja"/>
+  <card_name id="115" maleName="Barbara Fred" femaleName="Barbara Lara"/>
+  <card_name id="116" maleName="Barbara Hajier" femaleName="Barbara Remy"/>
+  <card_name id="117" maleName="Barbara Hanoch" femaleName="Barbara Lika"/>
+  <card_name id="118" maleName="Barbara Jimmy" femaleName="Barbara Lena"/>
+  <card_name id="119" maleName="Barbara Gallup" femaleName="Barbara Lillian"/>
+  <card_name id="120" maleName="Barbara Jesse" femaleName="Bertha Laxian "/>
+  <card_name id="121" maleName="Bertha Beco" femaleName="Bertha Ada "/>
+  <card_name id="122" maleName="Bertha Dalton" femaleName="Bertha Teela "/>
+  <card_name id="123" maleName="Bertha zábal" femaleName="Bertha Jamie"/>
+  <card_name id="124" maleName="Bertha Dorje" femaleName="Bertha Kreja"/>
+  <card_name id="125" maleName="Bertha Fred" femaleName="Bertha Lara"/>
+  <card_name id="126" maleName="Bertha Hajier" femaleName="Bertha Remy"/>
+  <card_name id="127" maleName="Bertha Hanoch" femaleName="Bertha Lika"/>
+  <card_name id="128" maleName="Bertha Jimmy" femaleName="Bertha Lena"/>
+  <card_name id="129" maleName="Bertha Gallup" femaleName="Bertha Lillian"/>
+  <card_name id="130" maleName="Bertha Jesse" femaleName="Baoya Laxian "/>
+  <card_name id="131" maleName="Baoya Beco" femaleName="Baoya Ada "/>
+  <card_name id="132" maleName="Baoya Dalton" femaleName="Baoya Teela "/>
+  <card_name id="133" maleName="Baoya zábal" femaleName="Baoya Jamie"/>
+  <card_name id="134" maleName="Baoya Dorje" femaleName="Baoya Kreja"/>
+  <card_name id="135" maleName="Baoya Fred" femaleName="Baoya Lara"/>
+  <card_name id="136" maleName="Baoya Hajier" femaleName="Baoya Remy"/>
+  <card_name id="137" maleName="Baoya Hanoch" femaleName="Baoya Lika"/>
+  <card_name id="138" maleName="Baoya Jimmy" femaleName="Baoya Lena"/>
+  <card_name id="139" maleName="Baoya Gallup" femaleName="Baoya Lillian"/>
+  <card_name id="140" maleName="Baoya Jesse" femaleName="Betty Laxian "/>
+  <card_name id="141" maleName="Betty Beco" femaleName="Betty Ada "/>
+  <card_name id="142" maleName="Betty Dalton" femaleName="Betty Teela "/>
+  <card_name id="143" maleName="Betty zábal" femaleName="Betty Jamie"/>
+  <card_name id="144" maleName="Betty Dorje" femaleName="Betty Kreja"/>
+  <card_name id="145" maleName="Betty Fred" femaleName="Betty Lara"/>
+  <card_name id="146" maleName="Betty Hajier" femaleName="Betty Remy"/>
+  <card_name id="147" maleName="Betty Hanoch" femaleName="Betty Lika"/>
+  <card_name id="148" maleName="Betty Jimmy" femaleName="Betty Lena"/>
+  <card_name id="149" maleName="Betty Gallup" femaleName="Betty Lillian"/>
+  <card_name id="150" maleName="Betty Jesse" femaleName="Bella Laxian "/>
+  <card_name id="151" maleName="Bella Beco" femaleName="Bella Ada "/>
+  <card_name id="152" maleName="Bella Dalton" femaleName="Bella Teela "/>
+  <card_name id="153" maleName="Bella zábal" femaleName="Bella Jamie"/>
+  <card_name id="154" maleName="Bella Dorje" femaleName="Bella Kreja"/>
+  <card_name id="155" maleName="Bella Fred" femaleName="Bella Lara"/>
+  <card_name id="156" maleName="Bella Hajier" femaleName="Bella Remy"/>
+  <card_name id="157" maleName="Bella Hanoch" femaleName="Bella Lika"/>
+  <card_name id="158" maleName="Bella Jimmy" femaleName="Bella Lena"/>
+  <card_name id="159" maleName="Bella Gallup" femaleName="Bella Lillian"/>
+  <card_name id="160" maleName="Bella Jesse" femaleName="Benzita Laxian "/>
+  <card_name id="161" maleName="Benzita Beco" femaleName="Benzita Ada "/>
+  <card_name id="162" maleName="Benzita Dalton" femaleName="Benzita Teela "/>
+  <card_name id="163" maleName="Benzita zábal" femaleName="Benzita Jamie"/>
+  <card_name id="164" maleName="Benzita Dorje" femaleName="Benzita Kreja"/>
+  <card_name id="165" maleName="Benzita Fred" femaleName="Benzita Lara"/>
+  <card_name id="166" maleName="Benzita Hajier" femaleName="Benzita Remy"/>
+  <card_name id="167" maleName="Benzita Hanoch" femaleName="Benzita Lika"/>
+  <card_name id="168" maleName="Benzita Jimmy" femaleName="Benzita Lena"/>
+  <card_name id="169" maleName="Benzita Gallup" femaleName="Benzita Lillian"/>
+  <card_name id="170" maleName="Benzita Jesse" femaleName="Bill Laxian "/>
+  <card_name id="171" maleName="Bill Beco" femaleName="Bill Ada "/>
+  <card_name id="172" maleName="Bill Dalton" femaleName="Bill Teela "/>
+  <card_name id="173" maleName="Bill zábal" femaleName="Bill Jamie"/>
+  <card_name id="174" maleName="Bill Dorje" femaleName="Bill Kreja"/>
+  <card_name id="175" maleName="Bill Fred" femaleName="Bill Lara"/>
+  <card_name id="176" maleName="Bill Hajier" femaleName="Bill Remy"/>
+  <card_name id="177" maleName="Bill Hanoch" femaleName="Bill Lika"/>
+  <card_name id="178" maleName="Bill Jimmy" femaleName="Bill Lena"/>
+  <card_name id="179" maleName="Bill Gallup" femaleName="Bill Lillian"/>
+  <card_name id="180" maleName="Bill Jesse" femaleName="Benaiah Laxian "/>
+  <card_name id="181" maleName="Benaiah Beco" femaleName="Benaiah Ada "/>
+  <card_name id="182" maleName="Benaiah Dalton" femaleName="Benaiah Teela "/>
+  <card_name id="183" maleName="Benaiah zábal" femaleName="Benaiah Jamie"/>
+  <card_name id="184" maleName="Benaiah Dorje" femaleName="Benaiah Kreja"/>
+  <card_name id="185" maleName="Benaiah Fred" femaleName="Benaiah Lara"/>
+  <card_name id="186" maleName="Benaiah Hajier" femaleName="Benaiah Remy"/>
+  <card_name id="187" maleName="Benaiah Hanoch" femaleName="Benaiah Lika"/>
+  <card_name id="188" maleName="Benaiah Jimmy" femaleName="Benaiah Lena"/>
+  <card_name id="189" maleName="Benaiah Gallup" femaleName="Benaiah Lillian"/>
+  <card_name id="190" maleName="Benaiah Jesse" femaleName="Bibin Laxian "/>
+  <card_name id="191" maleName="Bibin Beco" femaleName="Bibin Ada "/>
+  <card_name id="192" maleName="Bibin Dalton" femaleName="Bibin Teela "/>
+  <card_name id="193" maleName="Bibin zábal" femaleName="Bibin Jamie"/>
+  <card_name id="194" maleName="Bibin Dorje" femaleName="Bibin Kreja"/>
+  <card_name id="195" maleName="Bibin Fred" femaleName="Bibin Lara"/>
+  <card_name id="196" maleName="Bibin Hajier" femaleName="Bibin Remy"/>
+  <card_name id="197" maleName="Bibin Hanoch" femaleName="Bibin Lika"/>
+  <card_name id="198" maleName="Bibin Jimmy" femaleName="Bibin Lena"/>
+  <card_name id="199" maleName="Bibin Gallup" femaleName="Bibin Lillian"/>
+  <card_name id="200" maleName="Bibin Jesse" femaleName="Bike Man Laxian "/>
+  <card_name id="201" maleName="Bike Man Beco" femaleName="Bike Man Ada "/>
+  <card_name id="202" maleName="Bike Man Dalton" femaleName="Bike Man Teela "/>
+  <card_name id="203" maleName="Bike Man zábal" femaleName="Bike Man Jamie"/>
+  <card_name id="204" maleName="Bike Man Dorje" femaleName="Bike Man Kreja"/>
+  <card_name id="205" maleName="Bike Man Fred" femaleName="Bike Man Lara"/>
+  <card_name id="206" maleName="Bike Man Hajier" femaleName="Bike Man Remy"/>
+  <card_name id="207" maleName="Bike Man Hanoch" femaleName="Bike Man Lika"/>
+  <card_name id="208" maleName="Bike Man Jimmy" femaleName="Bike Man Lena"/>
+  <card_name id="209" maleName="Bike Man Gallup" femaleName="Bike Man Lillian"/>
+  <card_name id="210" maleName="Bike Man Jesse" femaleName="Punch Laxian "/>
+  <card_name id="211" maleName="Punch Beco" femaleName="Punch Ada "/>
+  <card_name id="212" maleName="Punch Dalton" femaleName="Punch Teela "/>
+  <card_name id="213" maleName="Punch zábal" femaleName="Punch Jamie"/>
+  <card_name id="214" maleName="Punch Dorje" femaleName="Punch Kreja"/>
+  <card_name id="215" maleName="Punch Fred" femaleName="Punch Lara"/>
+  <card_name id="216" maleName="Punch Hajier" femaleName="Punch Remy"/>
+  <card_name id="217" maleName="Punch Hanoch" femaleName="Punch Lika"/>
+  <card_name id="218" maleName="Punch Jimmy" femaleName="Punch Lena"/>
+  <card_name id="219" maleName="Punch Gallup" femaleName="Punch Lillian"/>
+  <card_name id="220" maleName="Punch Jesse" femaleName="Bode Laxian "/>
+  <card_name id="221" maleName="Bode Beco" femaleName="Bode Ada "/>
+  <card_name id="222" maleName="Bode Dalton" femaleName="Bode Teela "/>
+  <card_name id="223" maleName="Bode zábal" femaleName="Bode Jamie"/>
+  <card_name id="224" maleName="Bode Dorje" femaleName="Bode Kreja"/>
+  <card_name id="225" maleName="Bode Fred" femaleName="Bode Lara"/>
+  <card_name id="226" maleName="Bode Hajier" femaleName="Bode Remy"/>
+  <card_name id="227" maleName="Bode Hanoch" femaleName="Bode Lika"/>
+  <card_name id="228" maleName="Bode Jimmy" femaleName="Bode Lena"/>
+  <card_name id="229" maleName="Bode Gallup" femaleName="Bode Lillian"/>
+  <card_name id="230" maleName="Bode Jesse" femaleName="Porche Laxian "/>
+  <card_name id="231" maleName="Porche Beco" femaleName="Porche Ada "/>
+  <card_name id="232" maleName="Porche Dalton" femaleName="Porche Teela "/>
+  <card_name id="233" maleName="Porche zábal" femaleName="Porche Jamie"/>
+  <card_name id="234" maleName="Porche Dorje" femaleName="Porche Kreja"/>
+  <card_name id="235" maleName="Porche Fred" femaleName="Porche Lara"/>
+  <card_name id="236" maleName="Porche Hajier" femaleName="Porche Remy"/>
+  <card_name id="237" maleName="Porche Hanoch" femaleName="Porche Lika"/>
+  <card_name id="238" maleName="Porche Jimmy" femaleName="Porche Lena"/>
+  <card_name id="239" maleName="Porche Gallup" femaleName="Porche Lillian"/>
+  <card_name id="240" maleName="Porche Jesse" femaleName="Pogouda Laxian "/>
+  <card_name id="241" maleName="Pogouda Beco" femaleName="Pogouda Ada "/>
+  <card_name id="242" maleName="Pogouda Dalton" femaleName="Pogouda Teela "/>
+  <card_name id="243" maleName="Pogouda zábal" femaleName="Pogouda Jamie"/>
+  <card_name id="244" maleName="Pogouda Dorje" femaleName="Pogouda Kreja"/>
+  <card_name id="245" maleName="Pogouda Fred" femaleName="Pogouda Lara"/>
+  <card_name id="246" maleName="Pogouda Hajier" femaleName="Pogouda Remy"/>
+  <card_name id="247" maleName="Pogouda Hanoch" femaleName="Pogouda Lika"/>
+  <card_name id="248" maleName="Pogouda Jimmy" femaleName="Pogouda Lena"/>
+  <card_name id="249" maleName="Pogouda Gallup" femaleName="Pogouda Lillian"/>
+  <card_name id="250" maleName="Pogouda Jesse" femaleName="Pogouda Na"/>
+  <card_name id="9997" maleName="Ải " femaleName="Redline Vua Biển"/>
+  <card_name id="9998" maleName="Ải " femaleName="Tâm Ma Hải Tặc"/>
+  <card_name id="9999" maleName="Ải " femaleName="Reverse 12 đỉnh"/>
+</root>

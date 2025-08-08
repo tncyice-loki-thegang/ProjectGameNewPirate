@@ -1,0 +1,54 @@
+#!/bin/sh
+
+SCRIPT_FILE=$0
+if [ -L $SCRIPT_FILE ]; then
+        SCRIPT_FILE=`ls -l $SCRIPT_FILE|awk '{print $11}'`
+fi
+
+ROOT=`dirname $SCRIPT_FILE`
+MYSQL_EXEC="$ROOT/mysql"
+
+while getopts "u:p:f:t:h" opt; do
+        case $opt in
+        u)
+                MYSQL_EXEC="$MYSQL_EXEC -u$OPTARG"
+                ;;
+        p)
+                MYSQL_EXEC="MYSQL_EXEC -p$OPTARG"
+                ;;
+        f)
+                from=$OPTARG
+                ;;
+        t)
+                to=$OPTARG
+                ;;
+        h)
+                echo "Usage: $SCRIPT_FILE -u user -p passwd -f old_db_name -t new_db_name"
+                exit
+        esac
+done
+
+$MYSQL_EXEC -e "create database $to"
+ret=$?
+
+if [ $ret -ne 0 ]; then
+        echo "create database $to failed, check mysql for sure"
+        exit
+fi
+
+for table in `$MYSQL_EXEC -e "show tables from $from"|awk 'NR > 1{print $0}'`; do
+        $MYSQL_EXEC -e "rename table $from.$table to $to.$table"
+        ret=$?
+        if [ $ret -ne 0 ]; then
+                echo "rename table $table failed"
+                exit
+        fi
+done
+
+$MYSQL_EXEC -e "drop database $from"
+ret=$?
+if [ $ret -ne 0 ]; then
+        echo "drop database $from failed"
+        exit
+fi
+echo "done"

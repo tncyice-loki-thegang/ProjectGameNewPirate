@@ -1,0 +1,66 @@
+<root>
+	<module>
+		<!-- 模块名 -->
+		<name>stat</name>
+		<!-- 模块的实际地址 -->
+		<instances>
+		    <instance>
+				<!-- 服务地址 -->
+				<host>127.0.0.1</host>
+		    </instance>
+		</instances>
+		<!-- 服务端口 -->
+		<port>3300</port>
+		<!-- 连接数设置 -->
+		<max_connect>50</max_connect>
+	</module>
+
+	<module>
+		<!-- 模块名 -->
+		<name>battle</name>
+		<!-- 模块的实际地址 -->
+		<instances>
+		    <instance>
+				<!-- 服务地址 -->
+				<host>127.0.0.1</host>
+		    </instance>
+		</instances>
+		<!-- 服务端口 -->
+		<port>1234</port>
+		<!-- 连接数设置 -->
+		<max_connect>50</max_connect>
+	</module>
+	
+	<module>
+		<!-- 模块名 -->
+		<name>data</name>
+		<!-- 模块的实际地址 -->
+		<instances>
+		    <instance>
+				<!-- 服务地址 -->
+				<host>127.0.0.1</host>
+		    </instance>
+		</instances>
+		<!-- 服务端口 -->
+		<port>3300</port>
+		<!-- 连接数设置 -->
+		<max_connect>50</max_connect>
+	</module>
+	
+	<module>
+		<!-- 模块名 -->
+		<name>lcserver</name>
+		<!-- 模块的实际地址 -->
+		<instances>
+		    <instance>
+				<!-- 服务地址 -->
+				<host>127.0.0.1</host>
+		    </instance>
+		</instances>
+		<!-- 服务端口 -->
+		<port>8002</port>
+		<!-- 连接数设置 -->
+		<max_connect>50</max_connect>
+		<group>game20002</group>
+	</module>
+</root>

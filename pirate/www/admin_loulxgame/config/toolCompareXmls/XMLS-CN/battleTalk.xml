@@ -1,0 +1,47 @@
+﻿<root>
+ <showWords des= "上场">
+<word>大家上啊！让他们尝尝我们的厉害！</word>
+<word>让我来看看你们究竟有几斤几两！</word>
+</showWords>
+
+<winOneTimes des= "胜利1场">
+<word>击败了对手，拿下第一滴血!</word>
+</winOneTimes>
+
+<winTwoTimes des= "胜利2场">
+<word>正在大杀特杀 完成了一次双杀！</word>
+</winTwoTimes>
+
+<winThreeTimes des= "胜利3场">
+<word>完成了一次三杀，已经主宰了战场！</word>
+</winThreeTimes>
+
+<winFourTimes des= "胜利4场">
+<word>连杀四人，已经超越神的杀戮，拜托谁去杀了他吧！</word>
+</winFourTimes>
+
+<winFiveTimes des= "胜利5场">
+<word>连杀五人，只留下了一段传说！</word>
+</winFiveTimes>
+
+<winSixTimes des= "胜利6场">
+<word>简直就是大腿，已经6连胜啦！</word>
+</winSixTimes>
+			
+			
+<win3End des= "连胜3下场">
+<word>连胜下场，完美谢幕，大家欢呼吧！</word>
+</win3End>
+
+<win4End des= "连胜4下场">
+<word>连胜下场，完美谢幕，大家欢呼吧！</word>
+</win4End>
+
+<win5End des= "连胜5下场">
+<word>连胜下场，完美谢幕，大家欢呼吧！</word>
+</win5End>
+			
+<win6End des= "连胜6下场">
+<word>连胜下场，完美谢幕，大家欢呼吧！</word>
+</win6End>
+</root>

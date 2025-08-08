@@ -1,0 +1,3 @@
+<root>
+  <giftlevel giftatt="1.3|E,1.6|D,1.9|C,2|BMinus,2.1|B,2.2|BPlus,2.3|AMinus,2.4|A,2.5|APlus,2.65|SMinus,2.8|S,2.95|SPlus,3.1|SSMinus,3.25|SS,3.4|SSPlus,3.55|SSSMinus,3.7|SSS,3.85|SSSPlus,4.00|SSSSMinus,4.15|SSSS,4.3|SSSSPlus,4.45|XMinus,4.6|X,10|XPlus" giftdef="0.35|E,0.5|D,0.65|C,0.7|BMinus,0.75|B,0.8|BPlus,0.85|AMinus,0.9|A,0.95|APlus,1.025|SMinus,1.1|S,1.2|SPlus,1.3|SSMinus,1.4|SS,1.5|SSPlus,1.6|SSSMinus,1.7|SSS,1.8|SSSPlus,1.9|SSSSMinus,2|SSSS,2.1|SSSSPlus,2.2|XMinus,2.3|X,5|XPlus"/>
+</root>

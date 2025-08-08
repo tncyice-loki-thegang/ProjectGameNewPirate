@@ -1,0 +1,23 @@
+<root>
+  <huodong_jifen id="1" opration="Mỗi 1 vàng tiêu" score="1" gold="1"/>
+  <huodong_jifen id="2" opration="Mỗi lần ra khơi" score="0" gold="0"/>
+  <huodong_jifen id="3" opration="Mỗi lần bếp sx" score="0" gold="0"/>
+  <huodong_jifen id="4" opration="Mỗi đơn hàng 1 lần" score="0" gold="0"/>
+  <huodong_jifen id="5" opration="H.thành 1 lần N.Vụ hàng ngày" score="0" gold="0"/>
+  <huodong_jifen id="6" opration="Nhận lương Wanted" score="0" gold="0"/>
+  <huodong_jifen id="7" opration="Mỗi lần dạy Nô Lệ" score="0" gold="0"/>
+  <huodong_jifen id="8" opration="Mỗi trang bị cường hóa 1 lần" score="0" gold="0"/>
+  <huodong_jifen id="9" opration="Mỗi lần khiêu chiến PB Tinh Anh" score="0" gold="0"/>
+  <huodong_jifen id="10" opration="Mỗi lần tìm Đá" score="0" gold="0"/>
+  <huodong_jifen id="11" opration="Mỗi lần chiến Đấu Trường" score="0" gold="0"/>
+  <huodong_jifen id="12" opration="Mỗi lần cướp Tầm Bảo" score="0" gold="0"/>
+  <huodong_jifen id="13" opration="Mỗi lần đánh Cảng" score="0" gold="0"/>
+  <huodong_jifen id="14" opration="Mỗi lần góp Công Hội" score="0" gold="0"/>
+  <huodong_jifen id="15" opration="Mỗi lần chiếm Tài Nguyên" score="0" gold="0"/>
+  <huodong_jifen id="16" opration="Mỗi lần Hội Đàm" score="0" gold="0"/>
+  <huodong_jifen id="17" opration="Mỗi lần Tầm Bảo" score="0" gold="0"/>
+  <huodong_jifen id="18" opration="Mỗi trang bị chế tạo 1 lần" score="0" gold="0"/>
+  <huodong_jifen id="19" opration="Mỗi lần tăng tốc Đ.Đội" score="0" gold="0"/>
+  <huodong_jifen id="20" opration="Mỗi vàng tặng 1 lần" score="0" gold="0"/>
+  <huodong_jifen id="22" opration="Nhận T.Bàn Chúc Phúc" score="0" gold="0"/>
+</root>

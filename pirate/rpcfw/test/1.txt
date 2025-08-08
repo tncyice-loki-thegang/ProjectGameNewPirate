@@ -1,0 +1,56 @@
+array(4) {
+  ["daimonApple"]=>
+  array(0) {
+  }
+  ["master"]=>
+  array(7) {
+    ["transfer_num"]=>
+    int(0)
+    ["learned_normal_skills"]=>
+    array(0) {
+    }
+    ["using_skill_time"]=>
+    int(0)
+    ["using_skill_num"]=>
+    int(0)
+    ["learned_rage_skills"]=>
+    array(1) {
+      [0]=>
+      int(50002)
+    }
+    ["using_skill"]=>
+    int(50002)
+    ["using_normal_skill"]=>
+    int(50001)
+  }
+  ["arming"]=>
+  array(8) {
+    [1]=>
+    int(0)
+    [2]=>
+    int(0)
+    [3]=>
+    int(0)
+    [4]=>
+    int(0)
+    [5]=>
+    int(0)
+    [6]=>
+    int(0)
+    [7]=>
+    int(0)
+    [8]=>
+    int(0)
+  }
+  ["goodwill"]=>
+  array(4) {
+    ["exp"]=>
+    int(0)
+    ["level"]=>
+    int(0)
+    ["upgrade_time"]=>
+    int(0)
+    ["heritage"]=>
+    int(0)
+  }
+}

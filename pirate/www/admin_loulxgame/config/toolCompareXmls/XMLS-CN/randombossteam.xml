@@ -1,0 +1,32 @@
+<root>
+  <randombossteam monstersquadID="60401" name="劫掠部队1" info="劫掠部队1" modleName="210"/>
+  <randombossteam monstersquadID="60402" name="劫掠部队2" info="劫掠部队2" modleName="211"/>
+  <randombossteam monstersquadID="60403" name="劫掠部队3" info="劫掠部队3" modleName="212"/>
+  <randombossteam monstersquadID="60404" name="劫掠部队4" info="劫掠部队4" modleName="213"/>
+  <randombossteam monstersquadID="60405" name="劫掠部队5" info="劫掠部队5" modleName="214"/>
+  <randombossteam monstersquadID="60406" name="劫掠部队6" info="劫掠部队6" modleName="215"/>
+  <randombossteam monstersquadID="60407" name="劫掠部队7" info="劫掠部队7" modleName="216"/>
+  <randombossteam monstersquadID="60408" name="劫掠部队8" info="劫掠部队8" modleName="217"/>
+  <randombossteam monstersquadID="60409" name="劫掠部队9" info="劫掠部队9" modleName="218"/>
+  <randombossteam monstersquadID="60410" name="劫掠部队10" info="劫掠部队10" modleName="219"/>
+  <randombossteam monstersquadID="60411" name="僵尸部队1" info="僵尸部队1" modleName="228"/>
+  <randombossteam monstersquadID="60412" name="僵尸部队2" info="僵尸部队2" modleName="229"/>
+  <randombossteam monstersquadID="60413" name="僵尸部队3" info="僵尸部队3" modleName="230"/>
+  <randombossteam monstersquadID="60414" name="僵尸部队4" info="僵尸部队4" modleName="228"/>
+  <randombossteam monstersquadID="60415" name="僵尸部队5" info="僵尸部队5" modleName="229"/>
+  <randombossteam monstersquadID="60416" name="僵尸部队6" info="僵尸部队6" modleName="230"/>
+  <randombossteam monstersquadID="60417" name="僵尸部队7" info="僵尸部队7" modleName="228"/>
+  <randombossteam monstersquadID="60418" name="僵尸部队8" info="僵尸部队8" modleName="229"/>
+  <randombossteam monstersquadID="60419" name="僵尸部队9" info="僵尸部队9" modleName="230"/>
+  <randombossteam monstersquadID="60420" name="僵尸部队10" info="僵尸部队10" modleName="228"/>
+  <randombossteam monstersquadID="60421" name="残暴部队1" info="残暴部队1" modleName="314"/>
+  <randombossteam monstersquadID="60422" name="残暴部队2" info="残暴部队2" modleName="315"/>
+  <randombossteam monstersquadID="60423" name="残暴部队3" info="残暴部队3" modleName="316"/>
+  <randombossteam monstersquadID="60424" name="残暴部队4" info="残暴部队4" modleName="317"/>
+  <randombossteam monstersquadID="60425" name="残暴部队5" info="残暴部队5" modleName="318"/>
+  <randombossteam monstersquadID="60426" name="残暴部队6" info="残暴部队6" modleName="319"/>
+  <randombossteam monstersquadID="60427" name="残暴部队7" info="残暴部队7" modleName="314"/>
+  <randombossteam monstersquadID="60428" name="残暴部队8" info="残暴部队8" modleName="315"/>
+  <randombossteam monstersquadID="60429" name="残暴部队9" info="残暴部队9" modleName="316"/>
+  <randombossteam monstersquadID="60430" name="残暴部队10" info="残暴部队10" modleName="317"/>
+</root>

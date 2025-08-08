@@ -1,0 +1,39 @@
+﻿/*+----------------------------------------------------------------------
+| 本模版仅用于交流学习，如有问题，可以联系liukanjs@163.com
++----------------------------------------------------------------------
+| Copyright (c) 2014 /www.amyun.cn All rights reserved.
++----------------------------------------------------------------------
+*/
+/*背景配置*/
+.body_2 { background:#FAFAFA url(../Images/bj.jpg) center top no-repeat;}
+/*主体宽度及顶部距离设置*/
+.main_bj { width:1000px;margin:200px auto 0 auto; }
+/*导航配置*/
+.Cx_Nav{height:100px;width:1000px;}
+.Cx_Nav .DH_Panel{width:480px;}
+.Cx_Nav .DH_Panel li{display:inline-block;}
+.Cx_Nav .DH_Panel .button{height:98px;width:116px;overflow:hidden;text-align: center;line-height:30px;}
+.Cx_Nav .DH_Panel .button span{font-size:48Px;}
+.Cx_Nav .User_Panel{height:98px;width:520px;}
+.Cx_Nav .User_Panel .User_Xx{width:390px;}
+.User_Login div{width:93px;height:40px;line-height:10px;background-color:#3056c7;}
+.User_Login strong{color: yellow;margin-top:5px}
+*#Main_Content{ min-height:500px;}
+*#footer {height:40px; width:1000px; margin:0 auto 60px auto; background-color: #339966; text-align: center;}
+
+.demo-nav{z-index: 8;width: 100%;padding: 0;-webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, .175);box-shadow: 0 3px 6px rgba(0, 0, 0, .175);}*/
+.poplogin{width:480px;position:absolute;}
+.passcode{position:absolute;right:0;top:0;height:32px;margin:1px;border-left:solid 1px #ddd;text-align:center;line-height:32px;border-radius:0 4px 4px 0;}
+<!--幻灯-->
+.slideBox{ width:100%; height:300px; overflow:hidden; position:relative;  }
+.slideBox .carousel img{display:block;max-width:100%;height:auto;}
+.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+.slideBox .bd li{ zoom:1; vertical-align:middle; }
+.slideBox .bd img{ width:100%; height:300px; display:block; border:0;text-align: center;   }
+
+.pro{ margin: 0 0 13px 5px; /*background:#3D475A*/;}
+.pro:hover{-webkit-box-shadow:0 6px 9px rgba(0, 0, 0, .175);box-shadow:0 6px 9px rgba(0, 0, 0, .175);}
+
+.wait{padding:10px 10px 10px 10px;}
+.wait img{display:block;width:128px;height:128px;margin:0 auto;}
+.wait div{height:40px;line-height:35px;color:#fff;text-align:center;font-size:16px;}

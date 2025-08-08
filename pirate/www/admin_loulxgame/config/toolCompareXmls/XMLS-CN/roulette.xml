@@ -1,0 +1,4 @@
+<root>
+  <roulette id="1" startTime="20171001100000" closeTime="20181001100000" openNeedTime="20191001100000" expBase="2" addTime="50|60|70|80|90|100|110|120" timesGold="10000|0,20000|900,30000|1800,40000|2400" expAdd="130" gold="500"/>
+  <roulette id="1" startTime="20171001100000" closeTime="20181001100000" openNeedTime="20191001100000" expBase="2" addTime="50|60|70|80|90|100|110|120" timesGold="10000|0,20000|900,30000|1800,40000|2400" expAdd="130" gold="500"/>
+</root>

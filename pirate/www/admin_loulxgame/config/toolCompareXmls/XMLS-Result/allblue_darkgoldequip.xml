@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <allblue_darkgoldequip id="1" name="Bộ đồ Diệt Nhật" tips="Hòn đá nằm sâu trong lòng đất, là chìa khóa mở Tiệt Thế Chi Nhật, còn là lá chắn chặn Diệt Nhật." level="125" maxNum="7" equipmentId="11608,12608,13608,14608,15608,16608,17608" property2="9|700" property3="40|100,54|325" property4="36|140,56|350" property5="38|180,56|550" property6="2|800,55|600,41|1800"/>
+  <allblue_darkgoldequip id="2" name="Bộ đồ Tinh Nguyên" tips="Hạt nhân trung tâm của Tinh Cầu, dưới lực hấp dẫn, ngưng tụ lại thành Siêu Tân Tinh." level="130" maxNum="7" equipmentId="11609,12609,13609,14609,15609,16609,17609" property2="9|1000" property3="40|140,54|475" property4="36|180,56|500" property5="38|220,56|700" property6="2|1000,55|800,41|2600"/>
+  <allblue_darkgoldequip id="3" name="Bộ đồ Sáng Thế" tips="Tơ thần sáng thế, có nguồn gốc từ trong vũ trụ vô biên." level="135" maxNum="7" equipmentId="117010,127010,137010,147010,157010,167010,177010" property2="9|1600" property3="40|220,54|775" property4="36|260,56|800" property5="38|300,56|1000" property6="2|1400,55|1200,41|4200"/>
+</root>

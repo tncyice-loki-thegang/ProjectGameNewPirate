@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<!-- 服务器日志相关配置 -->
+	<log>
+
+		<!-- 日志路径 -->
+		<filename>log/battle.log</filename>
+
+		<!-- 日志级别 -->
+		<level>3</level>
+
+		<!-- 是否立即输出 -->
+		<flush>false</flush>
+	</log>
+
+	<!-- 服务器连接相关配置 -->
+	<server>
+
+
+		<!-- 最大请求长度 -->
+		<max_request_size>102400</max_request_size>
+
+		<!-- 最大响应长度 -->
+		<max_response_size>1024000</max_response_size>
+
+		<!-- 压缩阀值 -->
+		<compress_threshold>10240</compress_threshold>
+
+		<!-- 写超时时间(ms) -->
+		<write_timeout>1000</write_timeout>
+
+		<!-- 读超时时间(ms) -->
+		<read_timeout>1000</read_timeout>
+
+		<!-- 连接队列长度 -->
+		<backlog>50</backlog>
+
+		<!-- 业务执行线程数 -->
+		<service_num>20</service_num>
+
+		<!-- 网络处理线程数 -->
+		<network_num>5</network_num>
+
+		<!-- 采用的amf协议版本 -->
+		<amf_version>1</amf_version>
+
+		<!-- 采用的字节序 -->
+		<byte_order>0</byte_order>
+
+		<!-- 以下为服务器上命令字的配置 -->
+		<command>
+
+			<!-- 战斗相关配置 -->
+			<battle>
+
+				<!-- 攻击系数 -->
+				<attack_coef>0.0001</attack_coef>
+
+				<!-- 防守系数 -->
+				<defend_coef>0.0001</defend_coef>
+
+				<!-- 技能配置文件 -->
+				<skill_file>data/skill.csv</skill_file>
+
+				<!-- buffer配置文件 -->
+				<buffer_file>data/buffer.csv</buffer_file>
+
+				<!-- 目标配置文件 -->
+				<target_file>data/target.csv</target_file>
+			</battle>
+		</command>
+	</server>
+</root>

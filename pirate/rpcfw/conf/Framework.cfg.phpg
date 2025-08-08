@@ -1,0 +1,513 @@
+<?php
+
+/***************************************************************************
+ *
+ * Copyright (c) 2010 babeltime.com, Inc. All Rights Reserved
+ * $Id: Framework.cfg.php 40678 2013-03-13 03:56:56Z HaidongJia $
+ *
+ **************************************************************************/
+
+/**
+ * @file $HeadURL: svn://192.168.1.80:3698/C/tags/pirate/rpcfw/rpcfw_1-0-21-57/conf/Framework.cfg.php $
+ * @author $Author: HaidongJia $(hoping@babeltime.com)
+ * @date $Date: 2013-03-13 11:56:56 +0800 (三, 2013-03-13) $
+ * @version $Revision: 40678 $
+ * @brief
+ *
+ **/
+
+class FrameworkConfig
+{
+
+	const MAX_RECURS_LEVEL = 10;
+
+	/**
+	 * PHPProxy的最大重试次数
+	 * @var int
+	 */
+	const MAX_RETRY_NUM = 3;
+
+	/**
+	 * 是否对响应进行编码
+	 * @var bool
+	 */
+	const ENCODE_RESPONSE = true;
+
+	/**
+	 * 最小用户uid
+	 * @var int
+	 */
+	const MIN_UID = 20000;
+
+	/**
+	 * 同一时间所允许的误差
+	 * @var int
+	 */
+	const SAME_TIME_OFFSET = 2;
+
+	/**
+	 * 用于生成摘要的扰码
+	 * @var string
+	 */
+	const MESS_CODE = 'BabelTime';
+
+	/**
+	 * 系统所使用的编码方式
+	 * @var string
+	 */
+	const ENCODING = "utf8";
+
+	/**
+	 * 异步方法
+	 * @var int
+	 */
+	const ASYNC_CMD_TPL = '/home/pirate/bin/php /home/pirate/rpcfw/lib/ScriptRunner.php -f /home/pirate/rpcfw/lib/AsyncExecutor.php %s >>/home/pirate/rpcfw/log/popen.log.wf 2>&1 &';
+
+	/**
+	 * 本地用于连接phpproxy的地址
+	 * @var unknown_type
+	 */
+	const PHPPROXY_PATH = '/home/pirate/phpproxy/var/phpproxy.sock';
+
+	/**
+	 * PPCProxy/PHPProxy的读超时时间
+	 * @var int
+	 */
+	const PROXY_READ_TIMEOUT = 5;
+
+	/**
+	 * RPCPRoxy/PHPProxy的写超时时间
+	 * @var int
+	 */
+	const PROXY_WIRTE_TIMEOUT = 1;
+
+	/**
+	 * RPCProxy/PHPProxy/HTTPClient的连接超时时间
+	 * @var int
+	 */
+	const PROXY_CONNECT_TIMEOUT = 1;
+
+	/**
+	 * HTTPClient业务执行超时时间
+	 * @var int
+	 */
+	const PROXY_EXECUTE_TIMEOUT = 3;
+
+	/**
+	 * 压缩上限
+	 * @var int
+	 */
+	const PROXY_COMPRESS_THRESHOLD = 102400;
+
+	/**
+	 * 编码参数
+	 * @var int
+	 */
+	const AMF_ENCODE_FLAGS = AMF_ENCODE_FLAGS;
+
+	/**
+	 * 解码参数
+	 * @var int
+	 */
+	const AMF_DECODE_FLAGS = AMF_DECODE_FLAGS;
+
+	/**
+	 * 最大执行时间
+	 * @var int
+	 */
+	const MAX_EXECUTE_TIME = 2550;
+
+	/**
+	 * 最大响应大小
+	 * @var int
+	 */
+	const MAX_RESPONSE_SIZE = 1024000;
+
+	/**
+	 * 最大请求大小
+	 * @var int
+	 */
+	const MAX_REQUEST_SIZE = 1024000;
+
+	/**
+	 * 四个小时的秒数
+	 * @var int
+	 */
+	const FOUR_HOURS_SECOND = 14400;
+
+	/**
+	 * 周一四点的秒数, 类似FOUR_HOURS_SECOND，
+	 * @var int
+	 */
+	const WEEK_SECOND = 14400;
+
+	/**
+	 * 每月的1号4点的秒数
+	 * @var int
+	 */
+	const MONTH_SECOND = 14400;
+
+	/**
+	 * 日志文件名
+	 * @var int
+	 */
+	const LOG_NAME = 'rpc.log';
+
+	/**
+	 * 日志级别
+	 * @var int
+	 */
+	const LOG_LEVEL = Logger::L_INFO;
+
+	/**
+	 * 是否开启debug,为调试方便会将某些检查禁掉，线上一定要为false
+	 * @var int
+	 */
+	const DEBUG = true;
+
+	/**
+	 * 是否开启覆盖率检查，线上一定为false
+	 * @var int
+	 */
+	const COVERAGE = false;
+
+	/**
+	 * 是否将异步执行任务转移到main机器上运行
+	 */
+	const ASYNC_TASK_ON_MAIN = true;
+
+	/**
+	 * 覆盖率报告生成地址
+	 * @var string
+	 */
+	const COVERAGE_ROOT = '/home/pirate/static/coverage';
+
+	/**
+	 * 请求前的hook
+	 * @var array
+	 */
+	static $ARR_BEFORE_HOOK = array ('AdjustTrainExp', 'AutoAttackFilter' );
+
+	/**
+	 * 请求后的hook
+	 * @var array
+	 *
+	 * @import 请确保将SessionEncode放置在array的最后.
+	 */
+	static $ARR_AFTER_HOOK = array ('TaskUpdate', 'UnsetBattleInfo', /*请确保将SessionEncode放置在array的最后*/'SessionEncode' );
+
+	/**
+	 * 可以排除的不需要用户登陆的命令
+	 * @var array
+	 */
+	static $ARR_EXCLUDE_LOGIN_METHOD = array (
+			'user' => array ('userLogin' => true, 'getUsers' => true, 'createUser' => true,
+					'cancelDel' => true, 'getRandomName' => true ) );
+
+	/**
+	 * 可以排除的不需要连接的命令
+	 * @var array
+	 */
+	static $ARR_EXCLUDE_CONNECT_METHOD = array ('user' => array ('login' => true ),
+			'battle' => array ('test' => true, 'getRecord' => true , 'getRecordForWeb' => true),
+			'gm' => array ('reportClientError' => true, 'getTime' => true ) );
+
+	/**
+	 * 允许不登录的私有方法
+	 * @var unknown_type
+	 */
+	static $ARR_PRIVATE_METHOD = array ('timer' => array ('execute' => true ),
+			'forge' => array ('refreshReinforceProbability' => true ),
+			'user' => array ('clearUser' => true, 'modifyUserByOther' => true,
+					'addItemsOtherUser' => true, 'addGold4BBpay' => true, 'extraExecution' => true,
+					'setVip4BBpay' => true, 'getArrUserByPid' => true, 'getOrder' => true,
+					'getArrOrder' => true, 'getByUname' => true, 'getMultiInfoByPid' => true,
+					'getTopEn' => true, 'getByPid' => true, 'ban' => true, 'getBanInfo' => true ),
+			'achievements' => array ('excuteNotify' => true ),
+			'copy' => array ('groupAttack' => true, 'addGroupEnemyDefeatInfo' => true ),
+			'olympic' => array ('__executeFight' => true, '__executeAward' => true,
+					'__executeSaveReplay' => true, '__updOtherUserIntegral' => true,
+					'__saveSignUpReplay' => true, 'startFinals' => true ),
+			'smelting' => array ('refreshArtificer' => true ),
+			'guild' => array ('finalReward' => true, 'notifyBanquet' => true,
+					'startBanquest' => true, 'update' => true, 'battle' => true, 'doBattle' => true,
+					'chanllenge' => true, 'battleReward' => true, 'getTopGuild' => true,
+					'doFinalReward' => true ), 'port' => array ('dueResource' => true ),
+			'worldResource' => array ('signupEnd' => true, 'battleEnd' => true, 'attackEnd' => true,
+					'createBattle' => true, 'chatSignupStart' => true, 'chatBattleStart' => true ),
+			'boss' => array ('bossComing' => true, 'bossStart' => true, 'bossEnd' => true,
+					'rewardForTimer' => true, 'reward' => true, 'rewardForBotList' => true,
+					'rewardForBot' => true ),
+			'vassal' => array ('relieveByMstMovePort' => true, 'getTrainBelly' => true ),
+			'arena' => array ('arenaDataRefresh' => true ),
+			'hero' => array ('modifyHeroByOther' => true ),
+			'treasure' => array ('huntReturnTimeout' => true ),
+			'gm' => array ('silentUser' => true, 'newResponse' => true, 'newBroadCast' => true,
+					'newBroadCastTest' => true, 'sendRankingActivityLevelReward' => true,
+					'sendRankingActivityArenaReward' => true,
+					'sendRankingActivityPrestigeReward' => true,
+					'sendRankingActivityOfferReward' => true,
+					'sendRankingActivityCopyReward' => true,
+					'sendRankingActivityGuildReward' => true ),
+			'reward' => array ('getLastSignTime' => true, 'isSignToday' => true ),
+			'daytask' => array ('getCompleteNumToday' => true ),
+			'payback' => array ('addPayBackInfo' => true, 'getPayBackInfoByTime' => true,
+					'modifyPayBackInfo' => true, 'isPayBackInfoOpen' => true,
+					'openPayBackInfo' => true, 'closePayBackInfo' => true ),
+			'proxy' => array ('syncExecute' => true, 'asyncExecute' => true,
+					'getTotalUserCount' => true, 'closeUser' => true ),
+			'allblue' => array ('modifyStealFishInfoByOther' => true,
+					'modifyWishFishInfoByOther' => true, 'modifyStealFishTimes' => true,
+					'modifyBeWishFishTimes' => true ),
+			'honourshop' => array('modifyHonourPoint' => true),
+			'groupwar' => array ('fightWin' => true, 'fightLose' => true, 'touchDown' => true,
+					'battleEnd' => true, 'rewardOnEnd' => true, 'doRewardOnEnd' => true, 'systemMsg'=>true, 'createBattle'=>true ),
+			'treasurenpc' => array( 'trigerNpcBoatInfo' => true , 'broadcastTreasureNpc' => true),
+			'worldwar' => array ('__saveBattlePara' => true, '__saveBattleReplay' => true,
+								 '__saveLoseTimes' => true, '__executeAward' => true,
+								 '__sendWorldWarMsg' => true, '__saveBattleReward' => true,
+								 '__sendAuditiondOverMsg' => true),
+			'jewelry'=>array('updateEnergyElement'=>true),
+			'abysscopy'=>array('start'=>true, 'enterRoom'=>true, 'getAllUser' => true, 'onTrigger'=>true, 'onArmy'=>true, 'onQuestion'=>true, 'getCardInfo'=>true, 'dealCard' => true,
+					'rewardCard'=>true, 'flopCard'=>true,  'userLogoff'=>true, 'leave'=>true, 'passCopyReward' => true),
+			);
+
+	/**
+	 * 对外暴露的接口
+	 * @var array
+	 */
+	static $ARR_PUBLIC_METHOD = array (
+			'user' => array ('getUser' => true, 'userLogoff' => true, 'unameToUid' => true,
+					'setGroup' => true, 'updateMsg' => true, 'attack' => true,
+					'getOtherUserRctHeroes' => true, 'buyBloodPackage' => true,
+					'buyExecution' => true, 'getSwitch' => true, 'getTop' => true,
+					'getSelfOrder' => true, 'getTopUserInfo' => true, 'getSimpleInfo' => true,
+					'getSwitchRewardInfo' => true, 'switchReward' => true, 'getSettings' => true,
+					'setMute' => true, 'setVisibleCount' => true, 'openHeroPos' => true,
+					'getCanRecruitHeroNum' => true, 'getPayReward' => true, 'isPay' => true,
+					'isGetPayReward' => true, 'wallowKick' => true, 'getOPClientReward' => true,
+					'setVaConfig' => true, 'getVaConfig' => true, 'setArrConfig'=>true, 'getArrConfig'=>true,
+					'buyGemExp'=>true, 'groupTransferByGold'=>true, 'groupTransferByItem'=>true,
+					'showDress'=>true,),
+			'elitecopy' => array ('getEliteCopyInfo' => true, 'enterEliteCopy' => true,
+					'leaveEliteCopy' => true, 'getPassUsers' => true, 'attack' => true,
+					'passByGold' => true, 'restartEliteCopy' => true, 'byCoin' => true ),
+			'herocopy' => array ('getHeroCopyInfo' => true, 'enterHeroCopy' => true,
+					'leaveHeroCopy' => true, 'attack' => true, 'byCoin' => true,
+					'getHeroCopyInfoByID' => true, 'getAllCopiesID' => true ),
+			'impeldown' => array ('getImpelDownInfo' => true, 'refreshNpcList' => true,
+					'refreshNpcListByGold' => true, 'savingAce' => true, 'getPrize' => true,
+					'getTop' => true, 'buyChallengeTime' => true ),
+			'active' => array ('getActiveInfo' => true, 'fetchPrize' => true ),
+			'charity' => array ('fetchCharity' => true, 'getCharityInfo' => true,
+					'fetchVipSalary' => true ),
+			'olympic' => array ('enterArena' => true, 'levelArena' => true, 'signUp' => true,
+					'getFightInfo' => true, 'drawBlock' => true, 'challenge' => true,
+					'clearCdByGold' => true, 'cheer' => true, 'getUserOlympicInfo' => true,
+					'getSelfOrder' => true, 'getTop' => true, 'getAllCheerObj' => true,
+					'getJackPot' => true ),
+			'formation' => array ('getAllFormation' => true, 'getFormationInfoByID' => true,
+					'plusFormationLv' => true, 'getFormationAttr' => true, 'setCurFormation' => true,
+					'changeCurFormation' => true ),
+			'sailboat' => array ('getBoatInfo' => true, 'getBoatInfoByID' => true,
+					'upgradeCabinLv' => true, 'getBuildListStatus' => true,
+					'addNewBuildList' => true, 'openRefitAbility' => true,
+					'refittingSailboat' => true, 'equipItem' => true, 'removeItem' => true,
+					'equipSkill' => true, 'openNewCabin' => true, 'clearCDByGold' => true ),
+			'smelting' => array ('getSmeltingInfo' => true, 'smeltingOnce' => true,
+					'inviteArtificer' => true, 'getSmeltingItem' => true, 'clearCDByGold' => true,
+					'integralExchange' => true, 'smeltingAll' => true ),
+			'sciTech' => array ('getCdEndTime' => true, 'getAllSciTechLv' => true,
+					'getSciTechAttr' => true, 'getAllSciTechAttr' => true, 'plusSciTechLv' => true,
+					'clearCdTimeByGold' => true, 'openCreditMode' => true ),
+			'captain' => array ('getUserCaptainInfo' => true, 'sail' => true, 'sailByGold' => true,
+					'getCDTime' => true, 'clearCDByGold' => true, 'answer' => true ),
+			'kitchen' => array ('getUserKitchenInfo' => true, 'getUserOrderInfo' => true,
+					'cook' => true, 'goldCook' => true, 'goldCookByTimes' => true, 'sell' => true,
+					'sellAll' => true, 'placeOrder' => true, 'getCDTime' => true,
+					'clearCDByGold' => true ),
+			'train' => array ('getUserTrainInfo' => true, 'openTrainSlot' => true, 'rapid' => true,
+					'rapidByGold' => true, 'startTrain' => true, 'stopTrain' => true,
+					'changeTrainMode' => true, 'getCDTime' => true, 'clearCDByGold' => true,
+					'rapidByTimes' => true ),
+			'talks' => array ('getUserTalksInfo' => true, 'startTalks' => true, 'refresh' => true,
+					'refreshAll' => true, 'openFreeMode' => true, 'getHeroList' => true ),
+			'practice' => array ('getUserPracticeInfo' => true, 'fetchExp' => true,
+					'accelerate' => true, 'accelerateByTimes' => true, 'openVipFullDayMode' => true ),
+			'pet' => array ('getUserPetInfo' => true, 'reborn' => true, 'resetByEgg' => true,
+					'resetByGold' => true, 'sell' => true, 'equip' => true, 'unequip' => true,
+					'openSlot' => true, 'understand' => true, 'rapid' => true, 'rapidByGold' => true,
+					'train' => true, 'stopTrain' => true, 'lockSkill' => true, 'unLockSkill' => true,
+					'getAttr' => true, 'getAllAttr' => true, 'getCDTime' => true,
+					'clearCDByGold' => true, 'refreshQualifications' => true, 'evolution' => true,
+					'commitRefresh' => true, 'rollbackRefresh' => true, 'feedingOnce' => true,
+					'feedingAll' => true, 'openWarehouseSlot' => true, 'putInWarehouse' => true,
+					'getOutWarehouse' => true, 'transfer' => true, 'getUserPetCollectionInfo' => true),
+			'copy' => array ('getUserLatestCopyInfo' => true, 'getCopyInfo' => true,
+					'getCopiesInfoByCopyChooseID' => true, 'isEnemyDefeated' => true,
+					'getEnemiesDefeatNum' => true, 'getUserCopies' => true, 'attack' => true,
+					'getEnemyDefeatNum' => true, 'getPrize' => true, 'clearFightCdByGold' => true,
+					'getPrize' => true, 'startAutoAtk' => true, 'cancelAutoAtk' => true,
+					'endAttackByGold' => true, 'attackOnce' => true, 'attackOnceByGold' => true,
+					'checkWhenLogin' => true, 'getAutoAtkInfo' => true, 'getReplayList' => true,
+					'enterCopy' => true, 'leaveCopy' => true, 'getAllCopiesID' => true,
+					'createTeam' => true, 'joinTeam' => true, 'getCommonGroupArmyDefeatNum' => true,
+					'getActivityGroupArmyDefeatNum' => true, 'startAutoAttack' => true,
+					'getInviteSetting' => true, 'saveInviteSetting' => true ),
+			'achievements' => array ('getAchievementPoints' => true, 'getShowAchievements' => true,
+					'getLatestAchievements' => true, 'getLastOnlineAchievements' => true,
+					'getKeepOnlineAchievements' => true, 'getAchievementsByIDs' => true,
+					'getShowName' => true, 'getNameList' => true, 'delShowAchievements' => true,
+					'setShowAchievements' => true, 'delShowName' => true, 'setShowName' => true,
+					'getAchievementsPointsByType' => true, 'fetchSalary' => true,
+					'getPrizeStatus' => true, 'fetchPrize' => true ),
+			'map' => array ('mapInfo' => true ),
+			'city' => array ('enterTown' => true, 'leaveTown' => true, 'enterTownList' => true,
+					'moveInTown' => true, 'checkEnter' => true ),
+			'port' => array ('enterPort' => true, 'leavePort' => true, 'moveInPort' => true,
+					'attackResource' => true, 'givenupResource' => true, 'resourceInfo' => true,
+					'getPort' => true, 'enterPortResource' => true, 'leavePortResource' => true,
+					'portBerthInfo' => true, 'selfBerthInfo' => true, 'selfResourceInfo' => true,
+					'plunderResource' => true, 'excavateResource' => true, 'getPlunderInfo' => true,
+					'resetPlunderCdByGold' => true, 'extendResourceTimeByGold' => true ),
+			'boss' => array ('attack' => true, 'enterBossCopy' => true, 'inspire' => true,
+					'inspireByGold' => true, 'leaveBossCopy' => true, 'revive' => true,
+					'subCdTime' => true, 'over' => true, 'canEnter' => true, 'getBossOffset' => true,
+					'getBossBot' => true, 'setBossBot' => true, 'unsetBossBot' => true ),
+			'worldResource' => array ('signup' => true, 'giveup' => true, 'enter' => true,
+					'boost' => true, 'boostByGold' => true, 'leave' => true,
+					'worldResourceInfo' => true, 'worldResourceInfos' => true,
+					'worldResourceAttackList' => true, 'worldResourceSignupList' => true,
+					'guildworldResourceInfos' => true ),
+			'bag' => array ('bagInfo' => true, 'openGrid' => true, 'moveItem' => true,
+					'receiveItem' => true, 'gridInfo' => true, 'useItem' => true, 'arrange' => true,
+					'openGridByItem' => true, 'arrangeDepot' => true, 'openDepotGrid' => true,
+					'swapBagDepot' => true ),
+			'exchange' => array ('getExchangeInfo' => true, 'exchangeItem' => true,
+					'recieveItem' => true, 'exchangeGemItem' => true, 'exchangeArmItem' => true,
+					'exchangeDirectItem' => true, 'exchangeJewelryItem' => true ),
+			'itemInfo' => array ('getItemInfo' => true, 'getItemInfos' => true ),
+			'trade' => array ('sellerInfo' => true, 'buy' => true, 'sell' => true,
+					'repurchaseInfo' => true, 'repurchase' => true ),
+			'forge' => array ('enchase' => true, 'randRefresh' => true, 'fixedRefresh' => true,
+					'reinforce' => true, 'split' => true, 'compose' => true,
+					'fixedRefreshAffirm' => true, 'randRefreshAffirm' => true,
+					'getReinforceCD' => true, 'getRefreshReq' => true, 'openMaxProbability' => true,
+					'getReinforceProbability' => true, 'resetReinforceTime' => true, 'fuse' => true,
+					'fuseAll' => true, 'transfer' => true, 'getTransferInfo' => true,
+					'potentialityTransfer' => true, 'getPotentialityTransfer' => true ,
+					'gemLevelUpByExp' =>true),
+			'hero' => array ('addPrestigeHero' => true, 'getPubHeroes' => true, 'getHeroes' => true,
+					'recruit' => true, 'getRecruitHeroes' => true, 'fire' => true,
+					'addArming' => true, 'removeArming' => true, 'moveArming' => true,
+					'moveAllArming' => true, 'rebirth' => true, 'addDaimonApple' => true,
+					'removeDaimonApple' => true, 'masterLearnSkill' => true,
+					'masterTransfer' => true, 'getMasterHeroProperty' => true,
+					'masterUsingSkill' => true, 'getHeroByHid' => true, 'addGoodwillByItem' => true,
+					'addGoodwillByGold' => true, 'masterLearnSkillFromOther' => true,
+					'getConvertHeroes' => true, 'convert' => true, 'convertByHtid' => true,
+					'heritageGoodwill' => true, 'addDress'=>true, 'removeDress'=>true,
+					'addJewelry' => true, 'removeJewelry'=>true,  'moveJewelry'=>true,
+					'moveAllJewelry'=>true, 'moveAllArmingAndJewelry'=>true ),
+			'task' => array ('getAllTask' => true, 'accept' => true, 'abandon' => true,
+					'complete' => true, 'checkDateTask' => true ),
+			'vassal' => array ('getVassalAll' => true, 'getInfoByUid' => true, 'train' => true,
+					'relieve' => true, 'conquer' => true, 'getVassalUserInfo' => true ),
+			'explore' => array ('getExplore' => true, 'explorePos' => true, 'sell' => true,
+					'getBoxByGold' => true, 'moveToBag' => true, 'quickExplore'=>true ),
+			'festival' => array ('getFestivalUserInfo' => true, 'flopCards' => true,
+					'getExchangePoint' => true, 'exchangeItem' => true, 'getFeedbackUserInfo' => true ),
+			'guild' => array ('create' => true, 'apply' => true, 'agree' => true, 'refuse' => true,
+					'cancel' => true, 'getGuildApplyList' => true, 'getPersonalApplyList' => true,
+					'getMemberList' => true, 'getMemberInfo' => true, 'quit' => true,
+					'getWorldList' => true, 'getGroupList' => true, 'contributeBelly' => true,
+					'contributeGold' => true, 'updateSlogan' => true, 'updatePost' => true,
+					'upgradeBanquet' => true, 'holdBanquet' => true, 'refreshBanquet' => true,
+					'enterClub' => true, 'leaveClub' => true, 'getGuildInfo' => true,
+					'getGuildInfoById' => true, 'setVicePresident' => true,
+					'unsetVicePresident' => true, 'getBuffer' => true, 'buyMemberNum' => true,
+					'buyEmblem' => true, 'activateEmblem' => true, 'setEmblem' => true,
+					'getGuildAndMemberInfo' => true, 'getRecordList' => true, 'kickMember' => true,
+					'transPresident' => true, 'getGuildByName' => true, 'getMemberArenaList' => true,
+					'setDefaultTech' => true, 'inspire' => true, 'dismiss' => true,
+					'impeach' => true, 'openFlag' => true, 'modifyPasswd' => true ),
+			'friend' => array ('addFriend' => true, 'addBlackList' => true, 'getFriendList' => true,
+					'delFriend' => true, 'getBestFriend' => true, 'recommendFriendList' => true,
+					'addRecommendFriendList' => true ),
+			'mail' => array ('sendMail' => true, 'getMailBoxList' => true, 'getSysMailList' => true,
+					'getPlayMailList' => true, 'getBattleMailList' => true,
+					'getSysItemMailList' => true, 'getMailDetail' => true, 'fetchItem' => true,
+					'fetchAllItems' => true, 'deleteMail' => true, 'deleteAllSystemMail' => true,
+					'deleteAllBattleMail' => true, 'deleteAllPlayerMail' => true,
+					'deleteAllMailBoxMail' => true ),
+			'chat' => array ('sendPersonal' => true, 'sendWorld' => true, 'sendGroup' => true,
+					'sendGuild' => true, 'sendHarbor' => true, 'sendTown' => true,
+					'sendCopy' => true, 'sendBroadCast' => true ),
+			'arena' => array ('enterArena' => true, 'clearCdtime' => true, 'challenge' => true,
+					'buyAddedChallenge' => true, 'getPositionList' => true, 'hasReward' => true,
+					'getRewardLuckyList' => true, 'getPositionReward' => true, 'leaveArena' => true,
+					'getInfo' => true, 'getDefeatedNotice' => true, 'refreshPlayerList' => true ),
+			'treasure' => array ('clearRobCdtime' => true, 'getInfo' => true, 'refresh' => true,
+					'hunt' => true, 'huntReturnByGold' => true, 'rob' => true,
+					'enterReturnScene' => true, 'leaveReturnScene' => true, 'openMapByGold' => true,
+					'exchangeItemWithScore' => true,'autoHunt' => true, 'stopAutoHunt' => true, 'getTreasureAutoConf' => true ),
+			'daytask' => array ('getInfo' => true, 'accept' => true, 'complete' => true,
+					'abandon' => true, 'goldRefreshTask' => true, 'getIntegralReward' => true,
+					'upgrade' => true, 'goldComplete' => true, 'freeRefreshTask' => true ),
+			'console' => array ('execute' => true ),
+			'reward' => array ('getSignInfo' => true, 'sign' => true, 'getGiftInfo' => true,
+					'getGift' => true, 'getGiftByCode' => true, 'getRewardGoldInfo' => true,
+					'getRewardGold' => true, 'signUpgrade' => true,'getSprFestWelfareInfo' => true,
+					'recieveSprFestWelfare' => true ),
+			'battle' => array ('getRecordUrl' => true ),
+			'spend' => array ('getInfo' => true, 'getReward' => true ),
+			'astrolabe' => array ('askInitInfo' => true, 'askLevelUpMain' => true,
+					'askLevelUpCons' => true, 'askSwitchTalentAst' => TRUE,
+					'askEquipTalentAst' => true, 'askUnEquipTalentAst' => true,
+					'askBuyStone' => true, 'askObtainTodayExp' => true, 'resetTalentAst' => true ),
+			'soul' => array ('get' => true, 'create' => true, 'grow' => true, 'harvest' => true,
+					'convert' => true ),
+			'elves' => array('get'=>true, 'icsTime'=>true, 'icsAll'=>true, 'setModelLevel'=>true),
+			'mergeserver' => array ('getRewardLast' => true, 'Reward' => true,
+					'getIsCompensation' => true, 'getCompensation' => true, 'getMergerServerTimes' => true ),
+			'payback' => array ('getCurAvailablePayBackIds' => true, 'executeAllPayBack' => true ),
+			'allblue' => array ('getAllBlueInfo' => true, 'collectAllBule' => true,
+					'atkSeaMonster' => true, 'farmFishInfo' => true, 'openBoot' => true,
+					'fishing' => true, 'openFishQueue' => true, 'krillInfo' => true,
+					'catchKrills' => true, 'catchKrill' => true, 'refreshKrill' => true,
+					'farmFish' => true, 'getFriendList' => true, 'goFriendFishpond' => true,
+					'thiefFish' => true, 'wishFish' => true, 'getFarmFishInfo' => true,
+					'getSubordinateList' => true, 'getSubordinateFishList' => true),
+			'groupwar' => array ('getEnterInfo' => true, 'enter' => true, 'leave' => true,
+					'join' => true, 'inspire' => true, 'removeJoinCd' => true, 'getReckon' => true ),
+			'honourshop' => array ('honourInfo' => true, 'exItemByHonour' => true ),
+			'treasurenpc' => array('getTreasureNpc' => true, 'huntTreasureNpc' => true,'getHasTreasureNpc' => true),
+			'honourshop' => array ('honourInfo' => true, 'exItemByHonour' => true ),
+			'worldwar' => array ('enterWorldWar' => true, 'leaveWorldWar' => true, 'updateFormation' => true,
+								 'getUserWorldWarInfo' => true, 'getWorldWarInfo' => true, 'signUp' => true,
+								 'getHistoryCheerInfo' => true, 'getHistoryFightInfo' => true, 'cheer' => true,
+								 'getPrize' => true, 'getTempleInfo' => true, 'worship' => true,
+								 'getWorshipUsers' => true, 'leaveMsg' => true, 'clearUpdFmtCdByGold' => true),
+			 'digactivity' => array('getInfo' => true, 'dig' => true),
+	         'jewelry'=>array('refresh'=>true,'replace'=>true,'refreshInfo'=>true,'getStrengthInfo' => true,'reinforce' => true,'sealTransfer'=>true),
+			'abysscopy'=>array('getUserInfo'=>true, 'buyChallengeNum'=>true, 'create'=>true, 'join'=>true, 'chat'=>true, 'leaveRoom'=>true),
+			'gm' => array ('getInfoBeforeExit' => true),
+			'dress' => array ('changeFigure' => true, 'compose' => true, 'getDressRommInfo' => true, 'reinforce' => true, 'split' => true),
+			'copet' => array ('addPetSkill' => true, 'advanceTransfer' => true, 'born' => true, 'bornTwins' => true, 'changeToEgg' => true, 'clearCDByGold' => true, 'commitRefresh' => true, 'equip' => true, 'getPrize' => true, 'getUserPetCollectionInfo' => true, 'getUserPetInfo' => true, 'lockSkill' => true, 'openSlot' => true, 'protect' => true, 'refreshQualifications' => true, 'reset' => true, 'rollbackRefresh' => true, 'sell' => true, 'setFollow' => true, 'setShowCoPetID' => true, 'swallow' => true, 'swallowAll' => true, 'transfer' => true, 'understand' => true, 'unequip' => true, 'unLockSkill' => true, 'unProtect' => true, 'upTalentSkill' => true),
+			'guildskill' => array ('getAllGuildTechLv' => true, 'getBellyPurchaseTimes' => true, 'plusGuildTechLv' => true, 'PurchaseTechPoint' => true),
+			'propertylock' => array ('getStatus' => true, 'initPassword' => true, 'questionReset' => true, 'reset' => true, 'setStatus' => true, 'unlock' => true),
+			'worldpeak' => array ('cheer' => true, 'clearPromotionUpdateCd' => true, 'getEveryDayReceivePopularTop' => true, 'getEveryDaySendPopularTop' => true, 'getFameHallInfo' => true, 'getFameHallShowInfo' => true, 'getTotalReceivePopularTop' => true, 'getUserAuditionsInfo' => true, 'getUserFightRecord' => true, 'getUserHistoryInfo' => true, 'getUserPeakInfo' => true, 'getUserReceivePopularInfo' => true, 'getWorldPeakDivisionInfo' => true, 'getWorldPeakReplay' => true, 'sendPopularGift' => true, 'signupAdvance' => true, 'signupNormal' => true, 'updateSignUpInfo' => true),
+			'seasoul' => array ('composeSeasoul' => true, 'getInfo' => true, 'openMultiPalace' => true, 'openMultiStarfish' => true, 'openPalaceBig' => true),
+			'horsedecoration' => array ('getInfo' => true, 'refresh' => true, 'reinforce' => true, 'replace' => true, 'setSuit' => true, 'transfer' => true),
+			'ride' => array ('disMount' => true, 'getCellectInfo' => true, 'getInfo' => true, 'mount' => true, 'receiveCellectReward' => true, 'setShowStatus' => true),
+			'haki' => array ('addProperty' => true, 'allGoldTrial' => true, 'allTrial' => true, 'convert' => true, 'gethakiInfo' => true, 'hakiInfo' => true, 'hakiReturn' => true, 'levelupHakiScene' => true, 'notifyOpenUi' => true, 'trial' => true),
+			'elvessystem' => array ('elvesRelease' => true, 'equip' => true, 'getCollectionInfo' => true, 'getCurElvesInfo' => true, 'getUserElvesInfo' => true, 'heritageExp' => true, 'openCaveSlots' => true, 'openForestSlots' => true, 'putElvesToCave' => true, 'putElvesToForest' => true, 'sendRewardToUser' => true, 'unequip' => true, 'useGoldToAddExp' => true, 'useItemToAddExp' => true, 'useNormalToAddExp' => true),
+			'growupplan' => array ('activation' => true, 'fetchPrize' => true, 'getInfo' => true),
+			'depositPlan' => array ('buyDepositPlan' => true, 'getDepositPlanInfo' => true, 'receivePrize' => true),
+			'guildwar' => array ('buyMaxWinTimes' => true, 'changeExpendablies' => true, 'cheer' => true, 'clearUpdFmtCdByGold' => true, 'enterWorldWar' => true, 'getGuildExpendableList' => true, 'getGuildWarInfo' => true, 'getGuildWarInfoByID' => true, 'getHistoryCheerInfo' => true, 'getHistoryFightInfo' => true, 'getPrize' => true, 'getReplay' => true, 'getTempleInfo' => true, 'getUserFightForce' => true, 'getUserGuildWarInfo' => true, 'getWorshipUsers' => true, 'leaveMsg' => true, 'leaveWorldWar' => true, 'signUp' => true, 'updateFormation' => true, 'worship' => true),
+			'weekcard' => array ('buy' => true, 'getInfo' => true, 'reward' => true),
+			'worldboat' => array ('afterLogin' => true, 'broadcastMsg' => true, 'buyFreeNepAttack' => true, 'checkLogin' => true, 'enter' => true, 'getBoatInfo' => true, 'getBridInfo' => true, 'getEnterInfo' => true, 'getMsgInfo' => true, 'getNepInfo' => true, 'getUserActiveInfo' => true, 'inGold' => true, 'inspire' => true, 'join' => true, 'leave' => true, 'login' => true, 'nepAttack' => true, 'outGold' => true, 'peacock' => true, 'removeJoinCd' => true, 'setBoatId' => true, 'setNepId' => true, 'sign' => true, 'strength' => true, 'strengthNep' => true),
+			'worldbullfightarena' => array ('afterLogin' => true, 'attack' => true, 'canEnter' => true, 'changeFormation' => true, 'enter' => true, 'getInspireLevel' => true, 'getPlayers' => true, 'getRankList' => true, 'getUserActiveInfo' => true, 'inspire' => true, 'joinReviveCd' => true, 'leave' => true, 'login' => true, 'over' => true, 'sendBattleInfo' => true, 'sendJoinReviveCd' => true, 'sendReviveInfo' => true, 'sign' => true, 'updateFightInfo' => true),
+			);
+}
+/* vim: set ts=4 sw=4 sts=4 tw=100 noet: */

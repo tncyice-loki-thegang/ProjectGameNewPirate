@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- 表名 -->
+	<name>t_battle_record</name>
+
+	<!-- 主键 -->
+	<primary_keys>
+		<!-- 主键id -->
+		<key>brid</key>
+	</primary_keys>
+
+	<!-- 分表信息 -->
+	<partition>
+
+		<!-- 分表键值 -->
+		<key>brid</key>
+
+		<!-- 分表方法 mod, div, month, week, year, day -->
+		<method>div</method>
+
+		<!-- 分表值 -->
+		<value>1000000</value>
+	</partition>
+</root>

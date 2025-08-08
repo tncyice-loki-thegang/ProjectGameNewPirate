@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <mail id="1" title="Chinh phục thuộc hạ"/>
+  <mail id="2" title="Chinh phục thuộc hạ"/>
+  <mail id="3" title="Cướp thuộc hạ"/>
+  <mail id="4" title="Cướp thuộc hạ"/>
+  <mail id="5" title="Thay thuộc hạ"/>
+  <mail id="6" title="Chinh phục thuộc hạ"/>
+  <mail id="7" title="Chinh phục thuộc hạ"/>
+  <mail id="8" title="Cướp thuộc hạ"/>
+  <mail id="9" title="Cướp thuộc hạ"/>
+  <mail id="10" title="Đến bến cảng của chủ nhân"/>
+  <mail id="11" title="Đến bến cảng của thuộc hạ"/>
+  <mail id="12" title="Chống lại chủ nhân"/>
+  <mail id="13" title="Chống lại chủ nhân"/>
+  <mail id="14" title="Thuộc hạ phản kháng"/>
+  <mail id="15" title="Thuộc hạ phản kháng"/>
+  <mail id="16" title="Từ bỏ thuộc hạ"/>
+  <mail id="101" title="Chiếm lĩnh mỏ tài nguyên"/>
+  <mail id="102" title="Cướp mỏ tài nguyên"/>
+  <mail id="103" title="Cướp mỏ tài nguyên"/>
+  <mail id="104" title="Mỏ tài nguyên đến kỳ khai thác"/>
+  <mail id="105" title="Cướp mỏ tài nguyên"/>
+  <mail id="106" title="Cướp mỏ tài nguyên"/>
+  <mail id="107" title="Cướp mỏ tài nguyên"/>
+  <mail id="108" title="Cướp mỏ tài nguyên"/>
+  <mail id="109" title="Cướp mỏ tài nguyên"/>
+  <mail id="110" title="Cướp mỏ tài nguyên"/>
+  <mail id="111" title="Cướp mỏ tài nguyên"/>
+  <mail id="112" title="Cướp mỏ tài nguyên"/>
+  <mail id="201" title="Thông tin xin Công hội"/>
+  <mail id="202" title="Thông tin xin Công hội"/>
+  <mail id="203" title="Thông tin hệ thống Công hội"/>
+  <mail id="204" title="Thông tin yến tiệc Công hội"/>
+  <mail id="205" title="Thông tin yến tiệc Công hội"/>
+  <mail id="206" title="phân phát tài nguyên Công hội"/>
+  <mail id="207" title="Cuộc chiến tài nguyên Thế giới"/>
+  <mail id="208" title="Cuộc chiến tài nguyên Thế giới"/>
+  <mail id="301" title="Tấn công Tàu chính"/>
+  <mail id="302" title="Tấn công Tàu chính"/>
+  <mail id="303" title="Tấn công Tàu chính"/>
+  <mail id="304" title="Tấn công Tàu chính"/>
+  <mail id="401" title="Thêm bạn"/>
+  <mail id="501" title="P.thưởng Đấu trường may mắn"/>
+  <mail id="502" title="P.thưởng đấu trường "/>
+  <mail id="601" title="Đạt được thành tựu mới"/>
+  <mail id="701" title="P.thưởng Tìm bảo"/>
+  <mail id="702" title="Cướp thất bại"/>
+  <mail id="703" title="Cướp thành công"/>
+  <mail id="704" title="Bị cướp thành công"/>
+  <mail id="705" title="Đánh lui bọn cướp"/>
+  <mail id="801" title="Thông tin đặt hàng"/>
+  <mail id="901" title="P.thưởng tiêu diệt cuối cùng"/>
+  <mail id="902" title="P.thưởng Đệ nhất S.thương"/>
+  <mail id="903" title="P.thưởng đệ nhị S.thương"/>
+  <mail id="904" title="P.thưởng đệ tam S.thương"/>
+  <mail id="905" title="P.thưởng tiếp sức người hùng"/>
+  <mail id="1001" title="Thông bồn cầu"/>
+  <mail id="1002" title="Đồ ăn của thuộc hạ"/>
+  <mail id="1003" title="Bắt chấy"/>
+  <mail id="1004" title="Chơi cờ cá ngựa"/>
+  <mail id="1005" title="Cấm chơi"/>
+  <mail id="1006" title="Đáng ghét"/>
+  <mail id="1007" title="Thuộc hạ cưỡi ngựa"/>
+  <mail id="1008" title="Giáo dục vỡ lòng"/>
+  <mail id="1009" title="The voice thuộc hạ"/>
+  <mail id="1010" title="Thông bồn cầu"/>
+  <mail id="1011" title="Đồ ăn của thuộc hạ"/>
+  <mail id="1012" title="Bắt chấy"/>
+  <mail id="1013" title="Chơi cờ cá ngựa"/>
+  <mail id="1014" title="Cấm chơi"/>
+  <mail id="1015" title="Đáng ghét"/>
+  <mail id="1016" title="Thuộc hạ cưỡi ngựa"/>
+  <mail id="1017" title="Giáo dục vỡ lòng"/>
+  <mail id="1018" title="The voice thuộc hạ"/>
+  <mail id="1101" title="Đổi quà"/>
+  <mail id="906" title="Tự động tham gia"/>
+  <mail id="907" title="Tự động tham gia"/>
+  <mail id="1201" title="P.thưởng Lôi Đài"/>
+  <mail id="1202" title="P.thưởng Lôi Đài"/>
+  <mail id="1203" title="P.thưởng Lôi Đài"/>
+  <mail id="1204" title="P.thưởng Lôi Đài"/>
+  <mail id="1205" title="P.thưởng Lôi Đài"/>
+  <mail id="1206" title="P.thưởng Lôi Đài"/>
+  <mail id="1207" title="P.thưởng trợ uy Lôi Đài"/>
+  <mail id="1208" title="P.thưởng trợ uy Lôi Đài"/>
+  <mail id="1209" title="P.thưởng siêu may mắn Lôi Đài"/>
+  <mail id="1210" title="P.thưởng trợ uy Lôi Đài"/>
+  <mail id="1211" title="P.thưởng trợ uy Lôi Đài"/>
+  <mail id="1212" title="P.thưởng may mắn Lôi Đài"/>
+  <mail id="1209" title="P.thưởng siêu may mắn Lôi Đài"/>
+  <mail id="1213" title="P.thưởng bảng tích thưởng lôi đài"/>
+  <mail id="1301" title="Tăng cấp VIP"/>
+  <mail id="1401" title="Khuyến mại nạp thẻ l.thông"/>
+  <mail id="1501" title="Mò cá nuôi"/>
+  <mail id="1502" title="Cá nuôi bị mò"/>
+  <mail id="1503" title="Chúc phúc cá con"/>
+  <mail id="1504" title="Cá con được chúc phúc"/>
+  <mail id="1505" title="Mò cá của thuộc hạ"/>
+  <mail id="1506" title="Cá nuôi bị chủ nhân mò"/>
+  <mail id="1601" title="P.thưởng Chiến trường hải tặc"/>
+  <mail id="1602" title="Thưởng tự động tham gia chiến trường"/>
+  <mail id="1701" title="Quà trợ uy mỗi vòng từng server"/>
+  <mail id="1702" title="P.thưởng Top 32 từng server"/>
+  <mail id="1703" title="P.thưởng Top 16 từng server"/>
+  <mail id="1704" title="P.thưởng Top 8 từng server"/>
+  <mail id="1705" title="P.thưởng Top 4 từng server"/>
+  <mail id="1706" title="P.thưởng Á Quân từng server"/>
+  <mail id="1707" title="P.thưởng Quán Quân từng server"/>
+  <mail id="1708" title="Quà trợ uy mỗi vòng liên server"/>
+  <mail id="1709" title="P.thưởng Top 32 Liên server"/>
+  <mail id="1710" title="P.thưởng Top 16 Liên server"/>
+  <mail id="1711" title="P.thưởng Top 8 Liên server"/>
+  <mail id="1712" title="P.thưởng Top 4 Liên server"/>
+  <mail id="1713" title="P.thưởng Á Quân Liên server"/>
+  <mail id="1714" title="P.thưởng Quán Quân Liên server"/>
+  <mail id="1801" title="Phòng thủ mỏ T.Nguyên Tân TG thất bại"/>
+  <mail id="1802" title="Người chơi cướp NPC mỏ T.Nguyên thành công"/>
+  <mail id="1803" title="Người chơi cướp NPC mỏ T.Nguyên thất bại"/>
+  <mail id="1804" title="Mỏ vừa chiếm bị người chơi khác chiếm lại"/>
+  <mail id="1805" title="NPC mỏ TN hết hạn"/>
+  <mail id="1901" title="Thông báo Khu vui chơi"/>
+  <mail id="2001" title="Quà cá nhân Cây ác ma"/>
+  <mail id="2002" title="Quà C.hội Cây ác ma"/>
+  <mail id="2101" title="Quà trợ uy mỗi vòng Đua top Tranh bá"/>
+  <mail id="2102" title="Quà Top 16 Đua top Tranh bá"/>
+  <mail id="2103" title="Quà Top 8 Đua top Tranh bá"/>
+  <mail id="2104" title="Quà Top 4 Đua top Tranh bá"/>
+  <mail id="2105" title="Quà Á Quân Đua top Tranh bá"/>
+  <mail id="2106" title="Quà Quán Quân Đua top Tranh bá"/>
+  <mail id="2107" title="Quà Top 16 Đua top Tranh bá (chưa có)"/>
+  <mail id="2108" title="Quà Top 8 Đua top Tranh bá (chưa có)"/>
+  <mail id="2109" title="Quà Top 4 Đua top Tranh bá (chưa có)"/>
+  <mail id="2110" title="Quà Á quân Đua top Tranh bá (chưa có)"/>
+  <mail id="2111" title="Quà Quán quân Đua top Tranh bá (chưa có)"/>
+  <mail id="2201" title="P.thưởng Tinh Linh mỏ"/>
+  <mail id="2301" title="P.thưởng XH Đại chiến Vượt ải"/>
+  <mail id="2401" title="P.thưởng Vui đoán thẻ bài"/>
+  <mail id="2402" title="P.thưởng Vui đoán thẻ bài đặc biệt"/>
+  <mail id="2501" title="P.thưởng trợ uy mỗi vòng Hải tặc chiến đấu"/>
+  <mail id="2502" title="P.thưởng tích điểm Hải tặc chiến đấu"/>
+  <mail id="2503" title="P.thưởng Top 16 Hải tặc chiến đấu"/>
+  <mail id="2504" title="P.thưởng Top 8 Hải tặc chiến đấu"/>
+  <mail id="2505" title="P.thưởng Top 4 Hải tặc chiến đấu"/>
+  <mail id="2506" title="P.thưởng Á quân Hải tặc chiến đấu"/>
+  <mail id="2507" title="P.thưởng Quán quân Hải tặc chiến đấu"/>
+  <mail id="2508" title="Giải tán đội ngũ Hải tặc chiến đấu"/>
+  <mail id="2601" title="P.thưởng BXH Tấn công Thủy Đội"/>
+  <mail id="2701" title="P.thưởng Tranh bá trên biển"/>
+  <mail id="2801" title="P.thưởng Corrida Colosseum"/>
+  <mail id="2901" title="P.thưởng Wanted"/>
+  <mail id="3001" title="P.thưởng XH sát thương c.hội"/>
+  <mail id="3002" title="P.thưởng cấp độ boss c.hội"/>
+  <mail id="3003" title="公会保卫战自动参与奖励"/>
+  <mail id="3101" title="P.thưởng XH tích điểm Strong World"/>
+  <mail id="3201" title="P.thưởng đấu giá dưới đất thành công"/>
+  <mail id="3202" title="Đấu giá dưới đất thất bại"/>
+  <mail id="3301" title="Thu nhập lính đánh thuê"/>
+  <mail id="3401" title="P.thưởng Đại Chiến TTG may mắn"/>
+  <mail id="3402" title="P.thưởng Đại Chiến TTG"/>
+  <mail id="3403" title="Khiêu chiến kho báu"/>
+  <mail id="3404" title="Cướp báu vật thành công"/>
+  <mail id="3405" title="Cướp báu vật thất bại"/>
+  <mail id="3406" title="Khai thác báu vật"/>
+  <mail id="3407" title="Báu vật đã bị chiếm"/>
+  <mail id="3408" title="Báu vật bị tấn công"/>
+  <mail id="3409" title="巅峰王者总冠军奖励"/>
+  <mail id="3410" title="巅峰王者每日贡献度排名奖励"/>
+  <mail id="3411" title="巅峰王者每日人气度排名奖励"/>
+  <mail id="3412" title="巅峰王者累计人气度排名奖励"/>
+  <mail id="3501" title="红包过期退还通知"/>
+  <mail id="3601" title="幽灵船防守失败"/>
+  <mail id="3602" title="幽灵船奖励"/>
+</root>

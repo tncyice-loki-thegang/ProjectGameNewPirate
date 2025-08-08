@@ -1,0 +1,4 @@
+<root>
+  <black_market id="1" copy_rate="0" sailing_rate="0" cooking_rate="0" last_time="120" refresh_cost="10|20|30|50" index_id="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15" permanent_vip_need="5" permanent_cost="2000" description="1、我是临时数据\n2、我是临时数据\n3、我是临时数据" permanent_free_time="5"/>
+  <black_market id="2" copy_rate="0" sailing_rate="0" cooking_rate="0" last_time="60" refresh_cost="10|20|30|50" index_id="16|17|18|19|20|21|22|23|24|25|26|27|28|29|30" permanent_vip_need="3" permanent_cost="500" description="123456" permanent_free_time="3"/>
+</root>

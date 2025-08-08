@@ -1,0 +1,515 @@
+[20201113 11:30:01 481056][FATAL][logid:1590869200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 11:30:01 499125][FATAL][logid:1590869200][server:192.168.1.230][script/CreateGroupBattle.script.php:38]createGroupBattle failed. php
+[20201113 12:30:01 843208][FATAL][logid:3390387200][server:192.168.1.230][lib/PHPProxy.class.php:222]proxy request:array (
+  'method' => 'asyncExecuteRequest',
+  'args' => 
+  array (
+    0 => 20400,
+    1 => 
+    array (
+      'method' => 'user.extraExecution',
+      'args' => 
+      array (
+      ),
+      'token' => '3390387305',
+      'callback' => 
+      array (
+        'callbackName' => 'dummy',
+      ),
+      'serverId' => 0,
+    ),
+    2 => true,
+  ),
+  'type' => 1,
+  'time' => 1605241801,
+  'token' => '3390387205',
+  'callback' => 'asyncExecuteRequest',
+  'return' => true,
+), return:mod_not_found
+[20201113 12:30:01 845058][FATAL][logid:3390387200][server:192.168.1.230][lib/Util.class.php:958]method:asyncExecuteRequest, args:array (
+  0 => 20400,
+  1 => 
+  array (
+    'method' => 'user.extraExecution',
+    'args' => 
+    array (
+    ),
+    'token' => '3390387302',
+    'backend' => '',
+    'callback' => 
+    array (
+      'callbackName' => 'dummy',
+    ),
+  ),
+  2 => true,
+)
+[20201113 14:00:01 785362][FATAL][logid:7079877300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:00:01 785537][FATAL][logid:7079877300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:05:01 880180][FATAL][logid:6691685500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:05:01 880277][FATAL][logid:6691685500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:05:01 914810][FATAL][logid:4227817100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:05:01 914901][FATAL][logid:4227817100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:10:01 499788][FATAL][logid:4303358100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:10:01 499873][FATAL][logid:4303358100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:29:02 011390][FATAL][logid:1798323200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:29:02 011479][FATAL][logid:1798323200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:30:01 364110][FATAL][logid:5265203200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:30:01 364219][FATAL][logid:5265203200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:35:02 131009][FATAL][logid:4860748300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:35:02 131097][FATAL][logid:4860748300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:40:01 865120][FATAL][logid:3905889300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:40:01 865176][FATAL][logid:3905889300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:45:01 554125][FATAL][logid:2467868500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:45:01 554199][FATAL][logid:2467868500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:46:01 794646][FATAL][logid:5860096000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:46:01 794702][FATAL][logid:5860096000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:47:01 982364][FATAL][logid:4656874600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:47:01 982436][FATAL][logid:4656874600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:52:01 919104][FATAL][logid:4891947800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:52:01 919171][FATAL][logid:4891947800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:53:02 123704][FATAL][logid:1942088500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:53:02 123757][FATAL][logid:1942088500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:54:01 356238][FATAL][logid:8049088000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:54:01 356308][FATAL][logid:8049088000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:55:01 623727][FATAL][logid:3148048600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:55:01 623810][FATAL][logid:3148048600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:56:01 793930][FATAL][logid:3707583800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:56:01 793980][FATAL][logid:3707583800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201113 14:57:02 030355][FATAL][logid:1484450200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201113 14:57:02 030428][FATAL][logid:1484450200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 04:01:01 611808][FATAL][logid:1445775500][server:192.168.1.230][module/worldResource/WorldResourceDAO.class.php:44]invalid world resource id!:100006
+[20201114 04:01:01 611864][FATAL][logid:1445775500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:fake
+[20201114 04:06:01 598398][FATAL][logid:6475122700][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20201114 04:06:01 663364][FATAL][logid:6475122700][server:192.168.1.230][script/VipAutoIcs.php:42]attention. exit VipAutoIcs
+[20201114 11:30:01 622870][FATAL][logid:9715617500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 11:30:01 624015][FATAL][logid:9715617500][server:192.168.1.230][script/CreateGroupBattle.script.php:38]createGroupBattle failed. php
+[20201114 12:30:01 606097][FATAL][logid:1289448200][server:192.168.1.230][lib/PHPProxy.class.php:222]proxy request:array (
+  'method' => 'asyncExecuteRequest',
+  'args' => 
+  array (
+    0 => 20400,
+    1 => 
+    array (
+      'method' => 'user.extraExecution',
+      'args' => 
+      array (
+      ),
+      'token' => '1289448305',
+      'callback' => 
+      array (
+        'callbackName' => 'dummy',
+      ),
+      'serverId' => 0,
+    ),
+    2 => true,
+  ),
+  'type' => 1,
+  'time' => 1605328201,
+  'token' => '1289448205',
+  'callback' => 'asyncExecuteRequest',
+  'return' => true,
+), return:mod_not_found
+[20201114 12:30:01 607855][FATAL][logid:1289448200][server:192.168.1.230][lib/Util.class.php:958]method:asyncExecuteRequest, args:array (
+  0 => 20400,
+  1 => 
+  array (
+    'method' => 'user.extraExecution',
+    'args' => 
+    array (
+    ),
+    'token' => '1289448302',
+    'backend' => '',
+    'callback' => 
+    array (
+      'callbackName' => 'dummy',
+    ),
+  ),
+  2 => true,
+)
+[20201114 14:00:01 876711][FATAL][logid:3703369000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:00:01 876816][FATAL][logid:3703369000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:05:01 660666][FATAL][logid:9204520400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:05:01 660753][FATAL][logid:9204520400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:05:01 666642][FATAL][logid:4246181700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:05:01 666731][FATAL][logid:4246181700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:10:01 293826][FATAL][logid:7883312500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:10:01 293910][FATAL][logid:7883312500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:29:01 684734][FATAL][logid:5902158000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:29:01 684841][FATAL][logid:5902158000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:30:02 011178][FATAL][logid:3242752000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:30:02 011273][FATAL][logid:3242752000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:35:01 772613][FATAL][logid:1814562500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:35:01 772757][FATAL][logid:1814562500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:40:01 472455][FATAL][logid:1050690300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:40:01 472504][FATAL][logid:1050690300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:45:02 226188][FATAL][logid:4850400900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:45:02 226245][FATAL][logid:4850400900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:46:01 455522][FATAL][logid:9374449200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:46:01 455589][FATAL][logid:9374449200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:47:01 699150][FATAL][logid:5806311100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:47:01 699215][FATAL][logid:5806311100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:52:01 540807][FATAL][logid:6135176900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:52:01 540880][FATAL][logid:6135176900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:53:01 740535][FATAL][logid:8841984000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:53:01 740594][FATAL][logid:8841984000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:54:01 930879][FATAL][logid:1146485300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:54:01 931034][FATAL][logid:1146485300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:55:02 169411][FATAL][logid:4159692800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:55:02 169489][FATAL][logid:4159692800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:56:01 387884][FATAL][logid:1258699100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:56:01 387938][FATAL][logid:1258699100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 14:57:01 620275][FATAL][logid:7531452400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20201114 14:57:01 620351][FATAL][logid:7531452400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20201114 20:00:01 965603][FATAL][logid:6912204800][server:192.168.1.230][lib/PHPProxy.class.php:222]proxy request:array (
+  'method' => 'asyncExecuteRequest',
+  'args' => 
+  array (
+    0 => 20400,
+    1 => 
+    array (
+      'method' => 'user.extraExecution',
+      'args' => 
+      array (
+      ),
+      'token' => '6912204905',
+      'callback' => 
+      array (
+        'callbackName' => 'dummy',
+      ),
+      'serverId' => 0,
+    ),
+    2 => true,
+  ),
+  'type' => 1,
+  'time' => 1605355201,
+  'token' => '6912204805',
+  'callback' => 'asyncExecuteRequest',
+  'return' => true,
+), return:mod_not_found
+[20201114 20:00:01 965843][FATAL][logid:6912204800][server:192.168.1.230][lib/Util.class.php:958]method:asyncExecuteRequest, args:array (
+  0 => 20400,
+  1 => 
+  array (
+    'method' => 'user.extraExecution',
+    'args' => 
+    array (
+    ),
+    'token' => '6912204902',
+    'backend' => '',
+    'callback' => 
+    array (
+      'callbackName' => 'dummy',
+    ),
+  ),
+  2 => true,
+)
+[20201115 04:01:01 647619][FATAL][logid:1057503400][server:192.168.1.230][module/worldResource/WorldResourceDAO.class.php:44]invalid world resource id!:100006
+[20201115 04:01:01 647677][FATAL][logid:1057503400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:fake
+[20201115 04:06:01 606389][FATAL][logid:7558258800][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20201115 04:06:01 691813][FATAL][logid:7558258800][server:192.168.1.230][script/VipAutoIcs.php:42]attention. exit VipAutoIcs
+[20210312 11:30:02 236127][FATAL][logid:9314406400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 11:30:02 236441][FATAL][logid:9314406400][server:192.168.1.230][script/CreateGroupBattle.script.php:38]createGroupBattle failed. php
+[20210312 12:30:01 859402][FATAL][logid:5108754500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210312 12:30:01 859529][FATAL][logid:5108754500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:00:01 283693][FATAL][logid:5179581800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:00:01 283783][FATAL][logid:5179581800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:05:02 057775][FATAL][logid:1042688200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:05:02 057860][FATAL][logid:1042688200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:05:02 081502][FATAL][logid:1770103400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:05:02 081589][FATAL][logid:1770103400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:10:01 842898][FATAL][logid:9273934100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:10:01 842987][FATAL][logid:9273934100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:29:01 196606][FATAL][logid:2035522900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210312 14:29:01 196727][FATAL][logid:2035522900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:30:01 465149][FATAL][logid:7665399600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:30:01 465239][FATAL][logid:7665399600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:35:01 951560][FATAL][logid:3569998800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:35:01 951620][FATAL][logid:3569998800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:40:01 564802][FATAL][logid:8961250800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:40:01 564863][FATAL][logid:8961250800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:45:02 154302][FATAL][logid:7088074000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:45:02 154407][FATAL][logid:7088074000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:46:01 283603][FATAL][logid:7646233600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:46:01 283676][FATAL][logid:7646233600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:47:01 412249][FATAL][logid:5950602500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:47:01 412297][FATAL][logid:5950602500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:52:02 171401][FATAL][logid:4172492800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:52:02 171476][FATAL][logid:4172492800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:53:01 324581][FATAL][logid:7804851500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:53:01 324645][FATAL][logid:7804851500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:54:01 536376][FATAL][logid:6235520000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:54:01 536428][FATAL][logid:6235520000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:55:01 700874][FATAL][logid:1399692800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:55:01 700945][FATAL][logid:1399692800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:56:01 862866][FATAL][logid:3610763400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:56:01 862970][FATAL][logid:3610763400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 14:57:02 097073][FATAL][logid:1768392800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210312 14:57:02 097136][FATAL][logid:1768392800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210312 20:00:01 456257][FATAL][logid:8655659600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210312 20:00:01 456401][FATAL][logid:8655659600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210401 04:00:01 989265][FATAL][logid:8884788700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210401 04:00:02 011828][FATAL][logid:8884788700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210401 04:01:01 363686][FATAL][logid:7063879900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210401 04:01:01 363784][FATAL][logid:7063879900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210401 04:05:01 933023][FATAL][logid:7826790400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210401 04:05:01 933142][FATAL][logid:7826790400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210401 04:06:02 192021][FATAL][logid:4207899600][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20210401 04:06:02 214326][FATAL][logid:4207899600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210401 04:06:02 214431][FATAL][logid:4207899600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 04:01:01 786438][FATAL][logid:5553738700][server:192.168.1.230][module/worldResource/WorldResourceDAO.class.php:44]invalid world resource id!:100006
+[20210416 04:01:01 795148][FATAL][logid:5553738700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:fake
+[20210416 04:06:02 083423][FATAL][logid:9792998400][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20210416 04:06:02 167431][FATAL][logid:9792998400][server:192.168.1.230][script/VipAutoIcs.php:42]attention. exit VipAutoIcs
+[20210416 11:30:02 202571][FATAL][logid:8569167100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 11:30:02 213225][FATAL][logid:8569167100][server:192.168.1.230][script/CreateGroupBattle.script.php:38]createGroupBattle failed. php
+[20210416 14:00:01 771174][FATAL][logid:2753701800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:00:01 771284][FATAL][logid:2753701800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:05:01 680776][FATAL][logid:1344473100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:05:01 697694][FATAL][logid:1344473100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:05:01 718542][FATAL][logid:9856204800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:05:01 718629][FATAL][logid:9856204800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:10:01 386575][FATAL][logid:9691681400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:10:01 386665][FATAL][logid:9691681400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:29:01 924516][FATAL][logid:3067187200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:29:01 924619][FATAL][logid:3067187200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:30:02 210116][FATAL][logid:5455352500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:30:02 210245][FATAL][logid:5455352500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:35:01 806725][FATAL][logid:1643335200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:35:01 806812][FATAL][logid:1643335200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:40:01 520788][FATAL][logid:6167203600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:40:01 520841][FATAL][logid:6167203600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:45:02 078738][FATAL][logid:5938022400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:45:02 078790][FATAL][logid:5938022400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:46:01 264490][FATAL][logid:8591093000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:46:01 264540][FATAL][logid:8591093000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:47:01 459734][FATAL][logid:3148032000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:47:01 459814][FATAL][logid:3148032000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:52:01 207031][FATAL][logid:7408288900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:52:01 207125][FATAL][logid:7408288900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:53:01 446993][FATAL][logid:7239896300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:53:01 447161][FATAL][logid:7239896300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:54:01 663751][FATAL][logid:2983142400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:54:01 663801][FATAL][logid:2983142400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:55:01 922134][FATAL][logid:1084715900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:55:01 922219][FATAL][logid:1084715900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:56:02 078995][FATAL][logid:1088335300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:56:02 079061][FATAL][logid:1088335300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210416 14:57:01 300929][FATAL][logid:9459302400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20210416 14:57:01 300977][FATAL][logid:9459302400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20210417 04:01:01 406341][FATAL][logid:8001229700][server:192.168.1.230][module/worldResource/WorldResourceDAO.class.php:44]invalid world resource id!:100006
+[20210417 04:01:01 406423][FATAL][logid:8001229700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:fake
+[20210417 04:06:01 583531][FATAL][logid:1180057600][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20210417 04:06:01 667353][FATAL][logid:1180057600][server:192.168.1.230][script/VipAutoIcs.php:42]attention. exit VipAutoIcs
+[20210421 20:00:03 955995][FATAL][logid:3955859400][server:192.168.1.230][lib/PHPProxy.class.php:222]proxy request:array (
+  'method' => 'asyncExecuteRequest',
+  'args' => 
+  array (
+    0 => 24900,
+    1 => 
+    array (
+      'method' => 'user.extraExecution',
+      'args' => 
+      array (
+      ),
+      'token' => '3955859505',
+      'callback' => 
+      array (
+        'callbackName' => 'dummy',
+      ),
+      'serverId' => 0,
+    ),
+    2 => true,
+  ),
+  'type' => 1,
+  'time' => 1619006403,
+  'token' => '3955859405',
+  'callback' => 'asyncExecuteRequest',
+  'return' => true,
+), return:mod_not_found
+[20210421 20:00:04 386875][FATAL][logid:3955859400][server:192.168.1.230][lib/Util.class.php:958]method:asyncExecuteRequest, args:array (
+  0 => 24900,
+  1 => 
+  array (
+    'method' => 'user.extraExecution',
+    'args' => 
+    array (
+    ),
+    'token' => '3955859503',
+    'backend' => '',
+    'callback' => 
+    array (
+      'callbackName' => 'dummy',
+    ),
+  ),
+  2 => true,
+)
+[20210511 20:00:16 274182][FATAL][logid:4466032000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:2, errstr:socket_connect(): unable to connect [111]: Connection refused, errfile:/home/pirate/rpcfw/lib/PHPProxy.class.php, errline:63
+[20210511 20:00:16 557999][FATAL][logid:4466032000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 04:01:01 247569][FATAL][logid:9601929400][server:192.168.1.230][module/worldResource/WorldResourceDAO.class.php:44]invalid world resource id!:100006
+[20211201 04:01:01 264449][FATAL][logid:9601929400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:fake
+[20211201 04:06:01 249757][FATAL][logid:6830464000][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20211201 04:06:01 291148][FATAL][logid:6830464000][server:192.168.1.230][script/VipAutoIcs.php:42]attention. exit VipAutoIcs
+[20211201 11:30:01 973072][FATAL][logid:7431771700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 11:30:01 986534][FATAL][logid:7431771700][server:192.168.1.230][script/CreateGroupBattle.script.php:38]createGroupBattle failed. php
+[20211201 12:30:02 461884][FATAL][logid:6719307800][server:192.168.1.230][lib/PHPProxy.class.php:222]proxy request:array (
+  'method' => 'asyncExecuteRequest',
+  'args' => 
+  array (
+    0 => 25000,
+    1 => 
+    array (
+      'method' => 'user.extraExecution',
+      'args' => 
+      array (
+      ),
+      'token' => '6719307905',
+      'callback' => 
+      array (
+        'callbackName' => 'dummy',
+      ),
+      'serverId' => 0,
+    ),
+    2 => true,
+  ),
+  'type' => 1,
+  'time' => 1638333002,
+  'token' => '6719307805',
+  'callback' => 'asyncExecuteRequest',
+  'return' => true,
+), return:mod_not_found
+[20211201 12:30:02 462314][FATAL][logid:6719307800][server:192.168.1.230][lib/Util.class.php:958]method:asyncExecuteRequest, args:array (
+  0 => 25000,
+  1 => 
+  array (
+    'method' => 'user.extraExecution',
+    'args' => 
+    array (
+    ),
+    'token' => '6719307903',
+    'backend' => '',
+    'callback' => 
+    array (
+      'callbackName' => 'dummy',
+    ),
+  ),
+  2 => true,
+)
+[20211201 14:00:01 648822][FATAL][logid:8884608000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:00:01 648960][FATAL][logid:8884608000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:05:01 727453][FATAL][logid:2341303700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:05:01 727730][FATAL][logid:2341303700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:05:01 741169][FATAL][logid:6222798600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:05:01 741295][FATAL][logid:6222798600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:10:01 395418][FATAL][logid:6798481200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:10:01 395628][FATAL][logid:6798481200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:29:01 836694][FATAL][logid:8837915700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:29:01 836790][FATAL][logid:8837915700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:30:02 088352][FATAL][logid:4482502200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:30:02 091490][FATAL][logid:4482502200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:35:01 804838][FATAL][logid:9222099700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:35:01 804923][FATAL][logid:9222099700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:40:01 527423][FATAL][logid:8995200000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:40:01 527528][FATAL][logid:8995200000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:45:01 243308][FATAL][logid:4678848000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:45:01 251523][FATAL][logid:4678848000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:46:01 546567][FATAL][logid:2478914000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:46:01 546630][FATAL][logid:2478914000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:47:01 696523][FATAL][logid:8897578900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:47:01 696583][FATAL][logid:8897578900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:52:01 622274][FATAL][logid:1031719900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:52:01 622328][FATAL][logid:1031719900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:53:01 801243][FATAL][logid:5237538100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:53:01 801300][FATAL][logid:5237538100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:54:02 051682][FATAL][logid:9281562900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:54:02 051757][FATAL][logid:9281562900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:55:01 304247][FATAL][logid:3198301400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:55:01 304303][FATAL][logid:3198301400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:56:01 538780][FATAL][logid:9158451200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:56:01 538834][FATAL][logid:9158451200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211201 14:57:01 748648][FATAL][logid:9783843700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211201 14:57:01 748715][FATAL][logid:9783843700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 04:01:01 664910][FATAL][logid:1680366000][server:192.168.1.230][module/worldResource/WorldResourceDAO.class.php:44]invalid world resource id!:100006
+[20211202 04:01:01 684232][FATAL][logid:1680366000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:fake
+[20211202 04:06:01 424820][FATAL][logid:1618240000][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20211202 04:06:01 458512][FATAL][logid:1618240000][server:192.168.1.230][script/VipAutoIcs.php:42]attention. exit VipAutoIcs
+[20211202 14:00:01 450910][FATAL][logid:2556815500][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:00:01 470971][FATAL][logid:2556815500][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:05:01 380134][FATAL][logid:3086249200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:05:01 387041][FATAL][logid:9286282100][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:05:01 387137][FATAL][logid:9286282100][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:05:01 380231][FATAL][logid:3086249200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:10:02 007460][FATAL][logid:6470329600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:10:02 007565][FATAL][logid:6470329600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:29:01 683064][FATAL][logid:1862272000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:29:01 683150][FATAL][logid:1862272000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:30:02 054430][FATAL][logid:5540799000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:30:02 054516][FATAL][logid:5540799000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:35:01 854999][FATAL][logid:1395558400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:35:01 855146][FATAL][logid:1395558400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:40:01 478197][FATAL][logid:5899468800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:40:01 478252][FATAL][logid:5899468800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:45:02 170642][FATAL][logid:1758912000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:45:02 170715][FATAL][logid:1758912000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:46:01 328634][FATAL][logid:1865639000][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:46:01 328709][FATAL][logid:1865639000][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:47:01 476391][FATAL][logid:1797638800][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:47:01 476443][FATAL][logid:1797638800][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:52:02 188509][FATAL][logid:2878757600][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:52:02 188623][FATAL][logid:2878757600][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:53:01 388294][FATAL][logid:7569511700][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:53:01 388348][FATAL][logid:7569511700][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:54:01 559849][FATAL][logid:1805708300][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:54:01 559907][FATAL][logid:1805708300][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:55:01 802359][FATAL][logid:5406799400][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:55:01 802429][FATAL][logid:5406799400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:56:01 933501][FATAL][logid:6313571900][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:56:01 935645][FATAL][logid:6313571900][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 14:57:02 135183][FATAL][logid:1151802200][server:192.168.1.230][lib/ScriptRunner.php:168]errcode:256, errstr:class gameconf not found, errfile:/home/pirate/rpcfw/lib/ScriptRunner.php, errline:51
+[20211202 14:57:02 135235][FATAL][logid:1151802200][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:php
+[20211202 20:00:01 654840][FATAL][logid:5068594300][server:192.168.1.230][lib/PHPProxy.class.php:222]proxy request:array (
+  'method' => 'asyncExecuteRequest',
+  'args' => 
+  array (
+    0 => 25000,
+    1 => 
+    array (
+      'method' => 'user.extraExecution',
+      'args' => 
+      array (
+      ),
+      'token' => '5068594405',
+      'callback' => 
+      array (
+        'callbackName' => 'dummy',
+      ),
+      'serverId' => 0,
+    ),
+    2 => true,
+  ),
+  'type' => 1,
+  'time' => 1638446401,
+  'token' => '5068594305',
+  'callback' => 'asyncExecuteRequest',
+  'return' => true,
+), return:mod_not_found
+[20211202 20:00:01 701381][FATAL][logid:5068594300][server:192.168.1.230][lib/Util.class.php:958]method:asyncExecuteRequest, args:array (
+  0 => 25000,
+  1 => 
+  array (
+    'method' => 'user.extraExecution',
+    'args' => 
+    array (
+    ),
+    'token' => '5068594403',
+    'backend' => '',
+    'callback' => 
+    array (
+      'callbackName' => 'dummy',
+    ),
+  ),
+  2 => true,
+)
+[20220925 04:01:01 362433][FATAL][logid:1458470400][server:192.168.1.230][module/worldResource/WorldResourceDAO.class.php:44]invalid world resource id!:100006
+[20220925 04:01:01 364326][FATAL][logid:1458470400][server:192.168.1.230][lib/ScriptRunner.php:144]uncaught exception:fake
+[20220925 04:06:01 303198][FATAL][logid:1167491600][server:192.168.1.230][script/VipAutoIcs.php:35]attention. add vip for all user.
+[20220925 04:06:01 342693][FATAL][logid:1167491600][server:192.168.1.230][script/VipAutoIcs.php:42]attention. exit VipAutoIcs

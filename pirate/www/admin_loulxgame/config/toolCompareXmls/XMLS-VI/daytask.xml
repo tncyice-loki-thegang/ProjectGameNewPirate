@@ -1,0 +1,38 @@
+<root>
+  <daytask taskid="100" taskname="Ra khơi" desc="Hoàn thành thao tác ra khơi trong giao diện của tàu chính, khi ra khơi có thể nhận được phần thưởng Beri" icon="" quality="1" type="0" count="1" experience="750" integral="1"/>
+  <daytask taskid="101" taskname="Cường hóa trang bị " desc="Chọn c.hóa trang bị trong giao diện C.hóa, c.hóa sẽ tăng khả năng cơ sở của trang bị." icon="" quality="1" type="1" count="1" experience="750" integral="1"/>
+  <daytask taskid="102" taskname="Khiêu chiến Đấu trường" desc="Hãy thách đấu với những người chơi khác trên đấu trường để chứng minh thực lực của bạn!" icon="" quality="1" type="2" count="1" experience="750" integral="1"/>
+  <daytask taskid="103" taskname="Tìm kiếm " desc="Hoàn thành thao tác tìm kiếm đá quý, đá quý có thể làm tăng sức mạnh cơ bản của trang bị." icon="" quality="1" type="3" count="1" experience="750" integral="1"/>
+  <daytask taskid="104" taskname="Tấn công Đội quân" desc="Tấn công NPC trong P.bản, đánh bại NPC nhận C.tích và trang bị." icon="" quality="1" type="4" count="1" experience="750" integral="1"/>
+  <daytask taskid="107" taskname="Tiêu vàng " desc="Tiêu vàng một cách thông minh có thể sẽ nhận được hiệu quả cấp số nhân." icon="" quality="1" type="7" count="1" experience="750" integral="1"/>
+  <daytask taskid="108" taskname="Nấu ăn" desc="Nấu ăn, bán món ăn nhận Beri Beri." icon="" quality="1" type="8" count="1" experience="750" integral="1"/>
+  <daytask taskid="109" taskname="Tăng tốc Đ.đội" desc="Tiến hành tăng tốc Đ.đội của bạn, có thể tăng cấp cho Đ.đội." icon="" quality="1" type="9" count="1" experience="750" integral="1"/>
+  <daytask taskid="110" taskname="Tẩy luyện" desc="Thông qua tẩy luyện t.bị hoặc báu vật, có thể giúp t.bị hoặc báu vật nhận được hoặc thay đổi các Thuộc tính bổ sung ." icon="" quality="1" type="10" count="1" experience="750" integral="1"/>
+  <daytask taskid="200" taskname="Ra khơi" desc="Hoàn thành thao tác ra khơi trong giao diện của tàu chính, khi ra khơi có thể nhận được phần thưởng Beri" icon="" quality="2" type="0" count="2" experience="1000" integral="2"/>
+  <daytask taskid="201" taskname="Cường hóa trang bị " desc="Chọn c.hóa trang bị trong giao diện C.hóa, c.hóa sẽ tăng khả năng cơ sở của trang bị." icon="" quality="2" type="1" count="2" experience="1000" integral="2"/>
+  <daytask taskid="202" taskname="Thách thức trên đấu trường" desc="Hãy thách đấu với những người chơi khác trên đấu trường để chứng minh thực lực của bạn!" icon="" quality="2" type="2" count="2" experience="1000" integral="2"/>
+  <daytask taskid="203" taskname="Tìm kiếm " desc="Hoàn thành thao tác tìm kiếm  đá quý, đá quý có thể làm tăng sức mạnh cơ bản của trang bị ." icon="" quality="2" type="3" count="2" experience="1000" integral="2"/>
+  <daytask taskid="204" taskname="Tấn công Đội quân" desc="Tấn công NPC trong P.bản, đánh bại NPC nhận C.tích và trang bị." icon="" quality="2" type="4" count="2" experience="1000" integral="2"/>
+  <daytask taskid="207" taskname="Sử dụng vàng " desc="Tiêu vàng một cách thông minh có thể sẽ nhận được hiệu quả cấp số nhân." icon="" quality="2" type="7" count="2" experience="1000" integral="2"/>
+  <daytask taskid="208" taskname="Nấu ăn" desc="Nấu ăn, bán món ăn nhận Beri Beri." icon="" quality="2" type="8" count="2" experience="1000" integral="2"/>
+  <daytask taskid="209" taskname="Tăng tốc Đ.đội" desc="Tiến hành tăng tốc Đ.đội của bạn, có thể tăng cấp cho Đ.đội." icon="" quality="2" type="9" count="2" experience="1000" integral="2"/>
+  <daytask taskid="210" taskname="Tẩy luyện " desc="Thông qua tẩy luyện t.bị hoặc báu vật, có thể giúp t.bị hoặc báu vật nhận được hoặc thay đổi các Thuộc tính bổ sung ." icon="" quality="2" type="10" count="2" experience="1000" integral="2"/>
+  <daytask taskid="300" taskname="Ra khơi" desc="Hoàn thành thao tác ra khơi trong giao diện của tàu chính, khi ra khơi có thể nhận được phần thưởng Beri" icon="" quality="3" type="0" count="2" experience="1250" integral="3"/>
+  <daytask taskid="301" taskname="Cường hóa trang bị " desc="Chọn c.hóa trang bị trong giao diện C.hóa, c.hóa sẽ tăng khả năng cơ sở của trang bị." icon="" quality="3" type="1" count="2" experience="1250" integral="3"/>
+  <daytask taskid="302" taskname="Thách đấu trên đấu trường" desc="Hãy thách đấu với những người chơi khác trên đấu trường để chứng minh thực lực của bạn!" icon="" quality="3" type="2" count="2" experience="1250" integral="3"/>
+  <daytask taskid="303" taskname="Tìm kiếm " desc="Hoàn thành thao tác tìm kiếm  đá quý, đá quý có thể làm tăng sức mạnh cơ bản của trang bị ." icon="" quality="3" type="3" count="2" experience="1250" integral="3"/>
+  <daytask taskid="304" taskname="Tấn công Đội quân" desc="Tấn công NPC trong P.bản, đánh bại NPC nhận C.tích và trang bị." icon="" quality="3" type="4" count="2" experience="1250" integral="3"/>
+  <daytask taskid="307" taskname="Sử dụng vàng " desc="Tiêu vàng một cách thông minh có thể sẽ nhận được hiệu quả  cấp số nhân." icon="" quality="3" type="7" count="2" experience="1250" integral="3"/>
+  <daytask taskid="308" taskname="Nấu ăn" desc="Nấu ăn, bán món ăn nhận Beri Beri." icon="" quality="3" type="8" count="2" experience="1250" integral="3"/>
+  <daytask taskid="309" taskname="Tăng tốc Đ.đội" desc="Tiến hành tăng tốc Đ.đội của bạn, có thể tăng cấp cho Đ.đội." icon="" quality="3" type="9" count="2" experience="1250" integral="3"/>
+  <daytask taskid="310" taskname="Tẩy luyện " desc="Thông qua tẩy luyện t.bị hoặc báu vật, có thể giúp t.bị hoặc báu vật nhận được hoặc thay đổi các Thuộc tính bổ sung ." icon="" quality="3" type="10" count="2" experience="1250" integral="3"/>
+  <daytask taskid="400" taskname="Ra khơi" desc="Hoàn thành thao tác ra khơi trong giao diện của tàu chính, khi ra khơi có thể nhận được phần thưởng Beri" icon="" quality="4" type="0" count="3" experience="1500" integral="4"/>
+  <daytask taskid="401" taskname="Cường hóa trang bị " desc="Chọn c.hóa trang bị trong giao diện C.hóa, c.hóa sẽ tăng khả năng cơ sở của trang bị." icon="" quality="4" type="1" count="3" experience="1500" integral="4"/>
+  <daytask taskid="402" taskname="Khiêu chiến Đấu trường" desc="Hãy thách đấu với những người chơi khác trên đấu trường để chứng minh thực lực của bạn!" icon="" quality="4" type="2" count="3" experience="1500" integral="4"/>
+  <daytask taskid="403" taskname="Tìm kiếm " desc="Hoàn thành thao tác tìm kiếm đá quý, đá quý có thể làm tăng sức mạnh cơ bản của trang bị ." icon="" quality="4" type="3" count="3" experience="1500" integral="4"/>
+  <daytask taskid="404" taskname="Tấn công Đội quân" desc="Tấn công NPC trong phụ bản, tấn công NPC có thể nhận được C.tích và trang bị." icon="" quality="4" type="4" count="3" experience="1500" integral="4"/>
+  <daytask taskid="407" taskname="Tiêu vàng " desc="Tiêu vàng một cách thông minh có thể sẽ nhận được hiệu quả cấp số nhân." icon="" quality="4" type="7" count="3" experience="1500" integral="4"/>
+  <daytask taskid="408" taskname="Nấu ăn" desc="Nấu ăn, bán món ăn nhận Beri Beri." icon="" quality="4" type="8" count="3" experience="1500" integral="4"/>
+  <daytask taskid="409" taskname="Tăng tốc Đ.đội" desc="Tiến hành tăng tốc Đ.đội của bạn, có thể tăng cấp cho Đ.đội." icon="" quality="4" type="9" count="3" experience="1500" integral="4"/>
+  <daytask taskid="410" taskname="Tẩy luyện " desc="Thông qua tẩy luyện t.bị hoặc báu vật, có thể giúp t.bị hoặc báu vật nhận được hoặc thay đổi các Thuộc tính bổ sung." icon="" quality="4" type="10" count="3" experience="1500" integral="4"/>
+</root>

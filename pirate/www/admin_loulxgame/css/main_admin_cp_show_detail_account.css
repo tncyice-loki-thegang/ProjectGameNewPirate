@@ -1,0 +1,6 @@
+.scroll {
+	width: 100%;
+	background-color: while;
+	height: 600px;
+	overflow-y: auto;
+}

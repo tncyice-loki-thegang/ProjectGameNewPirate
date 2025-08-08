@@ -1,0 +1,13 @@
+<root>
+  <guildboss_damgreward rankLbound="1" rankUbound="1" bellyBase="10000" prestige="1000" techPoint="1500" rewardItem="70727|30,70730|30"/>
+  <guildboss_damgreward rankLbound="2" rankUbound="2" bellyBase="9500" prestige="950" techPoint="1450" rewardItem="70727|28,70730|28"/>
+  <guildboss_damgreward rankLbound="3" rankUbound="3" bellyBase="9000" prestige="900" techPoint="1400" rewardItem="70727|26,70730|26"/>
+  <guildboss_damgreward rankLbound="4" rankUbound="10" bellyBase="8500" prestige="850" techPoint="1350" rewardItem="70727|24,70730|24"/>
+  <guildboss_damgreward rankLbound="11" rankUbound="20" bellyBase="8000" prestige="800" techPoint="1300" rewardItem="70727|22,70730|22"/>
+  <guildboss_damgreward rankLbound="21" rankUbound="40" bellyBase="7500" prestige="750" techPoint="1250" rewardItem="70727|20,70730|20"/>
+  <guildboss_damgreward rankLbound="41" rankUbound="60" bellyBase="7000" prestige="700" techPoint="1200" rewardItem="70727|18,70730|18"/>
+  <guildboss_damgreward rankLbound="61" rankUbound="90" bellyBase="6500" prestige="650" techPoint="1150" rewardItem="70727|16,70730|16"/>
+  <guildboss_damgreward rankLbound="90" rankUbound="140" bellyBase="6000" prestige="600" techPoint="1100" rewardItem="70727|12,70730|12"/>
+  <guildboss_damgreward rankLbound="140" rankUbound="200" bellyBase="5500" prestige="550" techPoint="1050" rewardItem="70727|10,70730|10"/>
+  <guildboss_damgreward rankLbound="200" rankUbound="999" bellyBase="5000" prestige="500" techPoint="1000" rewardItem="70727|8,70730|8"/>
+</root>

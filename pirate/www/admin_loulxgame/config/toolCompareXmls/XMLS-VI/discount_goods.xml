@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<root>
+  <discount_goods id="1101" itemId="70766" itemNum="1" gold="2400" discount="7000" buyLimit="1|1|1|1|1|1|1|1|1|1|1|1|1" serverLimit="1" buyTime="86400"/>
+  <discount_goods id="1102" itemId="70209" itemNum="1" gold="1" discount="5000" buyLimit="100|100|100|100|100|100|100|100|100|100|100|200|200" serverLimit="888" buyTime="86400"/>
+  <discount_goods id="1103" itemId="81123" itemNum="1" gold="5" discount="6000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="100" buyTime="86400"/>
+  <discount_goods id="1104" itemId="61133" itemNum="1" gold="2" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|30|30" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1105" itemId="61134" itemNum="1" gold="10" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="222" buyTime="86400"/>
+  <discount_goods id="1106" itemId="61132" itemNum="1" gold="25" discount="6000" buyLimit="3|3|3|3|3|3|3|3|3|3|3|5|5" serverLimit="20" buyTime="86400"/>
+  <discount_goods id="1201" itemId="2000000" itemNum="1" gold="3" discount="3000" buyLimit="30|30|30|30|30|30|30|30|30|30|30|70|70" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1202" itemId="1292007" itemNum="1" gold="10" discount="7000" buyLimit="20|20|20|20|20|20|20|20|20|20|20|50|50" serverLimit="123" buyTime="86400"/>
+  <discount_goods id="1203" itemId="79502" itemNum="1" gold="80" discount="3000" buyLimit="2|2|2|2|2|2|2|2|2|2|2|6|6" serverLimit="20" buyTime="86400"/>
+  <discount_goods id="1204" itemId="61133" itemNum="1" gold="2" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|30|30" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1205" itemId="61134" itemNum="1" gold="10" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="222" buyTime="86400"/>
+  <discount_goods id="1206" itemId="71115" itemNum="1" gold="15" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|25|25" serverLimit="111" buyTime="86400"/>
+  <discount_goods id="1207" itemId="1100830" itemNum="1" gold="20" discount="7000" buyLimit="30|30|30|30|30|30|30|30|30|30|30|70|70" serverLimit="666" buyTime="86400"/>
+  <discount_goods id="1301" itemId="1200241" itemNum="1" gold="100" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|25|25" serverLimit="111" buyTime="86400"/>
+  <discount_goods id="1302" itemId="70209" itemNum="1" gold="1" discount="5000" buyLimit="100|100|100|100|100|100|100|100|100|100|100|200|200" serverLimit="888" buyTime="86400"/>
+  <discount_goods id="1303" itemId="81123" itemNum="1" gold="5" discount="6000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="100" buyTime="86400"/>
+  <discount_goods id="1304" itemId="61133" itemNum="1" gold="2" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|30|30" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1305" itemId="61134" itemNum="1" gold="10" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="222" buyTime="86400"/>
+  <discount_goods id="1306" itemId="1100825" itemNum="1" gold="25" discount="3000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|25|25" serverLimit="111" buyTime="86400"/>
+  <discount_goods id="1401" itemId="129903" itemNum="1" gold="1" discount="2000" buyLimit="40|40|40|40|40|40|40|40|40|40|40|100|100" serverLimit="666" buyTime="86400"/>
+  <discount_goods id="1402" itemId="1292008" itemNum="1" gold="20" discount="7000" buyLimit="20|20|20|20|20|20|20|20|20|20|20|50|50" serverLimit="123" buyTime="86400"/>
+  <discount_goods id="1403" itemId="79502" itemNum="1" gold="80" discount="7000" buyLimit="2|2|2|2|2|2|2|2|2|2|2|6|6" serverLimit="20" buyTime="86400"/>
+  <discount_goods id="1404" itemId="61133" itemNum="1" gold="2" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|30|30" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1405" itemId="61134" itemNum="1" gold="10" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="222" buyTime="86400"/>
+  <discount_goods id="1406" itemId="129303" itemNum="1" gold="30" discount="6000" buyLimit="5|5|5|5|5|5|5|5|5|5|5|10|10" serverLimit="40" buyTime="86400"/>
+  <discount_goods id="1407" itemId="1100823" itemNum="1" gold="10" discount="8000" buyLimit="40|40|40|40|40|40|40|40|40|40|40|100|100" serverLimit="666" buyTime="86400"/>
+  <discount_goods id="1501" itemId="2000000" itemNum="1" gold="3" discount="3000" buyLimit="30|30|30|30|30|30|30|30|30|30|30|70|70" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1502" itemId="70209" itemNum="1" gold="1" discount="5000" buyLimit="100|100|100|100|100|100|100|100|100|100|100|200|200" serverLimit="888" buyTime="86400"/>
+  <discount_goods id="1503" itemId="81123" itemNum="1" gold="5" discount="6000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="100" buyTime="86400"/>
+  <discount_goods id="1504" itemId="61133" itemNum="1" gold="2" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|30|30" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1505" itemId="61134" itemNum="1" gold="10" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="222" buyTime="86400"/>
+  <discount_goods id="1506" itemId="71115" itemNum="1" gold="15" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|25|25" serverLimit="111" buyTime="86400"/>
+  <discount_goods id="1601" itemId="129903" itemNum="1" gold="1" discount="2000" buyLimit="40|40|40|40|40|40|40|40|40|40|40|100|100" serverLimit="666" buyTime="86400"/>
+  <discount_goods id="1602" itemId="129304" itemNum="1" gold="250" discount="4000" buyLimit="2|2|2|2|2|2|2|2|2|2|2|4|4" serverLimit="20" buyTime="86400"/>
+  <discount_goods id="1603" itemId="79502" itemNum="1" gold="80" discount="3000" buyLimit="2|2|2|2|2|2|2|2|2|2|2|6|6" serverLimit="20" buyTime="86400"/>
+  <discount_goods id="1604" itemId="61133" itemNum="1" gold="2" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|30|30" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1605" itemId="61134" itemNum="1" gold="10" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="222" buyTime="86400"/>
+  <discount_goods id="1606" itemId="61132" itemNum="1" gold="25" discount="6000" buyLimit="3|3|3|3|3|3|3|3|3|3|3|5|5" serverLimit="20" buyTime="86400"/>
+  <discount_goods id="1701" itemId="129906" itemNum="1" gold="1200" discount="6000" buyLimit="1|1|1|1|1|1|1|1|1|1|1|1|1" serverLimit="2" buyTime="64800"/>
+  <discount_goods id="1702" itemId="70209" itemNum="1" gold="1" discount="5000" buyLimit="100|100|100|100|100|100|100|100|100|100|100|200|200" serverLimit="888" buyTime="86400"/>
+  <discount_goods id="1703" itemId="81123" itemNum="1" gold="5" discount="6000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="100" buyTime="86400"/>
+  <discount_goods id="1704" itemId="61133" itemNum="1" gold="2" discount="4000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|30|30" serverLimit="333" buyTime="86400"/>
+  <discount_goods id="1705" itemId="61134" itemNum="1" gold="10" discount="5000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|20|20" serverLimit="222" buyTime="86400"/>
+  <discount_goods id="1706" itemId="1100825" itemNum="1" gold="25" discount="3000" buyLimit="10|10|10|10|10|10|10|10|10|10|10|25|25" serverLimit="111" buyTime="86400"/>
+</root>

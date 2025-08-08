@@ -1,0 +1,32 @@
+<root>
+  <palaceBig id="1" seapalaceId="101,102,103,104,105,106,107,108,109,110" Coord="" icon="1" palaceName="青海宫" next="2" level="102" item=""/>
+  <palaceBig id="2" seapalaceId="201,202,203,204,205,206,207,208,209,210" Coord="" icon="2" palaceName="白海宫" next="3" level="104" item="120034|1"/>
+  <palaceBig id="3" seapalaceId="301,302,303,304,305,306,307,308,309,310" Coord="" icon="3" palaceName="深海宫" next="4" level="106" item="120034|1"/>
+  <palaceBig id="4" seapalaceId="401,402,403,404,405,406,407,408,409,410" Coord="" icon="4" palaceName="星海宫" next="5" level="108" item="120034|1"/>
+  <palaceBig id="5" seapalaceId="501,502,503,504,505,506,507,508,509,510" Coord="" icon="5" palaceName="丛星宫" next="6" level="110" item="120034|1"/>
+  <palaceBig id="6" seapalaceId="601,602,603,604,605,606,607,608,609,610" Coord="" icon="6" palaceName="云星宫" next="7" level="112" item="120034|1"/>
+  <palaceBig id="7" seapalaceId="701,702,703,704,705,706,707,708,709,710" Coord="" icon="7" palaceName="海皇宫" next="8" level="114" item="120034|1"/>
+  <palaceBig id="8" seapalaceId="801,802,803,804,805,806,807,808,809,810" Coord="" icon="8" palaceName="龙王宫" next="9" level="116" item="120034|1"/>
+  <palaceBig id="9" seapalaceId="901,902,903,904,905,906,907,908,909,910" Coord="" icon="9" palaceName="海神宫" next="10" level="118" item="120034|1"/>
+  <palaceBig id="10" seapalaceId="1001,1002,1003,1004,1005,1006,1007,1008,1009,1010" Coord="" icon="10" palaceName="八咫宫" next="11" level="120" item="120034|1"/>
+  <palaceBig id="11" seapalaceId="1101,1102,1103,1104,1105,1106,1107,1108,1109,1110" Coord="" icon="11" palaceName="雪走宫" next="12" level="122" item="120034|1"/>
+  <palaceBig id="12" seapalaceId="1201,1202,1203,1204,1205,1206,1207,1208,1209,1210" Coord="" icon="12" palaceName="鬼彻宫" next="13" level="124" item="120034|1"/>
+  <palaceBig id="13" seapalaceId="1301,1302,1303,1304,1305,1306,1307,1308,1309,1310" Coord="" icon="13" palaceName="时雨宫" next="14" level="126" item="120034|1"/>
+  <palaceBig id="14" seapalaceId="1401,1402,1403,1404,1405,1406,1407,1408,1409,1410" Coord="" icon="14" palaceName="花州宫" next="15" level="128" item="120034|1"/>
+  <palaceBig id="15" seapalaceId="1501,1502,1503,1504,1505,1506,1507,1508,1509,1510" Coord="" icon="15" palaceName="和道宫" next="16" level="130" item="120034|1"/>
+  <palaceBig id="16" seapalaceId="1601,1602,1603,1604,1605,1606,1607,1608,1609,1610" Coord="" icon="16" palaceName="秋水宫" next="17" level="132" item="120034|1"/>
+  <palaceBig id="17" seapalaceId="1701,1702,1703,1704,1705,1706,1707,1708,1709,1710" Coord="" icon="17" palaceName="樱十宫" next="18" level="134" item="120034|1"/>
+  <palaceBig id="18" seapalaceId="1801,1802,1803,1804,1805,1806,1807,1808,1809,1810" Coord="" icon="18" palaceName="木枯宫" next="19" level="136" item="120034|1"/>
+  <palaceBig id="19" seapalaceId="1901,1902,1903,1904,1905,1906,1907,1908,1909,1910" Coord="" icon="19" palaceName="七星宫" next="20" level="138" item="120034|1"/>
+  <palaceBig id="20" seapalaceId="2001,2002,2003,2004,2005,2006,2007,2008,2009,2010" Coord="" icon="20" palaceName="夜の宫" next="21" level="140" item="120034|1"/>
+  <palaceBig id="21" seapalaceId="2101,2102,2103,2104,2105,2106,2107,2108,2109,2110" Coord="" icon="21" palaceName="初空宫" next="22" level="142" item="120034|1"/>
+  <palaceBig id="22" seapalaceId="2201,2202,2203,2204,2205,2206,2207,2208,2209,2210" Coord="" icon="22" palaceName="梅见宫" next="23" level="144" item="120034|1"/>
+  <palaceBig id="23" seapalaceId="2301,2302,2303,2304,2305,2306,2307,2308,2309,2310" Coord="" icon="23" palaceName="夜樱宫" next="24" level="146" item="120034|1"/>
+  <palaceBig id="24" seapalaceId="2401,2402,2403,2404,2405,2406,2407,2408,2409,2410" Coord="" icon="24" palaceName="清和宫" next="25" level="148" item="120034|1"/>
+  <palaceBig id="25" seapalaceId="2501,2502,2503,2504,2505,2506,2507,2508,2509,2510" Coord="" icon="25" palaceName="浴兰宫" next="26" level="150" item="120034|1"/>
+  <palaceBig id="26" seapalaceId="2601,2602,2603,2604,2605,2606,2607,2608,2609,2610" Coord="" icon="26" palaceName="蝉羽宫" next="27" level="152" item="120034|1"/>
+  <palaceBig id="27" seapalaceId="2701,2702,2703,2704,2705,2706,2707,2708,2709,2710" Coord="" icon="27" palaceName="凉月宫" next="28" level="154" item="120034|1"/>
+  <palaceBig id="28" seapalaceId="2801,2802,2803,2804,2805,2806,2807,2808,2809,2810" Coord="" icon="28" palaceName="月见宫" next="29" level="156" item="120034|1"/>
+  <palaceBig id="29" seapalaceId="2901,2902,2903,2904,2905,2906,2907,2908,2909,2910" Coord="" icon="29" palaceName="竹醉宫" next="30" level="158" item="120034|1"/>
+  <palaceBig id="30" seapalaceId="3001,3002,3003,3004,3005,3006,3007,3008,3009,3010" Coord="" icon="30" palaceName="胧月宫" next="" level="160" item="120034|1"/>
+</root>

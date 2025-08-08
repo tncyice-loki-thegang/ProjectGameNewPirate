@@ -1,0 +1,20 @@
+<root>
+  <HorseDecorationSuit id="1" name="岚木套装" maxnum="6" quality="2" item="101,102,103,104,105,106" illusNum="2,4,6" illusSort="1,42,2" illusSortValue="200,110,80" equipNum="" equipSort="" equipSortValue="" showOrder="1"/>
+  <HorseDecorationSuit id="2" name="琉璃套装" maxnum="6" quality="4" item="201,202,203,204,205,206" illusNum="2,4,6" illusSort="8,5,39" illusSortValue="180,110,750" equipNum="" equipSort="" equipSortValue="" showOrder="3"/>
+  <HorseDecorationSuit id="3" name="雕像套装" maxnum="6" quality="5" item="301,302,303,304,305,306" illusNum="2,4,6" illusSort="7,4,37" illusSortValue="240,140,850" equipNum="" equipSort="" equipSortValue="" showOrder="4"/>
+  <HorseDecorationSuit id="4" name="兽牙套装" maxnum="6" quality="3" item="111,112,113,114,115,116" illusNum="2,4,6" illusSort="6,3,35" illusSortValue="150,80,600" equipNum="" equipSort="" equipSortValue="" showOrder="2"/>
+  <HorseDecorationSuit id="5" name="兽铃套装" maxnum="6" quality="5" item="311,312,313,314,315,316" illusNum="2,4,6" illusSort="6,3,35" illusSortValue="240,140,850" equipNum="" equipSort="" equipSortValue="" showOrder="5"/>
+  <HorseDecorationSuit id="6" name="雕纹套装" maxnum="6" quality="5" item="321,322,323,324,325,326" illusNum="2,4,6" illusSort="8,5,39" illusSortValue="240,140,850" equipNum="" equipSort="" equipSortValue="" showOrder="6"/>
+  <HorseDecorationSuit id="7" name="水玉套装" maxnum="6" quality="5" item="331,332,333,334,335,336" illusNum="2,4,6" illusSort="42,1,2" illusSortValue="240,500,300" equipNum="" equipSort="" equipSortValue="" showOrder="7"/>
+  <HorseDecorationSuit id="8" name="圣杯套装" maxnum="6" quality="6" item="401,402,403,404,405,406" illusNum="2,4,6" illusSort="5,4,3" illusSortValue="150,210,270" equipNum="" equipSort="" equipSortValue="" showOrder="8"/>
+  <HorseDecorationSuit id="9" name="印记套装" maxnum="6" quality="6" item="501,502,503,504,505,506" illusNum="2,4,6" illusSort="8,29,2" illusSortValue="400,150,320" equipNum="" equipSort="" equipSortValue="" showOrder="9"/>
+  <HorseDecorationSuit id="10" name="晶核套装" maxnum="6" quality="6" item="601,602,603,604,605,606" illusNum="2,4,6" illusSort="6,25,2" illusSortValue="400,150,320" equipNum="" equipSort="" equipSortValue="" showOrder="10"/>
+  <HorseDecorationSuit id="11" name="星纹套装" maxnum="6" quality="7" item="701,702,703,704,705,706" illusNum="2,4,6" illusSort="6,3,36" illusSortValue="600,230,1000" equipNum="" equipSort="" equipSortValue="" showOrder="13"/>
+  <HorseDecorationSuit id="12" name="铭纹套装" maxnum="6" quality="6" item="801,802,803,804,805,806" illusNum="2,4,6" illusSort="26,2,4" illusSortValue="150,300,270" equipNum="" equipSort="" equipSortValue="" showOrder="11"/>
+  <HorseDecorationSuit id="13" name="陶板套装" maxnum="6" quality="6" item="901,902,903,904,905,906" illusNum="2,4,6" illusSort="7,4,37" illusSortValue="400,220,900" equipNum="" equipSort="" equipSortValue="" showOrder="12"/>
+  <HorseDecorationSuit id="14" name="珊瑚套装" maxnum="6" quality="7" item="1001,1002,1003,1004,1005,1006" illusNum="2,4,6" illusSort="9,2,37" illusSortValue="600,380,1000" equipNum="" equipSort="" equipSortValue="" showOrder="14"/>
+  <HorseDecorationSuit id="15" name="月石套装" maxnum="6" quality="7" item="1007,1008,1009,1010,1011,1012" illusNum="2,4,6" illusSort="26,2,3" illusSortValue="150,300,270" equipNum="" equipSort="" equipSortValue="" showOrder="15"/>
+  <HorseDecorationSuit id="16" name="幻晶套装" maxnum="6" quality="7" item="1013,1014,1015,1016,1017,1018" illusNum="2,4,6" illusSort="26,2,5" illusSortValue="150,320,290" equipNum="" equipSort="" equipSortValue="" showOrder="16"/>
+  <HorseDecorationSuit id="17" name="御神木套装" maxnum="6" quality="7" item="1019,1020,1021,1022,1023,1024" illusNum="2,4,6" illusSort="2,4,37" illusSortValue="300,250,1000" equipNum="" equipSort="" equipSortValue="" showOrder="16"/>
+  <HorseDecorationSuit id="18" name="神锁套装" maxnum="6" quality="7" item="1025,1026,1027,1028,1029,1030" illusNum="2,4,6" illusSort="26,2,4" illusSortValue="150,320,280" equipNum="" equipSort="" equipSortValue="" showOrder="16"/>
+</root>

@@ -1,0 +1,29 @@
+<root>
+  <content title="Cập nhật T.tin C.đấu">a)T.tin C.đấu
+Dữ liệu người chơi và thông tin C.đấu liên quan, tức là các thông tin liên quan có thể ảnh hưởng đến độ mạnh yếu của người chơi trong khi chiến đấu như Đ.đội, Pet, trang bị, trận hình, B.thạch, Tinh bàn. 
+b)Cập nhật T.tin C.đấu
+Để đảm bảo dữ liệu được lưu trong HT Đua top Tranh bá của server game là T.tin C.đấu mà người chơi muốn lưu lại nhất, sau mỗi lần người chơi thay đổi T.tin C.đấu, cần nhấn vào“Cập nhật T.tin C.đấu” để truyền T.tin C.đấu mới nhất của người chơi lên server game. Trong thời gian Đua top Trang bá nếu như dữ liệu T.tin C.đấu của người chơi thay đổi, và người chơi chưa ấn “Cập nhật T.tin C.đấu” trong“T.tin C.đấu”, thì  dữ liệu T.tin C.đấu được lưu trong HT “Đua Top Tranh Bá“ của người chơi sẽ không đổi.</content>
+  <content title="Thêm lần thắng">a)Lần thắng
+Mỗi vòng đấu (Cứ 8 chọn 4 thì gọi là 1 vòng) lần thắng lớn nhất của người chơi là 3, Sau khi mỗi người chơi hòa, bị người chơi khác đánh bại hoặc đạt lần thắng lớn nhất sẽ rời trận. 
+b)Thêm lần thắng lớn nhất
+Vòng loại lần thắng lớn nhất cố định là 3 không thể tăng thêm. Trong vòng trong, có thể tăng lần thắng lớn nhất, từ 3 lần lên 5 lần, sau khi tăng chỉ có tác dụng trong vòng thi đấu đó.</content>
+  <content title="Quy tắc Đua top Tranh bá">a)Quy tắc thứ tự xuất trận
+Mỗi vòng đấu của giai đoạn vòng trong chia thành 5 nhóm, trận đầu tiên của mỗi cụm, người chơi có chiến lực cao đánh trước. Chiến đấu về sau sẽ do công hội thua ở trận trước đánh trước. 
+b)Quy tắc vòng loại 
+
+1.Ngẫu nhiên phân chia đối thủ, mỗi trận 1 ván. Mỗi ván cách nhau 20 phút. 
+2.Thành viên tham gia của C.hội căn cứ vào C.lực từ thấp tới cao để xuất trận, trận thứ 1 do người chiến lực cao đánh trước, còn lại sẽ đánh luân phiên.
+3.Sau khi hòa, thất bại hoặc đạt đến lần thắng lớn nhất sẽ rời trận, người thắng thừa kế lượng máu tiếp tục trận sau, cho đến khi tất cả thành viên của 1 bên đều rời trận thì trận kết.
+4.C.hội sẽ không gặp lại đối thủ đã bị loại.
+5.Nếu như C.hội thua 3 trận, thì sẽ bị đào thải. 
+6.  Sau khi chọn được Top 16, dừng vòng loại.
+7.Người chơi có thể xem thành tích của C.hội mình.
+
+c)Quy tắc Vòng trong 
+1.Top 16 được chọn ra từ Vòng loại được chia thành 8 nhóm, mỗi nhóm 2 C.hội thi đấu, mỗi vòng cách nhau 1 ngày.。
+2.Mỗi trận thi đấu, sẽ chia thành 5 nhóm, mỗi nhóm 6 người, 2 bên sẽ căn cứ vào chiến lực từ thấp tới cáo để xuất trận.
+3.Thời gian chiến đấu của mỗi nhóm cách nhau 30 phút, người thắng mỗi trận được hưởng lượng máu sau khi chiến đấu, tiếp tục trận sau.
+4.Sau khi hòa, chiến đấu thất bại hoặc lần thắng liên tiếp đạt mức cao nhất sẽ rời trận, cho đến khi toàn bộ người của 1 phe đều rời trận thì kết thúc.
+5.  Tất cả người chơi ở server của Quán quân Tân Thế Giới Đua Top Tranh Bá liên server có thể nhận thưởng: Beri 25000*lv, 500 D.vọng.</content>
+  <content title="Quy tắc trợ uy">G.đoạn vòng trong, người chơi mỗi vòng chỉ có thể chọn 1 C.hội để trợ uy, 10 phút trước mỗi vòng thi đấu  không thể trợ uy. C.hội được trợ uy nếu như tiến vào vòng sau, thì người chơi trợ uy được nhận, Beri 2500*lv, 300 D.vọng.</content>
+</root>

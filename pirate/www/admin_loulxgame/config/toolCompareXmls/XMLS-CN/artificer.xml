@@ -1,0 +1,22 @@
+<root>
+  <artificer artisonId="1" artisonName="泰尔斯通" artisonIcon="1.png" artifsonType="1" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="2" artisonName="毕普利露露" artisonIcon="2.png" artifsonType="2" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="3" artisonName="巴里" artisonIcon="3.png" artifsonType="3" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="4" artisonName="卡库" artisonIcon="4.png" artifsonType="4" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="5" artisonName="卡莉法" artisonIcon="5.png" artifsonType="5" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="6" artisonName="路奇" artisonIcon="6.png" artifsonType="6" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="7" artisonName="冰山" artisonIcon="7.png" artifsonType="7" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="8" artisonName="汤姆" artisonIcon="8.png" artifsonType="8" artisonLevel="1" openLevel="1"/>
+  <artificer artisonId="9" artisonName="泰尔斯通" artisonIcon="1.png" artifsonType="1" artisonLevel="2" openLevel="1"/>
+  <artificer artisonId="10" artisonName="毕普利露露" artisonIcon="2.png" artifsonType="2" artisonLevel="2" openLevel="1"/>
+  <artificer artisonId="11" artisonName="巴里" artisonIcon="3.png" artifsonType="3" artisonLevel="2" openLevel="1"/>
+  <artificer artisonId="12" artisonName="卡库" artisonIcon="4.png" artifsonType="4" artisonLevel="2" openLevel="1"/>
+  <artificer artisonId="13" artisonName="卡莉法" artisonIcon="5.png" artifsonType="5" artisonLevel="2" openLevel="1"/>
+  <artificer artisonId="14" artisonName="路奇" artisonIcon="6.png" artifsonType="6" artisonLevel="2" openLevel="1"/>
+  <artificer artisonId="15" artisonName="泰尔斯通" artisonIcon="1.png" artifsonType="1" artisonLevel="3" openLevel="1"/>
+  <artificer artisonId="16" artisonName="毕普利露露" artisonIcon="2.png" artifsonType="2" artisonLevel="3" openLevel="1"/>
+  <artificer artisonId="17" artisonName="巴里" artisonIcon="3.png" artifsonType="3" artisonLevel="3" openLevel="1"/>
+  <artificer artisonId="18" artisonName="卡库" artisonIcon="4.png" artifsonType="4" artisonLevel="3" openLevel="1"/>
+  <artificer artisonId="19" artisonName="卡莉法" artisonIcon="5.png" artifsonType="5" artisonLevel="3" openLevel="1"/>
+  <artificer artisonId="20" artisonName="路奇" artisonIcon="6.png" artifsonType="6" artisonLevel="3" openLevel="1"/>
+</root>

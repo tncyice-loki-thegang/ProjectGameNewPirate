@@ -1,0 +1,20 @@
+<root>
+  <thor_team id="1" teamId="60713" winType="1"/>
+  <thor_team id="2" teamId="60714" winType="2"/>
+  <thor_team id="3" teamId="60715" winType="3"/>
+  <thor_team id="4" teamId="60716" winType="4"/>
+  <thor_team id="5" teamId="60717" winType="5"/>
+  <thor_team id="6" teamId="60718" winType="6"/>
+  <thor_team id="7" teamId="60719" winType="7"/>
+  <thor_team id="8" teamId="60720" winType="8"/>
+  <thor_team id="9" teamId="60721" winType="9"/>
+  <thor_team id="10" teamId="60722" winType="10"/>
+  <thor_team id="11" teamId="60723" winType="11"/>
+  <thor_team id="12" teamId="60724" winType="12"/>
+  <thor_team id="13" teamId="60725" winType="13"/>
+  <thor_team id="14" teamId="60726" winType="14"/>
+  <thor_team id="15" teamId="60727" winType="15"/>
+  <thor_team id="16" teamId="60728" winType="16"/>
+  <thor_team id="17" teamId="60729" winType="17"/>
+  <thor_team id="18" teamId="60730" winType="18"/>
+</root>

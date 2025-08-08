@@ -1,0 +1,2 @@
+pirate    2076     1  0 20:06 pts/0    00:00:00 bin/supervisor.lcserver bin/lcserver -c conf/game20002.xml -H 127.0.0.1:2182 -G game20002 -w 192.168.0.142 -l 127.0.0.1 -d pirate20002 -W 8002 -L 8002
+pirate    2079  2076  0 20:06 pts/0    00:00:00 bin/lcserver -c conf/game20002.xml -H 127.0.0.1:2182 -G game20002 -w 192.168.0.142 -l 127.0.0.1 -d pirate20002 -W 8002 -L 8002

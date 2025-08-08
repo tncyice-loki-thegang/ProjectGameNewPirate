@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Materials>
+    <Material icon="Material/CL001.jpg" ident="1" name="Mộc PhiệtĐồ" type="25">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL002.jpg" ident="2" name="Kiều HangĐồ" type="25">
+        <Content>Thành tựu Hạ Khẩu Hải Tặc có thể nhậnđược bản vẽ này.</Content>
+    </Material>
+    <Material icon="Material/CL003.jpg" ident="3" name="MôngĐồngĐồ" type="25">
+        <Content>Thành tựu Hán Tân Thủy Tặc có thể nhậnđược bản vẽ này.</Content>
+    </Material>
+    <Material icon="Material/CL004.jpg" ident="4" name="Lâu ThuyềnĐồ" type="25">
+        <Content>Thành tựu Hán Tân Thủy Tặc có thể nhậnđược bản vẽ này.</Content>
+    </Material>
+    <Material icon="Material/CL005.jpg" ident="5" name="Đột MạoĐồ" type="25">
+        <Content>Thành tựu Hạ Khẩu Hải Tặc có thể nhậnđược bản vẽ này.</Content>
+    </Material>
+    <Material icon="Material/CL006.jpg" ident="6" name="DưHoàngĐồ" type="25">
+        <Content>Thành tựu Hạ Khẩu Hải Tặc có thể nhậnđược bản vẽ này.</Content>
+    </Material>
+    <Material icon="Material/CL007.jpg" ident="7" name="Tam DựcĐồ" type="25">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL008.jpg" ident="8" name="Môn HạmĐồ" type="25">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL009.jpg" ident="9" name="Tẩu KhaĐồ" type="25">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL010.jpg" ident="10" name="Sam Mộc" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL011.jpg" ident="11" name="Thiết Khoáng" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL012.jpg" ident="12" name="Đồng Khoáng" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL013.jpg" ident="13" name="ThanhĐồng" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL014.jpg" ident="15" name="Xích Mộc" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL015.jpg" ident="16" name="Chương Mộc" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL016.jpg" ident="17" name="Hạc Vũ" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL017.jpg" ident="18" name="Vải" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/CL018.jpg" ident="19" name="Ngưu Cân" type="24">
+        <Content/>
+    </Material>
+    <Material icon="Material/BZQH001.jpg" ident="20" name="Hoàng Thạch" type="34">
+        <Content>Rơi trong Hắc Diệu Thâm Uyên</Content>
+    </Material>
+    <Material icon="Material/BZQH002.jpg" ident="21" name="Nghiên Ma Sa" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH003.jpg" ident="22" name="Nghiên Ma Sa" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH004.jpg" ident="23" name="Hắc Ám Thủy Tinh" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH005.jpg" ident="24" name="Long Cốt" type="34">
+        <Content>Rơi trong Hắc Diệu Thâm Uyên</Content>
+    </Material>
+    <Material icon="Material/BZQH006.jpg" ident="25" name="Bí Thạch" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH007.jpg" ident="26" name="Tà Châu" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH008.jpg" ident="27" name="Kiếm Nhẫn" type="34">
+        <Content>Rơi trong Hắc Diệu Thâm Uyên</Content>
+    </Material>
+    <Material icon="Material/BZQH009.jpg" ident="28" name="Hồn Y" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH010.jpg" ident="29" name="Cốt Thương" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH011.jpg" ident="30" name="Tinh Thiết" type="34">
+        <Content>Rơi trong Hắc Diệu Thâm Uyên</Content>
+    </Material>
+    <Material icon="Material/BZQH012.jpg" ident="31" name="Hồn Cổ" type="34">
+        <Content>Thưởng Thẻ Bài Diệu Thạch</Content>
+    </Material>
+    <Material icon="Material/BZQH013.jpg" ident="32" name="Nham Thạch" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH014.jpg" ident="33" name="Hỏa Nham" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH015.jpg" ident="34" name="Lưu Huỳnh" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH016.jpg" ident="35" name="Diệm Thương" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH017.jpg" ident="36" name="Viêm Khôi" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH018.jpg" ident="37" name="Hỏa Châu" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH019.jpg" ident="38" name="Tiêu Thạch" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH020.jpg" ident="39" name="Chu Tước Vũ" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH021.jpg" ident="40" name="Chân Hỏa Phù" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH022.jpg" ident="41" name="Hỏa Giác" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH023.jpg" ident="42" name="Diệm Giáp" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/BZQH024.jpg" ident="43" name="Hỏa Nha" type="34">
+        <Content>Thưởng Thẻ Hỏa Diệm</Content>
+    </Material>
+    <Material icon="Material/HX01.png" ident="44" name="Cá Vàng" type="42">
+        <Content>Nguyên liệu hải sản</Content>
+    </Material>
+    <Material icon="Material/HX02.png" ident="45" name="Sò" type="42">
+        <Content>Nguyên liệu hải sản</Content>
+    </Material>
+    <Material icon="Material/HX04.png" ident="46" name="Mực" type="42">
+        <Content>Nguyên liệu hải sản</Content>
+    </Material>
+    <Material icon="Material/HX03.png" ident="47" name="Cá Ngừ" type="42">
+        <Content>Nguyên liệu hải sản</Content>
+    </Material>
+    <Material icon="Material/HX05.png" ident="48" name="Tôm Hùm" type="42">
+        <Content>Nguyên liệu hải sản</Content>
+    </Material>
+    <Material icon="Material/HX06.png" ident="49" name="Cua Huỳnh Đế" type="42">
+        <Content>Nguyên liệu hải sản</Content>
+    </Material>
+    <Material icon="Material/BZQH025.jpg" ident="50" name="Ngân Thạch" type="34">
+        <Content>Phần thưởng Thẻ Tiên Sơn</Content>
+    </Material>
+    <Material icon="Material/BZQH026.jpg" ident="51" name="Ma Ngục Thạch" type="34">
+        <Content>Thưởng Thẻ Ma Ngục</Content>
+    </Material>
+    <Material icon="Material/BZQH027.jpg" ident="52" name="Đá U Minh" type="34">
+        <Content>Thưởng Thẻ U Minh</Content>
+    </Material>
+    <Material icon="Material/HX700.png" ident="53" name="Ngọa Long Chương" type="42">
+        <Content>Có thể đổi tài nguyên quan trọng như Chiến Tích, Danh Phẩm, Sách Kỹ Năng, Quân Công.</Content>
+    </Material>
+    <Material icon="Material/BZQH028.jpg" ident="54" name="Băng Sương Thạch" type="34">
+        <Content>Thưởng Thẻ Băng Sương</Content>
+    </Material>
+    <Material icon="Material/XS001.jpg" ident="55" name="Xích Đồng" type="59">
+        <Content>Dùng đổi nguyên liệu Đúc Trang Bị Lv130</Content>
+    </Material>
+    <Material icon="Material/XS002.jpg" ident="56" name="Vẫn Thiết" type="59">
+        <Content>Dùng đổi nguyên liệu Đúc Trang Bị Lv140</Content>
+    </Material>
+    <Material icon="Material/XS003.jpg" ident="57" name="Bí Ngân" type="59">
+        <Content>Dùng đổi nguyên liệu Đúc Trang Bị Lv150</Content>
+    </Material>
+    <Material icon="Material/XS004.jpg" ident="58" name="Ô Kim" type="59">
+        <Content>Dùng đổi nguyên liệu Đúc Trang Bị Lv160</Content>
+    </Material>
+    <Material icon="Material/XS005.jpg" ident="59" name="Tinh Kim" type="59">
+        <Content>Dùng đổi nguyên liệu Đúc Trang Bị Lv170</Content>
+    </Material>
+	<Material icon="Material/chunjie001.png" ident="60" name="豚" type="42">
+        <Content>中国汉字象形字，读作tún，泛指猪，也有自己儿子的谦称之意。猪年特有的活动道具。</Content>
+    </Material>
+	<Material icon="Material/ZNQ8.jpg" ident="61" name="Long Thạch" type="34">
+        <Content>Dùng để up binh chủng 6</Content>
+    </Material>
+</Materials>

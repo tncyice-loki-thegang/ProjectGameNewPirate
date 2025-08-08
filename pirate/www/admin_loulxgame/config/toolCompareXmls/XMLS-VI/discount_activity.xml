@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<root>	
+  <discount_activity id="1" startTime="20200430100000" closeTime="20200501100000" serverTime="20200506235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1101|1102|1103|1104|1105|1106"/>
+  <discount_activity id="2" startTime="20200501100000" closeTime="20200502100000" serverTime="20200506235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1207|1202|1203|1204|1205|1206"/>
+  <discount_activity id="3" startTime="20200502100000" closeTime="20200503100000" serverTime="20200506235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1301|1302|1303|1304|1305|1306"/>
+  <discount_activity id="4" startTime="20200503100000" closeTime="20200504100000" serverTime="20200506235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1407|1402|1403|1404|1405|1406"/>
+  <discount_activity id="5" startTime="20200504100000" closeTime="20200505100000" serverTime="20200506235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1501|1502|1503|1504|1505|1506"/>
+  <discount_activity id="6" startTime="20200505100000" closeTime="20200506100000" serverTime="20200506235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1601|1602|1603|1604|1605|1606"/>
+  <discount_activity id="7" startTime="20200506100000" closeTime="20200506235959" serverTime="20200506235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1701|1702|1703|1704|1705|1706"/>
+  <!--<discount_activity id="8" startTime="20200326100000" closeTime="20200327100000" serverTime="20200401235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1101|1102|1103|1104|1105|1106"/>
+  <discount_activity id="9" startTime="20200327100000" closeTime="20200328100000" serverTime="20200401235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1207|1202|1203|1204|1205|1206"/>
+  <discount_activity id="10" startTime="20200328100000" closeTime="20200329100000" serverTime="20200401235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1301|1302|1303|1304|1305|1306"/>
+  <discount_activity id="11" startTime="20200329100000" closeTime="20200330100000" serverTime="20200401235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1407|1402|1403|1404|1405|1406"/>
+  <discount_activity id="12" startTime="20200330100000" closeTime="20200331100000" serverTime="20200401235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1501|1502|1503|1504|1505|1506"/>
+  <discount_activity id="13" startTime="20200331100000" closeTime="20200401100000" serverTime="20200401235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1601|1602|1603|1604|1605|1606"/>
+  <discount_activity id="14" startTime="20200401100000" closeTime="20200401235959" serverTime="20200401235959" photo="" describe="" goodsId="" areaId="1,7" level="0" levelGoods="1701|1702|1703|1704|1705|1706"/>-->
+</root>

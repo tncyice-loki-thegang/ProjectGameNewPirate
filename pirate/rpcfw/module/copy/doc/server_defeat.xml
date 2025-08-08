@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 表配置 -->
+<table>
+
+<!-- 表名 -->
+<name>t_server_defeat</name>
+
+<!-- 主键 -->
+<primary_keys>
+<!-- 主键id -->
+<key>army_id</key>
+<key>group_id</key>
+<key>rp_id</key>
+</primary_keys>
+
+</table>

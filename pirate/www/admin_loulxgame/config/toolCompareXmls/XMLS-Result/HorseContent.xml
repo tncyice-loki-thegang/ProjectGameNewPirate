@@ -1,0 +1,8 @@
+<root>1.Thuộc tính bộ đồ trong kho Phòng Trang sức, kích hoạt sẽ có tác dụng vĩnh viễn, không liên quan tới có trang bị hay không.
+2.1 bộ trang sức trong Phòng pet cưỡi, chỉ có trang bị đến thanh trang bị, mới có tác dụng.
+3.Cường hóa trang sức cần dùng thủy tinh thời trang, mà cường hóa chỉ nhằm vào vị trí, không liên quan tới thay đổi trang sức.
+4.Sau khi cường hóa cột trang sức, có thể theo phần trăm tăng thuộc tính vị trí trang bị này.
+5.Trang sức Phòng Pet cưỡi và Pet cưỡi trong ba lô, có thể vào Phòng Lễ phẩm để phân giải, sau phân giải có thể được thủy tinh trang sức.
+6.Chỉ có trang sức cùng vị trí mới có thể kế thừa T.tính tinh luyện.
+7.P.chất trang sức được kế thừa phải lớn hơn hoặc bằng P.chất trang bị cũ.
+8.Số T.tính của trang sức được kế thừa lớn hơn trang sức cũ, thì T.tính thừa sẽ bị xóa hết.</root>

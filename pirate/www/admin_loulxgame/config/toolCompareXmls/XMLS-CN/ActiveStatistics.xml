@@ -1,0 +1,20 @@
+<root>
+  <ActiveStatistics id="2" count="10" type="2" TitleText="出航" value="5" buttonText="前往出航"/>
+  <ActiveStatistics id="3" count="4" type="3" TitleText="厨房生产" value="5" buttonText="前往生产"/>
+  <ActiveStatistics id="4" count="10" type="4" TitleText="订单" value="5" buttonText=""/>
+  <ActiveStatistics id="5" count="10" type="5" TitleText="每日任务" value="10" buttonText="每日任务"/>
+  <ActiveStatistics id="6" count="1" type="6" TitleText="领取悬赏工资" value="5" buttonText="领取悬赏"/>
+  <ActiveStatistics id="7" count="2" type="7" TitleText="调教下属" value="5" buttonText="调教下属"/>
+  <ActiveStatistics id="8" count="1" type="8" TitleText="装备强化" value="5" buttonText="强化"/>
+  <ActiveStatistics id="9" count="5" type="9" TitleText="挑战精英副本" value="10" buttonText="前往竞技场"/>
+  <ActiveStatistics id="10" count="1" type="10" TitleText="探索宝石" value="5" buttonText=""/>
+  <ActiveStatistics id="11" count="10" type="11" TitleText="竞技场战斗" value="10" buttonText="前往竞技场"/>
+  <ActiveStatistics id="12" count="4" type="12" TitleText="寻宝打劫" value="5" buttonText="前往打劫"/>
+  <ActiveStatistics id="13" count="1" type="13" TitleText="港口攻打" value="5" buttonText=""/>
+  <ActiveStatistics id="14" count="1" type="14" TitleText="公会捐献" value="5" buttonText=""/>
+  <ActiveStatistics id="15" count="1" type="15" TitleText="占领资源" value="5" buttonText="前往占领"/>
+  <ActiveStatistics id="16" count="4" type="16" TitleText="会谈" value="5" buttonText=""/>
+  <ActiveStatistics id="17" count="3" type="17" TitleText="寻宝" value="5" buttonText="前往寻宝"/>
+  <ActiveStatistics id="18" count="3" type="18" TitleText="装备制作" value="5" buttonText="前往制作"/>
+  <ActiveStatistics id="19" count="1" type="19" TitleText="突飞伙伴" value="5" buttonText="前往突飞"/>
+</root>

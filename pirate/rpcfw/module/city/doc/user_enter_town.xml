@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 表配置 -->
+<table>
+
+<!-- 表名 -->
+<name>t_user_enter_town</name>
+
+<!-- 主键 -->
+<primary_keys>
+<!-- 主键id -->
+<key>town_id</key>
+<key>uid</key>
+</primary_keys>
+
+</table>

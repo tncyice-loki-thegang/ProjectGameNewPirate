@@ -1,0 +1,195 @@
+﻿<root>
+	<mail id='1' title='征服下属' />
+	<mail id='2' title='征服下属' />
+	<mail id='3' title='抢夺下属' />
+	<mail id='4' title='抢夺下属' />
+	<mail id='5' title='下属变更' />
+	<mail id='6' title='征服下属' />
+	<mail id='7' title='征服下属' />
+	<mail id='8' title='抢夺下属' />
+	<mail id='9' title='抢夺下属' />
+	<mail id='10' title='主人港口搬迁' />
+	<mail id='11' title='下属港口搬迁' />
+	<mail id='12' title='反抗主人' />
+	<mail id='13' title='反抗主人' />
+	<mail id='14' title='下属反抗' />
+	<mail id='15' title='下属反抗' />
+	<mail id='16' title='下属放弃' />
+	<mail id='101' title='资源矿占领' />
+	<mail id='102' title='资源矿抢夺' />
+	<mail id='103' title='资源矿抢夺' />
+	<mail id='104' title='资源矿到期' />
+	<mail id='105' title='资源矿抢夺' />
+	<mail id='106' title='资源矿抢夺' />
+	<mail id='107' title='资源矿掠夺' />
+	<mail id='108' title='资源矿掠夺' />
+	<mail id='109' title='资源矿掠夺' />
+	<mail id='110' title='资源矿掠夺' />
+	<mail id='111' title='资源矿掠夺' />
+	<mail id='112' title='资源矿掠夺' />
+	<mail id='201' title='公会申请信息' />
+	<mail id='202' title='公会申请信息' />
+	<mail id='203' title='公会系统信息' />
+	<mail id='204' title='公会宴会信息' />
+	<mail id='205' title='公会宴会信息' />
+	<mail id='206' title='公会资源发放' />
+	<mail id='207' title='世界资源争夺' />
+	<mail id='208' title='世界资源争夺' />
+	<mail id='301' title='攻打主船' />
+	<mail id='302' title='攻打主船' />
+	<mail id='303' title='攻打主船' />
+	<mail id='304' title='攻打主船' />
+	<mail id='401' title='好友添加' />
+	<mail id='501' title='竞技场幸运奖励' />
+	<mail id='502' title='竞技场奖励' />
+	<mail id='601' title='获得新成就' />
+	<mail id='701' title='寻宝奖励' />
+	<mail id='702' title='打劫失败' />
+	<mail id='703' title='打劫成功' />
+	<mail id='704' title='被成功打劫' />
+	<mail id='705' title='击退打劫' />
+	<mail id='801' title='订单信息' />
+	<mail id='901' title='最后击杀奖励' />
+	<mail id='902' title='伤害第一名奖励' />
+	<mail id='903' title='伤害第二名奖励' />
+	<mail id='904' title='伤害第三名奖励' />
+	<mail id='905' title='勇者给力奖励' />
+	<mail id='1001' title='马桶疏通' />
+	<mail id='1002' title='下属零食' />
+	<mail id='1003' title='抓虱子' />
+	<mail id='1004' title='下飞行棋' />
+	<mail id='1005' title='禁断游戏' />
+	<mail id='1006' title='讨厌啦' />
+	<mail id='1007' title='下属坐骑' />
+	<mail id='1008' title='启蒙教育' />
+	<mail id='1009' title='下属好声音' />
+	<mail id='1010' title='马桶疏通' />
+	<mail id='1011' title='下属零食' />
+	<mail id='1012' title='抓虱子' />
+	<mail id='1013' title='下飞行棋' />
+	<mail id='1014' title='禁断游戏' />
+	<mail id='1015' title='讨厌啦' />
+	<mail id='1016' title='下属坐骑' />
+	<mail id='1017' title='启蒙教育' />
+	<mail id='1018' title='下属好声音' />
+	<mail id='1101' title='礼包兑换' />
+	<mail id='906' title='自动参与' />
+	<mail id='907' title='自动参与' />
+
+
+	<mail id='1201' title='擂台赛奖励' />
+	<mail id='1202' title='擂台赛奖励' />
+	<mail id='1203' title='擂台赛奖励' />
+	<mail id='1204' title='擂台赛奖励' />
+	<mail id='1205' title='擂台赛奖励' />
+	<mail id='1206' title='擂台赛奖励' />
+
+	<mail id='1207' title='擂台赛助威奖励' />
+	<mail id='1208' title='擂台赛助威奖励' />
+	<mail id='1209' title='擂台赛助威奖励' />
+	<mail id='1210' title='擂台赛助威奖励' />
+	<mail id='1211' title='擂台赛助威奖励' />
+
+	<mail id='1212' title='擂台赛幸运奖' />
+	<mail id='1209' title='擂台赛超级幸运奖' />
+	<mail id='1213' title='擂台赛奖池奖励' />
+	
+	<mail id='1301' title='VIP升级' />
+	<mail id='1401' title='合服充值返还' />
+	
+	<mail id='1501' title='摸取养殖鱼' />
+	<mail id='1502' title='养殖鱼被摸' />
+	<mail id='1503' title='鱼苗祝福' />
+	<mail id='1504' title='鱼苗被祝福' />
+	<mail id='1505' title='摸下属养殖鱼' />
+	<mail id='1506' title='养殖鱼被主人摸' />
+	
+	<mail id='1601' title='海贼战场奖励' />
+	<mail id='1602' title='战场自动参与奖励' />
+	
+	<mail id='1701' title='王者之战每轮助威奖励' />
+	<mail id='1702' title='王者之战32强奖励' />
+	<mail id='1703' title='王者之战16强奖励' />
+	<mail id='1704' title='王者之战8强奖励' />
+	<mail id='1705' title='王者之战4强奖励' />
+	<mail id='1706' title='王者之战亚军奖励' />
+	<mail id='1707' title='王者之战冠军奖励' />
+	<mail id='1708' title='跨服王者之战每轮助威奖励' />
+	<mail id='1709' title='跨服王者之战32强奖励' />
+	<mail id='1710' title='跨服王者之战16强奖励' />
+	<mail id='1711' title='跨服王者之战8强奖励' />
+	<mail id='1712' title='跨服王者之战4强奖励' />
+	<mail id='1713' title='跨服王者之战亚军奖励' />
+	<mail id='1714' title='跨服王者之战冠军奖励' />
+	
+	<mail id='1801' title='新世界资源矿防守失败' />
+	<mail id='1802' title='玩家掠夺npc资源矿成功' />
+	<mail id='1803' title='玩家掠夺npc资源矿失败' />
+	<mail id='1804' title='玩家占矿后又被别的玩家占领' />
+	<mail id='1805' title='npc资源矿到期' />
+	
+	<mail id='1901' title='游乐场通知' />
+	
+	<mail id='2001' title='恶魔之树个人奖励' />
+	<mail id='2002' title='恶魔之树公会奖励' />
+	
+	<mail id='2101' title='顶上争霸每轮助威奖励' />
+	<mail id='2102' title='顶上争霸16强奖励' />
+	<mail id='2103' title='顶上争霸8强奖励' />
+	<mail id='2104' title='顶上争霸4强奖励' />
+	<mail id='2105' title='顶上争霸亚军奖励' />
+	<mail id='2106' title='顶上争霸冠军奖励' />
+	<mail id='2107' title='顶上争霸16强奖励（未上场）' />
+	<mail id='2108' title='顶上争霸8强奖励（未上场）' />
+	<mail id='2109' title='顶上争霸4强奖励（未上场）' />
+	<mail id='2110' title='顶上争霸亚军奖励（未上场）' />
+	<mail id='2111' title='顶上争霸冠军奖励（未上场）' />
+	
+	<mail id='2201' title='矿精灵奖励' />
+	
+	<mail id='2301' title='闯关大赛排名奖励' />
+	
+	<mail id='2401' title='卡牌猜猜乐奖励' />
+	<mail id='2402' title='卡牌猜猜乐特殊奖励' />
+	
+	<mail id='2501' title='海贼激斗每轮助威奖励' />
+	<mail id='2502' title='海贼激斗积分赛奖励' />
+	<mail id='2503' title='海贼激斗16强奖励' />
+	<mail id='2504' title='海贼激斗8强奖励' />
+	<mail id='2505' title='海贼激斗4强奖励' />
+	<mail id='2506' title='海贼激斗亚军奖励' />
+	<mail id='2507' title='海贼激斗冠军奖励' />
+	<mail id='2508' title='海贼激斗解散队伍' />
+	
+	<mail id='2601' title='进击の海军排行榜奖励' />
+	
+	<mail id='2701' title='海上争霸奖励' />
+	
+	<mail id='2801' title='克里达角斗场奖励' />
+	
+	<mail id='2901' title='悬赏榜奖励' />
+
+	<mail id='3001' title='公会保卫战伤害排行奖励' />
+	<mail id='3002' title='公会保卫战boss等级奖励' />
+	<mail id='3003' title='公会保卫战自动参与奖励' />
+	<mail id='3101' title='强者世界积分排行奖励' />
+	<mail id='3201' title='地下拍卖场竞拍成功奖励' />
+	<mail id='3202' title='地下拍卖场竞拍失败' />	
+	<mail id='3301' title='雇佣兵收入' />	
+	<mail id='3401' title='巅峰王者助威奖励' />	
+	<mail id='3402' title='巅峰王者分赛区32强奖励' />	
+	<mail id='3403' title='巅峰王者分赛区16强奖励' />	
+	<mail id='3404' title='巅峰王者分赛区8强奖励' />	
+	<mail id='3405' title='巅峰王者分赛区4强奖励' />	
+	<mail id='3406' title='巅峰王者分赛区亚军奖励' />	
+	<mail id='3407' title='巅峰王者分赛区冠军奖励' />	
+	<mail id='3408' title='巅峰王者总赛区亚军奖励' />	
+	<mail id='3409' title='巅峰王者总冠军奖励' />		
+	<mail id='3410' title='巅峰王者每日贡献度排名奖励' />	
+	<mail id='3411' title='巅峰王者每日人气度排名奖励' />	
+	<mail id='3412' title='巅峰王者累计人气度排名奖励' />	
+	<mail id='3501' title='红包过期退还通知' />
+	<mail id='3601' title='幽灵船防守失败' />
+	<mail id='3602' title='幽灵船奖励' />
+	
+</root>

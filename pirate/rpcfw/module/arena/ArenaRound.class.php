@@ -1,0 +1,372 @@
+<?php
+/***************************************************************************
+ * 
+ * Copyright (c) 2011 babeltime.com, Inc. All Rights Reserved
+ * $Id: ArenaRound.class.php 39866 2013-03-05 02:53:39Z HongyuLan $
+ * 
+ **************************************************************************/
+
+ /**
+ * @file $HeadURL: svn://192.168.1.80:3698/C/tags/pirate/rpcfw/rpcfw_1-0-21-57/module/arena/ArenaRound.class.php $
+ * @author $Author: HongyuLan $(lanhongyu@babeltime.com)
+ * @date $Date: 2013-03-05 10:53:39 +0800 (二, 2013-03-05) $
+ * @version $Revision: 39866 $
+ * @brief 
+ *  
+ **/
+
+
+
+
+
+
+
+class ArenaRound
+{
+	const ROUND_KEY = 'arena.round'; 
+	const ROUND_DATE_KEY = 'arena.round_date';
+	
+	public static function getCurRound()
+	{
+		$round = McClient::get(self::ROUND_KEY);
+		if ($round == null)
+		{
+			$round = self::setCurRound();
+		}
+		return $round;
+	}
+	
+	public static function setCurRound()
+	{
+		$round = self::getCurRoundFromDb();
+		if ('STORED' != McClient::set(self::ROUND_KEY, $round, ArenaConf::MEM_EXPIRED_TIME))
+		{
+			Logger::fatal('fail to set arena round to memcached');			
+		}
+		return $round;
+	}
+	
+	public static function getCurRoundDate()
+	{
+		$roundDate = McClient::get(self::ROUND_DATE_KEY);
+		if ($roundDate == null)
+		{
+			$roundDate = self::setCurRoundDate();
+		}
+		return $roundDate;
+	}
+	
+	public static function setCurRoundDate()
+	{
+		$roundDate = self::getCurRoundDateFromDb();
+		if (!empty($roundDate))
+		{
+			if ('STORED' != McClient::set(self::ROUND_DATE_KEY, $roundDate, ArenaConf::MEM_EXPIRED_TIME))
+			{
+				Logger::fatal('fail to set arena round to memcached');
+			}
+		}
+		return $roundDate;
+	}
+	
+	
+	const tblName = 't_arena_lucky';
+	
+	/**
+	 * 得到第几轮，看有几条数据
+	 */
+	private static function getCurRoundFromDb()
+	{
+		$data = new CData();
+		$ret = $data->selectCount()->from(self::tblName)->where('begin_date', '>', 0)->query();
+		return $ret[0]['count'];
+	}
+	
+	/**
+	 * 得到当前轮的日期
+	 * 看最后一条数据日期
+	 */
+	private static function getCurRoundDateFromDb()
+	{
+		$data = new CData();
+		$arrField = array('begin_date');
+		$arrRet = $data->select($arrField)->from(self::tblName)->where(1, '=', 1)
+			->orderBy('begin_date', false)->limit(0, 1)->query();
+		if (!empty($arrRet))
+		{
+			return $arrRet[0]['begin_date'];
+		}
+		return $arrRet;
+	}
+	
+	/**
+	 * 是否锁定
+	 * Enter description here ...
+	 */
+	public static function isLock()
+	{
+		$beginDate = self::getCurRoundDate();
+		if (empty($beginDate))
+		{
+			//开服前可能为空，返回true为了让产生幸运奖励的脚本能过
+			Logger::warning('empty beginDate.');			
+			return true;
+		}
+		
+		$rewardTime = self::getRewardTime($beginDate);
+		$curTime = Util::getTime();
+		//当前时间大于发奖时间
+		if ($curTime > $rewardTime )
+		{
+			return true;		
+		}
+		return false;
+	}
+	
+	//返回给前端开奖时间戳， 
+	//如果在开奖时间，返回当前开始开奖的时间戳,
+	//否则返回下次开奖时间戳
+	public static function getRewardTime($rewardDate=null)
+	{
+		if ($rewardDate==null)
+		{
+			$rewardDate = ArenaRound::getCurRoundDate();
+		}
+		$curTime = Util::getTime();
+		$beginDateForNow = strftime("%Y%m%d", $curTime);
+		$diffDay = ArenaLuckyLogic::diffDate($beginDateForNow, $rewardDate);
+		//刚好是一轮结束的日子
+		if ($diffDay % ArenaDateConf::LAST_DAYS == 0)
+		{
+			$curTimeStr = strftime("%H:%M:%S", $curTime);
+			//在下一轮开始前
+			if ( $curTimeStr<=ArenaDateConf::OPEN_TIME)
+			{
+				return strtotime($beginDateForNow . " " . ArenaDateConf::LOCK_TIME);
+			}
+		}
+		return strtotime($rewardDate . " " . ArenaDateConf::LOCK_TIME);
+			
+	}
+	
+	
+	public static function broadcastTop()
+	{
+		if ( !self::isLock())
+		{
+			Logger::trace('today is not the day of generateReward');
+			return;
+		}
+		
+		//发1、2、3名的系统消息
+		$arrUid = ArenaDao::getArrByPos(array(1,2,3), array('uid', 'position'));
+		$arrUid = Util::arrayIndex($arrUid, 'position');
+		$first = EnUser::getUserObj($arrUid[1]['uid'])->getTemplateUserInfo();
+		$second = EnUser::getUserObj($arrUid[2]['uid'])->getTemplateUserInfo();	
+		$third = EnUser::getUserObj($arrUid[3]['uid'])->getTemplateUserInfo();		
+		$message = ChatTemplate::makeMessage(ChatTemplateID::MSG_ARENA_AWARD,
+			array (
+				$first,
+				$second,
+				$third,
+			)
+		);
+		ArenaLogic::arenaBroadcast($message);
+	}
+	
+	
+	/**
+	 * 发奖励，给脚本调用
+	 * Enter description here ...
+	 */
+	public static function generateReward($redo, $limit)
+	{
+		if (!$redo && !self::isLock())
+		{
+			Logger::trace('today is not the day of generateReward');
+			return;
+		}
+		
+		Logger::warning('start to generateReward for postion');					
+		
+		$curRound = self::getCurRound();
+		$pos1 = 1;
+		$pos2 = ArenaConf::NUM_OF_QUERY;
+		$arenaReward = btstore_get()->ARENA_REWARD;		
+		//先得到总数
+		$total = count($arenaReward);
+		if ($pos2 > $total)
+		{
+			$pos2 = $total;
+		}
+		
+		//3600*10 是随意取的值。用来区分是否是上一轮发的奖。
+		//最大可取值 每轮天数×24×3600 - 发奖锁定时间	
+		//别取太小了，不然出错重做的时候吧当前期的当上一期就悲剧了。	
+		$lessRewardTime = Util::getTime() - 3600 * $limit;
+		//把时间设置为这个，领奖的时候判断$rewardTime 大于 当前时间-ArenaDateConf::LAST_DAY 可以领奖		
+		$rewardTime = strtotime(ArenaDateConf::LOCK_TIME, Util::getTime());
+		
+		$rate = self::getActiveRate();
+		$mergeRate = EnMergeServer::theNewKing();
+		$rate = max(array($rate, $mergeRate));
+		
+		while(true)
+		{
+			$arrPosInfo = ArenaDao::getPosRange4Reward($pos1, $pos2, $lessRewardTime, 
+				array('uid', 'position', 'va_reward'));
+			
+			if (empty($arrPosInfo))
+			{
+				break;
+			}
+			
+            $arrUid = Util::arrayExtract($arrPosInfo, 'uid');
+            $arrUserInfo = Util::getArrUser($arrUid, array('level'));			
+
+            $posInfo = current($arrPosInfo);
+            //连续修改多少个后休眠
+            $sleepCount = 0;
+            while ($posInfo!==false)
+            {
+            	try
+				{
+					$uid = $posInfo['uid'];
+					if ( !isset($arrUserInfo[$uid]))
+					{
+						Logger::fatal('fail to get user %d', $uid);
+						$posInfo = next($arrPosInfo);
+						continue;
+					}
+					$va_reward = array();
+					
+					$reward = btstore_get()->ARENA_REWARD[$posInfo['position']];
+					$va_reward['belly'] = $reward['belly'] * $rate;
+					//阅历奖励 * level
+					$va_reward['experience'] = $reward['experience'] * $arrUserInfo[$uid]['level'] * $rate;
+					$va_reward['prestige'] = $reward['prestige'] * $rate;
+					$va_reward['gold'] = 0;
+
+					$va_reward['position'] = $posInfo['position']; 
+					
+					ArenaDao::update($uid, array('reward_time' => Util::getTime(), 'va_reward' => $va_reward));
+					//发邮件
+					MailTemplate::sendArenaAward($uid, $curRound, $posInfo['position'], $va_reward['belly'], 
+						$va_reward['experience'], $va_reward['prestige'], $va_reward['gold']);
+						
+					RPCContext::getInstance()->sendMsg(array($uid), 're.arena.rewardRefresh', array(1));
+					
+					
+					try 
+					{
+						EnArena::updateArenaHistory($posInfo['position'], $uid);
+					}
+					catch (Exception $e )
+					{
+						Logger::warning('fail to update arena history');
+					}
+					
+					if (++$sleepCount == ArenaConf::NUM_OF_REWARD_PER)
+					{
+						usleep(ArenaConf::SLEEP_MTIME);
+						$sleepCount = 0;
+					}
+					$posInfo = next($arrPosInfo);
+				}
+				catch (Exception $e )
+				{
+					Logger::fatal('fail to generateReward for uid:%d', $uid);
+					$posInfo = next($arrPosInfo);
+				}
+            }
+
+            //说明已经处理完了
+            if ($pos2 >= $total)
+            {
+            	break;
+            }
+			
+			$pos1 = $pos2+1;
+			$pos2 += ArenaConf::NUM_OF_QUERY;
+			if ($pos2 > $total)
+			{
+				$pos2=$total;
+			}
+		}
+	}
+	
+	/**
+	 * 竞技场结束。
+	 * 广播
+	 * Enter description here ...
+	 */
+	public static function arenaEnd()
+	{
+		if ( !self::isLock())
+		{
+			Logger::trace('today is not the day of generateReward');
+			return;
+		}
+		$message = ChatTemplate::makeMessage(ChatTemplateID::MSG_ARENA_END, array());
+		ArenaLogic::arenaBroadcast($message);
+	}
+	
+	/**
+	 * 竞技场开始
+	 * Enter description here ...
+	 */
+	public static function arenaStart()
+	{	
+		if ( !self::isLock())
+		{
+			Logger::trace('today is not the day of generateReward');
+			return;
+		}	
+		$message = ChatTemplate::makeMessage(ChatTemplateID::MSG_ARENA_START, array());
+		ArenaLogic::arenaBroadcast($message);
+	}
+	
+	/**
+	 * 活动， 发奖的倍率
+	 * Enter description here ...
+	 */
+	public static function getActiveRate()
+	{
+		//----给30074 double一次
+		$group = RPCContext::getInstance()->getFramework()->getGroup();
+		$ALL_GROUP = array(
+'game290005' , 
+'game30014'	 , 
+'game30074'	 , 
+'game40032'	 , 
+'game60007'	 , 
+'game60008'	 , 
+'game90005'	 , 
+		);
+		if (in_array($group, $ALL_GROUP) )
+		{
+			$time = Util::getTime();
+			$date = strftime("%Y%m%d", $time);
+			if ($date < 20120908)
+			{
+				return 2;
+			}
+		}		
+		//----------------------
+		
+		$curTime = Util::getTime();
+		$beginTime = strtotime(ArenaActivity::BEGIN_TIME);
+		$endTime = strtotime(ArenaActivity::END_TIME);
+		
+		$defRate = 1;
+		//不在期限内
+		if ($curTime<$beginTime || $curTime>$endTime)
+		{
+			return $defRate;
+		}
+		
+		return ArenaActivity::RATE;
+	}
+	
+}
+/* vim: set ts=4 sw=4 sts=4 tw=100 noet: */

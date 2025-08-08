@@ -1,0 +1,88 @@
+array(11) {
+  ["heroes"]=>
+  array(3) {
+    [0]=>
+    int(11004)
+    [1]=>
+    int(10022)
+    [2]=>
+    int(10023)
+  }
+  ["state"]=>
+  array(0) {
+  }
+  ["recruit_hero_order"]=>
+  array(3) {
+    [0]=>
+    int(10010001)
+    [1]=>
+    int(10010002)
+    [2]=>
+    int(10010003)
+  }
+  ["login_date"]=>
+  array(1) {
+    [0]=>
+    int(20171204)
+  }
+  ["goodwill"]=>
+  array(4) {
+    ["num_by_gold"]=>
+    int(0)
+    ["num_free"]=>
+    int(0)
+    ["time"]=>
+    float(1512346864)
+    ["heritage"]=>
+    array(2) {
+      ["time"]=>
+      float(1512346864)
+      ["num"]=>
+      int(0)
+    }
+  }
+  ["spend_gold"]=>
+  array(1) {
+    [20171204]=>
+    int(668624)
+  }
+  ["convert_heroes"]=>
+  array(0) {
+  }
+  ["group_info"]=>
+  array(2) {
+    ["free_transfer"]=>
+    int(0)
+    ["gold_transfer"]=>
+    int(0)
+  }
+  ["wallow"]=>
+  array(4) {
+    ["login"]=>
+    float(1512390907)
+    ["logoff"]=>
+    float(1512389812)
+    ["accum"]=>
+    float(6633)
+    ["kick"]=>
+    int(0)
+  }
+  ["pay_reward"]=>
+  int(1)
+  ["arr_config"]=>
+  array(1) {
+    ["ActiveStatisticsLock"]=>
+    array(5) {
+      [0]=>
+      int(0)
+      [1]=>
+      int(0)
+      [2]=>
+      int(0)
+      [3]=>
+      int(0)
+      [4]=>
+      bool(true)
+    }
+  }
+}

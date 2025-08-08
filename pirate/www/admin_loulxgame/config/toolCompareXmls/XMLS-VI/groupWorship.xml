@@ -1,0 +1,5 @@
+<root>
+  <groupWorship id="1" costBellyBase="2000000" costGold="0" addBellyBase="0" addExperience="400" addPrestige="200" addExecution="0" addGoods="50053|10,73032|1" defaultComment="Cảm ơn sự ủng hộ của các bạn đối với mình" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Thịt Mizu Mizu"/>
+  <groupWorship id="2" costBellyBase="0" costGold="1000" addBellyBase="10000" addExperience="5000" addPrestige="500" addExecution="0" addGoods="50053|20,73032|4" defaultComment="" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Mực nướng"/>
+  <groupWorship id="3" costBellyBase="0" costGold="5000" addBellyBase="20000" addExperience="10000" addPrestige="1000" addExecution="0" addGoods="50053|50,73032|20" defaultComment="" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="Món ăn Thiên Đường"/>
+</root>

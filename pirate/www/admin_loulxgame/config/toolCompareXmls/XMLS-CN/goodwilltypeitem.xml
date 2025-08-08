@@ -1,0 +1,7 @@
+<root>
+  <goodwilltypeitem id="1" name="食物" des="食物类礼物，赠送伙伴喜好礼物可增加125%好感度，赠送伙伴厌恶类礼物只能获得75%好感度。" pach="itemSmall/tongshi.png"/>
+  <goodwilltypeitem id="2" name="机械" des="机械类礼物，赠送伙伴喜好礼物可增加125%好感度，赠送伙伴厌恶类礼物只能获得75%好感度。" pach="itemSmall/tongji.png"/>
+  <goodwilltypeitem id="3" name="书籍" des="书籍类礼物，赠送伙伴喜好礼物可增加125%好感度，赠送伙伴厌恶类礼物只能获得75%好感度。" pach="itemSmall/tognshu.png"/>
+  <goodwilltypeitem id="4" name="厨具" des="厨具类礼物，赠送伙伴喜好礼物可增加125%好感度，赠送伙伴厌恶类礼物只能获得75%好感度。" pach="itemSmall/tongchu.png"/>
+  <goodwilltypeitem id="5" name="乐器" des="乐器类礼物，赠送伙伴喜好礼物可增加125%好感度，赠送伙伴厌恶类礼物只能获得75%好感度。" pach="itemSmall/tongyue.png"/>
+</root>

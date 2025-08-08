@@ -1,0 +1,239 @@
+
+#user  pirate pirate;
+worker_processes  8;
+worker_cpu_affinity 0001 0100 1000 0010 0001 0100 1000 0010;
+
+#error_log  logs/error.log;
+#error_log  logs/error.log  notice;
+#error_log  logs/error.log  info;
+
+#pid        logs/nginx.pid;
+
+
+events {
+    worker_connections  1024;
+}
+
+
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+
+    sendfile        on;
+    keepalive_timeout  300;
+    fastcgi_connect_timeout 300;
+    fastcgi_send_timeout 300;
+    fastcgi_read_timeout 300;
+
+    client_header_buffer_size 16k;
+    large_client_header_buffers 4 64k;
+
+    #gzip  on;
+
+
+#server {
+    #    listen 801;
+    #   server_name 192.168.3.12;
+    #  charset koi8-r;
+
+    #     location / {
+    #            root /usr/local/nginx/html/;
+    #            index index.html index.htm;
+    #    }
+
+    #    location /nginx_status {
+    #    stub_status on; 
+    #    access_log off;
+    #    }
+#}
+
+
+
+############################################
+
+server {
+    listen       8081;
+    server_name  *.op.198game.com *.rxhzw.game5.cn *.rxhzw.g.1360.com *.hzw.91wan.com *.hzw.51wan.com *.hzw.youxi567.com *.hzw.3722.com *.rxhz.g.pptv.com *.hzw.91gamer.com *.hzw.game74.com *.rxhzw.91yx.com *.hzw.wan.sogou.com *.op.51.com *.rxhzw.37wan.com *.rx.99.7280.com *.hzw.renren.com *.hzw.i8youxi.com *.op.kuwan8.com *.hzw.17dong.cn *.rxhzw.game.yy.com *.hzw.kedou.com *.op.975game.com *.rxhzw.iwan4399.com *.hzw.wan.rising.cn *.op.tymmo.com *.rxhzw.49you.com *.op.vvwan.com *.rxhzw.y3399.com *.rxhzw.kuaiwan.com *.hzw.gameyy.com *.hzw.yaowan.com *.hzw.tianya.cn *.rxhzw.uu178.com 123.30.173.21;
+    root   /home/pirate/lianyun;
+    index  index.php;
+
+    location ~ .*\.(gif|jpg|jpeg|png|bmp|swf)$
+    {
+    expires      30d;
+    }
+
+    location ~ .*\.(js|css)?$
+    {
+    expires      1h;
+    }
+
+    if (!-f $request_filename) {
+    rewrite ^/$ /index/index/index.php last;
+    rewrite ^/([a-z]+)/$ /$1/index/index.php last;
+    rewrite ^/([a-z]+)$ /$1/index/index.php last;
+    rewrite ^/([a-z]+)/([a-z]+)/$ /$1/$2/index.php last;
+    rewrite ^/([a-z]+)/([a-z]+)$ /$1/$2/index.php last;
+    rewrite ^/([a-z]+)/([a-z]+)/?(.*)$ /$1/$2/index.php?$3 last;
+    }
+location ~ \.svn {
+    error_page 404 /;
+}
+    location ~ .*\.php$ {
+     fastcgi_pass   10.60.80.39:5555;
+     fastcgi_index  index.php;
+     include        fastcgi_params;
+     fastcgi_param  SCRIPT_FILENAME  /home/pirate/lianyun/index.php;
+    }
+}
+
+
+###########################################################
+server {
+    listen       8889;
+#    server_name  lybg.zuiyouxi.com;
+    root   /home/pirate/lianyun/admincp;
+    index  index.php;
+
+    location ~ .*\.(gif|jpg|jpeg|png|bmp|swf)$
+    {
+    expires      30d;
+    }
+
+    location ~ .*\.(js|css)?$
+    {
+    expires      1h;
+    }
+
+    if (!-f $request_filename) {
+    rewrite ^/$ /index/index/index.php last;
+    rewrite ^/([a-z]+)/$ /$1/index/index.php last;
+    rewrite ^/([a-z]+)$ /$1/index/index.php last;
+    rewrite ^/([a-z]+)/([a-z]+)/$ /$1/$2/index.php last;
+    rewrite ^/([a-z]+)/([a-z]+)$ /$1/$2/index.php last;
+    rewrite ^/([a-z]+)/([a-z]+)/?(.*)$ /$1/$2/index.php?$3 last;
+    }
+location ~ \.svn {
+    error_page 404 /;
+}
+    location ~ .*\.php$ {
+     fastcgi_pass   10.60.80.39:5555;
+     fastcgi_index  index.php;
+     include        fastcgi_params;
+     fastcgi_param  SCRIPT_FILENAME  /home/pirate/lianyun/admincp/index.php;
+    }
+}
+
+
+############################################################
+    server {
+        listen       10001;
+
+        root   /home/pirate/platform/api;
+        index  index.php;
+
+        location ~ \.php$ {
+            fastcgi_pass   10.60.80.39:5555;
+            fastcgi_index  index.php;
+            include        fastcgi_params;
+            fastcgi_param  SCRIPT_FILENAME  /home/pirate/platform/api$fastcgi_script_name;
+        }
+    }
+
+############################################################
+
+    server {
+        listen       8888;
+            root   /home/pirate/admincp;
+            index  index.php;
+        
+location / {
+
+            allow 59.108.35.50;
+            deny all;
+
+if (!-f $request_filename) {
+rewrite ^/$ /index/index/index.php last;
+rewrite ^/([a-z]+)/$ /$1/index/index.php last;
+rewrite ^/([a-z]+)$ /$1/index/index.php last;
+rewrite ^/([a-z]+)/([a-z]+)/$ /$1/$2/index.php last;
+rewrite ^/([a-z]+)/([a-z]+)$ /$1/$2/index.php last;
+rewrite ^/([a-z]+)/([a-z]+)/?(.*)$ /$1/$2/index.php?$3 last;
+}
+
+        location ~* /kindeditor/php/ {
+            if (-f $request_uri){
+                rewrite ^/* /kindeditor/php/;
+            }
+            fastcgi_pass   10.60.80.39:5555;
+            fastcgi_index  index.php;
+            include        fastcgi_params;
+            fastcgi_param  SCRIPT_FILENAME  $document_root$fastcgi_script_name;
+        }
+        location ~ \.php$ {
+            fastcgi_pass   10.60.80.39:5555;
+            fastcgi_index  index.php;
+            include        fastcgi_params;
+            fastcgi_param  SCRIPT_FILENAME  /home/pirate/admincp/index.php;
+        }
+
+}
+
+        log_format  admincp  '$request_filename $remote_addr - $remote_user [$time_local] "$request" '
+                          '$status $body_bytes_sent "$http_referer" '
+                              '"$http_user_agent" "$http_x_forwarded_for"';
+
+       access_log  logs/admincp.log  admincp;
+
+    }
+
+
+####################################################################
+    server {
+        listen       8080;
+        server_name  localhost;
+
+        location / {
+            root   /home/pirate/static;
+            index  index.html index.htm;
+        }
+
+        error_page   500 502 503 504  /50x.html;
+        location = /50x.html {
+            root   html;
+      	}
+}
+
+    #server {
+    #    listen       8000;
+    #    listen       somename:8080;
+    #    server_name  somename  alias  another.alias;
+
+    #    location / {
+    #        root   html;
+    #        index  index.html index.htm;
+    #    }
+    #}
+
+    # HTTPS server
+    #
+    #server {
+    #    listen       443;
+    #    server_name  localhost;
+
+    #    ssl                  on;
+    #    ssl_certificate      cert.pem;
+    #    ssl_certificate_key  cert.key;
+
+    #    ssl_session_timeout  5m;
+
+    #    ssl_protocols  SSLv2 SSLv3 TLSv1;
+    #    ssl_ciphers  ALL:!ADH:!EXPORT56:RC4+RSA:+HIGH:+MEDIUM:+LOW:+SSLv2:+EXP;
+    #    ssl_prefer_server_ciphers   on;
+
+    #    location / {
+    #        root   html;
+    #        index  index.html index.htm;
+    #    }
+    #}
+
+}

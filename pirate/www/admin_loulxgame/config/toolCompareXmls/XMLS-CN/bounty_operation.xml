@@ -1,0 +1,23 @@
+<root>
+  <bounty_operation id="1" operation="每消耗20金币" score="10|50000" gold="20"/>
+  <bounty_operation id="2" operation="每出航1次" score="25|20000" gold="0"/>
+  <bounty_operation id="3" operation="每厨房生产1次" score="50|20000" gold="0"/>
+  <bounty_operation id="4" operation="每订单1次" score="15|1200" gold="0"/>
+  <bounty_operation id="5" operation="每日任务完成1次" score="50|500" gold="0"/>
+  <bounty_operation id="6" operation="领取悬赏工资" score="0|1000" gold="0"/>
+  <bounty_operation id="7" operation="每调教下属1次" score="20|200" gold="0"/>
+  <bounty_operation id="8" operation="每装备强化1次" score="20|2000" gold="0"/>
+  <bounty_operation id="9" operation="每挑战逆袭副本1次" score="20|500" gold="0"/>
+  <bounty_operation id="10" operation="每探索宝石1次" score="10|500" gold="0"/>
+  <bounty_operation id="11" operation="每竞技场战斗1次" score="30|800" gold="0"/>
+  <bounty_operation id="12" operation="每寻宝打劫1次" score="50|200" gold="0"/>
+  <bounty_operation id="13" operation="每港口攻打1次" score="20|100" gold="0"/>
+  <bounty_operation id="14" operation="每公会捐献1次" score="0|200" gold="0"/>
+  <bounty_operation id="15" operation="每占领资源1次" score="35|70" gold="0"/>
+  <bounty_operation id="16" operation="每会谈1次" score="0|200" gold="0"/>
+  <bounty_operation id="17" operation="每寻宝1次" score="0|200" gold="0"/>
+  <bounty_operation id="18" operation="每装备制作1次" score="0|200" gold="0"/>
+  <bounty_operation id="19" operation="每突飞伙伴1次" score="0|2000" gold="0"/>
+  <bounty_operation id="20" operation="每金币赠送1次" score="0|2000" gold="0"/>
+  <bounty_operation id="22" operation="领取星盘祝福" score="0|200" gold="0"/>
+</root>

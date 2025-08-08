@@ -1,0 +1,7 @@
+<explore>
+	<!--
+		<exploreNpc id="npcid" tempName="探索模板名称" armIcons="武器事件图标组" armSpend="武器花费游戏币" armItemsId="武器掉落表ID" armProbability="武器各事件出现概率组" armorIcons="防具事件图标组" armorSpend="防具花费游戏币组" armorItemsId="防具掉落表ID组" armorProbability="防具各事件出现概率组" addCdTime="每探索一次增加冷却时间" clearCdTime="1金币消除CD时间">
+		</exploreNpc>
+	-->
+	<exploreNpc id="1" armIcons="icon/disIcon0.jpg,icon/disIcon1.jpg,icon/disIcon2.jpg,icon/disIcon3.jpg" armSpend="100,200,300,400" armorIcons="icon/treaIcon0.jpg,icon/treaIcon1.jpg,icon/treaIcon2.jpg" armorSpend="1000,2000,3000" addCdTime="600" clearCdTime="600"/>
+</explore>

@@ -1,0 +1,20 @@
+<root>
+  <blackpearl_reward id="101" name="固定奖励1" belly="300000" experience="" execution="" gold="" prestige="" element="" energy="" item=""/>
+  <blackpearl_reward id="102" name="固定奖励2" belly="" experience="" execution="" gold="" prestige="300" element="" energy="" item=""/>
+  <blackpearl_reward id="103" name="称号" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70170|1"/>
+  <blackpearl_reward id="104" name="面包3" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70200|3"/>
+  <blackpearl_reward id="105" name="经验晶钻3" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="42006|3"/>
+  <blackpearl_reward id="106" name="50W贝里" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70302|1"/>
+  <blackpearl_reward id="107" name="普通的水晶*5" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120102|5"/>
+  <blackpearl_reward id="108" name="普通的海魔石*5" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120202|5"/>
+  <blackpearl_reward id="109" name="普通的珍珠*5" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120302|5"/>
+  <blackpearl_reward id="110" name="普通的玛瑙*5" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120402|5"/>
+  <blackpearl_reward id="111" name="普通的珊瑚*5" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120502|5"/>
+  <blackpearl_reward id="112" name="50W贝里*2" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70302|2"/>
+  <blackpearl_reward id="113" name="宝物洗练包" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="50040|1"/>
+  <blackpearl_reward id="114" name="宝石洗练物品礼包" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="50039|1"/>
+  <blackpearl_reward id="115" name="爱心之箭" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120010|1"/>
+  <blackpearl_reward id="116" name="封印转移水晶" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120012|1"/>
+  <blackpearl_reward id="117" name="6星果实图纸随机包" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="60124|1"/>
+  <blackpearl_reward id="118" name="7星果实图纸随机包" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="60125|1"/>
+</root>

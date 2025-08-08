@@ -1,0 +1,8 @@
+<root>
+  <worship id="1" costBellyBase="500000" costGold="0" addBellyBase="0" addExperience="100" addPrestige="200" addExecution="0" addGoods="120010|1" defaultComment="感谢朋友们对我的支持" worshipType="1" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="水水肉"/>
+  <worship id="2" costBellyBase="0" costGold="100" addBellyBase="1000" addExperience="500" addPrestige="500" addExecution="0" addGoods="120010|2" defaultComment="" worshipType="1" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="章鱼烧"/>
+  <worship id="3" costBellyBase="0" costGold="500" addBellyBase="2000" addExperience="1000" addPrestige="1000" addExecution="0" addGoods="120010|6,1100245|2,24000025|2,24000028|2" defaultComment="" worshipType="1" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="天堂料理"/>
+  <worship id="4" costBellyBase="500000" costGold="0" addBellyBase="0" addExperience="100" addPrestige="200" addExecution="0" addGoods="120017|5" defaultComment="感谢朋友们对我的支持" worshipType="2" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="水水肉"/>
+  <worship id="5" costBellyBase="0" costGold="100" addBellyBase="1000" addExperience="500" addPrestige="500" addExecution="0" addGoods="120017|20" defaultComment="" worshipType="2" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="章鱼烧"/>
+  <worship id="6" costBellyBase="0" costGold="500" addBellyBase="2000" addExperience="1000" addPrestige="1000" addExecution="0" addGoods="120017|100,1100305|2" defaultComment="" worshipType="2" worshipChannel="0" worshipCountPeriod="1" worshipCountDay="" name="天堂料理"/>
+</root>

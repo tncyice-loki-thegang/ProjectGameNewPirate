@@ -1,0 +1,53 @@
+#!/bin/sh
+
+#constant
+TMP='/tmp/'
+GREP='/bin/grep'
+PHP='/home/pirate/bin/php'
+VIMDIFF='/usr/bin/vimdiff'
+RM='/bin/rm'
+FILE='ITEMS'
+KEY=''
+
+#if $1 is set
+if [ $# -ge 1 ]; then
+	FILE=$1
+fi
+
+#if $1 $2 is set
+if [ $# -ge 2 ]; then
+	FILE=$1
+	KEY=$2
+fi
+
+#get btstore path
+#FILEPATH=`$PHP -i | grep btstore.dir`
+#FILEPATH=(${FILEPATH})
+#FILEPATH=${FILEPATH[2]}
+FILEPATH=/home/pirate/rpcfw/data/btstore
+
+#if file is not exist, exit!
+if [ ! -e $FILEPATH/$FILE ]; then
+	echo $FILEPATH/$FILE not exist!
+	exit;
+fi
+
+echo "<?php \$content = file_get_contents('$FILEPATH/$FILE', 'r'); \$tmp = unserialize(\$content);" > $TMP/PHP_$FILE
+
+if [ $# -ge 2 ]; then
+	echo "\$tmp = \$tmp[$KEY];" >> $TMP/PHP_$FILE
+fi
+
+echo "var_dump(\$tmp);" >> $TMP/PHP_$FILE
+
+$PHP $TMP/PHP_$FILE > $TMP/A_$FILE
+
+#delete tmp file
+if [ -e $TMP/A_$FILE ]; then
+		$RM -f $TMP/PHP_$FILE
+fi
+
+#vim
+vim $TMP/A_$FILE
+
+$RM -f $TMP/A_$FILE

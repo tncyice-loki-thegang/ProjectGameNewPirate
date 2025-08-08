@@ -1,0 +1,5 @@
+<root>
+  <foundation id="1" gold="100000" vip="6" return="0|40000,5|20000,10|20000,15|20000,20|20000" info="Khi HĐ kết thúc có thể lĩnh 40000 vàng, sau đó cứ 5 ngày có thể lĩnh 20000 vàng, tổng cộng 120000 vàng." name="Quỹ Chopper"/>
+  <foundation id="2" gold="200000" vip="9" return="0|70000,5|50000,10|50000,15|50000,20|50000" info="Khi HĐ kết thúc có thể lĩnh 70000 vàng, sau đó cứ 5 ngày có thể lĩnh 50000 vàng, tổng cộng 270000 vàng." name="Quỹ Aokiji"/>
+  <foundation id="3" gold="500000" vip="12" return="0|210000,5|135000,10|135000,15|135000,20|135000" info="Khi HĐ kết thúc có thể lĩnh 210000 vàng, sau đó cứ 5 ngày có thể lĩnh 135000 vàng, tổng cộng 750000 vàng." name="Quỹ Doflamingo"/>
+</root>

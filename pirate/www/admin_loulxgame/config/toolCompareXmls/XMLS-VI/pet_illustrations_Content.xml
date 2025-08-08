@@ -1,0 +1,3 @@
+<root>
+  <desc str="1. Sau khi nhận và sử dụng trứng Pet, thì Pet tương ứng trong Đồ giám Pet sẽ sáng. \n2.Pet trong Đồ giám sau khi sáng sẽ được ghi lại vĩnh viễn, không vì các thao tác như reset, trùng sinh, bán đi làm giảm chủng loại Pet trong Đồ giám. \n3.Sau khi chủng loại Pet tăng nhất định, sẽ nhận được thêm thuộc tính, thuộc tính tăng thêm dùng được cho tất cả Đ.đội. Thuộc tính thêm sau sẽ không vì Pet bị bán mất mà giảm đi. \n4.Trong phân loại Pet, chủng loại của Pet tăng đến mức nhất định, sẽ được p.thưởng vật phẩm. Cùng loại phần thưởng chỉ được lĩnh 1 lần. \n5.Pet đã nhận được sẽ được đưa vào trong Giám đồ Pet.\n6. Space Pirate, Thỏ Ngọc, Gấu trúc, Pappug, Bacura vì còn e ngại, cho nên tạm thời chưa đưa vào trong Đồ giám Pet."/>
+</root>

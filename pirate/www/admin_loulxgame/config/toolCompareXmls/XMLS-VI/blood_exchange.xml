@@ -1,0 +1,22 @@
+<root>
+  <blood_exchange id="1" needStars="600" itemTempId="121517" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="2" needStars="200" itemTempId="70738" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="3" needStars="300" itemTempId="60014" getNum="10" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="4" needStars="250" itemTempId="70726" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="5" needStars="1000" itemTempId="70724" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="6" needStars="2500" itemTempId="70723" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="7" needStars="200" itemTempId="70736" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="8" needStars="1000" itemTempId="70734" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="9" needStars="2000" itemTempId="70733" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="10" needStars="300" itemTempId="120018" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="11" needStars="500" itemTempId="120019" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="12" needStars="2000" itemTempId="70164" getNum="1" needPrestige="" neeLevel="" limitTime="1" canBatch="0"/>
+  <blood_exchange id="13" needStars="3000" itemTempId="70165" getNum="1" needPrestige="" neeLevel="" limitTime="1" canBatch="0"/>
+  <blood_exchange id="14" needStars="100" itemTempId="71018" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="15" needStars="100" itemTempId="71019" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="16" needStars="350" itemTempId="71020" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="17" needStars="280" itemTempId="71017" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="18" needStars="500" itemTempId="71008" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="19" needStars="450" itemTempId="70013" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+  <blood_exchange id="20" needStars="1000" itemTempId="73026" getNum="1" needPrestige="" neeLevel="" limitTime="" canBatch="1"/>
+</root>

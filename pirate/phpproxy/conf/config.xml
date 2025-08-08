@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- 服务器日志相关配置 -->
+	<log>
+		<!-- 日志路径 -->
+		<filename>log/phpproxy.log</filename>
+		<!-- 日志级别：1表示FATAL，2表示INFO，3表示NOTICE，4表示TRACE，5表示DEBUG -->
+		<level>2</level>
+		<!-- 是否立即输出 -->
+		<flush>false</flush>
+	</log>
+	
+	<!-- 服务器连接相关配置 -->
+	<server>
+		<!-- unixSocket地址 -->
+		<unix_socket>/home/pirate/phpproxy/var/phpproxy.sock</unix_socket>
+		<!-- 最大请求长度 -->
+		<max_request_size>102400</max_request_size>
+		<!-- 最大响应长度 -->
+		<max_response_size>1024000</max_response_size>
+		<!-- 压缩阀值 -->
+		<compress_threshold>10240</compress_threshold>
+		<!-- 写超时时间(ms) -->
+		<write_timeout>1000</write_timeout>
+		<!-- 读超时时间(ms) -->
+		<read_timeout>4000</read_timeout>
+		<!-- 连接队列长度 -->
+		<backlog>50</backlog>
+		<!-- 业务执行线程数 -->
+		<service_num>5</service_num>
+		<!-- 网络处理线程数 -->
+		<network_num>5</network_num>
+		<!-- 采用的amf协议版本 :0表示amf0，1表示amf3 -->
+		<amf_version>1</amf_version>
+		<!-- 采用的字节序:0表示BigEndian，1表示LittleEndian -->
+		<byte_order>0</byte_order>
+		
+		<!-- 以下为服务器上命令字的配置 -->
+		<command>
+			<!-- 代理相关配置 -->
+			<proxy>
+				<!-- 连接超时时间 -->
+				<connect_timeout>2000</connect_timeout>
+				<!-- 代理的具体配置 -->
+				<module_config>conf/module.xml</module_config>
+			</proxy>
+			
+		</command>
+	</server>
+</root>

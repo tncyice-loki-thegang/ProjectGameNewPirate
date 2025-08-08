@@ -1,0 +1,14 @@
+<root>
+  <mountain_battle_condition id="1" totalRound="" holdRound="" killMonsterId="" describe="战胜所有怪物"/>
+  <mountain_battle_condition id="2" totalRound="5" holdRound="" killMonsterId="" describe="5回合内获得战斗胜利"/>
+  <mountain_battle_condition id="3" totalRound="" holdRound="5" killMonsterId="" describe="坚守5回合"/>
+  <mountain_battle_condition id="4" totalRound="" holdRound="" killMonsterId="1607043" describe="消灭“暴怒海贼航海士”"/>
+  <mountain_battle_condition id="5" totalRound="5" holdRound="" killMonsterId="" describe="5回合内获得战斗胜利"/>
+  <mountain_battle_condition id="6" totalRound="" holdRound="5" killMonsterId="" describe="坚守5回合"/>
+  <mountain_battle_condition id="7" totalRound="" holdRound="" killMonsterId="1607072" describe="消灭“暴怒钢爪狗熊”"/>
+  <mountain_battle_condition id="8" totalRound="5" holdRound="" killMonsterId="" describe="5回合内获得战斗胜利"/>
+  <mountain_battle_condition id="9" totalRound="" holdRound="5" killMonsterId="" describe="坚守5回合"/>
+  <mountain_battle_condition id="10" totalRound="" holdRound="" killMonsterId="1607103" describe="消灭“暴怒熊猫僵尸”"/>
+  <mountain_battle_condition id="11" totalRound="5" holdRound="" killMonsterId="" describe="5回合内获得战斗胜利"/>
+  <mountain_battle_condition id="12" totalRound="" holdRound="5" killMonsterId="" describe="坚守5回合"/>
+</root>

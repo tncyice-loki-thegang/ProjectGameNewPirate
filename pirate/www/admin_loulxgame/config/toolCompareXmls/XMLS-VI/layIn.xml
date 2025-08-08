@@ -1,0 +1,4 @@
+<root>
+  <layIn id="1" startTime="20200502100000" closeTime="20200508235959" needOpenTime="20200502100000" levelLimit="0" info="Sơ lược" maxNum="10" foundationId="1|2|3"/>
+  <layIn id="2" startTime="20200425100000" closeTime="20200501235959" needOpenTime="20200425100000" levelLimit="0" info="Sơ lược" maxNum="10" foundationId="1|2|3"/>
+</root>

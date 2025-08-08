@@ -1,0 +1,5 @@
+<root>
+  <worldboss id="15" name="Rồng punk" icon="1009171" tx="54" ty="16" activityId="1" typeid="25" levelArr="80" LevelArmyArr="10003" levelAwardArr="3" levelIconArr="1009191" levelTypeidArr="60" levelXy="54|16"/>
+  <worldboss id="16" name="Kraken" icon="1009181" tx="54" ty="16" activityId="3" typeid="26" levelArr="80" LevelArmyArr="10004" levelAwardArr="4" levelIconArr="1009201" levelTypeidArr="59" levelXy="61|16"/>
+  <worldboss id="17" name="Little Oars Jr" icon="1009211" tx="54" ty="16" activityId="20" typeid="26" levelArr="80" LevelArmyArr="19999" levelAwardArr="4" levelIconArr="1009211" levelTypeidArr="294" levelXy="54|16"/>
+</root>

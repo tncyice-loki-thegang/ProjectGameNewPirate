@@ -1,0 +1,3 @@
+<root>
+  <captain_room id="1" name="船长室" info="船长休息和办公的地方，在这里可以出航、查看下属。升级船长室能够提高出航获得的收入。" resourceID="" icon="chuanzhangshi.png" lv="1" upgradeID="1" sailingIcon="" sail_baseBelly="240" fatigue_param="0" baseSailnum="10" maxSailnum="30" basegold_num="1" growgold_num="1" timepergold="60" CD_num="0" answerID="1" subordinate_maxNumPerLv="1|20,2|40,3|70,4|100,5|120"/>
+</root>

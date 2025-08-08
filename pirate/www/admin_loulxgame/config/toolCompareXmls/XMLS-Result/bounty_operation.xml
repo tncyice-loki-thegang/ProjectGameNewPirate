@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <bounty_operation id="1" operation="Cứ tiêu 20 vàng" score="10|50000" gold="20"/>
+  <bounty_operation id="2" operation="Ra khơi 1 lần" score="25|20000" gold="0"/>
+  <bounty_operation id="3" operation="Nấu ăn 1 lần" score="50|20000" gold="0"/>
+  <bounty_operation id="4" operation="Đặt hàng 1 lần" score="15|1200" gold="0"/>
+  <bounty_operation id="5" operation="H.thành NV hàng ngày 1 lần" score="50|500" gold="0"/>
+  <bounty_operation id="6" operation="Lĩnh tiền lương" score="0|1000" gold="0"/>
+  <bounty_operation id="7" operation="Dạy thuộc hạ 1 lần" score="20|200" gold="0"/>
+  <bounty_operation id="8" operation="C.hóa trang bị 1 lần" score="20|2000" gold="0"/>
+  <bounty_operation id="9" operation="Thách đấu PB tập kích 1 lần" score="20|500" gold="0"/>
+  <bounty_operation id="10" operation="Tìm kiếm B.thạch 1 lần" score="10|500" gold="0"/>
+  <bounty_operation id="11" operation="Chiến đấu Đấu Trường 1 lần" score="30|800" gold="0"/>
+  <bounty_operation id="12" operation="Cướp Tầm bảo 1 lần" score="50|200" gold="0"/>
+  <bounty_operation id="13" operation="Tấn công Cảng 1 lần" score="20|100" gold="0"/>
+  <bounty_operation id="14" operation="Quyên góp C.hội 1 lần" score="0|200" gold="0"/>
+  <bounty_operation id="15" operation="Chiếm mỏ 1 lần" score="35|70" gold="0"/>
+  <bounty_operation id="16" operation="Hội đàm 1 lần" score="0|200" gold="0"/>
+  <bounty_operation id="17" operation="Tầm bảo 1 lần" score="0|200" gold="0"/>
+  <bounty_operation id="18" operation="Chế đồ 1 lần" score="0|200" gold="0"/>
+  <bounty_operation id="19" operation="Tăng tốc Đ.đội 1 lần" score="0|2000" gold="0"/>
+  <bounty_operation id="20" operation="Tặng vàng 1 lần" score="0|2000" gold="0"/>
+  <bounty_operation id="22" operation="Lĩnh Chúc phúc T.bàn" score="0|200" gold="0"/>
+</root>

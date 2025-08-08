@@ -1,0 +1,7 @@
+<root>
+  <domineer_leader id="1" needDomineerlevel="5" needDomineerdegree="0" needHeroLevel="0" needHeroRebirth="0" needHeroPreciouseLevel="0" costStone="" add_Property="3|200,4|200,5|200,36|1000,38|150,40|150" add_yulan="3|200,4|200,5|200,36|0.1,38|0.015,40|0.015"/>
+  <domineer_leader id="2" needDomineerlevel="10" needDomineerdegree="1" needHeroLevel="0" needHeroRebirth="0" needHeroPreciouseLevel="0" costStone="" add_Property="3|400,4|400,5|400,36|1150,38|1150,40|300" add_yulan="3|200,4|200,5|200,38|0.1,36|0.015,40|0.015"/>
+  <domineer_leader id="3" needDomineerlevel="15" needDomineerdegree="2" needHeroLevel="0" needHeroRebirth="0" needHeroPreciouseLevel="0" costStone="" add_Property="3|600,4|600,5|600,36|1300,38|1300,40|1300" add_yulan="3|200,4|200,5|200,40|0.1,36|0.015,38|0.015"/>
+  <domineer_leader id="4" needDomineerlevel="20" needDomineerdegree="3" needHeroLevel="0" needHeroRebirth="0" needHeroPreciouseLevel="0" costStone="" add_Property="3|800,4|800,5|800,36|2350,38|1500,40|1500" add_yulan="3|200,4|200,5|200,36|0.105,38|0.02,40|0.02"/>
+  <domineer_leader id="5" needDomineerlevel="25" needDomineerdegree="4" needHeroLevel="0" needHeroRebirth="0" needHeroPreciouseLevel="0" costStone="" add_Property="3|1000,4|1000,5|1000,36|2550,38|2550,40|1700" add_yulan="3|200,4|200,5|200,36|0.02,38|0.105,40|0.02"/>
+</root>

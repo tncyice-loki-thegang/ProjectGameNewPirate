@@ -1,0 +1,22 @@
+<root>
+  <donation_exchange id="1" needDonation="3750" itemTempId="81119" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="2" needDonation="15000" itemTempId="81120" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="3" needDonation="37500" itemTempId="81121" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="4" needDonation="150000" itemTempId="81122" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="5" needDonation="365000" itemTempId="81123" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="6" needDonation="2500" itemTempId="120014" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="7" needDonation="1000000" itemTempId="73023" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="8" needDonation="3000000" itemTempId="129914" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="9" needDonation="50000000" itemTempId="1500000" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="10" needDonation="50000000" itemTempId="1500001" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="11" needDonation="50000000" itemTempId="1500002" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <donation_exchange id="12" needDonation="5000000" itemTempId="71121" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="0" needHerointegral=""/>
+  <!--<donation_exchange id="7" needDonation="" itemTempId="129102" getNum="1" needPrestige="0" neeLevel="125" limitTime="1" canBatch="1" exchangeType="1" needHerointegral="20000"/>
+  <donation_exchange id="8" needDonation="" itemTempId="70618" getNum="1" needPrestige="0" neeLevel="105" limitTime="1" canBatch="1" exchangeType="1" needHerointegral="1000"/>
+  <donation_exchange id="9" needDonation="" itemTempId="70619" getNum="1" needPrestige="0" neeLevel="102" limitTime="1" canBatch="1" exchangeType="1" needHerointegral="1000"/>
+  <donation_exchange id="10" needDonation="" itemTempId="70620" getNum="1" needPrestige="0" neeLevel="106" limitTime="1" canBatch="1" exchangeType="1" needHerointegral="1000"/>
+  <donation_exchange id="14" needDonation="" itemTempId="70621" getNum="1" needPrestige="0" neeLevel="105" limitTime="1" canBatch="1" exchangeType="1" needHerointegral="1000"/>
+  <donation_exchange id="11" needDonation="" itemTempId="120044" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="1" needHerointegral="5"/>
+  <donation_exchange id="12" needDonation="" itemTempId="120045" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="1" needHerointegral="10"/>
+  <donation_exchange id="13" needDonation="" itemTempId="120046" getNum="1" needPrestige="0" neeLevel="0" limitTime="0" canBatch="1" exchangeType="1" needHerointegral="15"/>-->
+</root>

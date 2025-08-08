@@ -1,0 +1,1943 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<!--<module>
+		<url>模块路径</url>
+		<res>此节点可以没有，如果没有附加资源
+			<resUrl>模块所需的资源，图片，swf等</resUrl>
+		</res>
+		<part moduleName="通知常量名" className="类名，全路径名称"></part>
+	</module>-->
+	<!--<module>
+		<url>modules/moduleA.swf</url>
+		<res>
+			
+		<resUrl>模块所需的资源，图片，swf等</resUrl>
+		</res>		<part moduleName="BackPackWindow" className="mvc.view.BackPackWindow"></part>
+		<part moduleName="ShopWindow" className="mvc.view.ShopWindow"></part>
+	</module>
+
+	内部模块添加，同时进入模块之前要加载资源，代码内registModule
+	<module>
+		<url></url>
+		<res>
+			<resUrl>test/1.png</resUrl>
+		</res>
+		<part moduleName="moduleA" className=""></part>
+	</module>
+-->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/integralSettlement.swf</resUrl>
+		</res>
+		<part moduleName="integralSettlement" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/Research.swf</resUrl>
+		</res>
+		<part moduleName="module_ResearchWin" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/world/worldMap.swf</resUrl>
+			<resUrl>swfs/world/worldTownMove.swf</resUrl>
+		</res>
+		<part moduleName="module_WorldMapScene" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/world/selectGroupMc.swf</resUrl>
+		</res>
+		<part moduleName="module_selectCamp" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/world/worldRes.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldResUI.swf</resUrl>
+		</res>
+		<part moduleName="module_WorldResourcesScene" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/world/cyberWorldRes.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldResUI.swf</resUrl>
+		</res>
+		<part moduleName="module_CyberWorldResourcesScene" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/world/haven.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldResUI.swf</resUrl>
+		</res>
+		<part moduleName="module_WorldPortShipScene" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/OrderWindow.swf</resUrl>
+		</res>
+		<part moduleName="module_OrderWindow" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/bag/bag.swf</resUrl>
+			<resUrl>swfs/bag/hasNewItem.swf</resUrl>
+			<resUrl>swfs/zhaomu/zhaomu.swf</resUrl>
+			<resUrl>swfs/groupHero/giftLevelEffect.swf</resUrl>
+			<resUrl>swfs/bag/elementItemEffect.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/spiritRoomModule.swf</resUrl>
+		</res>
+		<part moduleName="BottomButtonModule" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/recharge.swf</resUrl>
+		</res>
+		<part moduleName="ChargeReturnWin" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/bag.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>
+		<part moduleName="DepotBagPanel" className=""></part>
+		<part moduleName="BackPackWindow" className=""></part>
+		<part moduleName="Store_ShopPanelWindow" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/fightCamp/campAttackInfo.swf</resUrl>
+			<resUrl>swfs/fightCamp/CampAttackScene.swf</resUrl>
+		</res>
+		<part moduleName="module_CampFight" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/fightCamp/campAttackInfo.swf</resUrl>
+			<resUrl>swfs/fightCamp/SeaAttackScene.swf</resUrl>
+		</res>
+		<part moduleName="module_SeaFight" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+		</res>
+		<part moduleName="SpecialButtonModule" className=""></part>
+	</module>
+	<module>
+		<url>modules/DailySignModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/dailySign.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/activeStatistics.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>swfs/copyPrize/1.swf</resUrl>
+			<resUrl>swfs/copyPrize/2.swf</resUrl>
+			<resUrl>swfs/copyPrize/3.swf</resUrl>
+			<resUrl>swfs/copyPrize/4.swf</resUrl>
+			<resUrl>swfs/copyPrize/5.swf</resUrl>
+			<resUrl>swfs/dailySign/DailysignUpMC.swf</resUrl>
+		</res>
+		<part moduleName="SignInfoModule" className="dailySign.DailySignWin"></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+		</res>
+		<part moduleName="GetGiftInfoModule" className=""></part>
+	</module>
+	<module>
+		<url>modules/TestWorldMap.swf</url>
+		<!--<res>
+			<resUrl>模块所需的资源，图片，swf等</resUrl>
+		</res>-->
+		<part moduleName="PirateWorld" className="view.PirateWorld"></part>
+	</module>
+	<module>
+		<url>modules/CreateRoleModule.swf</url>
+<!--		<res>-->
+<!--			<resUrl>modules/AttentionFriends.swf</resUrl>-->
+<!--		</res>-->
+		<part moduleName="CreateUserPanel" className="view.CreateUserPanel"></part>
+	</module>
+	
+	<module>
+		<url>modules/BattleModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/trainPet.swf</resUrl>
+			<resUrl>battle/warScore.swf</resUrl>
+			<resUrl>battle/other.swf</resUrl>
+			<resUrl>battle/battleShowEff.swf</resUrl>
+			<resUrl>moduleUi/swfs/battle.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>
+		<part moduleName="module_battle_result" className="BattleResultModule"></part>
+		<part moduleName="BattleHeroInfoWindow" className="application.view.battleInfo.HeroPropertyPanel.property.HeroInfoModule"></part>
+		<part moduleName="Battle" className="Battle"></part>
+	</module>
+	
+	<module>
+		<url>modules/TeamWarModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/battle.swf</resUrl>
+		</res>
+		<part moduleName="TeamWar" className="TeamWar"></part>
+	</module>
+
+	<module>
+		<url>modules/TownModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/town.swf</resUrl>
+			<resUrl>swfs/town/TownFlowerEffect.swf</resUrl>
+			<resUrl>swfs/town/mouseEffect.swf</resUrl>
+			<resUrl>swfs/treasure/blackBoatNpc.swf</resUrl>
+			<resUrl>swfs/town/changeRoleEffect.swf</resUrl>
+			<resUrl>copy/effects/effects.swf</resUrl>
+		</res>
+		<part moduleName="module_TownMap" className="train.map.MapMaster"></part>
+		<part moduleName="module_TownSmallMap" className="town.mvc.view.TownSmallMap"></part>
+	</module>
+	<module>
+		<url>modules/UserPanelModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/achievement.swf</resUrl>
+			<resUrl>swfs/copy/copyWinNotice.swf</resUrl>
+			<resUrl>moduleUi/swfs/userPanel.swf</resUrl>
+			<resUrl>battle/roleManlyEffect1.swf</resUrl>
+			<resUrl>battle/roleManlyEffect2.swf</resUrl>
+			<resUrl>battle/roleManlyEffect3.swf</resUrl>
+			<resUrl>battle/roleManlyEffect4.swf</resUrl>
+			<resUrl>battle/roleManlyEffect5.swf</resUrl>
+			<resUrl>battle/roleManlyEffect6.swf</resUrl>
+			<resUrl>battle/roleManlyEffect7.swf</resUrl>
+			<resUrl>battle/roleManlyEffect8.swf</resUrl>
+			<resUrl>battle/roleManlyEffect9.swf</resUrl>
+			<resUrl>battle/strongWorldBloodMC.swf</resUrl>
+		</res>
+		
+		<part moduleName="UserInfoBox" className="user.view.userInfoBox.UserInfoBox"></part>
+		<part moduleName="UserPanel" className="user.view.UserPanel"></part>
+		<part moduleName="UserTenurePanel" className="user.view.userInfoBox.UserTenurePanel" />
+		<part moduleName="test_chengjiu" className="achievement.ui.AchievementMain" />
+		<part moduleName="UnameChangeWindow" className="user.view.UnameChangeWindow"></part>
+		<part moduleName="UserChangeRoleWindow" className="user.view.UserChangeRoleWindow"></part>
+	</module>
+	<module>
+		<url>modules/FormationModule.swf</url>
+		<res>
+			<resUrl>swfs/formation/lvUp.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+		</res>
+		<part moduleName="FormationWindow" className="formation.view.FormationWindow"></part>
+		<part moduleName="FormationBlackSmithWindow" className="formation.view.FormationBlackSmithWindow"></part>
+		<part moduleName="FormationUpdateQualityWin" className="formation.view.FormationUpdateQualityWin"></part>
+	</module>
+	<module>
+		<url>modules/StrengthenModule.swf</url>
+		<res>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/reinforce.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/transfer.swf</resUrl>
+			<resUrl>moduleUi/swfs/strengthen.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/reinFine_success.swf</resUrl>
+			<resUrl>swfs/exchange/exchange.swf</resUrl>
+		</res>
+		<part moduleName="StrengthenModule" className="strengthen.mvc.view.StrengthenWindow"></part>
+	</module>
+	<module>
+		<url>modules/TavernModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/travern.swf</resUrl>
+		</res>
+		<part moduleName="TavernModule" className="tavern.mvc.view.TavernWindow"></part>
+	</module>
+
+	<module>
+		<url>modules/CopyGame.swf</url>
+		<res>
+			<resUrl>copy/effects/effects.swf</resUrl>
+			<resUrl>copy/effects/passEffects.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>swfs/formation/lvUp.swf</resUrl>
+			<resUrl>moduleUi/swfs/copy.swf</resUrl>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>swfs/copy/copyWinNotice.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+		</res>
+		<part moduleName="CopyChooser" className="copy.view.ChooseCopyWindow" />
+		<part moduleName="CopyMapModule" className="copy.view.CopyMapModule" />
+		<part moduleName="MonsterInfoWin" className="copy.view.MonsterInfoWin" />
+		<part moduleName="EliteChooseCopyWindow" className="copy.view.EliteChooseCopyWindow" />
+		<part moduleName="EliteCopyMapModule" className="copy.view.EliteCopyMapModule" />
+		<part moduleName="HeroChooseCopyWindow" className="copy.view.HeroChooseCopyWindow" />
+		<part moduleName="HeroCopyMapModule" className="copy.view.HeroCopyMapModule" />
+	</module>
+
+	<module>
+		<res>
+			<resUrl>swfs/mc/MC_daytaskProBlue.swf</resUrl>
+			<resUrl>swfs/mc/MC_DAYTASKTARGETCOMPLETE.swf</resUrl>
+			<resUrl>swfs/mc/MC_DAYTASKFINISHIINTEGRAL.swf</resUrl>
+			<resUrl>moduleUi/swfs/daytask.swf</resUrl>
+		</res>
+		<part moduleName="module_dayTaskWin"/>
+	</module>
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/groupPort.swf</resUrl>
+		</res>
+		<part moduleName="GroupPortCampWindow"/>
+	</module>
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/groupPort.swf</resUrl>
+		</res>
+		<part moduleName="module_GroupPortCampWindow"/>
+	</module>
+	<module>
+		<res>
+			<resUrl>swfs/mc/MC_finish.swf</resUrl>
+			<resUrl>moduleUi/swfs/task.swf</resUrl>
+		</res>
+		<part moduleName="module_TaskWin"/>
+	</module>
+	<module>
+		<url>modules/SailBoatModule.swf</url>
+		<res>
+			<resUrl>swfs/formation/lvUp.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+			<resUrl>swfs/sail/openCabin.swf</resUrl>
+			<resUrl>moduleUi/swfs/boat.swf</resUrl>
+		</res>
+		<part moduleName="SailBoatModule" className="sailBoat.mvc.ui.SailBoatWindow" />
+		<part moduleName="BaseShipCabin" className="sailBoat.mvc.ui.BaseShipCabinWin" />
+	</module>
+	<module>
+		<res>
+			<resUrl>swfs/kitchen/makeDish.swf</resUrl>
+			<resUrl>swfs/kitchen/getBelly.swf</resUrl>
+			<resUrl>bitmaps/kitchen/5.png</resUrl>
+			<resUrl>bitmaps/kitchen/6.png</resUrl>
+			<resUrl>bitmaps/kitchen/7.png</resUrl>
+			<resUrl>moduleUi/swfs/kitchen.swf</resUrl>
+		</res>
+		<url>modules/Kitchen.swf</url>
+		<part moduleName="KitchenModule" className="kitchen.view.KitchenWindow" />
+	</module>
+	<!--厨房订单-->
+	<module>
+		<url>modules/ModuleOrder.swf</url>
+		<part moduleName="OrderModule" className="order.view.OrdersWindow" />
+	</module>
+	<module>
+		<url>modules/ModuleOrder.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/friendsPannel.swf</resUrl>
+			<resUrl>swfs/train/rapid.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/strengthen.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+			 <resUrl>moduleUi/swfs/hero.swf</resUrl>
+			 <resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+			 <resUrl>moduleUi/swfs/petmodule.swf</resUrl>
+			 <resUrl>moduleUi/swfs/formation.swf</resUrl>
+		</res>
+		<part moduleName="module_role_heroesPannel" className="" />
+	</module>
+	<module>
+		<url>modules/CaptainModule.swf</url>
+		<res>
+			<resUrl>swfs/sail/sailMC.swf</resUrl>
+			<resUrl>moduleUi/swfs/sail.swf</resUrl>
+		</res>
+		<part moduleName="CaptainModule" className="captain.mvc.view.CaptainWin" />
+	</module>
+	<module>
+		<url>modules/TrainHeroModule.swf</url>
+		<res>
+			<resUrl>swfs/train/rapid.swf</resUrl>
+			<resUrl>moduleUi/swfs/trainHero.swf</resUrl>
+		</res>
+		<part moduleName="TrainModule" className="partner.mvc.view.HeroTrainingWin" />
+	</module>
+
+	<!-- 好友 -->
+	<module>
+  		<url>modules/FriendModule.swf</url>
+  		<res>
+			<resUrl>moduleUi/swfs/friend.swf</resUrl>
+		</res>
+  		<part moduleName="FriendModule" className="friend.view.FriendWindow" /> 
+  	</module>
+
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/team.swf</resUrl>
+			<resUrl>moduleUi/swfs/friend.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+		</res>
+		<url>modules/TeamModule.swf</url>
+		<part moduleName="CopyLegionChooseModule" className="team.ui.CopyLegionChooseWindow" />
+		<part moduleName="ActivityTeamChooserWindow" className="team.ui.ActivityTeamChooserWindow" />
+		<part moduleName="TeamModule" className="team.ui.TeamWindow" />
+		<part moduleName="TeamMopupWindow" className="team.ui.TeamMopupWindow" />
+		<part moduleName="TeamMopupAttackWindow" className="team.ui.TeamMopupAttackWindow" />
+		<part moduleName="TeamRobotSelectWin" className="botTeam.ui.TeamBotFriendWindow" />
+		<part moduleName="TeamAttackByGoldWindow" className="team.ui.TeamAttackByGoldWindow" />
+		
+	</module>
+	
+	<module>
+		<url>modules/TalksModule.swf</url>
+		<res>
+			<resUrl>swfs/talks/talksRefresh.swf</resUrl>
+			<resUrl>moduleUi/swfs/talk.swf</resUrl>
+			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+		</res>
+		<part moduleName="TalksModule" className="talks.ui.TalksWindow" />
+	</module>
+	
+	<!-- 宝石探索 -->
+	<module>
+		<res>
+			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+			<resUrl>swfs/gemExplore/exchangeGem.swf</resUrl>
+			<resUrl>swfs/gemExplore/gemMaze.swf</resUrl>
+			<resUrl>moduleUi/swfs/gemExplore.swf</resUrl>
+		</res>
+		<url>modules/ModuleGemExplore.swf</url>
+		<part moduleName="ExploreModule" className="gemExplore.view.GemExploreWindow" />
+		<part moduleName="GemExchange" className="gemExplore.view.GemExchangeWindow" />
+		<part moduleName="TopSpeedExplore" className="gemExplore.view.ExploreTopSpeedWindow" />
+		<part moduleName="GemIntegral" className="gemExplore.view.GemUpgradeWin" />
+	</module>
+	
+	<!-- 邮件 -->
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/mail.swf</resUrl>
+		</res>
+		<url>modules/MailModule.swf</url>
+		<part moduleName="MailModule" className="mail.view.MailWindow" />
+	</module>
+	<!-- 工会 -->
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/union.swf</resUrl>
+		</res>
+		<url>modules/UnionModule.swf</url>
+		<part moduleName="UnionModule" className="union.view.UnionWindow" />
+	</module>
+	<!-- 副本奖励 -->
+	<module>
+		<res>
+			<resUrl>swfs/copyPrize/1.swf</resUrl>
+			<resUrl>swfs/copyPrize/2.swf</resUrl>
+			<resUrl>swfs/copyPrize/3.swf</resUrl>
+			<resUrl>swfs/copyPrize/4.swf</resUrl>
+			<resUrl>moduleUi/swfs/copyPrize.swf</resUrl>
+		</res>
+		<url>modules/PrizeModule.swf</url>
+		<part moduleName="CopyPrizeModule" className="prize.view.PrizeWindow" />
+	</module>
+	
+	<module>
+		<res>
+			<resUrl>swfs/userOnHook/expCircle.swf</resUrl>
+			<resUrl>swfs/userOnHook/explodeGrain.swf</resUrl>
+			<resUrl>moduleUi/swfs/userOnHook.swf</resUrl>
+		</res>
+		<url>modules/UserHookOn.swf</url>
+		<part moduleName="UserHookOnModule" className="userHookOn.view.UserOnHookWindow" />
+	</module>
+	<!-- 副本挂机 -->
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/copyPrize.swf</resUrl>
+		</res>
+		<url>modules/ModuleCopyHookOn.swf</url>
+		<part moduleName="CopyHookOn" className="copyHookOn.view.CopyOnHookWindow" />
+		<part moduleName="CopyHookOnStart" className="copyHookOn.view.StartAttackWindow" />
+		<part moduleName="CopyHookOnAttack" className="copyHookOn.view.AttackingWindow" />
+		<part moduleName="CopyHookOnOver" className="copyHookOn.view.SettleWindow" />
+	</module>
+	
+	<module>
+		<url>modules/ChatModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/chatHorn.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldBoatResult.swf</resUrl>
+		</res>
+		<part moduleName="GMModule" className="chat.mvc.view.GMPanel"/>
+		<part moduleName="ChatModule" className="chat.mvc.view.ChatPanel" />
+		<part moduleName="BoardCastModule" className="chat.mvc.view.SystemBoardCastPane"/>
+		<part moduleName="WorldBoatBoardPane" className="chat.mvc.view.WorldBoatBoardPane"/>
+	</module>
+	<module>
+		<url>modules/ChatModule.swf</url>
+		<res>
+			<resUrl>bitmaps/face/face11.gif</resUrl>
+			<resUrl>bitmaps/face/face9.gif</resUrl>
+			<resUrl>bitmaps/face/face7.gif</resUrl>
+			<resUrl>bitmaps/face/face5.gif</resUrl>
+			<resUrl>bitmaps/face/face14.gif</resUrl>
+			<resUrl>bitmaps/face/face8.gif</resUrl>
+			<resUrl>bitmaps/face/face3.gif</resUrl>
+			<resUrl>bitmaps/face/face4.gif</resUrl>
+			<resUrl>bitmaps/face/face26.gif</resUrl>
+			<resUrl>bitmaps/face/face15.gif</resUrl>
+			<resUrl>bitmaps/face/face6.gif</resUrl>
+			<resUrl>bitmaps/face/face16.gif</resUrl>
+			<resUrl>bitmaps/face/face12.gif</resUrl>
+			<resUrl>bitmaps/face/face19.gif</resUrl>
+			<resUrl>swfs/chatHorn/ChatHornUI.swf</resUrl>
+		</res>
+		<part moduleName="BoardHornInputModule" className="chat.mvc.view.HornInputPannel"/>
+		<part moduleName="BoardHornOutputModule" className="chat.mvc.view.HornOutputPannel"/>
+		<part moduleName="TownTeamFightChatModule" className="chat.mvc.view.TownTeamFightChatModule" />
+		<part moduleName="WorldBoatWarChatModule" className="chat.mvc.view.WorldBoatWarChatModule" />
+	</module>
+	
+	<module>
+		<url>modules/SeeObjectInfo.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/seeObject.swf</resUrl>
+		</res>
+		<part moduleName="seeUserInfoModule" className="objectInfo.mvc.view.SeeObjectInfoWin"/>
+		<part moduleName="seeGuildInfoModule" className="objectInfo.mvc.view.SeeGuildInfoWin"/>
+	</module>
+	<!--  资源战 -->
+	<module>
+		<url>modules/WorldResBattle.swf</url>
+		<res>
+			<resUrl>bitmaps/worldResBattle/battleField.jpg</resUrl>
+			<resUrl>bitmaps/worldResBattle/battleFieldCloud.png</resUrl>
+			<resUrl>swfs/worldResBattle/boats.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldResBattle.swf</resUrl>
+		</res>
+
+
+		<part moduleName="WorldResourceModule" className="WorldRes.ui.WorldResWindow" />
+		<part moduleName="WorldResSignupList" className="WorldResSignup.ui.SignupWindow" />
+		<part moduleName="WorldResBattleRoundList" className="WorldResBattleList.ui.WRBLWindow" />
+		<part moduleName="battleField" className="WorldResBattleList.ui.BFModulePart" />
+	</module>
+
+	<module>
+		<res>
+			<resUrl>swfs/treasure/treasureHuntCartoon.swf</resUrl>
+			<resUrl>swfs/treasure/treasureNpc.swf</resUrl>
+			<resUrl>swfs/treasure/blackBoatNpc.swf</resUrl>
+			<resUrl>swfs/treasure/lightBoats.swf</resUrl>
+			<resUrl>moduleUi/swfs/treasure.swf</resUrl>
+		</res>
+		<url>modules/TreasureModule.swf</url>
+		<part moduleName="TreasureRetureScene" className="treasure.ui.TreasureRetureScene" />
+		<part moduleName="module_TreasureExchange" className="treasure.ui.TreasureIntegralWin" />
+		<part moduleName="TreasureMapChooseWindow" className="treasure.ui.TreasureMapChooseWindow" />
+		<part moduleName="module_TreasureShip" className="treasure.ui.TreasureShip" />
+	</module>
+	<module>
+		<res>
+			<resUrl>swfs/achievement/achievementPresentation.swf</resUrl>
+		</res>
+		<url>modules/AchievementModule.swf</url>
+		<part moduleName="module_achievementPresention" className="achievement.ui.AchievementPresentationPart" />
+	</module>
+
+		<module>
+		<res>
+			<resUrl>moduleUi/swfs/gameArenaMoreSkin.swf</resUrl>
+			<resUrl>moduleUi/swfs/arena.swf</resUrl>
+		</res>
+		<!--  竞技场 -->
+		<url>modules/GameArenaModel.swf</url>
+		<part moduleName="GameArena" className="GameArena" />
+	</module>
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/gameArenaMoreSkin.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldarena.swf</resUrl>
+			<resUrl>swfs/activity/activityBtn.swf</resUrl>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+		</res>
+		<!--  竞技场 -->
+		<url>modules/WorldArenaModule.swf</url>
+		<part moduleName="WorldGameArena" className="warena.GameArena" />
+	</module>
+	<!-- 装备制作 -->
+	<module>
+		<res>
+			<resUrl>moduleUi/swfs/equipment.swf</resUrl>
+			<resUrl>swfs/equipment/equipment.swf</resUrl>
+			<resUrl>swfs/equipment/grade.swf</resUrl>
+			<resUrl>swfs/talks/talksRefresh.swf</resUrl>
+		</res>
+		<url>modules/ModuleEquipment.swf</url>
+		<part moduleName="equipmentModule" className="equipment.view.EquipmentWindow"/>
+		<part moduleName="equipmentExchange" className="equipment.view.ExchangeWindow"/>
+	</module>
+	<module>
+		<url>modules/BlacksmithModule.swf</url>
+		<res>
+			<resUrl>swfs/exchange/exchange.swf</resUrl>
+			<resUrl>moduleUi/swfs/strengthen.swf</resUrl>
+			<resUrl>moduleUi/swfs/smith.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>
+		<part moduleName="BlacksmithModule" className="blacksmith.ui.BlacksmithWindow"></part>
+		<part moduleName="TreasureBlacksmithModule" className="blacksmith.ui.TreasureBlackSmithWindow"></part>
+		<part moduleName="TreasureSealTransferModule" className="blacksmith.ui.TreasureSealTransferWin"></part>
+		<part moduleName="GemSmithModule" className="blacksmith.ui.GemSmithWindow"></part>
+	</module>
+	<module>
+		<url>modules/BlacksmithModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/equipUp.swf</resUrl>
+			<resUrl>moduleUi/swfs/strengthen.swf</resUrl>
+			<resUrl>moduleUi/swfs/smith.swf</resUrl>
+			<resUrl>swfs/equipment/EquipUpMC.swf</resUrl>
+			<resUrl>swfs/equipment/makeSucc.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>
+		<part moduleName="EquipUpModule" className="blacksmith.ui.EquipUpWin"></part>
+		<part moduleName="exchangeMaterial" className="blacksmith.ui.MaterialExchangeWin"></part>
+	</module>
+
+	<!-- 活动 -->
+	<module>
+		<res>
+  			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+			<resUrl>swfs/activity/activityBtn.swf</resUrl>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+  		</res>
+		<url>modules/ActivityModule.swf</url>
+		<part moduleName="ActivityModule" className="activity.view.ActivityWindow"></part>
+	</module>
+	<!-- 排行榜 -->
+	<module>
+		<res>
+ 			<resUrl>moduleUi/swfs/friendsPannel.swf</resUrl>
+			<resUrl>moduleUi/swfs/seeObject.swf</resUrl>
+			<resUrl>moduleUi/swfs/rank.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>
+		<url>modules/RankModule.swf</url>
+		<part moduleName="RankModule" className="rank.view.RankWindow"></part>
+	</module>
+	<module>
+		<url>modules/TitleModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/title.swf</resUrl>
+		</res>
+		<part moduleName="TitleModule" className="title.view.TitleWindow"></part>
+	</module>
+
+	
+	<module>
+		<url>modules/HeroInfoModule.swf</url>
+		<part moduleName="HeroInfoModule" className="HeroInfoWindow"></part>
+	</module>
+	
+	<!-- 海贼宝典 -->
+	<module>
+		<url>modules/ModuleValuableBook.swf</url>
+		<res>
+  			<resUrl>moduleUi/swfs/valuabelBook.swf</resUrl>
+  		</res>
+		<part moduleName="ValuableBook" className="valuableBook.view.BookWindow"></part>
+	</module>
+	<!-- 首冲礼包 -->
+	<module>
+		<url>modules/ChargeModule.swf</url>
+		<res>
+  			<resUrl>moduleUi/swfs/firstCharge.swf</resUrl>
+  			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+  		</res>
+		<part moduleName="module_FirstRecharge" className="mvc.view.FirstChargeWin"></part>
+		<part moduleName="module_ChargeCharity" className="mvc.view.ChargeCharityWin"></part>
+	</module>
+	<module>
+		<url>modules/SplitEquipModule.swf</url>
+		<res>
+  			<resUrl>swfs/exchange/exchange.swf</resUrl>
+  			<resUrl>moduleUi/swfs/exchange.swf</resUrl>
+  		</res>
+		<part moduleName="SplitEquipModule" className="splitEquip.view.SplitEquipWin"></part>
+	</module>
+	<module>
+		<url>modules/AttentionFriendsModule.swf</url>
+		<res>
+  			<resUrl>moduleUi/swfs/renren.swf</resUrl>
+  		</res>
+		<part moduleName="module_Attention" className="AttentionFriends"></part>
+	</module>
+
+	<!-- 消费累计活动 -->
+	<module>
+		<url>modules/ConsumptionTotalModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/consumptionTotal.swf</resUrl>
+		</res>
+		<part moduleName="ConsumptionTotalModule" className="consumptiontotalmodule.mvc.view.components.ConsumptionTotalWindow"></part>
+	</module>
+	<!-- 节日活动  -->
+	<module>
+		<url>modules/HolidayModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/holidayActivity.swf</resUrl>
+		</res>
+		<part moduleName="module_HolidayActivity" className="mvc.view.HolidayActivityWindow"></part>
+	</module>
+	<!-- 擂台赛 -->
+	<module>
+		<url>modules/ChallengeModule.swf</url>
+		<res>
+			<resUrl>swfs/ArenaEntry/ArenaEntry.swf</resUrl>
+			<resUrl>swfs/challenge/challenge.swf</resUrl>
+			<resUrl>moduleUi/swfs/ArenaEntry.swf</resUrl>
+			<resUrl>moduleUi/swfs/challenge.swf</resUrl>
+		</res>		
+		<part moduleName="challengeScence" className="challenge.mvc.view.ChallengeScence"></part>
+	</module>
+	<!-- 影魂模块  -->
+	<module>
+		<url>modules/SoulModule.swf</url>
+		<res>
+			<resUrl>swfs/soul/SoulEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/soul.swf</resUrl>
+			<resUrl>moduleUi/swfs/hero.swf</resUrl>
+			<resUrl>swfs/soul/GreenSoulEffect.swf</resUrl>
+			<resUrl>swfs/soul/soulBgKS.swf</resUrl>
+		</res>		
+		<part moduleName="SoulWindow" className="mvc.view.SoulWindow"></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/notice.swf</resUrl>
+		</res>
+		<part moduleName="NoticeWin" className=""></part>
+	</module>
+	
+	<module>
+		<url>modules/GemInlayModule.swf</url>
+		<res>
+			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/strengthen.swf</resUrl>
+			<resUrl>moduleUi/swfs/gemExplore.swf</resUrl>
+			<resUrl>moduleUi/swfs/gemInlay.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>
+		<part moduleName="GemInlayWindow" className="gemInlay.view.GemInlayWindow"></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/resLookUI.swf</resUrl>
+		</res>
+		<part moduleName="module_lookRes" className=""></part>
+	</module>
+	<!-- 登录器奖励  -->
+	<module>
+		<url>modules/ModuleLauncherPrize.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/launchPrize.swf</resUrl>
+		</res>
+		<part moduleName="ModuleLaunchPrize" className="launch.view.LaunchPrizeWindow"></part>
+	</module>
+	<!-- 合服活动 -->
+	<module>
+		<url>modules/MergeServerEventsModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/MergeServerEvents.swf</resUrl>
+		</res>
+		<part moduleName="MergeServerEventsModule" className="mergeservereventsmodule.mvc.view.components.MergeServerEventsWindowComp"></part>
+	</module>
+
+	<!-- AllBlue -->
+	<module>
+		<url>modules/AllBlueModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/allBlue.swf</resUrl>
+			<resUrl>swfs/allBlue/Allbule.swf</resUrl>
+			<resUrl>swfs/allBlue/monster.swf</resUrl>
+			<resUrl>swfs/allBlue/fishBg.swf</resUrl>
+			<resUrl>swfs/allBlue/AllBlueFish.swf</resUrl>
+			<resUrl>swfs/allBlue/catchFish.swf</resUrl>
+			<resUrl>swfs/allBlue/allblueLevelUp.swf</resUrl>
+		</res>
+		<part moduleName="AllBlueModule" className="allBlue.view.AllblueWindow"></part>
+		<part moduleName="AllBlueMarketModule" className="allBlue.view.MarketWindow"></part>
+	</module>	
+	<!-- 星盘模块 -->
+	<module>
+		<url>modules/Astrolabe.swf</url>
+		<res>
+			<resUrl>swfs/Astrolabe/astrolabeMc.swf</resUrl>	
+			<resUrl>moduleUi/swfs/AstrolabePlate.swf</resUrl>	
+			<resUrl>swfs/Astrolabe/AstrolabeMainStarIcons.swf</resUrl>
+			<resUrl>swfs/Astrolabe/AstrolabeStarsBg.swf</resUrl>
+			<resUrl>swfs/Astrolabe/AstrolabeDowerStarts.swf</resUrl>
+			<resUrl>swfs/Astrolabe/AstrolabeTakeBg.swf</resUrl>
+		</res>
+		<part moduleName="Astrolabe" className="astrolabe.view.AstrolabeModule"></part>
+	</module>	
+	<!-- 海贼战场 -->
+	<module>
+		<url>modules/PirateBattleFieldModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/PirateBattleField.swf</resUrl>
+			<resUrl>swfs/PirateBattleField/PirateBattleFieldMap.swf</resUrl>
+			<resUrl>swfs/PirateBattleField/PirateBattleFieldRole.swf</resUrl>
+			<resUrl>swfs/PirateBattleField/PirateBattleFieldEffect.swf</resUrl>
+		</res>		
+		<part moduleName="PirateBattleFieldModule" className="piratebattlefieldmodule.mvc.view.components.PirateBattleFieldComp"></part>
+	</module>
+	<!-- 消费提示	-->
+	<module>
+		<url>modules/SetUpCostNoticeModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/setUpCost.swf</resUrl>
+		</res>
+		<part moduleName="SetUpCostNoticeWin" className="view.SetUpCostNoticeWin"></part>
+	</module>
+	<!-- 积分换礼	-->
+	<!--
+	<module>
+		<url>modules/ScoreChangeGoods.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ChangeGoodsModule.swf</resUrl>
+		</res>
+		<part moduleName="ScoreChangeGoodsModule" className="scorechangegoods.view.ScoreChangeGoodsModule"></part>
+	</module>
+	-->
+	<module>
+		<url>modules/ChangeGoods.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ChangeGoods.swf</resUrl>
+		</res>
+		<part moduleName="ScoreChangeGoodsModule" className="scorechangegoods.view.ScoreChangeGoodsModule"></part>
+	</module>
+	<module>
+		<url>modules/ServiceWarModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/challenge.swf</resUrl>
+			<resUrl>moduleUi/swfs/serviceChallenge.swf</resUrl>
+			<resUrl>swfs/challenge/serviceChallenge.swf</resUrl>
+		</res>
+		<part moduleName="ServiceWarModule" className="interService.view.ServiceChallengeScene"></part>
+	</module>
+	<!--宠物模块	-->
+	<module>
+		<url>modules/PetModule.swf</url>
+		<res>
+			<resUrl>copy/effects/effects.swf</resUrl>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>moduleUi/swfs/petmodule.swf</resUrl>
+			<resUrl>moduleUi/swfs/trainPet.swf</resUrl>
+			<resUrl>swfs/pet/petUp.swf</resUrl>
+			<resUrl>swfs/pet/petDeputy.swf</resUrl>
+			<resUrl>swfs/pet/petQualityTransfer.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+		</res>
+		<part moduleName="PetDepotWin" className="pet.mvc.view.PetDepotWin"></part>
+		<part moduleName="PetSceneSprite" className="pet.mvc.view.PetSceneSprite"></part>
+		<part moduleName="PetInfoWin" className="pet.mvc.view.PetInfoWin"></part>
+		<part moduleName="PetUpWin" className="pet.mvc.view.petInfo.PetUpWin"></part>
+		<part moduleName="PetQualityWin" className="pet.mvc.view.PetQualityWin"></part>
+		<part moduleName="PetNatureSkillWin" className="pet.mvc.view.PetNatureSkillWin"></part>
+		<part moduleName="DeputyPetWindow" className="pet.mvc.view.DeputyPetWindow"></part>
+		<part moduleName="PetCompoundInfoPane" className="pet.mvc.view.deputyCompound.PetCompoundInfoPane"></part>
+		<part moduleName="PetDeputNatureSkillWin" className="pet.mvc.view.PetDeputNatureSkillWin"></part>
+	</module>
+
+	<!-- 跨服战 膜拜模块 -->
+	<module>
+		<url>modules/ServiceChallengeWorshipModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/serviceChallengeWorshipUi.swf</resUrl>
+			<resUrl>moduleUi/swfs/fightChampUI.swf</resUrl>
+			<resUrl>moduleUi/swfs/copy.swf</resUrl>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+		</res>
+		<part moduleName="ServiceChallengeWorshipComment" className="servicechallengeworship.view.ServiceChallengeWorshipComment"></part>
+		<part moduleName="ServiceChallengeWorship" className="servicechallengeworship.view.ServiceChallengeWorshipWindow"></part>
+		<part moduleName="ServiceChallengeWorshipTreat" className="servicechallengeworship.view.ServiceChallengeWorshipTreat"></part>
+	</module>
+
+	<!--赛前规则	-->
+	<module>
+		<url>modules/MatchPane.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/MatchPane.swf</resUrl>
+		</res>
+		<part moduleName="MatchMass" className="matchPane.ui.MatchMassWin"></part>
+		<part moduleName="MatchRule" className="matchPane.ui.MatchRuleWin"></part>
+		<part moduleName="MatchSupport" className="matchPane.ui.MySupWin"></part>
+		<part moduleName="MatchMyGain" className="matchPane.ui.MatchMyGainWin"></part>
+	</module>
+
+	<!-- 转阵营 -->
+	<module>
+		<url>modules/GroupSwitchModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/GroupSwitchModule.swf</resUrl>
+			<resUrl>swfs/world/selectGroupMc.swf</resUrl>
+		</res>		
+		<part moduleName="GroupSwitchModule" className="groupswitchmodule.mvc.view.components.GroupSwitchWindowComp"></part>
+	</module>
+	<!-- 挖宝 -->
+	<module>
+		<url>modules/DigTreasureModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/DigTreasureModule.swf</resUrl>
+			<resUrl>swfs/DigTreasure/DigTreasureEffect.swf</resUrl>
+		</res>		
+		<part moduleName="DigTreasureModule" className="digtreasuremodule.mvc.view.components.DigTreasureComp"></part>
+	</module>
+	<!-- 新世界资源矿 -->	
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/NewWorldMine/NewWorldMineBGAndMineList.swf</resUrl>
+			<resUrl>swfs/NewWorldMine/NewWorldMineEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldResUI.swf</resUrl>
+		</res>
+		<part moduleName="NewWorldMineModule" className=""></part>
+	</module>
+
+	
+	<!-- 船之精灵 -->	
+	<module>
+		<url>modules/ElvesModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/elves.swf</resUrl>
+		</res>
+		<part moduleName="ElvesWindow" className="elves.view.ElvesWindow"></part>
+	</module>
+
+   <!--签到活动模块	-->
+	<module>
+		<url>modules/SignActivityModule.swf</url>
+		<res>
+        	<resUrl>moduleUi/swfs/gift.swf</resUrl>
+        	<resUrl>moduleUi/swfs/activitySign.swf</resUrl>
+        	<resUrl>swfs/activity/ActivitySignMC.swf</resUrl>
+		</res>
+		<part moduleName="ActivitySignModule" className="signActivity.view.SignActivityWin"></part>
+	</module>
+
+	<!-- 深渊组队 -->	
+	<module>
+		<url>modules/TownTeamModule.swf</url>
+		<res>
+			<resUrl>swfs/groupHero/role_transform_animation.swf</resUrl>
+			<resUrl>swfs/TownTeamModule/TownTeamFightGoEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/TownTeamModuleUi.swf</resUrl>
+			<resUrl>swfs/TownTeamModule/TownTeamModule.swf</resUrl>
+		</res>
+		<part moduleName="TownTeamFight" className="townteamfight.view.TownTeamFightWindow"></part>
+	</module>
+
+	<!-- 深渊组队入口模块 -->		
+	<module>
+		<url>modules/TeamChallengeEnterModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/TeamChallengeEnterModule.swf</resUrl>
+			<resUrl>moduleUi/swfs/team.swf</resUrl>
+		</res>
+		<part moduleName="TeamChallengeChooseCopyModule" className="teamchallengeentermodule.teamchallengechoosecopy.mvc.view.components.TeamChallengeChooseCopyComp" />
+		<part moduleName="TeamChallengeTeamOperationModule" className="teamchallengeentermodule.teamchallengeteamoperation.mvc.view.components.TeamChallengeTeamOperationComp" />
+	</module>
+	
+	<!-- 推进城 -->	
+	<module>
+
+		<url>modules/TowerFightModule.swf</url>
+		<res>
+			<resUrl>copy/effects/passEffects.swf</resUrl>
+			<resUrl>copy/monsters/copyNeedConf_prison.k.xml</resUrl>
+			<resUrl>swfs/formation/lvUp.swf</resUrl>
+			<resUrl>moduleUi/swfs/copy.swf</resUrl>
+			<resUrl>swfs/copy/copyWinNotice.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+			<resUrl>moduleUi/swfs/towerFight.swf</resUrl>
+			<resUrl>swfs/towerFight/towerEffects.swf</resUrl>
+			<resUrl>swfs/towerFight/passFourTower.swf</resUrl>
+			<resUrl>swfs/copyPrize/2.swf</resUrl>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>swfs/towerFight/towerfight_ripple.swf</resUrl>
+			<resUrl>swfs/towerFight/towerfight_progress.swf</resUrl>
+			<resUrl>swfs/towerFight/towerFight_bigLevel.swf</resUrl>
+			<resUrl>swfs/towerFight/rightPro.swf</resUrl>
+			<resUrl>swfs/towerFight/openHideLevel.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+		</res>
+		<part moduleName="TowerFight" className="TowerFight"></part>
+	</module>
+	
+	<!-- 卡牌模块  -->
+	<module>
+		<url>modules/CardModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/card.swf</resUrl>
+			<resUrl>swfs/card/mathing.swf</resUrl>
+			<resUrl>moduleUi/swfs/serviceChallengeWorshipUi.swf</resUrl>
+			<resUrl>moduleUi/swfs/elves.swf</resUrl>
+			<resUrl>swfs/card/card_effect.swf</resUrl>
+			<resUrl>swfs/card/card_stepEffect.swf</resUrl>
+		</res>		
+		<part moduleName="CardWindow" className="card.view.CardWindow"></part>
+	</module>
+	
+	<!-- 幸运轮盘 -->
+	<module>
+		<url>modules/LuckyLotteryModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/LuckyLotteryModule.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>swfs/LuckyLotteryModule/LuckyLotteryModule.swf</resUrl>
+			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+		</res>		
+		<part moduleName="LuckyLotteryModule" className="luckylotterymodule.mvc.view.components.LuckyLotteryComp"></part>
+		<part moduleName="LuckyLotteryRewardsModule" className="luckylotterymodule.mvc.view.components.RewardsComp" />
+	</module>	
+	<!-- 卡牌 -->		
+	<module>
+		<url>modules/CardFormationModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>moduleUi/swfs/cardFormation.swf</resUrl>
+		</res>
+		<part moduleName="CardFormation" className="card.view.CardFormation" />
+		<part moduleName="CardHeroInfo" className="card.view.CardHeroInfo" />
+	</module>
+	<!-- 购买卡牌空岛贝 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/buyKongdaobei.swf</resUrl>
+		</res>
+		<part moduleName="KongBellyShopModule" className=""></part>
+	</module>
+	
+	<!-- 积分兑换 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+		</res>
+		<part moduleName="ShopExchangeModule" className=""></part>
+	</module>
+	
+	<!-- 恶魔果实树 -->
+	<module>
+		<url>modules/DevilFruitTreeModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/DevilFruitTreeModule.swf</resUrl>
+			<resUrl>swfs/DevilFruitTreeModule/DevilFruitTreeModuleBG.swf</resUrl>
+			<resUrl>swfs/DevilFruitTreeModule/DevilFruitTreeModuleTreeA.swf</resUrl>
+			<resUrl>swfs/DevilFruitTreeModule/DevilFruitTreeModuleTreeB.swf</resUrl>
+		</res>		
+		<part moduleName="DevilFruitTreeModule" className="devilfruittreemodule.mvc.view.components.DevilFruitTreeComp"></part>
+	</module>	
+	<!-- 捐献面板 -->
+	<module>
+		<url>modules/DonatePanelModule.swf</url>	
+		<res>
+			<resUrl>moduleUi/swfs/bag.swf</resUrl>
+			<resUrl>moduleUi/swfs/donatePanel.swf</resUrl>
+		</res>
+		<part moduleName="DonateBag" className="DonatePanel.view.DonateBag"></part>
+		<part moduleName="DonateWin" className="DonatePanel.view.DonateWin"></part>
+	</module>	
+	
+	<module>
+		<url>modules/PlayerReturnModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/playerReturn.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+		</res>		
+		<part moduleName="OldPlayerReturnWin" className="returnModule.view.OldPlayerReturnWin"></part>
+	</module>
+	
+	<!-- 世界树查看奖励 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+		</res>
+		<part moduleName="WorldTreePrizeModule" className=""></part>
+	</module>
+	
+	<!-- 跨服组队战查看奖励 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+		</res>
+		<part moduleName="TeamChallengePrizeModule" className=""></part>
+	</module>
+	
+	<!-- 公会保卫战查看奖励 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+		</res>
+		<part moduleName="GuildDefendPrizeModule" className=""></part>
+	</module>
+	
+	<module>
+		<url>modules/GrowPlanModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/growPlane.swf</resUrl>
+		</res>
+		<part moduleName="GrowPlanWin" className="grow.view.GrowPlaneWin"></part>
+	</module>
+	<module>
+		<url>modules/GildEquipModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/gildEquip.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>
+		<part moduleName="GildEquip" className="gildEquip.view.GildEquipWin"></part>
+	</module>
+	
+	<!-- 挖矿模块  -->
+	<module>
+		<url>modules/CrystalModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/bag.swf</resUrl>
+			<resUrl>swfs/crystal/crystalEffect.swf</resUrl>
+			<resUrl>swfs/crystal/crystalEffect2.swf</resUrl>
+			<resUrl>moduleUi/swfs/crystal.swf</resUrl>
+			<resUrl>swfs/exchange/exchange.swf</resUrl>
+  			<resUrl>moduleUi/swfs/exchange.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+		</res>		
+		<part moduleName="CrystalWindow" className="mvc.view.CrystalWindow"></part>
+		<part moduleName="CrystalRecastWindow" className="mvc.view.CrystalRecastWindow"></part>
+		<part moduleName="CrystalDonateBag" className="mvc.view.CrystalDonateBag"></part>
+	</module>
+	
+	<!-- 限时抢购 -->
+	<module>
+		<url>modules/DiscountPromotionsModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/DiscountPromotionsModule.swf</resUrl>
+		</res>		
+		<part moduleName="DiscountPromotionsModule" className="discountpromotionsmodule.mvc.view.components.DiscountPromotionsComp"></part>
+	</module>
+
+	<!-- 欢乐在线 -->
+	<module>
+		<url>modules/SummerHolidayOnlineModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/SummerHolidayOnlineModule.swf</resUrl>
+		</res>		
+		<part moduleName="SummerHolidayOnlineModule" className="summerholidayonlinemodule.mvc.view.components.SummerHolidayOnlineComp"></part>
+	</module>
+	
+	<!-- 跨服公会战规则 战绩 -->
+	<module>
+		<url>modules/ChallageGuildMatchModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/MatchPane.swf</resUrl>
+		</res>		
+		<part moduleName="ChallageMatchPanel" className="ChallengeGuild.view.ChallageMatchPanel"></part>
+		<part moduleName="TeamChallengeRulePanel" className="ChallengeGuild.view.TeamChallengeRulePanel"></part>
+		<part moduleName="GuildWorshipSupportWindow" className="ChallengeGuild.view.MyChangeGuildArms"></part>
+		<part moduleName="ChallengeGuildGainsWindow" className="ChallengeGuild.view.ChallengeGuildGains"></part>
+		<part moduleName="ChallengeGuildRankGainsWindow" className="ChallengeGuild.view.ChallengeGuildRankGains"></part>
+	</module>
+	
+	<module>
+		<url>modules/ServiceGuildBattle.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/guildChallenge.swf</resUrl>
+			<resUrl>moduleUi/swfs/serviceChallenge.swf</resUrl>
+			<resUrl>swfs/challenge/serviceChallenge.swf</resUrl>
+		</res>
+		<part moduleName="ServiceGuildModule" className="guildChallenge.view.GuildChallengeScene"></part>
+	</module>
+	
+	<!-- 跨服公会战膜拜  -->
+	<module>
+		<url>modules/ServiceChallengeGuildWorshipModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/challengeGuildWorshipUi.swf</resUrl>
+		</res>		
+		<part moduleName="GuildWorshipWindow" className="ServiceChallengeGuildWorship.view.GuildWorshipWindow"></part>
+	</module>
+	
+	<!-- 公会跨服战上场人员 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/guildWarFightInfo.swf</resUrl>
+		</res> 
+		<part moduleName="ModuleGuildBattleMember" className=""></part>
+	</module>
+
+	<!-- 海贼基金 -->
+	<module>
+		<url>modules/DepositPlanModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/DepositPlanModule.swf</resUrl>
+		</res>		
+		<part moduleName="DepositPlanModule" className="depositplanmodule.mvc.view.components.DepositPlanComp"></part>
+		<part moduleName="DepositPlanReturnModule" className="depositplanmodule.mvc.view.components.DepositPlanReturnComp"></part>
+	</module>
+
+	<!-- 血战 -->		
+	<module>
+		<url>modules/BloodyBattlePrepareModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/BloodyBattlePrepareModule.swf</resUrl>
+			<resUrl>moduleUi/swfs/team.swf</resUrl>				
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>swfs/formation/lvUp.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+		</res>
+		<part moduleName="BloodyBattlePrepareTeamModule" className="bloodybattlepreparemodule.bloodybattleprepareteam.mvc.view.components.BloodyBattlePrepareTeamComp" />
+		<part moduleName="BloodyBattlePrepareDeployModule" className="bloodybattlepreparemodule.bloodybattlepreparedeploy.mvc.view.components.BloodyBattlePrepareDeployComp" />
+	</module>	
+	<!-- 卡牌活动 -->
+	<module>
+		<url>modules/CardActivityModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/cardActivity.swf</resUrl>
+			<resUrl>swfs/activity/CardActivityExchangeTip.swf</resUrl>
+		</res>		
+		<part moduleName="CardActivityModule" className="cardActivity.view.CardActivityWindow"></part>
+	</module>
+	
+	<!-- 卡牌猜猜乐 -->
+	<module>
+		<url>modules/ModuleCardLucky.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/cardGuess.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/strengthen.swf</resUrl>
+			<resUrl>swfs/luckyPrize/luckyPrize.swf</resUrl>
+		</res>		
+		<part moduleName="CardLuckyActivityModule" className="cardLucky.view.CardLuckyWindow"></part>
+	</module>
+	
+	<!-- 激战三大将公测活动 -->
+	<module>
+		<url>modules/ModuleObtActivity.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ObtActivity.swf</resUrl>
+		</res>		
+		<part moduleName="ObtActivityModule" className="obt.ObtActivityWindow"></part>
+	</module>
+	
+	<!-- 血战场景 -->
+	<module>
+		<url>modules/BloodWar.swf</url>
+		<res>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/bloodWar.swf</resUrl>
+			<resUrl>battle/heffect_4.swf</resUrl>
+			<resUrl>battle/meffect_2.swf</resUrl>
+		</res>
+		<part moduleName="BloodWarModule" className="bloodwar.view.BloodWarWindow" />
+		<part moduleName="BloodWarSelectDifficultyWindow" className="bloodwar.view.BloodWarSelectWindow" />
+		<part moduleName="BloodAllocationStarWindow" className="bloodwar.view.BloodWarAllocaWindow" />
+		<part moduleName="BloodWarExitWindow" className="bloodwar.view.BloodWarExitWindow" />
+		<part moduleName="BloodWarFailWindow" className="bloodwar.view.BloodWarFailWindow" />
+		<part moduleName="BloodWarSussceWindow" className="bloodwar.view.BloodWarSussceWindow" />
+		<part moduleName="BLOOD_WAR_HELP" className="bloodwar.view.BloodHelpInfoComp" />
+	</module>	
+	<!-- 时装屋模块 -->
+	<module>
+		<url>modules/FashionRoomModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/fashionRoom.swf</resUrl>
+		</res>		
+		<part moduleName="FashionRoomModule" className="fashionRomm.view.FashionRoomWindow"></part>
+	</module>
+	<!-- 宠物图鉴模块 -->
+	<module>
+		<url>modules/PetRoomModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/cardActivity.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/fashionRoom.swf</resUrl>
+			<resUrl>moduleUi/swfs/petmodule.swf</resUrl>
+			<resUrl>moduleUi/swfs/trainPet.swf</resUrl>
+			<resUrl>moduleUi/swfs/petRoom.swf</resUrl>
+		</res>		
+		<part moduleName="PetRoomModule" className="petRoomModule.view.PetRoomWindow"></part>
+	</module>
+	<!-- 推图比赛模块 -->
+	<module>
+		<url>modules/PushTowerFightModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>swfs/towerFight/towerfight_ripple.swf</resUrl>
+			<resUrl>swfs/pushCopyTower/towerFight_bigLevel.swf</resUrl>
+			<resUrl>moduleUi/swfs/towerFight.swf</resUrl>
+			<resUrl>moduleUi/swfs/PushCopyChange.swf</resUrl>
+			<resUrl>copy/effects/effects.swf</resUrl>
+			<resUrl>moduleUi/swfs/serviceChallenge.swf</resUrl>
+			<resUrl>swfs/pushCopyTower/pushTower_progress.swf</resUrl>
+			<resUrl>moduleUi/swfs/DevilFruitTreeModule.swf</resUrl>
+
+			<resUrl>copy/effects/passEffects.swf</resUrl>
+			<resUrl>copy/monsters/copyNeedConf_prison.k.xml</resUrl>
+			<resUrl>copy/monsters/copyNeedConf_pushTower.k.xml</resUrl>
+			<resUrl>swfs/formation/lvUp.swf</resUrl>
+			<resUrl>moduleUi/swfs/copy.swf</resUrl>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+
+
+		</res>		
+		<part moduleName="PushTowerScene" className="pushtowerfight.view.PushTowerScene"></part>
+		<part moduleName="MonsterInfoWinOfPushTowerFight" className="pushtowerfight.view.formation.MonsterInfoWinOfPushTowerFight"></part>
+		<part moduleName="PushTowerHeroInfoWindow" className="pushtowerfight.view.formation.PushTowerHeroInfoWindow"></part>
+		<part moduleName="PushPowerBossInfoPane" className="pushtowerfight.view.formation.PushPowerBossInfoPane"></part>
+	</module>
+	<!-- 进击大将 -->		
+	<module>
+		<url>modules/AttackOnGeneralsTeamModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/AttackOnGeneralsTeam.swf</resUrl>
+			<resUrl>moduleUi/swfs/team.swf</resUrl>		
+			<resUrl>moduleUi/swfs/PushCopyChange.swf</resUrl>
+			<resUrl>moduleUi/swfs/ConscribeHeroModule.swf</resUrl>
+			<resUrl>moduleUi/swfs/travern.swf</resUrl>				
+		</res>
+		<part moduleName="AttackOnGeneralsTeamModule" className="attackongeneralsteammodule.mvc.view.components.AttackOnGeneralsTeamComp" />
+	</module>
+	<module>
+		<url>modules/AttackOnGeneralsFightModule.swf</url>
+		<res>
+		    <resUrl>copy/monsters/copyNeedConf_prison.k.xml</resUrl>
+			<resUrl>moduleUi/swfs/AttackOnGeneralsFight.swf</resUrl>
+			<resUrl>swfs/AttackOnGeneralsFightModule/Map.swf</resUrl>
+			<resUrl>swfs/AttackOnGeneralsFightModule/Role.swf</resUrl>
+			<resUrl>swfs/AttackOnGeneralsFightModule/Other.swf</resUrl>
+			<resUrl>battle/meffect_24.swf</resUrl>
+		</res>		
+		<part moduleName="AttackOnGeneralsFightModule" className="attackongeneralsfightmodule.mvc.view.components.AttackOnGeneralsFightComp"></part>
+	</module>
+	
+	<!-- 经验宝盘 -->
+	<module>
+		<url>modules/ExperiencePlate.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ExperiencePlate.swf</resUrl>
+		</res>		
+		<part moduleName="ExperiencePlateWindow" className="experienceplate.view.ExperiencePlateWindow"></part>
+		<part moduleName="ExperiencePlateBatchWindow" className="experienceplate.view.ExperiencePlateBatchWindow"></part>
+		<part moduleName="ExperiencePlateTakeWindow" className="experienceplate.view.ExperiencePlateTakeWindow"></part>
+	</module>	
+		<!-- 答题活动 -->
+	<module>
+		<url>modules/AnswerModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/answerActivity.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>swfs/treasure/treasureNpc.swf</resUrl>
+		</res>		
+		<part moduleName="AnswerModule" className="answerActivity.view.AnswerActWindow"></part>
+	</module>	
+	<!-- 巡航(远古石阵) -->
+	<module>
+		<url>modules/ModuleCruise.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/cruise.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>swfs/cruise/cruiseAll.swf</resUrl>
+		</res>		
+		<part moduleName="CruiseModule" className="cruise.view.CruiseScene"></part>
+	</module>
+	
+	<!-- 宝石刻印  -->
+	<module>
+		<url>modules/ModuleGemPrint.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/strengthen.swf</resUrl>
+			<resUrl>moduleUi/swfs/gemPrint.swf</resUrl>
+			<resUrl>swfs/bag/equipmentEffect.swf</resUrl>
+		</res>		
+		<part moduleName="GemSignatureModule" className="gemSignature.view.GemPrintWindow"></part>
+	</module>
+	
+	<!-- 欢乐礼花  -->
+	<module>
+		<url>modules/ModuleHorseFire.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/fireworksHorse.swf</resUrl>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+		</res>		
+		<part moduleName="HorseFireworksModule" className="fire.view.FireworkWindow"></part>
+	</module>
+	
+	<!-- 进击大将 小组编队-->	
+	<module>
+		<url>modules/AttackTeamGroupUpMoudle.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/PushCopyChange.swf</resUrl>
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>moduleUi/swfs/travern.swf</resUrl>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+			<resUrl>moduleUi/swfs/AttackTeamGroupUp.swf</resUrl>
+		</res>		
+		<part moduleName="AttackOnGeneralsHelpWin" className="attackteam.mvc.view.AttackOnGeneralsHelpWin"></part>
+		<part moduleName="AttackTeamFormationWindow" className="attackteam.mvc.view.AttackTeamFormationWindow"></part>
+		<part moduleName="AttackGetPrizeWin" className="attackteam.mvc.view.AttackGetPrizeWin"></part>
+	</module>
+	
+	<!-- 跨服组队 积分赛UI -->	
+	<module>
+			<url>modules/TeamConquest.swf</url>
+			<res>
+				<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+				<resUrl>moduleUi/swfs/bloodWar.swf</resUrl>
+				<resUrl>moduleUi/swfs/ExperiencePlate.swf</resUrl>
+				<resUrl>moduleUi/swfs/TownTeamModuleUi.swf</resUrl>
+				<resUrl>battle/heffect_4.swf</resUrl>
+				<resUrl>battle/meffect_2.swf</resUrl>
+				<resUrl>moduleUi/swfs/TeamConquest.swf</resUrl>
+
+			</res>		
+			<part moduleName="TeamConquestWindow" className="teamconquest.view.TeamConquestWindow"></part>
+			<part moduleName="TeamConquestHelpInfoComp" className="teamconquest.view.TeamConquestHelpInfoComp"></part>
+			<part moduleName="TeamConquestAddViewWindow" className="teamconquest.view.TeamConquestAddViewCountWindow"></part>
+			<part moduleName="TeamChallengeChangeOrderWindow" className="teamguildchallenge.view.TeamChallengeChangeOrderWindow"></part>
+	</module>
+		
+	<!-- 跨服组队 擂台赛 -->
+	<module>
+		<url>modules/ServiceTeamGuildBattle.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/guildChallenge.swf</resUrl>
+			<resUrl>moduleUi/swfs/serviceChallenge.swf</resUrl>
+			<resUrl>moduleUi/swfs/TeamChallenge.swf</resUrl>
+		</res>
+		<part moduleName="ServiceTeamGuildModule" className="teamguildchallenge.view.GuildChallengeScene"></part>
+	</module>
+	
+	<!-- 跨服组队创建队伍 -->		
+	<module>
+		<url>modules/CrossServerTeamModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/BloodyBattlePrepareModule.swf</resUrl>
+			<resUrl>moduleUi/swfs/team.swf</resUrl>				
+			<resUrl>moduleUi/swfs/formation.swf</resUrl>
+			<resUrl>moduleUi/swfs/crossServerTeam.swf</resUrl>
+			<resUrl>swfs/formation/lvUp.swf</resUrl>
+			<resUrl>swfs/formation/particle.swf</resUrl>
+		</res>
+		<part moduleName="CrossServerTeamCompModule" className="crossTeamModule.crossteam.mvc.view.components.CrossServerTeamComp" />
+		<part moduleName="CrossServerDeployCompModule" className="crossTeamModule.crossdeploy.mvc.view.components.CrossServerDeployComp" />
+		<part moduleName="CreateTeamWindowModule" className="crossTeamModule.TeamName.mvc.CreateTeamWindow"></part>
+		<part moduleName="CrossLookTeamWindow" className="crossTeamModule.crosslook.mvc.view.components.CrossLookTeamWindow"></part>
+	</module>
+	
+	<!-- 跨服组队 膜拜模块 -->
+	<module>
+		<url>modules/CrossServerWorshipModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/crossServerTeamWorship.swf</resUrl>
+		</res>		
+		<part moduleName="CrossServerTeamWorshipWindow" className="ServiceChallengeGuildWorship.view.CrossServerTeamWorshipWindow"></part>
+	</module>
+	
+	<!-- 圣诞2013 -->
+	<module>
+		<url>modules/Christmas2013Module.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/Christmas2013.swf</resUrl>
+			<resUrl>swfs/Christmas2013/Tree.swf</resUrl>
+		</res>		
+		<part moduleName="Christmas2013Module" className="christmas2013module.mvc.view.components.Christmas2013Comp"></part>
+	</module>
+
+	<!-- 霸气 -->		
+	<module>
+		<url>modules/ManlyModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ConscribeHeroModule.swf</resUrl>
+			<resUrl>moduleUi/swfs/travern.swf</resUrl>
+			<resUrl>moduleUi/swfs/ManlyModule.swf</resUrl>
+			<resUrl>moduleUi/swfs/hero.swf</resUrl>
+			<resUrl>battle/roleManlyEffect1.swf</resUrl>
+			<resUrl>battle/roleManlyEffect2.swf</resUrl>
+			<resUrl>battle/roleManlyEffect3.swf</resUrl>
+			<resUrl>battle/roleManlyEffect4.swf</resUrl>
+			<resUrl>battle/roleManlyEffect5.swf</resUrl>
+			<resUrl>battle/roleManlyEffect6.swf</resUrl>
+			<resUrl>battle/roleManlyEffect7.swf</resUrl>
+			<resUrl>swfs/ManlyModule/ManlyModule.swf</resUrl>
+			<resUrl>swfs/dailySign/DailysignUpMC.swf</resUrl>
+		</res>
+		<part moduleName="ManlyModule" className="manlymodule.mvc.view.components.ManlyComp" />
+	</module>	
+	
+	<!-- 坐骑 -->		
+	<module>
+		<url>modules/RidPetWindowModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ridePet.swf</resUrl>
+			<resUrl>moduleUi/swfs/rideDecoration.swf</resUrl>
+			<resUrl>moduleUi/swfs/genosiderRide.swf</resUrl>
+			<resUrl>swfs/rideDecoration/decoration.swf</resUrl>
+			<resUrl>swfs/StrengthenModule/reinforce.swf</resUrl>
+		</res>
+		<part moduleName="RidPetWindow" className="view.RidPetWindow" />
+	</module>	
+	
+	<module>
+		<url>modules/PirateFlagModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/pirateFlag.swf</resUrl>
+		</res>
+		<part moduleName="PirateFlagModule" className="view.PirateFlagWindow" />
+	</module>
+
+	<!-- 声望宝盘 -->
+	<module>
+		<url>modules/RollPrestige.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/RollPrestige.swf</resUrl>
+			<resUrl>moduleUi/swfs/ExperiencePlate.swf</resUrl>
+		</res>		
+		<part moduleName="RollPrestigeWindow" className="rollprestige.view.RollPrestigeWindow"></part>
+		<part moduleName="RollPrestigeBatchWindow" className="rollprestige.view.RollPrestigeBatchWindow"></part>
+		<part moduleName="RollPrestigeTakeWindow" className="rollprestige.view.RollPrestigeTakeWindow"></part>
+	</module>	
+
+	<!-- 随机箱子（马年大吉） -->
+	<module>
+		<url>modules/RondomBoxModule.swf</url>
+			<res>
+				<resUrl>moduleUi/swfs/RondomBoxUi.swf</resUrl>
+				<resUrl>swfs/copyPrize/big.swf</resUrl>
+			</res>		
+			<part moduleName="RondomBoxWindow" className="rondombox.view.RondomBoxWindow"></part>
+			<part moduleName="RondomBoxOpenWindow" className="rondombox.view.RondomBoxOpenWindow"></part>
+	</module>
+	
+	<!-- 情人节礼物2014 -->
+	<module>
+		<url>modules/ValentinesDay2014Module.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ValentinesDay2014Module.swf</resUrl>
+			<resUrl>swfs/ValentinesDay2014/ValentinesDay2014.swf</resUrl>
+		</res>
+		<part moduleName="ValentinesDay2014Module" className="valentinesday2014module.mvc.view.components.ValentinesDay2014Comp"></part>
+	</module>	
+	<!-- 全民二次首冲-->
+	<module>
+		<url>modules/SecondRechargeModule.swf</url>
+		<res>
+  			<resUrl>moduleUi/swfs/firstCharge.swf</resUrl>
+			<resUrl>moduleUi/swfs/secondRecharge.swf</resUrl>
+  			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+  		</res>
+		<part moduleName="SecondRechargeModule" className="recharge.view.SecondRechargeWindow"></part>
+	</module>
+	
+	<module>
+		<url>modules/SecondRechargePlusModule.swf</url>
+		<res>
+  			<resUrl>moduleUi/swfs/firstCharge.swf</resUrl>
+			<resUrl>moduleUi/swfs/secondRecharge.swf</resUrl>
+  			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+  		</res>
+		<part moduleName="SecondRechargePlusModule" className="recharge.view.SecondRechargePlusWindow"></part>
+	</module>
+	
+	<!-- 海魂 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/seaSoul.swf</resUrl>
+			<resUrl>swfs/seaSoul/seaSoul.swf</resUrl>
+		</res>
+		<part moduleName="SeaSoulModule" className=""></part>
+	</module>
+
+	<!-- 特惠商城 -->
+	<module>
+		<url>modules/PreferenceShopModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/preferenceshop.swf</resUrl>
+		</res>		
+		<part moduleName="PreferenceShopModule" className="preferenceshop.view.PreferenceShopWindow"></part>
+	</module>
+
+	
+	<!-- 轮盘指针 -->
+	<module>
+		<url>modules/RouletteWheelModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/RouletteWheelModule.swf</resUrl>
+			<resUrl>swfs/RouletteWheelModule/RouletteWheelModule.swf</resUrl>
+		</res>		
+		<part moduleName="RouletteWheelModule" className="roulettewheelmodule.mvc.view.components.RouletteWheelComp"></part>
+	</module>	
+	
+		<!-- 充值奖励 -->
+	<module>
+		<url>modules/RechargeIncentive.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/ChargingReward.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+			<resUrl>swfs/mc/REWARDTASKBTNEFFECT.swf</resUrl>
+		</res>
+		<part moduleName="RechargeIncentive" className="recharge.RechargeWindow"></part>
+	</module>
+	<!-- 跨服船战 -->
+	<module>
+		<url>modules/CrossServerShipFightModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/CrossServerShipFightModule.swf</resUrl>
+			<resUrl>swfs/CrossServerShipFightModule/Map.swf</resUrl>
+			<resUrl>swfs/CrossServerShipFightModule/Role.swf</resUrl>
+			<resUrl>swfs/CrossServerShipFightModule/Effect.swf</resUrl>
+			<resUrl>battle/meffect_24.swf</resUrl>
+			<resUrl>moduleUi/swfs/card.swf</resUrl>
+		</res>		
+		<part moduleName="CrossServerShipFightModule" className="crossservershipfightmodule.mvc.view.components.CrossServerShipFightComp"></part>
+	</module>	
+	<!-- 跨服船战强化 -->
+	<module>
+		<url>modules/WorldBoatStrengthenModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/worldBoatStrengthen.swf</resUrl>
+			<resUrl>swfs/sail/openCabin.swf</resUrl>
+			<resUrl>swfs/activity/activityBtn.swf</resUrl>
+			<resUrl>swfs/CrossServerShipFightModule/Role.swf</resUrl>
+		</res>		
+		<part moduleName="WorldBoatStrengthenModule" className="worldboat.view.WorldBoatStrengthenWindow"></part>
+	</module>
+	<!-- 欢乐大转盘活动 -->
+	<module>
+		<url>modules/HappyBigWheelModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/HappyBigWheelModule.swf</resUrl>
+			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+			<resUrl>swfs/HappyBigWheelModule/HappyBigWheelRoundBg.swf</resUrl>
+		</res>		
+		<part moduleName="HappyBigWheelModule" className="happybigwheelmodule.mvc.view.HappyBigWheelWindow"></part>
+	</module>
+	<module>
+		<url>modules/BankWindowModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/card.swf</resUrl>
+			<resUrl>moduleUi/swfs/bankWindow.swf</resUrl>
+		</res>		
+		<part moduleName="BankWindowModule" className="bank.view.BankWindow"></part>
+	</module>
+		<module>
+		<url>modules/WantedWinModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/card.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/wantedWinModule.swf</resUrl>
+		</res>		
+		<part moduleName="WantedWinModule" className="wanted.view.WantedActWindow"></part>
+	</module>
+		<module>
+		<url>modules/ScratchCardModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/scratchCardModule.swf</resUrl>
+			<resUrl>swfs/ScratchCardModule/scratchCardRefresh.swf</resUrl>
+			<resUrl>moduleUi/swfs/wantedWinModule.swf</resUrl>
+			<resUrl>swfs/ScratchCardModule/scratchCardHaveMC.swf</resUrl>
+		</res>		
+		<part moduleName="ScratchCardModule" className="scratch.view.ScratchCardActWindow"></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/guildDefend.swf</resUrl>
+		</res>		
+		<part moduleName="GuildDefendCdModule" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/guildDefend.swf</resUrl>
+		</res>		
+		<part moduleName="GuildDefendOverModule" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/bag.swf</resUrl>
+		</res>		
+		<part moduleName="DonateItemBag" className=""></part>
+	</module>
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/donatePanel.swf</resUrl>
+		</res>		
+		<part moduleName="DonateItemsPanel" className=""></part>
+	</module>
+	<!-- 彩票面板 -->
+	<module>
+		<url>modules/Sweepstakes.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/sweepStake.swf</resUrl>
+			<resUrl>moduleUi/swfs/worldBoatStrengthen.swf</resUrl>
+			<resUrl>swfs/ScratchCardModule/SweepStakesModule.swf</resUrl>
+		</res>		
+		<part moduleName="SweepstakesPanel" className="Sweepstakes.view.SweepstakesPanel"></part>
+	</module>
+	
+		<!--积分找回-->
+	<module>
+		<url>modules/IntegralBackModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/intergralBackModule.swf</resUrl>
+		</res>		
+		<part moduleName="IntegralBackModule" className="integralback.view.IntegralBackWin"></part>
+	</module>
+
+	<!-- 元素升级 -->
+	<module>
+		<url></url>
+		<res>
+			<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+			<resUrl>moduleUi/swfs/gemInlay.swf</resUrl>
+			<resUrl>moduleUi/swfs/elementLevelUp.swf</resUrl>
+		</res>		
+		<part moduleName="ElementLevelUpModule" className=""></part>
+	</module>
+	<!--元素消除小游戏-->
+	<module>
+		<url>modules/MatchBallGameModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/union.swf</resUrl>
+		</res>		
+		<part moduleName="MatchBallGameModule" className="matchBall.view.MatchBallWin"></part>
+		<part moduleName="MatchBallExchangeWin" className="matchBall.view.MatchBallExchangeWin"></part>
+	</module>
+	<!--元素大界面-->
+	<module>
+		<url>modules/ElementSystemModule.swf</url>
+		<res>
+			<resUrl>swfs/elementBall/elementBall.swf</resUrl>
+			<resUrl>moduleUi/swfs/elementBallGameModule.swf</resUrl>
+		</res>		
+		<part moduleName="ElementSystemModule" className="elementSys.view.ElementSysWin"></part>
+	</module>
+	<!-- 积福活动 -->
+	<module>
+		<url>modules/GatherWordActivity.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/GatherWord.swf</resUrl>
+			<resUrl>swfs/dailySign/DailysignUpMC.swf</resUrl>
+		</res>		
+		<part moduleName="GATHERWORD_ACTIVITY" className="GatherWord.view.GatherWordWindow"></part>
+	</module>
+	<!-- 远征世界 -->
+	<module>
+		<url>modules/ExpeditionWordModule.swf</url>
+		<res>
+		<resUrl>moduleUi/swfs/formation.swf</resUrl>
+		<resUrl>swfs/expeditionWord/expeditionWordChange.swf</resUrl>
+		<resUrl>swfs/expeditionWord/expeditionWordBoxeffect.swf</resUrl>
+		<resUrl>swfs/expeditionWord/experditionOpenBox.swf</resUrl>
+		<resUrl>moduleUi/swfs/BloodyBattlePrepareModule.swf</resUrl>
+		<resUrl>moduleUi/swfs/PushCopyChange.swf</resUrl>
+		<resUrl>moduleUi/swfs/copy.swf</resUrl>
+		<resUrl>moduleUi/swfs/activity.swf</resUrl>
+		<resUrl>moduleUi/swfs/ExpeditionActivity.swf</resUrl>
+		<resUrl>moduleUi/swfs/bloodWar.swf</resUrl>
+		<resUrl>swfs/StrengthenModule/inlayEffect.swf</resUrl>
+		<resUrl>swfs/expeditionWord/expeditionWordPass.swf</resUrl>
+		</res>		
+		<part moduleName="EXPEDITIONWORDWINDOW" className="format.view.ExpeditionWordWindow"></part>
+		<part moduleName="EXPEDITIONWORD" className="expeditionWord.view.ExpeditionWordScene"></part>
+		<part moduleName="MonsterInfoWinWorld" className="expeditionWord.view.MonsterInfoWinWorld"></part>
+	</module>
+	<!-- 远征商店 -->
+	<module>
+		<url>modules/StrongWorldShopAndGoldModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+			<resUrl>moduleUi/swfs/union.swf</resUrl>
+			<resUrl>moduleUi/swfs/strongWorldShop.swf</resUrl>
+		</res>		
+		<part moduleName="StrongWorldShopWin" className="worldShop.view.StrongWorldShopWin"></part>
+	</module>
+	
+	<!-- 任务活动 -->
+	<module>
+		<url>modules/TaskActivityModule.swf</url>		
+		<res>
+			<resUrl>moduleUi/swfs/taskActivity.swf</resUrl> 
+		</res>
+		<part moduleName="TaskActivityWindow" className="taskActivity.view.TaskActivityWindow"></part>
+	</module>
+			<!-- 周卡 -->
+	<module>
+		<url>modules/WeekCardModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/weekCard.swf</resUrl>
+		</res>		
+		<part moduleName="WeekCardWin" className="WeekCardModule.views.WeekCardWin"></part>
+	</module>
+		<!-- 强者远征查看奖励 -->
+		
+	<module>
+		<url></url>
+		<res>
+			<resUrl>moduleUi/swfs/worldTreePrize.swf</resUrl>
+			<resUrl>moduleUi/swfs/activity.swf</resUrl>
+			<resUrl>moduleUi/swfs/gift.swf</resUrl>
+		</res>
+		<part moduleName="StrongWorldPrizeWin" className=""></part>
+	</module>
+		<!-- 黑市商人 -->
+	<module>
+		<url>modules/BlackMarketModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/union.swf</resUrl>
+		</res>
+		<part moduleName="BlackMarketWin" className="blackMarket.mvc.view.BlackMarketWin"></part>
+	</module>
+	
+	<module>
+		<url>modules/NewHappyBigWheelModule.swf</url>
+		<res>
+			<resUrl>swfs/NewHappyBigWheelModule/NewHappyBigWheelModule.swf</resUrl>
+			<resUrl>swfs/NewHappyBigWheelModule/NewHappyWheelBoat.swf</resUrl>
+			<resUrl>swfs/gemExplore/explore.swf</resUrl>
+			<resUrl>swfs/HappyBigWheelModule/HappyBigWheelRoundBg.swf</resUrl>
+			<resUrl>moduleUi/swfs/holidayActivity.swf</resUrl>
+		</res>		
+		<part moduleName="NewHappyBigWheelModule" className="newHappybigwheelmodule.mvc.view.NewHappyBigWheelWindow"></part>
+	</module>
+	<!-- 地下拍卖场 -->
+	<module>
+		<url>modules/UndergroundAuctionModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/underGroundAuctionModule.swf</resUrl>
+			<resUrl>swfs/mc/UnderGround.swf</resUrl>
+		</res>
+		<part moduleName="UndergroundAuctionWin" className="underGround.view.UndergroundAuctionWin"></part>
+	</module>
+	<!-- 每日工资 -->
+	<module>
+		<url>modules/EveryDaySalaryModule.swf</url>
+		<res>
+		<resUrl>moduleUi/swfs/EveryDaySalaryModule.swf</resUrl>
+		</res>
+		<part moduleName="EveryDaySalaryWin" className="everyDaySalary.mvc.view.EveryDaySalaryWindow"></part>
+	</module>
+	
+	<!-- 巅峰十二宫 -->
+	<module>
+		<url>modules/PeakednessModule.swf</url>
+		<res>
+		<resUrl>moduleUi/swfs/formation.swf</resUrl>
+		<resUrl>xmls/monster_teml_copyNeedNot.xml</resUrl>
+		<resUrl>copy/effects/effects.swf</resUrl>
+		<resUrl>moduleUi/swfs/AttackTeamGroupUp.swf</resUrl>
+		<resUrl>moduleUi/swfs/DiscountPromotionsModule.swf</resUrl>
+		<resUrl>moduleUi/swfs/PeakednessModule.swf</resUrl>
+		<resUrl>swfs/PeakednessModule/PeakednessSwfModule.swf</resUrl>
+		<resUrl>moduleUi/swfs/copy.swf</resUrl>
+		</res>
+		
+		<part moduleName="ThorChallengeMainModule" className="peakedness.mvc.view.thor.ThorChallengeMainWindow"></part>
+		<part moduleName="ThorChallengeBoxModule" className="peakedness.mvc.view.thor.ThorChallengeBoxWindow"></part>
+		<part moduleName="ThorChallengeFormationModule" className="peakedness.mvc.view.thor.ThorChallengeFormationWindow"></part>
+		<part moduleName="ThorChallengeShopModule" className="peakedness.mvc.view.thor.ThorChallengeShopWindow"></part>
+		<part moduleName="ThorChallengeBattleModule" className="peakedness.mvc.view.thor.ThorChallengeBattleWindow"></part>
+		
+		<part moduleName="RedlineChallengeMainModule" className="peakedness.mvc.view.redline.RedlineChallengeMainWindow"></part>
+		<part moduleName="RedlineChallengeBoxModule" className="peakedness.mvc.view.redline.RedlineChallengeBoxWindow"></part>
+		<part moduleName="RedlineChallengeFormationModule" className="peakedness.mvc.view.redline.RedlineChallengeFormationWindow"></part>
+		<part moduleName="RedlineChallengeShopModule" className="peakedness.mvc.view.redline.RedlineChallengeShopWindow"></part>
+		<part moduleName="RedlineChallengeBattleModule" className="peakedness.mvc.view.redline.RedlineChallengeBattleWindow"></part>
+		
+		<part moduleName="PeakednessMainModule" className="peakedness.mvc.view.PeakednessMainWindow"></part>
+		<part moduleName="PeakednessBoxModule" className="peakedness.mvc.view.PeakednessBoxWindow"></part>
+		<part moduleName="PeakednessFormationModule" className="peakedness.mvc.view.PeakednessFormationWindow"></part>
+		<part moduleName="PeakednessShopModule" className="peakedness.mvc.view.PeakednessShopWindow"></part>
+		<part moduleName="PeakednessBattleModule" className="peakedness.mvc.view.PeakednessBattleWindow"></part>
+	</module>
+	<!-- 十二峰雇佣兵 -->
+	<module>
+		<url>modules/HireHeroModule.swf</url>
+		<res>
+		<resUrl>moduleUi/swfs/hireHeroModule.swf</resUrl>
+		</res>
+		<part moduleName="HireHeroModule" className="hire.view.HireHeroWin"></part>
+	</module>
+	<!-- 精灵仓库 -->
+	<module>
+		<url>modules/SpiritRoomModule.swf</url>
+		<res>
+		<resUrl>copy/effects/effects.swf</resUrl>
+		<resUrl>moduleUi/swfs/petmodule.swf</resUrl>
+		<resUrl>moduleUi/swfs/trainPet.swf</resUrl>
+		<resUrl>moduleUi/swfs/spiritRoomModule.swf</resUrl>
+		</res>
+		<part moduleName="SpiritRoomModule" className="spirit.view.SpiritRoomWin"></part>
+		<part moduleName="SpiritBookWin" className="spirit.view.SpiritBookWin"></part>
+	</module>
+
+	<!--精灵模块	-->
+	<module>
+		<url>modules/SpiritModule.swf</url>
+		<res>
+			<resUrl>moduleUi/swfs/spiritModule.swf</resUrl>
+			<resUrl>swfs/copyPrize/5.swf</resUrl>
+			<resUrl>swfs/spirit/spiritForestEffect.swf</resUrl>
+		</res>
+		<part moduleName="SpiritSceneSprite" className="spirit.mvc.view.SpiritSceneSprite"></part>
+		<part moduleName="SpiritInfoWin" className="spirit.mvc.view.SpiritInfoWin"></part>
+		<part moduleName="SpiritHeritageWin" className="spirit.mvc.view.SpiritHeritageWin"></part>
+	</module>
+</root>

@@ -1,0 +1,3 @@
+<root>
+  <prestige_roulette id="1" startTime="20171001100000" closeTime="20181001100000" openNeedTime="20191001100000" prestige="150|160|180|200|230|260|300|400" gold="500" timesGold="10000|0,20000|900,30000|1800,40000|2500"/>
+</root>

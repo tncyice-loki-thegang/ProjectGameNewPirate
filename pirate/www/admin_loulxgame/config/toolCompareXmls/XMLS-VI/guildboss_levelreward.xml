@@ -1,0 +1,9 @@
+<root>
+  <guildboss_levelreward levelmin="1" levelmax="5" bellyBase="5325" prestige="600" techPoint="1000" rewardItem="76007|1,70505|10"/>
+  <guildboss_levelreward levelmin="6" levelmax="10" bellyBase="5550" prestige="675" techPoint="1600" rewardItem="76007|2,70505|14"/>
+  <guildboss_levelreward levelmin="11" levelmax="30" bellyBase="5775" prestige="750" techPoint="2100" rewardItem="76007|3,70505|18"/>
+  <guildboss_levelreward levelmin="31" levelmax="60" bellyBase="6000" prestige="825" techPoint="2500" rewardItem="76007|4,70505|22"/>
+  <guildboss_levelreward levelmin="61" levelmax="90" bellyBase="9000" prestige="1050" techPoint="2700" rewardItem="76007|5,70505|24"/>
+  <guildboss_levelreward levelmin="91" levelmax="120" bellyBase="12000" prestige="1275" techPoint="2900" rewardItem="76007|6,70505|26"/>
+  <guildboss_levelreward levelmin="121" levelmax="200" bellyBase="15000" prestige="1500" techPoint="3000" rewardItem="76007|7,70505|30"/>
+</root>

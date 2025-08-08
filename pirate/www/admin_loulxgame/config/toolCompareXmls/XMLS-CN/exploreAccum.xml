@@ -1,0 +1,13 @@
+<exploreAccum>
+	<!--
+		<accumItem id="npcid" accumItemName="领取物品名称" accumId="领取物品ID" accumNum="所需累积次数">
+	-->
+	<accumItem id="1" accumItemName="红色戒指" accumId="10046" accumNum="10"/>
+	<accumItem id="2" accumItemName="紫色戒指" accumId="10052" accumNum="10"/>
+	<accumItem id="3" accumItemName="红色书" accumId="10032" accumNum="10"/>
+	<accumItem id="4" accumItemName="紫色书" accumId="10047" accumNum="10"/>
+	<accumItem id="5" accumItemName="红色帽子" accumId="10037" accumNum="10"/>
+	<accumItem id="6" accumItemName="紫色帽子" accumId="10049" accumNum="10"/>
+	<accumItem id="7" accumItemName="红色披风" accumId="10041" accumNum="10"/>
+	<accumItem id="8" accumItemName="紫色披风" accumId="10050" accumNum="10"/>
+</exploreAccum>

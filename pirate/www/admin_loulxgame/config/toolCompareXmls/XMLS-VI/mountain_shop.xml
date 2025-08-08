@@ -1,0 +1,34 @@
+<root>
+  <mountain_shop id="1" itemTempId="1100001" getNum="1" consumeScore="20000" neeLevel="111" limitTime="0" canBatch="1"/>
+  <mountain_shop id="2" itemTempId="77091" getNum="1" consumeScore="144000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="3" itemTempId="77092" getNum="1" consumeScore="108000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="4" itemTempId="77093" getNum="1" consumeScore="144000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="5" itemTempId="77094" getNum="1" consumeScore="108000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="6" itemTempId="77095" getNum="1" consumeScore="144000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="7" itemTempId="77096" getNum="1" consumeScore="108000" neeLevel="0" limitTime="1" canBatch="0"/>  
+  <mountain_shop id="8" itemTempId="121451" getNum="1" consumeScore="600" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="9" itemTempId="73011" getNum="1" consumeScore="300" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="10" itemTempId="50014" getNum="1" consumeScore="300" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="11" itemTempId="70510" getNum="1" consumeScore="100" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="12" itemTempId="70804" getNum="1" consumeScore="200" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="13" itemTempId="120013" getNum="1" consumeScore="200" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="14" itemTempId="73022" getNum="1" consumeScore="450" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="15" itemTempId="76007" getNum="1" consumeScore="100" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="16" itemTempId="75142" getNum="1" consumeScore="30000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="17" itemTempId="75143" getNum="1" consumeScore="30000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="18" itemTempId="75144" getNum="1" consumeScore="30000" neeLevel="0" limitTime="1" canBatch="0"/>
+  <mountain_shop id="19" itemTempId="70726" getNum="1" consumeScore="200" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="20" itemTempId="70736" getNum="1" consumeScore="200" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="21" itemTempId="129307" getNum="1" consumeScore="125" neeLevel="180" limitTime="0" canBatch="1"/>
+  <mountain_shop id="22" itemTempId="129308" getNum="1" consumeScore="1250" neeLevel="180" limitTime="0" canBatch="1"/>
+  <mountain_shop id="23" itemTempId="129309" getNum="1" consumeScore="12500" neeLevel="180" limitTime="0" canBatch="1"/>
+  <mountain_shop id="24" itemTempId="25000001" getNum="1" consumeScore="50000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="25" itemTempId="25000002" getNum="1" consumeScore="60000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="26" itemTempId="25000003" getNum="1" consumeScore="70000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="27" itemTempId="25000004" getNum="1" consumeScore="80000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="28" itemTempId="1293001" getNum="1" consumeScore="6000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="29" itemTempId="1293004" getNum="1" consumeScore="8000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="30" itemTempId="1293006" getNum="1" consumeScore="11000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="31" itemTempId="1500001" getNum="1" consumeScore="30000" neeLevel="0" limitTime="0" canBatch="1"/>
+  <mountain_shop id="32" itemTempId="71121" getNum="1" consumeScore="30000" neeLevel="0" limitTime="0" canBatch="1"/>
+</root>

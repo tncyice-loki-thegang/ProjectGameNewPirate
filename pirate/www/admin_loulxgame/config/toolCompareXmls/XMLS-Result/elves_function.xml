@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <elves_function id="1" icon="001.png" name="L.tục khai thác miễn phí" desc="Mở l.tục khai thác miến phí, khai thác ko mất vàng. Tinh linh mỗi ngày nhận được 40 K.nghiệm." day="10" price="400" discount="350" exp="40" level="0"/>
+  <elves_function id="2" icon="002.png" name="D.sách nuôi miễn phí" desc="Sau khi mở D.sách nuôi miễn phí, mở d.sách nuôi không mất vàng. Tinh linh mỗi ngày nhận được 10 K.nghiệm." day="10" price="100" discount="88" exp="10" level="0"/>
+  <elves_function id="3" icon="003.png" name="Tinh linh tầm bảo" desc="Mở tinh linh tầm bảo, có thể cài đặt tự động dùng chiến tích làm mới tàng bảo đồ khi tầm bảo. Mỗi ngày nhận được 10 K.nghiệm." day="10" price="100" discount="50" exp="10" level="0"/>
+  <elves_function id="4" icon="004.png" name="Biểu tượng Chopper" desc="Sau khi mở biểu tượng Chopper, có thể sử dụng biểu tượng này. Mỗi ngày Tinh linh nhận được 10 kinh nghiệm." day="10" price="50" discount="10" exp="10" level="0"/>
+</root>

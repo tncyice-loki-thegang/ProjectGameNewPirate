@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <randombossteam monstersquadID="60401" name="Quân cướp bóc 1" info="Quân cướp bóc 1" modleName="210"/>
+  <randombossteam monstersquadID="60402" name="Quân cướp bóc 2" info="Quân cướp bóc 2" modleName="211"/>
+  <randombossteam monstersquadID="60403" name="Quân cướp bóc 3" info="Quân cướp bóc 3" modleName="212"/>
+  <randombossteam monstersquadID="60404" name="Quân cướp bóc 4" info="Quân cướp bóc 4" modleName="213"/>
+  <randombossteam monstersquadID="60405" name="Quân cướp bóc 5" info="Quân cướp bóc 5" modleName="214"/>
+  <randombossteam monstersquadID="60406" name="Quân cướp bóc 6" info="Quân cướp bóc 6" modleName="215"/>
+  <randombossteam monstersquadID="60407" name="Quân cướp bóc 7" info="Quân cướp bóc 7" modleName="216"/>
+  <randombossteam monstersquadID="60408" name="Quân cướp bóc 8" info="Quân cướp bóc 8" modleName="217"/>
+  <randombossteam monstersquadID="60409" name="Quân cướp bóc 9" info="Quân cướp bóc 9" modleName="218"/>
+  <randombossteam monstersquadID="60410" name="Quân cướp bóc 10" info="Quân cướp bóc 10" modleName="219"/>
+  <randombossteam monstersquadID="60411" name="Quân Zombie 1" info="Quân Zombie 1" modleName="228"/>
+  <randombossteam monstersquadID="60412" name="Quân Zombie 2" info="Quân Zombie 2" modleName="229"/>
+  <randombossteam monstersquadID="60413" name="Quân Zombie 3" info="Quân Zombie 3" modleName="230"/>
+  <randombossteam monstersquadID="60414" name="Quân Zombie 4" info="Quân Zombie 4" modleName="228"/>
+  <randombossteam monstersquadID="60415" name="Quân Zombie 5" info="Quân Zombie 5" modleName="229"/>
+  <randombossteam monstersquadID="60416" name="Quân Zombie 6" info="Quân Zombie 6" modleName="230"/>
+  <randombossteam monstersquadID="60417" name="Quân Zombie 7" info="Quân Zombie 7" modleName="228"/>
+  <randombossteam monstersquadID="60418" name="Quân Zombie 8" info="Quân Zombie 8" modleName="229"/>
+  <randombossteam monstersquadID="60419" name="Quân Zombie 9" info="Quân Zombie 9" modleName="230"/>
+  <randombossteam monstersquadID="60420" name="Quân Zombie 10" info="Quân Zombie 10" modleName="228"/>
+  <randombossteam monstersquadID="60421" name="Quân tàn bạo 1" info="Quân tàn bạo 1" modleName="314"/>
+  <randombossteam monstersquadID="60422" name="Quân tàn bạo 2" info="Quân tàn bạo 2" modleName="315"/>
+  <randombossteam monstersquadID="60423" name="Quân tàn bạo 3" info="Quân tàn bạo 3" modleName="316"/>
+  <randombossteam monstersquadID="60424" name="Quân tàn bạo 4" info="Quân tàn bạo 4" modleName="317"/>
+  <randombossteam monstersquadID="60425" name="Quân tàn bạo 5" info="Quân tàn bạo 5" modleName="318"/>
+  <randombossteam monstersquadID="60426" name="Quân tàn bạo 6" info="Quân tàn bạo 6" modleName="319"/>
+  <randombossteam monstersquadID="60427" name="Quân tàn bạo 7" info="Quân tàn bạo 7" modleName="314"/>
+  <randombossteam monstersquadID="60428" name="Quân tàn bạo 8" info="Quân tàn bạo 8" modleName="315"/>
+  <randombossteam monstersquadID="60429" name="Quân tàn bạo 9" info="Quân tàn bạo 9" modleName="316"/>
+  <randombossteam monstersquadID="60430" name="Quân tàn bạo 10" info="Quân tàn bạo 10" modleName="317"/>
+</root>

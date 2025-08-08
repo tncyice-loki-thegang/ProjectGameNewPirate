@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <blackpearl_reward id="101" name="P.thưởng cố định 1" belly="300000" experience="" execution="" gold="" prestige="" element="" energy="" item=""/>
+  <blackpearl_reward id="102" name="P.thưởng cố định 2" belly="" experience="" execution="" gold="" prestige="300" element="" energy="" item=""/>
+  <blackpearl_reward id="103" name="Danh hiệu" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70170|1"/>
+  <blackpearl_reward id="104" name="Bánh mì" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70200|3"/>
+  <blackpearl_reward id="105" name="K.cương k.nghiệm" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="42006|3"/>
+  <blackpearl_reward id="106" name="20 vạn beri" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70302|1"/>
+  <blackpearl_reward id="107" name="Pha lê thường" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120102|5"/>
+  <blackpearl_reward id="108" name="Hải ma thạch thường" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120202|5"/>
+  <blackpearl_reward id="109" name="Trân châu thường" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120302|5"/>
+  <blackpearl_reward id="110" name="Mã não thường" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120402|5"/>
+  <blackpearl_reward id="111" name="San hô thường" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120502|5"/>
+  <blackpearl_reward id="112" name="50 vạn beri" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="70302|2"/>
+  <blackpearl_reward id="113" name="Gói tẩy luyện bảo vật" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="50040|1"/>
+  <blackpearl_reward id="114" name="Quà vật phẩm tẩy luyện B.thạch" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="50039|1"/>
+  <blackpearl_reward id="115" name="Mũi tên TY" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120010|1"/>
+  <blackpearl_reward id="116" name="Đá chuyển phong ấn" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="120012|1"/>
+  <blackpearl_reward id="117" name="Túi bản vẽ trái 6 sao" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="60124|1"/>
+  <blackpearl_reward id="118" name="Túi bản vẽ trái 7 sao" belly="" experience="" execution="" gold="" prestige="" element="" energy="" item="60125|1"/>
+</root>

@@ -1,0 +1,18 @@
+array(4) {
+  ["heroes"]=>
+  array(1) {
+    [0]=>
+    int(11001)
+  }
+  ["state"]=>
+  array(0) {
+  }
+  ["recruit_hero_order"]=>
+  array(1) {
+    [0]=>
+    int(10000001)
+  }
+  ["login_date"]=>
+  array(0) {
+  }
+}

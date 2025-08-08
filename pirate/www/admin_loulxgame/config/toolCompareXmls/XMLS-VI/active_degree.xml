@@ -1,0 +1,37 @@
+<root>
+  <active_degree ID="2" TitleText="Ra khơi" count="5" value="8" buttonText="Đi ra khơi" type="2" tips=""/>
+  <active_degree ID="3" TitleText="Nấu ăn" count="5" value="8" buttonText="Đi nấu ăn" type="3" tips=""/>
+  <active_degree ID="4" TitleText="Đặt hàng" count="2" value="8" buttonText="Đặt hàng bạn bè" type="4" tips=""/>
+  <active_degree ID="5" TitleText="NV hàng ngày" count="5" value="8" buttonText="NV hàng ngày" type="5" tips=""/>
+  <active_degree ID="6" TitleText="Nhận tiền treo thưởng" count="1" value="4" buttonText="Lĩnh treo thưởng" type="6" tips=""/>
+  <active_degree ID="7" TitleText="Dạy nô lệ" count="1" value="4" buttonText="Dạy nô lệ" type="7" tips=""/>
+  <active_degree ID="8" TitleText="C.hóa trang bị" count="1" value="8" buttonText="Cường hóa" type="8" tips=""/>
+  <active_degree ID="9" TitleText="Thách đấu P.Bản tinh anh" count="1" value="4" buttonText="Đi chiến đấu" type="9" tips=""/>
+  <active_degree ID="10" TitleText="Tìm bảo thạch" count="1" value="6" buttonText="Đi tìm kiếm" type="10" tips=""/>
+  <active_degree ID="11" TitleText="Đánh đấu trường" count="2" value="8" buttonText="Đi đấu trường" type="11" tips=""/>
+  <active_degree ID="12" TitleText="Cướp tầm bảo" count="1" value="4" buttonText="Đi cướp" type="12" tips=""/>
+  <active_degree ID="13" TitleText="Tấn công Cảng" count="1" value="4" buttonText="" type="13" tips=""/>
+  <active_degree ID="14" TitleText="Góp công hội" count="1" value="4" buttonText="Đi cống hiến" type="14" tips=""/>
+  <active_degree ID="15" TitleText="Chiếm tài nguyên" count="1" value="4" buttonText="Đi chiếm lĩnh" type="15" tips=""/>
+  <active_degree ID="16" TitleText="Hội đàm" count="3" value="6" buttonText="Đi hội đàm" type="16" tips=""/>
+  <active_degree ID="17" TitleText="Tầm bảo" count="3" value="8" buttonText="Đi tầm bảo" type="17" tips=""/>
+  <active_degree ID="18" TitleText="Chế đồ" count="3" value="8" buttonText="Đi chế đồ" type="18" tips=""/>
+  <active_degree ID="19" TitleText="Tăng tốc Đ.đội" count="2" value="6" buttonText="Đi tăng tốc" type="19" tips=""/>
+  <active_degree ID="20" TitleText="Dùng vàng tặng quà" count="1" value="6" buttonText="Đi tặng quà" type="20" tips=""/>
+  <active_degree ID="22" TitleText="Nhận T.Bàn chúc phúc" count="1" value="4" buttonText="Đi nhận" type="22" tips=""/>
+  <active_degree ID="23" TitleText="Dùng Beri tụ hồn" count="1" value="4" buttonText="Đi Tụ hồn" type="23" tips="完成72级任务后开启"/>
+  <active_degree ID="24" TitleText="Lĩnh quà Impel Down" count="1" value="2" buttonText="Đi lĩnh" type="24" tips="完成60级任务后开启"/>
+  <active_degree ID="25" TitleText="Lĩnh phúc lợi thẻ bài hàng ngày" count="1" value="2" buttonText="Đi lĩnh" type="25" tips=""/>
+  <active_degree ID="26" TitleText="Hủy Mê trận B.thạch" count="1" value="2" buttonText="Đi hủy" type="26" tips="完成97级任务后开启"/>
+  <active_degree ID="27" TitleText="Đ.ngục Dung luyện" count="1" value="1" buttonText="Đi Triệu hồi" type="27" tips="完成95级任务后开启"/>
+  <active_degree ID="28" TitleText="AllBlue thu thập" count="1" value="2" buttonText="Đi thu thập" type="28" tips="完成91级任务后开启"/>
+  <active_degree ID="29" TitleText="Vùng biển Thần bí" count="1" value="4" buttonText="Đến Vùng biển Thần Bí" type="29" tips="完成100级任务后开启"/>
+  <active_degree ID="30" TitleText="Beri thử luyện Haki" count="1" value="5" buttonText="Đi Beri thử luyện" type="30" tips="完成101级任务后开启"/>
+  <active_degree ID="31" TitleText="Tôn thờ hàng ngày" count="1" value="5" buttonText="Đi Tôn thờ" type="31" tips=""/>
+  <active_degree ID="32" TitleText="C.hóa Tàu chiến" count="5" value="5" buttonText="Đi C.hóa Tàu chiến" type="32" tips=""/>
+  <active_degree ID="33" TitleText="Mua C.tích C.hội" count="1" value="4" buttonText="Đi mua" type="33" tips=""/>
+  <active_degree ID="34" TitleText="Mua Exp Nguyên tố" count="1" value="4" buttonText="Đi mua" type="34" tips=""/>
+  <active_degree ID="35" TitleText="Bắt cá allblue" count="1" value="3" buttonText="Đi bắt cá" type="35" tips="完成51级任务后开启"/>
+  <active_degree ID="36" TitleText="Bồi dưỡng Tinh linh" count="1" value="5" buttonText="Đi bồi dưỡng" type="36" tips="完成111级任务后开启"/>
+  <active_degree ID="37" TitleText="Nhận thưởng thuê lính" count="1" value="5" buttonText="Đi" type="37" tips="完成110级任务后开启"/>
+</root>

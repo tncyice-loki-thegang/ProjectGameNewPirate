@@ -1,0 +1,11 @@
+<root>
+  <tiaojiao_shijian projectID="1" icon="matong.png" projectName="马桶疏通" reward_baseBelly="75" projectInfo="马桶堵了，{host}沉思一会儿后将{vassal}丢了进去，不到3分钟马桶畅通无阻。" openLv="1"/>
+  <tiaojiao_shijian projectID="2" icon="anfu.png" projectName="下属零食" reward_baseBelly="75" projectInfo="去年买的零食长毛了，{host}想了想以后全都赏给了{vassal}。" openLv="1"/>
+  <tiaojiao_shijian projectID="3" icon="yangyang.png" projectName="抓虱子" reward_baseBelly="75" projectInfo="{host}决定用{vassal}身上的虱子做一盘“迷之料理”。" openLv="10"/>
+  <tiaojiao_shijian projectID="4" icon="youxi.png" projectName="下飞行棋" reward_baseBelly="75" projectInfo="这是一个风和日丽的夜晚，{host}和{vassal}下了一整晚的飞行棋。" openLv="10"/>
+  <tiaojiao_shijian projectID="5" icon="baoda.png" projectName="禁断游戏" reward_baseBelly="75" projectInfo="{host}今天喝了点小酒，想和{vassal}玩一些刺激的禁断游戏。" openLv="20"/>
+  <tiaojiao_shijian projectID="6" icon="kuajiang.png" projectName="讨厌啦" reward_baseBelly="75" projectInfo="{vassal}一边蹭{host}一边说“人家没有你说的那么好啦！”" openLv="30"/>
+  <tiaojiao_shijian projectID="7" icon="zuoqi.png" projectName="下属坐骑" reward_baseBelly="75" projectInfo="{vassal}双眼泪汪汪地看着{host}，好像在说“求夕阳奔跑！”" openLv="30"/>
+  <tiaojiao_shijian projectID="8" icon="qiuqiu.png" projectName="启蒙教育" reward_baseBelly="75" projectInfo="{vassal}正在午睡的时候，{host}丢了一个苹果在他头上，令他明白了什么定理。" openLv="40"/>
+  <tiaojiao_shijian projectID="9" icon="showtime.png" projectName="下属好声音" reward_baseBelly="75" projectInfo="还是熟悉的{vassal}，还是熟悉的味道！下属好声音，正宗好海贼！" openLv="40"/>
+</root>
