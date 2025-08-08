@@ -1,0 +1,6 @@
+# Ignore log files
+*.log
+*.err
+
+# Ignore large system files
+/pirate/programs/mysql/var/ibdata1

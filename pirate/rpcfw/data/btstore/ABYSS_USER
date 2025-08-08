@@ -1,1 +1,3 @@
-a:6:{s:16:"baseChallengeNum";i:5;s:11:"buyCostGold";i:100;s:15:"baseExerciseNum";i:0;s:15:"maxChallengeNum";i:10;s:13:"difficultyArr";a:3:{i:1;i:10000;i:2;i:10000;i:3;i:10000;}s:15:"cardCostGoldArr";a:4:{i:0;i:25;i:1;i:50;i:2;i:100;i:3;i:200;}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:77a1e9bdfb49ac312b62bb1142b7232aceb86a17ddd2f226afa26a4598fdd6a4
+size 244

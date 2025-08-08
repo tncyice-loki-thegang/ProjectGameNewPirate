@@ -1,1 +1,3 @@
-a:4:{i:1;a:6:{s:2:"id";i:1;s:3:"day";i:10;s:5:"price";i:400;s:8:"discount";i:350;s:3:"exp";i:40;s:5:"level";i:0;}i:2;a:6:{s:2:"id";i:2;s:3:"day";i:10;s:5:"price";i:100;s:8:"discount";i:88;s:3:"exp";i:10;s:5:"level";i:0;}i:3;a:6:{s:2:"id";i:3;s:3:"day";i:10;s:5:"price";i:100;s:8:"discount";i:50;s:3:"exp";i:10;s:5:"level";i:0;}i:4;a:6:{s:2:"id";i:4;s:3:"day";i:10;s:5:"price";i:50;s:8:"discount";i:10;s:3:"exp";i:10;s:5:"level";i:0;}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd4eb50e90708ccbea78ddd78854f23e04a229fb3c3e45c573fc596b8d7a6131
+size 434

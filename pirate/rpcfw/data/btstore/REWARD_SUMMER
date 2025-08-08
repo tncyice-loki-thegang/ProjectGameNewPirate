@@ -1,1 +1,3 @@
-a:2:{i:1;a:5:{s:5:"begin";i:1664035200;s:3:"end";i:4102376400;s:8:"weekdays";a:1:{i:0;i:5;}s:7:"allGold";a:5:{i:0;i:10000;i:1;i:8000;i:2;i:6000;i:3;i:4000;i:4;i:2000;}s:5:"prize";a:5:{i:0;i:816;i:1;i:817;i:2;i:818;i:3;i:819;i:4;i:820;}}i:2;a:5:{s:5:"begin";i:1664035200;s:3:"end";i:4102376400;s:8:"weekdays";a:2:{i:0;i:6;i:1;i:7;}s:7:"allGold";a:5:{i:0;i:10000;i:1;i:8000;i:2;i:6000;i:3;i:4000;i:4;i:2000;}s:5:"prize";a:5:{i:0;i:806;i:1;i:807;i:2;i:808;i:3;i:809;i:4;i:810;}}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:954cc53e18e9b08344b904604af0d85d3c36c5f13178be81693d1f651e5f78f0
+size 476

@@ -1,1 +1,3 @@
-a:14:{s:19:"excavate_start_time";s:6:"100000";s:17:"excavate_end_time";s:6:"220000";s:25:"excavate_output_mulitiply";i:5000;s:13:"excavate_time";i:600;s:23:"plunder_sub_occpuy_time";i:900;s:24:"plunder_output_mulitiply";i:1800;s:22:"plunder_protected_time";i:1620;s:22:"plunder_failed_cd_time";i:120;s:25:"plunder_time_reset_second";i:60;s:24:"max_plunder_time_per_day";i:10;s:31:"plunder_battle_basic_probablity";i:1000;s:22:"plunder_battle_modulus";i:50;s:26:"plunder_battle_modulus_max";i:2000;s:26:"plunder_battle_modulus_min";i:500;}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3e79fb54831c73f8990e28ed868c434c18ef9dde8ea918cb3699d1862333cc8
+size 538

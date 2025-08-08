@@ -1,1 +1,3 @@
-a:9:{s:2:"id";i:5;s:4:"name";i:0;s:6:"detail";i:0;s:6:"src_id";i:0;s:6:"ico_id";i:0;s:7:"init_lv";i:1;s:13:"lv_up_cost_id";i:5;s:18:"sail_belly_percent";i:50;s:18:"dish_belly_percent";i:50;}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca14d719e86d5457f31a1111dfcffbb696251b4e8599226b7057097730548d9
+size 190

@@ -1,1 +1,3 @@
-a:6:{i:1;a:6:{s:2:"id";i:1;s:4:"name";s:5:"刷新1";s:5:"model";i:0;s:7:"copy_id";i:1;s:4:"rp_x";i:2;s:4:"rp_y";i:5;}i:2;a:6:{s:2:"id";i:2;s:4:"name";s:5:"刷新2";s:5:"model";i:0;s:7:"copy_id";i:1;s:4:"rp_x";i:2;s:4:"rp_y";i:5;}i:3;a:6:{s:2:"id";i:3;s:4:"name";s:5:"刷新3";s:5:"model";i:0;s:7:"copy_id";i:1;s:4:"rp_x";i:2;s:4:"rp_y";i:5;}i:4;a:6:{s:2:"id";i:4;s:4:"name";s:5:"刷新4";s:5:"model";i:0;s:7:"copy_id";i:1;s:4:"rp_x";i:2;s:4:"rp_y";i:5;}i:5;a:6:{s:2:"id";i:5;s:4:"name";s:5:"刷新5";s:5:"model";i:0;s:7:"copy_id";i:1;s:4:"rp_x";i:2;s:4:"rp_y";i:5;}i:6;a:6:{s:2:"id";i:6;s:4:"name";s:5:"刷新6";s:5:"model";i:0;s:7:"copy_id";i:1;s:4:"rp_x";i:2;s:4:"rp_y";i:5;}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b619163ec747dc7efe2d3744a3fec8b52aef471418be17a5788bdc07853895
+size 666

@@ -1,1 +1,3 @@
-a:2:{i:1;a:5:{s:11:"festival_id";i:1;s:19:"festival_begin_date";i:20220925040000;s:17:"festival_end_date";i:20220925040000;s:17:"festival_override";i:15000;s:13:"festival_type";i:1;}i:2;a:5:{s:11:"festival_id";i:2;s:19:"festival_begin_date";i:20230928040000;s:17:"festival_end_date";i:20990925040000;s:17:"festival_override";i:15000;s:13:"festival_type";i:2;}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9271360e35f2dc5a79e4ca724f381e70e75412ecc3dd9eeabb9ac9de7354932
+size 360
